@@ -37,9 +37,13 @@
 
 De flesta av musklerna sitter fast i skelettt.
 
-## Rönt
+## Röntgen 
+
+## Skelettet behöver kalk
+
+Skelettets ben består 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODU5MzA0NiwtOTQzNDk2NzYsMTExOD
-QyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3NiwtMzM1MTE5OTYy
-LC02MTY2NzE2NTldfQ==
+eyJoaXN0b3J5IjpbLTk2NDQ2OTYsLTk0MzQ5Njc2LDExMTg0Mj
+Q0MDQsLTY5NDYyNzIzOSwtOTQzNDk2NzYsLTMzNTExOTk2Miwt
+NjE2NjcxNjU5XX0=
 -->
