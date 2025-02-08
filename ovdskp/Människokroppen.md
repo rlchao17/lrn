@@ -38,7 +38,7 @@
 De flesta av musklerna sitter fast i skelettt.
 
 ## Röntgen 
-Man kan ta bilder avskriviteter och olika organ i kroppen med en
+Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamela. Det här är en röntgenbild av en hand.
 
 ## Skelettet behöver kalk
 
@@ -46,7 +46,7 @@ Skelettets ben består mest av kalk. För att skelettet ska bli starkt måste vi
 Mjölk ost nötter apelsin broccoli 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyMTAzNzM5LDE3Mjk5MTIxOTksLTk0Mz
-Q5Njc2LDExMTg0MjQ0MDQsLTY5NDYyNzIzOSwtOTQzNDk2NzYs
-LTMzNTExOTk2MiwtNjE2NjcxNjU5XX0=
+eyJoaXN0b3J5IjpbMTA3MTk2NzUyOCwxNzI5OTEyMTk5LC05ND
+M0OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMzksLTk0MzQ5Njc2
+LC0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
 -->
