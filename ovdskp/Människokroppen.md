@@ -43,9 +43,10 @@ De flesta av musklerna sitter fast i skelettt.
 
 Skelettets ben består 
 
-#nt
+#ntmest av kalk. För att skelettet ska bli starkt måste vi äta mat med kalk i. Det finns mycket kalk i till exempel: 
+Mjölk ost nötter apelsin broccoli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTkxMjE5OSwtOTY0NDY5NiwtOTQzND
-k2NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3Niwt
-MzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
+eyJoaXN0b3J5IjpbNTU3NzQ3NjI4LDE3Mjk5MTIxOTksLTk0Mz
+Q5Njc2LDExMTg0MjQ0MDQsLTY5NDYyNzIzOSwtOTQzNDk2NzYs
+LTMzNTExOTk2MiwtNjE2NjcxNjU5XX0=
 -->
