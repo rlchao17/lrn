@@ -20,9 +20,12 @@
 
 # Skelettet
 
->
+> En vuxen människa har 206 ben inuti kroppen. All ben tillsammans kallas för ett skelett.
+> Skelettets längsta ben är lårbenet.
+
+> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMjg1MTY4LC0zMzUxMTk5NjIsLTYxNj
-Y3MTY1OV19
+eyJoaXN0b3J5IjpbLTIzMTE3ODM4MSwtMzM1MTE5OTYyLC02MT
+Y2NzE2NTldfQ==
 -->
