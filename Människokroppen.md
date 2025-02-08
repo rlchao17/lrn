@@ -7,17 +7,16 @@
 
 |Svenska|Modersmål  |
 |--|--|
-| ett skelett |  |
-| en muskel |  |
-| ett hjärta |  |
-| en lunga |  |
-|en   |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| ett skelett | 一副骨架 |
+| en muskel | 一块肌肉 |
+| ett hjärta | 一颗心脏 |
+| en lunga | 一个大脑 |
+|en lever  |  |
+| en magsäck |  |
+| en tarm |  |
+| en njure |  |
+|ett organ  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU3NDgzOTNdfQ==
+eyJoaXN0b3J5IjpbLTIxMzcxOTUwNl19
 -->
