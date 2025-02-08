@@ -27,9 +27,12 @@
 > Det är bara 3 millimeter.
 
 ## Varför har du ett skelett?
-> 
+> Skelettet och musklerna håller kroppen uppe.
+> Utan skelettet kan du inte stå upp.
+
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzgxNTMxMiwtMzM1MTE5OTYyLC02MT
+eyJoaXN0b3J5IjpbLTk1MTQyNDIwNSwtMzM1MTE5OTYyLC02MT
 Y2NzE2NTldfQ==
 -->
