@@ -45,8 +45,10 @@ Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamela. Det
 Skelettets ben består mest av kalk. För att skelettet ska bli starkt måste vi äta mat med kalk i. Det finns mycket kalk i till exempel: 
 Mjölk ost nötter apelsin broccoli 
 
+## Lederna 
+Skelettets ben möts i leder.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTk2NzUyOCwxNzI5OTEyMTk5LC05ND
-M0OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMzksLTk0MzQ5Njc2
-LC0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
+eyJoaXN0b3J5IjpbLTEwNzgyOTg0ODcsMTcyOTkxMjE5OSwtOT
+QzNDk2NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3
+NiwtMzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
 -->
