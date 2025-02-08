@@ -4,6 +4,7 @@
 
 # Inuti kroppen
 > Hjärtat, hjärnan, lungorna, levern, magsäcken, tarmarna och njurarna är organ i kroppen.
+> Alla organ i kroppen samarbetar f
 
 |Svenska|Modersmål  |
 |--|--|
@@ -18,5 +19,5 @@
 |ett organ  | 一个器官 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjY3MTY1OV19
+eyJoaXN0b3J5IjpbLTMwNDQ2MTg2NiwtNjE2NjcxNjU5XX0=
 -->
