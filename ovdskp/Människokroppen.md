@@ -42,8 +42,10 @@ De flesta av musklerna sitter fast i skelettt.
 ## Skelettet behöver kalk
 
 Skelettets ben består 
+
+#nt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDQ2OTYsLTk0MzQ5Njc2LDExMTg0Mj
-Q0MDQsLTY5NDYyNzIzOSwtOTQzNDk2NzYsLTMzNTExOTk2Miwt
-NjE2NjcxNjU5XX0=
+eyJoaXN0b3J5IjpbMTcyOTkxMjE5OSwtOTY0NDY5NiwtOTQzND
+k2NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3Niwt
+MzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
 -->
