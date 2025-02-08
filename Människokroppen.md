@@ -14,9 +14,9 @@
 |en lever  | 一个肝脏 |
 | en magsäck | 一个胃 |
 | en tarm | 一条肠 |
-| en njure | yi'ge'shen'z |
-|ett organ  |  |
+| en njure | 一个肾脏 |
+|ett organ  | 一个器官 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjY3MjI5NV19
+eyJoaXN0b3J5IjpbLTYxNjY3MTY1OV19
 -->
