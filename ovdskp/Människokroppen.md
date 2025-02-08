@@ -32,9 +32,13 @@
  > Några ben i skelettet skyddar kroppen.
  > 
 
- - List item
+ - Hjälmen skyddar skallen.
+ - Skallen skyddar hjärnan.
+
+De flesta av musklerna sitter fast i skelettt.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTAzMzg1MCwtMzM1MTE5OTYyLC02MT
-Y2NzE2NTldfQ==
+eyJoaXN0b3J5IjpbLTk0MzQ5Njc2LC0zMzUxMTk5NjIsLTYxNj
+Y3MTY1OV19
 -->
