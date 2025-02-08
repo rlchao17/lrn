@@ -7,10 +7,17 @@
 
 |Svenska|Modersmål  |
 |--|--|
+| ett skelett |  |
+| en muskel |  |
+| ett hjärta |  |
+| en lunga |  |
+|en   |  |
 |  |  |
-
-
-
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzQ4MjAxM119
+eyJoaXN0b3J5IjpbLTEyOTU3NDgzOTNdfQ==
 -->
