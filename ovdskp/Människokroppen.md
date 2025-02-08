@@ -23,9 +23,13 @@
 > En vuxen människa har 206 ben inuti kroppen. All ben tillsammans kallas för ett skelett.
 > Skelettets längsta ben är lårbenet.
 
+> Skelettets kortaste ben finns inuti örat.
+> Det är bara 3 millimeter.
+
+## Varför har du ett skelett?
 > 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTE3ODM4MSwtMzM1MTE5OTYyLC02MT
+eyJoaXN0b3J5IjpbLTU0NzgxNTMxMiwtMzM1MTE5OTYyLC02MT
 Y2NzE2NTldfQ==
 -->
