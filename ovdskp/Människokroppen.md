@@ -36,9 +36,16 @@
  - Skallen skyddar hjärnan.
 
 De flesta av musklerna sitter fast i skelettt.
+hhhHHHHHHhhhhh
 
+```c
+#include <stdio.h> 
+```
+xxxxxxx:`code`
+
+    code
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzQ5Njc2LC0zMzUxMTk5NjIsLTYxNj
-Y3MTY1OV19
+eyJoaXN0b3J5IjpbLTY5NDYyNzIzOSwtOTQzNDk2NzYsLTMzNT
+ExOTk2MiwtNjE2NjcxNjU5XX0=
 -->
