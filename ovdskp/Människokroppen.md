@@ -50,10 +50,10 @@ Skelettets ben möts i leder.
 
 ## varför har du leder? 
 Lederna gör så att du kan böja olika delar i kroppen. När du går böjer du benen, och när du håller i en penna böjer du fingrarna. 
-
-
+## Olika leder
+Några leder kan du bara röra lite, till exempel armbogsleden
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA5OTI4MzksMTcyOTkxMjE5OSwtOT
-QzNDk2NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3
-NiwtMzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
+eyJoaXN0b3J5IjpbMTA5MTE3NjQyOCwxNzI5OTEyMTk5LC05ND
+M0OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMzksLTk0MzQ5Njc2
+LC0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
 -->
