@@ -19,7 +19,6 @@
 |ett organ  | 一个器官 |
 
 # Skelettet
-
 > En vuxen människa har 206 ben inuti kroppen. All ben tillsammans kallas för ett skelett.
 > Skelettets längsta ben är lårbenet.
 
@@ -30,9 +29,12 @@
 > Skelettet och musklerna håller kroppen uppe.
 > Utan skelettet kan du inte stå upp.
 
- 
+ > Några ben i skelettet skyddar kroppen.
+ > 
+
+ - List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTQyNDIwNSwtMzM1MTE5OTYyLC02MT
+eyJoaXN0b3J5IjpbMTI2NTAzMzg1MCwtMzM1MTE5OTYyLC02MT
 Y2NzE2NTldfQ==
 -->
