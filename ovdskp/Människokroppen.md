@@ -35,7 +35,7 @@
  - Hjälmen skyddar skallen.
  - Skallen skyddar hjärnan.
 
-De flesta av musklerna sitter fast i skelettt.
+De flesta av musklerna sitter fast i skelettt.  y
 hhhHHHHHHhhhhh
 
 ```c
@@ -48,9 +48,9 @@ xxxxxxx:`code`
    
     iiiiii
 
-sdhlkagklsgjalsdhlladhgasdkghsldgdsl
+sdhlkagklsgjalsdhlladhgasdkghsldgdsl  
 sdgjhsdkghlsadsajkhjkglshkja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMjgwMjEyLC02OTQ2MjcyMzksLTk0Mz
-Q5Njc2LC0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
+eyJoaXN0b3J5IjpbMjA4NTUxMzEyOSwtNjk0NjI3MjM5LC05ND
+M0OTY3NiwtMzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
 -->
