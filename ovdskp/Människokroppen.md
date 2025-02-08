@@ -51,9 +51,9 @@ Skelettets ben möts i leder.
 ## varför har du leder? 
 Lederna gör så att du kan böja olika delar i kroppen. När du går böjer du benen, och när du håller i en penna böjer du fingrarna. 
 ## Olika leder
-Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du röra uppåt och nedåt. Andra leder kan du röra mycket, till exempel aktieleden
+Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du röra uppåt och nedåt. Andra leder kan du röra mycket, till exempel axelleden. Du kan röra armen framåt, bakåt, utåt, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTUzMDExMSwxNzI5OTEyMTk5LC05ND
+eyJoaXN0b3J5IjpbMTk0Nzg3MTAyNCwxNzI5OTEyMTk5LC05ND
 M0OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMzksLTk0MzQ5Njc2
 LC0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
 -->
