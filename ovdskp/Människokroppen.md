@@ -62,12 +62,15 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 | rinner | 流动 |
 | farlig | 危险的 |
 | ett ämne | 一种物质 |
-| ett gift |  |
-| giftig |  |
+| ett gift | 一种毒素 |
+| giftig | 有毒的 |
+
+
+# Njurarna
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjMzOTQwMjIsMzU0MDQ0ODA2LDIxMT
-g3MDk3NTAsLTIwMjEwOTUzNzgsMTcyOTkxMjE5OSwtOTQzNDk2
-NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3NiwtMz
-M1MTE5OTYyLC02MTY2NzE2NTldfQ==
+eyJoaXN0b3J5IjpbLTQ0MzYzNDYwMCwtMTg2MzM5NDAyMiwzNT
+QwNDQ4MDYsMjExODcwOTc1MCwtMjAyMTA5NTM3OCwxNzI5OTEy
+MTk5LC05NDM0OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMzksLT
+k0MzQ5Njc2LC0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
 -->
