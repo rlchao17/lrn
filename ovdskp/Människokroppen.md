@@ -72,11 +72,18 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 |--|--|
 | urin | 尿液 |
 | en sjukdom | 一种疾病 |
-| diabetes |  |
-| gravid |  |
+| diabetes | 糖尿病 |
+| gravid | 怀孕的 |
+
+# Hjärnan och nerverna
+
+|Sven  |  |
+|--|--|
+|  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjQ2MTQyNCwtMTg2MzM5NDAyMiwzNT
-QwNDQ4MDYsMjExODcwOTc1MCwtMjAyMTA5NTM3OCwxNzI5OTEy
-MTk5LC05NDM0OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMzksLT
-k0MzQ5Njc2LC0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
+eyJoaXN0b3J5IjpbLTEzNDQ5MTExOTIsLTE4NjMzOTQwMjIsMz
+U0MDQ0ODA2LDIxMTg3MDk3NTAsLTIwMjEwOTUzNzgsMTcyOTkx
+MjE5OSwtOTQzNDk2NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC
+05NDM0OTY3NiwtMzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
 -->
