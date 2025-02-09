@@ -60,13 +60,14 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 | en lever | 一个肝脏 |
 | renar | 净化 |
 | rinner | 流动 |
-| farlig |  |
+| farlig | 危险的 |
 | ett ämne |  |
 | ett gift |  |
 | giftig |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODcwOTc1MCwtMjAyMTA5NTM3OCwxNz
-I5OTEyMTk5LC05NDM0OTY3NiwxMTE4NDI0NDA0LC02OTQ2Mjcy
-MzksLTk0MzQ5Njc2LC0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
+eyJoaXN0b3J5IjpbMzU0MDQ0ODA2LDIxMTg3MDk3NTAsLTIwMj
+EwOTUzNzgsMTcyOTkxMjE5OSwtOTQzNDk2NzYsMTExODQyNDQw
+NCwtNjk0NjI3MjM5LC05NDM0OTY3NiwtMzM1MTE5OTYyLC02MT
+Y2NzE2NTldfQ==
 -->
