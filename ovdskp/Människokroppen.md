@@ -80,13 +80,14 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 |Svenska  | Kinesiska |
 |--|--|
 | en nerv | 神经 |
-| minnas |  |
-| skickar |  |
-| ett meddelande |  |
+| minnas | 记得 |
+| skickar | 发送 |
+| ett meddelande | 信息 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA4Nzk1MjQsLTE4NjMzOTQwMjIsMz
-U0MDQ0ODA2LDIxMTg3MDk3NTAsLTIwMjEwOTUzNzgsMTcyOTkx
-MjE5OSwtOTQzNDk2NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC
-05NDM0OTY3NiwtMzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
+eyJoaXN0b3J5IjpbLTExOTc2NjIyOTksLTE2MTA4Nzk1MjQsLT
+E4NjMzOTQwMjIsMzU0MDQ0ODA2LDIxMTg3MDk3NTAsLTIwMjEw
+OTUzNzgsMTcyOTkxMjE5OSwtOTQzNDk2NzYsMTExODQyNDQwNC
+wtNjk0NjI3MjM5LC05NDM0OTY3NiwtMzM1MTE5OTYyLC02MTY2
+NzE2NTldfQ==
 -->
