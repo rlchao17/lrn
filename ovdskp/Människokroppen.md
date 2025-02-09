@@ -77,12 +77,15 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 
 # Hjärnan och nerverna
 
-|Sven  |  |
+|Svenska  | Kinesiska |
 |--|--|
-|  |  |
+| en nerv | 神经 |
+| minnas |  |
+| skickar |  |
+| ett meddelande |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ5MTExOTIsLTE4NjMzOTQwMjIsMz
+eyJoaXN0b3J5IjpbLTE2MTA4Nzk1MjQsLTE4NjMzOTQwMjIsMz
 U0MDQ0ODA2LDIxMTg3MDk3NTAsLTIwMjEwOTUzNzgsMTcyOTkx
 MjE5OSwtOTQzNDk2NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC
 05NDM0OTY3NiwtMzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
