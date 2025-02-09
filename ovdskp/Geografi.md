@@ -4,10 +4,12 @@
 
 |Svenska|Kinesiska  |
 |--|--|
-|världen  |  |
-||  |
+|världen  | 世界 |
+| jorden | 地球 |
+|en karta  | 地图 |
+| land | 国家 |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjc1NTMxMCwtMTQwNzU5MDY2NF19
+eyJoaXN0b3J5IjpbLTI1NDkyOTk3NywtMTQwNzU5MDY2NF19
 -->
