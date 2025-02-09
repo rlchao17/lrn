@@ -68,9 +68,13 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 
 # Njurarna
 
+| Svenska | Modersm |
+|--|--|
+|  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MzYzNDYwMCwtMTg2MzM5NDAyMiwzNT
-QwNDQ4MDYsMjExODcwOTc1MCwtMjAyMTA5NTM3OCwxNzI5OTEy
-MTk5LC05NDM0OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMzksLT
-k0MzQ5Njc2LC0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
+eyJoaXN0b3J5IjpbNjE4OTE5MjM0LC0xODYzMzk0MDIyLDM1ND
+A0NDgwNiwyMTE4NzA5NzUwLC0yMDIxMDk1Mzc4LDE3Mjk5MTIx
+OTksLTk0MzQ5Njc2LDExMTg0MjQ0MDQsLTY5NDYyNzIzOSwtOT
+QzNDk2NzYsLTMzNTExOTk2MiwtNjE2NjcxNjU5XX0=
 -->
