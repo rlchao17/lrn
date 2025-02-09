@@ -57,7 +57,7 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 
 | Svenska | Modersål |
 |--|--|
-| en lever |  |
+| en lever | 一个肝脏 |
 | renar |  |
 | rinner |  |
 | farlig |  |
@@ -66,8 +66,7 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 | giftig |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDEwNzI3NTcsLTIwMjEwOTUzNzgsMT
-cyOTkxMjE5OSwtOTQzNDk2NzYsMTExODQyNDQwNCwtNjk0NjI3
-MjM5LC05NDM0OTY3NiwtMzM1MTE5OTYyLC02MTY2NzE2NTldfQ
-==
+eyJoaXN0b3J5IjpbLTI4NTkzNzg0OSwtMjAyMTA5NTM3OCwxNz
+I5OTEyMTk5LC05NDM0OTY3NiwxMTE4NDI0NDA0LC02OTQ2Mjcy
+MzksLTk0MzQ5Njc2LC0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
 -->
