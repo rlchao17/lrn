@@ -9,7 +9,19 @@
 |en karta  | 地图 |
 | land | 国家 |
 
+# På kartan
+
+| Svenska | Kinesiska |
+|--|--|
+| en världsdel |  |
+| ett land |  |
+| ett hav |  |
+|e  |  |
+|  |  |
+|  |  |
+|  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDkyOTk3NywtMTQwNzU5MDY2NF19
+eyJoaXN0b3J5IjpbLTIxMTM4OTY5ODksLTI1NDkyOTk3NywtMT
+QwNzU5MDY2NF19
 -->
