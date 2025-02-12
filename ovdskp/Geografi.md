@@ -16,12 +16,12 @@
 | en världsdel |  |
 | ett land |  |
 | ett hav |  |
-|e  |  |
-|  |  |
-|  |  |
-|  |  |
+|en kust  |  |
+|en ö  |  |
+| en sjö |  |
+| en flod |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM4OTY5ODksLTI1NDkyOTk3NywtMT
+eyJoaXN0b3J5IjpbLTEwMzE3OTM0NjMsLTI1NDkyOTk3NywtMT
 QwNzU5MDY2NF19
 -->
