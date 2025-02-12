@@ -13,7 +13,7 @@
 
 | Svenska | Kinesiska |
 |--|--|
-| en världsdel |  |
+| en världsdel | **大洲** |
 | ett land |  |
 | ett hav |  |
 |en kust  |  |
@@ -22,6 +22,6 @@
 | en flod |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE3OTM0NjMsLTI1NDkyOTk3NywtMT
+eyJoaXN0b3J5IjpbLTIwMDI0MzU2NjAsLTI1NDkyOTk3NywtMT
 QwNzU5MDY2NF19
 -->
