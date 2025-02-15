@@ -25,14 +25,14 @@
 
 |Svenska  |Kinesiska  |
 |--|--|
-|norr  |  |
-|söder  |  |
-|öster  |  |
-|väster  |  |
+|norr  |北  |
+|söder  |南  |
+|öster  |东  |
+|väster  |西  |
 |gränsar till  |  |
 |en gräns  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA0NTQ1NDIsMzg1NjExMTExLC03Nj
-U5NTk4MTUsLTEwMzE3OTM0NjMsLTI1NDkyOTk3NywtMTQwNzU5
-MDY2NF19
+eyJoaXN0b3J5IjpbNDI4MTQ1NzI5LC0yMDAwNDU0NTQyLDM4NT
+YxMTExMSwtNzY1OTU5ODE1LC0xMDMxNzkzNDYzLC0yNTQ5Mjk5
+NzcsLTE0MDc1OTA2NjRdfQ==
 -->
