@@ -35,10 +35,12 @@
 Skriv på rätt plats.
 + Sveriges huvudstad: *Stockholm*
 + Två stora städer: *Göteborg, Malmö*
-+ Två stora öar: *Öland, Go*
++ Två stora öar: *Öland, Gotland*
++ Två stora sjöar: *Vänern, Vättern*
++ Sveriges största älv: *G*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTEzNzA2NywtMjAwMDQ1NDU0MiwzOD
+eyJoaXN0b3J5IjpbMTY0OTY4NTE0MCwtMjAwMDQ1NDU0MiwzOD
 U2MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5
 OTc3LC0xNDA3NTkwNjY0XX0=
 -->
