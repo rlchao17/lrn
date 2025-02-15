@@ -35,10 +35,10 @@
 Skriv på rätt plats.
 + Sveriges huvudstad: *Stockholm*
 + Två stora städer: *Göteborg, Malmö*
-+ Två stora
++ Två stora öar: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxNTA0NTksLTIwMDA0NTQ1NDIsMzg1Nj
-ExMTExLC03NjU5NTk4MTUsLTEwMzE3OTM0NjMsLTI1NDkyOTk3
-NywtMTQwNzU5MDY2NF19
+eyJoaXN0b3J5IjpbMzM2MjUzNDIyLC0yMDAwNDU0NTQyLDM4NT
+YxMTExMSwtNzY1OTU5ODE1LC0xMDMxNzkzNDYzLC0yNTQ5Mjk5
+NzcsLTE0MDc1OTA2NjRdfQ==
 -->
