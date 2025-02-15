@@ -37,10 +37,11 @@ Skriv på rätt plats.
 + Två stora städer: *Göteborg, Malmö*
 + Två stora öar: *Öland, Gotland*
 + Två stora sjöar: *Vänern, Vättern*
-+ Sveriges största älv: *G*
++ Sveriges största älv: *Göta älv*
++ Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTY4NTE0MCwtMjAwMDQ1NDU0MiwzOD
-U2MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5
-OTc3LC0xNDA3NTkwNjY0XX0=
+eyJoaXN0b3J5IjpbNjI5NTEzODc1LC0yMDAwNDU0NTQyLDM4NT
+YxMTExMSwtNzY1OTU5ODE1LC0xMDMxNzkzNDYzLC0yNTQ5Mjk5
+NzcsLTE0MDc1OTA2NjRdfQ==
 -->
