@@ -33,10 +33,12 @@
 |en gräns  |边界  |
 
 Skriv på rätt plats.
-+ Sveriges huvudstad
++ Sveriges huvudstad: *Stockholm*
++ Två stora städer: *Göteborg, Malmö*
++ Två stora
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDQ2MzE0MiwtMjAwMDQ1NDU0MiwzOD
-U2MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5
-OTc3LC0xNDA3NTkwNjY0XX0=
+eyJoaXN0b3J5IjpbODAxNTA0NTksLTIwMDA0NTQ1NDIsMzg1Nj
+ExMTExLC03NjU5NTk4MTUsLTEwMzE3OTM0NjMsLTI1NDkyOTk3
+NywtMTQwNzU5MDY2NF19
 -->
