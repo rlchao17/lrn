@@ -32,14 +32,11 @@
 |gränsar till  |接壤  |
 |en gräns  |边界  |
 
-Heading
-
-|  |  |
-|--|--|
-|  |  |
+Skriv på rätt plats.
++ Sveriges huvudstad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDEzMDAzNDMsLTIwMDA0NTQ1NDIsMz
-g1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3OTM0NjMsLTI1NDky
-OTk3NywtMTQwNzU5MDY2NF19
+eyJoaXN0b3J5IjpbLTI1MDQ2MzE0MiwtMjAwMDQ1NDU0MiwzOD
+U2MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5
+OTc3LC0xNDA3NTkwNjY0XX0=
 -->
