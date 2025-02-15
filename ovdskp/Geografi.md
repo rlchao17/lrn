@@ -29,10 +29,12 @@
 |söder  |南  |
 |öster  |东  |
 |väster  |西  |
-|gränsar till  |  |
-|en gräns  |  |
+|gränsar till  |接壤  |
+|en gräns  |边界  |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MTQ1NzI5LC0yMDAwNDU0NTQyLDM4NT
-YxMTExMSwtNzY1OTU5ODE1LC0xMDMxNzkzNDYzLC0yNTQ5Mjk5
-NzcsLTE0MDc1OTA2NjRdfQ==
+eyJoaXN0b3J5IjpbLTQ5MzA4NTg3MSwtMjAwMDQ1NDU0MiwzOD
+U2MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5
+OTc3LC0xNDA3NTkwNjY0XX0=
 -->
