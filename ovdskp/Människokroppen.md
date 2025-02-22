@@ -44,11 +44,12 @@
 
 ## Röntgen 
  - Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamera. Det här är en röntgenbild av en hand.
+ - Hur många ben ser du i handen?
 
 ## Skelettet behöver kalk
 
 Skelettets ben består mest av kalk. För att skelettet ska bli starkt måste vi äta mat med kalk i. Det finns mycket kalk i till exempel: 
-Mjölk ost nötter apelsin broccoli 
+ + Mjölk ost nötter apelsin broccoli 
 
 # Lederna 
 Skelettets ben möts i leder.
@@ -94,10 +95,10 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUxMzQwMDgsLTE1NDkzMDUsLTEzOT
-YzNDM3NTAsLTU4NzI5OTExNSwxMjg3OTA0NDg3LC0xMTk3NjYy
-Mjk5LC0xNjEwODc5NTI0LC0xODYzMzk0MDIyLDM1NDA0NDgwNi
-wyMTE4NzA5NzUwLC0yMDIxMDk1Mzc4LDE3Mjk5MTIxOTksLTk0
-MzQ5Njc2LDExMTg0MjQ0MDQsLTY5NDYyNzIzOSwtOTQzNDk2Nz
-YsLTMzNTExOTk2MiwtNjE2NjcxNjU5XX0=
+eyJoaXN0b3J5IjpbLTM5NDkxNzUxLC0xNTQ5MzA1LC0xMzk2Mz
+QzNzUwLC01ODcyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5
+OSwtMTYxMDg3OTUyNCwtMTg2MzM5NDAyMiwzNTQwNDQ4MDYsMj
+ExODcwOTc1MCwtMjAyMTA5NTM3OCwxNzI5OTEyMTk5LC05NDM0
+OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMzksLTk0MzQ5Njc2LC
+0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
 -->
