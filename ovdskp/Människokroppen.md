@@ -3,6 +3,7 @@
 > Utanpå ser vi människor olika ut, men inuti kroppen är vi lika.
 
 # Inuti kroppen
+
 > Hjärtat, hjärnan, lungorna, levern, magsäcken, tarmarna och njurarna är organ i kroppen.
 > Alla organ i kroppen samarbetar för att din kropp ska fungera bra.
 
@@ -89,9 +90,9 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzkwNDQ4NywtMTE5NzY2MjI5OSwtMT
-YxMDg3OTUyNCwtMTg2MzM5NDAyMiwzNTQwNDQ4MDYsMjExODcw
-OTc1MCwtMjAyMTA5NTM3OCwxNzI5OTEyMTk5LC05NDM0OTY3Ni
-wxMTE4NDI0NDA0LC02OTQ2MjcyMzksLTk0MzQ5Njc2LC0zMzUx
-MTk5NjIsLTYxNjY3MTY1OV19
+eyJoaXN0b3J5IjpbMjAzMzIyNzcwNSwxMjg3OTA0NDg3LC0xMT
+k3NjYyMjk5LC0xNjEwODc5NTI0LC0xODYzMzk0MDIyLDM1NDA0
+NDgwNiwyMTE4NzA5NzUwLC0yMDIxMDk1Mzc4LDE3Mjk5MTIxOT
+ksLTk0MzQ5Njc2LDExMTg0MjQ0MDQsLTY5NDYyNzIzOSwtOTQz
+NDk2NzYsLTMzNTExOTk2MiwtNjE2NjcxNjU5XX0=
 -->
