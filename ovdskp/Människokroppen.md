@@ -43,7 +43,7 @@
  - Här sitter muskeln fast i skelettet.
 
 ## Röntgen 
-Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamela. Det här är en röntgenbild av en hand.
+ - Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamera. Det här är en röntgenbild av en hand.
 
 ## Skelettet behöver kalk
 
@@ -94,10 +94,10 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjQ2MjUzNSwtMTU0OTMwNSwtMTM5Nj
-M0Mzc1MCwtNTg3Mjk5MTE1LDEyODc5MDQ0ODcsLTExOTc2NjIy
-OTksLTE2MTA4Nzk1MjQsLTE4NjMzOTQwMjIsMzU0MDQ0ODA2LD
-IxMTg3MDk3NTAsLTIwMjEwOTUzNzgsMTcyOTkxMjE5OSwtOTQz
-NDk2NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3Ni
-wtMzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
+eyJoaXN0b3J5IjpbLTE5MjUxMzQwMDgsLTE1NDkzMDUsLTEzOT
+YzNDM3NTAsLTU4NzI5OTExNSwxMjg3OTA0NDg3LC0xMTk3NjYy
+Mjk5LC0xNjEwODc5NTI0LC0xODYzMzk0MDIyLDM1NDA0NDgwNi
+wyMTE4NzA5NzUwLC0yMDIxMDk1Mzc4LDE3Mjk5MTIxOTksLTk0
+MzQ5Njc2LDExMTg0MjQ0MDQsLTY5NDYyNzIzOSwtOTQzNDk2Nz
+YsLTMzNTExOTk2MiwtNjE2NjcxNjU5XX0=
 -->
