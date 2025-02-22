@@ -3,7 +3,7 @@
 > Utanpå ser vi människor olika ut, men inuti kroppen är vi lika.
 
 # Inuti kroppen
-### skelettet
+####### skelettet
 ### musklerna
 ### lungorna, levern, hjärtat, magsäcken, tjocktarmen, tunntarmen, ändtarmen
 ### njurarna
@@ -26,9 +26,7 @@
 > En vuxen människa har 206 ben inuti kroppen. Alla ben tillsammans kallas för ett skelett.
 
 > Skelettets längsta ben är lårbenet.
-
-> Skelettets kortaste ben finns inuti örat.
-> Det är bara 3 millimeter.
+> Skelettets kortaste ben finns inuti örat. Det är bara 3 millimeter.
 
 ## Varför har du ett skelett?
 > Skelettet och musklerna håller kroppen uppe.
@@ -94,7 +92,7 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTQ4OTA0OSwtMTU0OTMwNSwtMTM5Nj
+eyJoaXN0b3J5IjpbLTI0NzY3NTE5MSwtMTU0OTMwNSwtMTM5Nj
 M0Mzc1MCwtNTg3Mjk5MTE1LDEyODc5MDQ0ODcsLTExOTc2NjIy
 OTksLTE2MTA4Nzk1MjQsLTE4NjMzOTQwMjIsMzU0MDQ0ODA2LD
 IxMTg3MDk3NTAsLTIwMjEwOTUzNzgsMTcyOTkxMjE5OSwtOTQz
