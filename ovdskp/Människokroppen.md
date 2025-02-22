@@ -3,10 +3,10 @@
 > Utanpå ser vi människor olika ut, men inuti kroppen är vi lika.
 
 # Inuti kroppen
-####### skelettet
-### musklerna
-### lungorna, levern, hjärtat, magsäcken, tjocktarmen, tunntarmen, ändtarmen
-### njurarna
+#### skelettet
+#### musklerna
+#### lungorna, levern, hjärtat, magsäcken, tjocktarmen, tunntarmen, ändtarmen
+#### njurarna
 > Hjärtat, hjärnan, lungorna, levern, magsäcken, tarmarna och njurarna är organ i kroppen.
 > Alla organ i kroppen samarbetar för att din kropp ska fungera bra.
 
@@ -29,11 +29,10 @@
 > Skelettets kortaste ben finns inuti örat. Det är bara 3 millimeter.
 
 ## Varför har du ett skelett?
-> Skelettet och musklerna håller kroppen uppe.
-> Utan skelettet kan du inte stå upp.
+> Skelettet och musklerna håller kroppen uppe. Utan skelettet kan du inte stå upp.
 
  > Några ben i skelettet skyddar kroppen.
- > 
+ #### sk
 
  - Hjälmen skyddar skallen.
  - Skallen skyddar hjärnan.
@@ -92,10 +91,10 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzY3NTE5MSwtMTU0OTMwNSwtMTM5Nj
-M0Mzc1MCwtNTg3Mjk5MTE1LDEyODc5MDQ0ODcsLTExOTc2NjIy
-OTksLTE2MTA4Nzk1MjQsLTE4NjMzOTQwMjIsMzU0MDQ0ODA2LD
-IxMTg3MDk3NTAsLTIwMjEwOTUzNzgsMTcyOTkxMjE5OSwtOTQz
-NDk2NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3Ni
-wtMzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
+eyJoaXN0b3J5IjpbNTkxNDY3NywtMTU0OTMwNSwtMTM5NjM0Mz
+c1MCwtNTg3Mjk5MTE1LDEyODc5MDQ0ODcsLTExOTc2NjIyOTks
+LTE2MTA4Nzk1MjQsLTE4NjMzOTQwMjIsMzU0MDQ0ODA2LDIxMT
+g3MDk3NTAsLTIwMjEwOTUzNzgsMTcyOTkxMjE5OSwtOTQzNDk2
+NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3NiwtMz
+M1MTE5OTYyLC02MTY2NzE2NTldfQ==
 -->
