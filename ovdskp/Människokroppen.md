@@ -23,7 +23,7 @@
 |ett organ  | 一个器官 |
 
 # Skelettet
-> En vuxen människa har 206 ben inuti kroppen. All ben tillsammans kallas för ett skelett.
+> En vuxen människa har 206 ben inuti kroppen. Alla ben tillsammans kallas för ett skelett.
 > Skelettets längsta ben är lårbenet.
 
 > Skelettets kortaste ben finns inuti örat.
@@ -93,10 +93,10 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTYzNDM3NTAsLTU4NzI5OTExNSwxMj
-g3OTA0NDg3LC0xMTk3NjYyMjk5LC0xNjEwODc5NTI0LC0xODYz
-Mzk0MDIyLDM1NDA0NDgwNiwyMTE4NzA5NzUwLC0yMDIxMDk1Mz
-c4LDE3Mjk5MTIxOTksLTk0MzQ5Njc2LDExMTg0MjQ0MDQsLTY5
-NDYyNzIzOSwtOTQzNDk2NzYsLTMzNTExOTk2MiwtNjE2NjcxNj
-U5XX0=
+eyJoaXN0b3J5IjpbLTE1NDkzMDUsLTEzOTYzNDM3NTAsLTU4Nz
+I5OTExNSwxMjg3OTA0NDg3LC0xMTk3NjYyMjk5LC0xNjEwODc5
+NTI0LC0xODYzMzk0MDIyLDM1NDA0NDgwNiwyMTE4NzA5NzUwLC
+0yMDIxMDk1Mzc4LDE3Mjk5MTIxOTksLTk0MzQ5Njc2LDExMTg0
+MjQ0MDQsLTY5NDYyNzIzOSwtOTQzNDk2NzYsLTMzNTExOTk2Mi
+wtNjE2NjcxNjU5XX0=
 -->
