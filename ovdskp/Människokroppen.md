@@ -40,6 +40,7 @@
  - Titta på skelettbilden. Peka på benen som skyddar lungorna och hjärtat.
 
 > De flesta av musklerna sitter fast i skelettt.
+ - Här sitter muskeln fast i skelettet.
 
 ## Röntgen 
 Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamela. Det här är en röntgenbild av en hand.
@@ -93,10 +94,10 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMjE0NzQsLTE1NDkzMDUsLTEzOTYzND
-M3NTAsLTU4NzI5OTExNSwxMjg3OTA0NDg3LC0xMTk3NjYyMjk5
-LC0xNjEwODc5NTI0LC0xODYzMzk0MDIyLDM1NDA0NDgwNiwyMT
-E4NzA5NzUwLC0yMDIxMDk1Mzc4LDE3Mjk5MTIxOTksLTk0MzQ5
-Njc2LDExMTg0MjQ0MDQsLTY5NDYyNzIzOSwtOTQzNDk2NzYsLT
-MzNTExOTk2MiwtNjE2NjcxNjU5XX0=
+eyJoaXN0b3J5IjpbMTU1NjQ2MjUzNSwtMTU0OTMwNSwtMTM5Nj
+M0Mzc1MCwtNTg3Mjk5MTE1LDEyODc5MDQ0ODcsLTExOTc2NjIy
+OTksLTE2MTA4Nzk1MjQsLTE4NjMzOTQwMjIsMzU0MDQ0ODA2LD
+IxMTg3MDk3NTAsLTIwMjEwOTUzNzgsMTcyOTkxMjE5OSwtOTQz
+NDk2NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3Ni
+wtMzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
 -->
