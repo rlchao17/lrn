@@ -37,7 +37,7 @@
 
  - Hjälmen skyddar skallen.
  - Skallen skyddar hjärnan.
-
+ - Titta på skelettbilden. Peka på benen som skyddar lungorna och hjärtat.
 
 > De flesta av musklerna sitter fast i skelettt.
 
@@ -93,10 +93,10 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3MDI1NDU4LC0xNTQ5MzA1LC0xMzk2Mz
-QzNzUwLC01ODcyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5
-OSwtMTYxMDg3OTUyNCwtMTg2MzM5NDAyMiwzNTQwNDQ4MDYsMj
-ExODcwOTc1MCwtMjAyMTA5NTM3OCwxNzI5OTEyMTk5LC05NDM0
-OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMzksLTk0MzQ5Njc2LC
-0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
+eyJoaXN0b3J5IjpbODAyMjE0NzQsLTE1NDkzMDUsLTEzOTYzND
+M3NTAsLTU4NzI5OTExNSwxMjg3OTA0NDg3LC0xMTk3NjYyMjk5
+LC0xNjEwODc5NTI0LC0xODYzMzk0MDIyLDM1NDA0NDgwNiwyMT
+E4NzA5NzUwLC0yMDIxMDk1Mzc4LDE3Mjk5MTIxOTksLTk0MzQ5
+Njc2LDExMTg0MjQ0MDQsLTY5NDYyNzIzOSwtOTQzNDk2NzYsLT
+MzNTExOTk2MiwtNjE2NjcxNjU5XX0=
 -->
