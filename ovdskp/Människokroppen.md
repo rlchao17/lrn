@@ -49,10 +49,11 @@
 ## Skelettet behöver kalk
 
 Skelettets ben består mest av kalk. För att skelettet ska bli starkt måste vi äta mat med kalk i. Det finns mycket kalk i till exempel: 
- + Mjölk ost nötter apelsin broccoli 
+ + Mjölk, ost, nötter, apelsin och broccoli 
 
 # Lederna 
 Skelettets ben möts i leder.
+ - Peka på lederna på skelettbilden.
 
 ## varför har du leder? 
 Lederna gör så att du kan böja olika delar i kroppen. När du går böjer du benen, och när du håller i en penna böjer du fingrarna. 
@@ -95,10 +96,10 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDkxNzUxLC0xNTQ5MzA1LC0xMzk2Mz
-QzNzUwLC01ODcyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5
-OSwtMTYxMDg3OTUyNCwtMTg2MzM5NDAyMiwzNTQwNDQ4MDYsMj
-ExODcwOTc1MCwtMjAyMTA5NTM3OCwxNzI5OTEyMTk5LC05NDM0
-OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMzksLTk0MzQ5Njc2LC
-0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
+eyJoaXN0b3J5IjpbMTAxMDA5NDA0NiwtMTU0OTMwNSwtMTM5Nj
+M0Mzc1MCwtNTg3Mjk5MTE1LDEyODc5MDQ0ODcsLTExOTc2NjIy
+OTksLTE2MTA4Nzk1MjQsLTE4NjMzOTQwMjIsMzU0MDQ0ODA2LD
+IxMTg3MDk3NTAsLTIwMjEwOTUzNzgsMTcyOTkxMjE5OSwtOTQz
+NDk2NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3Ni
+wtMzM1MTE5OTYyLC02MTY2NzE2NTldfQ==
 -->
