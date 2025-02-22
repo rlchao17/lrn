@@ -32,12 +32,14 @@
 > Skelettet och musklerna håller kroppen uppe. Utan skelettet kan du inte stå upp.
 
  > Några ben i skelettet skyddar kroppen.
- #### sk
+ #### skallen
+ #### hjärnan
 
  - Hjälmen skyddar skallen.
  - Skallen skyddar hjärnan.
 
-De flesta av musklerna sitter fast i skelettt.
+
+> De flesta av musklerna sitter fast i skelettt.
 
 ## Röntgen 
 Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamela. Det här är en röntgenbild av en hand.
@@ -91,10 +93,10 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNDY3NywtMTU0OTMwNSwtMTM5NjM0Mz
-c1MCwtNTg3Mjk5MTE1LDEyODc5MDQ0ODcsLTExOTc2NjIyOTks
-LTE2MTA4Nzk1MjQsLTE4NjMzOTQwMjIsMzU0MDQ0ODA2LDIxMT
-g3MDk3NTAsLTIwMjEwOTUzNzgsMTcyOTkxMjE5OSwtOTQzNDk2
-NzYsMTExODQyNDQwNCwtNjk0NjI3MjM5LC05NDM0OTY3NiwtMz
-M1MTE5OTYyLC02MTY2NzE2NTldfQ==
+eyJoaXN0b3J5IjpbNDk3MDI1NDU4LC0xNTQ5MzA1LC0xMzk2Mz
+QzNzUwLC01ODcyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5
+OSwtMTYxMDg3OTUyNCwtMTg2MzM5NDAyMiwzNTQwNDQ4MDYsMj
+ExODcwOTc1MCwtMjAyMTA5NTM3OCwxNzI5OTEyMTk5LC05NDM0
+OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMzksLTk0MzQ5Njc2LC
+0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
 -->
