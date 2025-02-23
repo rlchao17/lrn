@@ -107,7 +107,10 @@ Känn på siden av din hals. Känner du att det pulserar?
 
 Det är din puls. Det är dit blod som *pumpas* runt i kroppen.
 
-Så här 
+**Så här många gånger pumpar hjärtat på en minut:**
+| <!-- --> | <!-- --> |
+| --- | --- |
+|hos en bebis | ungefär  |
 
 # Levern
 
@@ -145,11 +148,11 @@ Så här
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1NDQ3MjU3LC01MTQ5MzczMzUsMTM1Mz
-M5Njg2MCwxMjE1MDkzOTM2LDU1MjUyMzg4OCwxNjQ4MDQwMTY3
-LC0xNTAwNDU4NzA0LDE1MzM5NDI2OCwtMTU3NzA1MzM5MiwzND
-Q0NjA1MDIsLTM2NjkxOTIyMyw1NjA0ODMwODAsMTg5NDM5OTI3
-MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1LC0xMzk2MzQzNzUwLC01OD
-cyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5OSwtMTYxMDg3
-OTUyNF19
+eyJoaXN0b3J5IjpbLTE0NTA2NzgxMTcsLTUxNDkzNzMzNSwxMz
+UzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LDE2NDgwNDAx
+NjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNTc3MDUzMzkyLD
+M0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4MCwxODk0Mzk5
+MjcyLDEwMTAwOTQwNDYsLTE1NDkzMDUsLTEzOTYzNDM3NTAsLT
+U4NzI5OTExNSwxMjg3OTA0NDg3LC0xMTk3NjYyMjk5LC0xNjEw
+ODc5NTI0XX0=
 -->
