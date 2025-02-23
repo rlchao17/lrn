@@ -103,7 +103,9 @@ Hjärtat är en muskel, men det sitter inte fast i skelettet. Det är lika stort
 #### en knuten hand<br>hjärtat
 Hjärtat pumpar blodet runt i kroppen.<br>Det kallas blod*om*loppet.<br>En vuxen person har ungefär fem liter blod.
 
-Känn på siden av din hals. 
+Känn på siden av din hals. Känner du att det pulserar?
+
+Det är din puls. Det är dit blod som pumpas runt i kroppen.
 # Levern
 
 | Svenska | Modersmål |
@@ -140,7 +142,7 @@ Känn på siden av din hals.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTc0Mzk0OCwtNTE0OTM3MzM1LDEzNT
+eyJoaXN0b3J5IjpbLTQzNTk3ODc5NywtNTE0OTM3MzM1LDEzNT
 MzOTY4NjAsMTIxNTA5MzkzNiw1NTI1MjM4ODgsMTY0ODA0MDE2
 NywtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1NzcwNTMzOTIsMz
 Q0NDYwNTAyLC0zNjY5MTkyMjMsNTYwNDgzMDgwLDE4OTQzOTky
