@@ -66,7 +66,7 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler. En människa som väger 60 kilo har ungefär 30 kilo muskler. De flesta av musklerna sitter fast i skelettet.
 
 ## Varför har du muskler?
-Lederna gör så att du kan böja olika delar av kroppen. Men lederna behöver hjälp. Musklerna hjälper lederna. När du rör, till exempel går eller springer, använder du musklerna. Musklerna och lederna samarbetar.
+Lederna gör så att du kan böja olika delar av kroppen. Men lederna behöver hjälp. Musklerna hjälper lederna. När du _rör_, till exempel går eller springer, använder du musklerna. Musklerna och lederna samarbetar.
 ## Olika muskler
 Hjärtat är en muskel, men hjärtat sitter inte fast i skelettet. I tarmarna finns det också muskler, men de sitter inte heller fast i skelettet.
 Många muskler arbetar bara när du själv bestämmer det, alltså när din hjärna bestämmer det.
@@ -106,11 +106,11 @@ Många muskler arbetar bara när du själv bestämmer det, alltså när din hjä
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNT
-c3MDUzMzkyLDM0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4
-MCwxODk0Mzk5MjcyLDEwMTAwOTQwNDYsLTE1NDkzMDUsLTEzOT
-YzNDM3NTAsLTU4NzI5OTExNSwxMjg3OTA0NDg3LC0xMTk3NjYy
-Mjk5LC0xNjEwODc5NTI0LC0xODYzMzk0MDIyLDM1NDA0NDgwNi
-wyMTE4NzA5NzUwLC0yMDIxMDk1Mzc4LDE3Mjk5MTIxOTksLTk0
-MzQ5Njc2XX0=
+eyJoaXN0b3J5IjpbLTY3NzYwNjg2LC0xNTAwNDU4NzA0LDE1Mz
+M5NDI2OCwtMTU3NzA1MzM5MiwzNDQ0NjA1MDIsLTM2NjkxOTIy
+Myw1NjA0ODMwODAsMTg5NDM5OTI3MiwxMDEwMDk0MDQ2LC0xNT
+Q5MzA1LC0xMzk2MzQzNzUwLC01ODcyOTkxMTUsMTI4NzkwNDQ4
+NywtMTE5NzY2MjI5OSwtMTYxMDg3OTUyNCwtMTg2MzM5NDAyMi
+wzNTQwNDQ4MDYsMjExODcwOTc1MCwtMjAyMTA5NTM3OCwxNzI5
+OTEyMTk5XX0=
 -->
