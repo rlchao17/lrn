@@ -82,17 +82,16 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 
 > | <!-- --> | <!-- --> |
 > | --- | --- |
-> | Läkaren | Hej! Hur är det med dig? |
-> | Lena | Jag har ont i axlarna. |
-> | | |
-> | | |
-> | | |
-> | | |
-> | | |
-> | | |
-> | | |
-> | | |
-> 
+> | **Läkaren** | Hej! Hur är det med dig? |
+> | **Lena** | Jag har ont i axlarna. |
+> | **Läkaren** | |
+> | **Lena** | |
+> | **Läkaren** | |
+> | **Lena** | |
+> | **Läkaren** | |
+> | **Lena** | |
+> | **Läkaren** | |
+> | **Lena** | |
 
 # Levern
 
@@ -130,7 +129,7 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDE5MzQ4MCwxMjE1MDkzOTM2LDU1Mj
+eyJoaXN0b3J5IjpbMTM1MzM5Njg2MCwxMjE1MDkzOTM2LDU1Mj
 UyMzg4OCwxNjQ4MDQwMTY3LC0xNTAwNDU4NzA0LDE1MzM5NDI2
 OCwtMTU3NzA1MzM5MiwzNDQ0NjA1MDIsLTM2NjkxOTIyMyw1Nj
 A0ODMwODAsMTg5NDM5OTI3MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1
