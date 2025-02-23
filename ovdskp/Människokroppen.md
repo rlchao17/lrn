@@ -136,9 +136,9 @@ Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frå
 | **Josef** | Varför måste man ha luft? |
 | **Mamma** | Det är för att kroppen behöver syre, och syre finns i luften. |
 | **Josef** | Men hur får hela kroppen syre? |
-| **Mamma** | Jo, du andas i luft med syre i lungorna.<br>Hjärtat pumpar runt blodet i kroppen.<br>Och när blodet kommer till lungorna hämtar blodet syre.<br>Sedan pumpar hjärtat blodet *vidare* till hela kroppen. |
-| **Josef** |  |
-| **Mamma** |  |
+| **Mamma** | Jo, du andas i luft med syre i lungorna.<br>Hjärtat pumpar runt blodet i kroppen.<br>Och när blodet kommer till lungorna hämtar blodet syre.<br>*Sedan* pumpar hjärtat blodet *vidare* till hela kroppen. |
+| **Josef** | Och då får hela kroppen syre! Vad bra! |
+| **Mamma** | När du springer behöver kroppen mycket syre. |
 | **Josef** |  |
 
 
@@ -167,7 +167,7 @@ Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frå
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDIzMTI0Niw2MTU5MjcwNDAsLTUxND
+eyJoaXN0b3J5IjpbLTg0Mzk4NzM5Niw2MTU5MjcwNDAsLTUxND
 kzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4
 LDE2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNT
 c3MDUzMzkyLDM0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4
