@@ -133,9 +133,9 @@ Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frå
 | --- | --- |
 | **Josef** | Varför måste man andas? |
 | **Mamma** | Vi andas för att vi behöver luft. |
-| **Josef** | Varför måste man ha  |
-| **Mamma** |  |
-| **Josef** |  |
+| **Josef** | Varför måste man ha luft? |
+| **Mamma** | Det är för att kroppen behöver syre, och syre finns i luften. |
+| **Josef** | Men hur får hela kroppen syre? |
 | **Mamma** |  |
 | **Josef** |  |
 | **Mamma** |  |
@@ -167,7 +167,7 @@ Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frå
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcwNjE0OTgsNjE1OTI3MDQwLC01MT
+eyJoaXN0b3J5IjpbLTExNjc2MzkwNTksNjE1OTI3MDQwLC01MT
 Q5MzczMzUsMTM1MzM5Njg2MCwxMjE1MDkzOTM2LDU1MjUyMzg4
 OCwxNjQ4MDQwMTY3LC0xNTAwNDU4NzA0LDE1MzM5NDI2OCwtMT
 U3NzA1MzM5MiwzNDQ0NjA1MDIsLTM2NjkxOTIyMyw1NjA0ODMw
