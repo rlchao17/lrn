@@ -66,12 +66,15 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler. En människa som väger 60 kilo har ungefär 30 kilo muskler. De flesta av musklerna sitter fast i skelettet.
 
 ## Varför har du muskler?
-Lederna gör så att du kan böja olika delar av kroppen. Men lederna behöver hjälp. Musklerna hjälper lederna. När du _rör_, till exempel går eller springer, använder du musklerna. Musklerna och lederna samarbetar.
+Lederna gör så att du kan böja olika delar av kroppen. Men lederna behöver hjälp. Musklerna hjälper lederna. När du *rör*, till exempel går eller springer, använder du musklerna. Musklerna och lederna samarbetar.
 ## Olika muskler
 Hjärtat är en muskel, men hjärtat sitter inte fast i skelettet. I tarmarna finns det också muskler, men de sitter inte heller fast i skelettet.
-Många muskler arbetar bara när du själv bestämmer det, alltså när din hjärna bestämmer det. Du bestämmer till exempel att du vill springa och då *_rör_* du benmusklerna.
+Många muskler arbetar bara när du själv bestämmer det, alltså när din hjärna bestämmer det. Du bestämmer till exempel att du vill springa och då *rör* du benmusklerna.
 Några muskler arbetar själva, till exempel hjärtat och musklerna i tarmarna. Du kan inte bestämma över dem. De arbetar hela tiden, också när du sover.
-Musklerna i ansiktet gör att du kan visa om du är glad, ledsen, arg, rädd eller *förvånad*.
+Musklerna i ansiktet gör att du kan visa om du är *glad*, *ledsen*, *arg*, *rädd* eller *förvånad*.
+
+# Lena har ont i axlarna
+
 # Levern
 
 | Svenska | Modersmål |
@@ -108,7 +111,7 @@ Musklerna i ansiktet gör att du kan visa om du är glad, ledsen, arg, rädd ell
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI5OTcxMjksMTY0ODA0MDE2NywtMT
+eyJoaXN0b3J5IjpbLTEzNDcxMzA2OTQsMTY0ODA0MDE2NywtMT
 UwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1NzcwNTMzOTIsMzQ0NDYw
 NTAyLC0zNjY5MTkyMjMsNTYwNDgzMDgwLDE4OTQzOTkyNzIsMT
 AxMDA5NDA0NiwtMTU0OTMwNSwtMTM5NjM0Mzc1MCwtNTg3Mjk5
