@@ -101,7 +101,7 @@ Läkaren kan också se om man har för lite järn i blodet. Blodet behöver jär
 
 Hjärtat är en muskel, men det sitter inte fast i skelettet. Det är lika stort som din *knutna* hand.
 #### en knuten hand<br>hjärtat
-Hjärtat pumpar blodet runt i kroppen.
+Hjärtat pumpar blodet runt i kroppen.<br>Det kallas blodomloppet. 
 # Levern
 
 | Svenska | Modersmål |
@@ -138,11 +138,11 @@ Hjärtat pumpar blodet runt i kroppen.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjA1ODE4LC01MTQ5MzczMzUsMTM1Mz
-M5Njg2MCwxMjE1MDkzOTM2LDU1MjUyMzg4OCwxNjQ4MDQwMTY3
-LC0xNTAwNDU4NzA0LDE1MzM5NDI2OCwtMTU3NzA1MzM5MiwzND
-Q0NjA1MDIsLTM2NjkxOTIyMyw1NjA0ODMwODAsMTg5NDM5OTI3
-MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1LC0xMzk2MzQzNzUwLC01OD
-cyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5OSwtMTYxMDg3
-OTUyNF19
+eyJoaXN0b3J5IjpbMTk4NzA4MDM0MCwtNTE0OTM3MzM1LDEzNT
+MzOTY4NjAsMTIxNTA5MzkzNiw1NTI1MjM4ODgsMTY0ODA0MDE2
+NywtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1NzcwNTMzOTIsMz
+Q0NDYwNTAyLC0zNjY5MTkyMjMsNTYwNDgzMDgwLDE4OTQzOTky
+NzIsMTAxMDA5NDA0NiwtMTU0OTMwNSwtMTM5NjM0Mzc1MCwtNT
+g3Mjk5MTE1LDEyODc5MDQ0ODcsLTExOTc2NjIyOTksLTE2MTA4
+Nzk1MjRdfQ==
 -->
