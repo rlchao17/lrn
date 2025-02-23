@@ -128,7 +128,7 @@ Hjärtat pumpar fortare när man springer. Hos en vuxen person som vilar pumpar 
 | giftig | 有毒的 |
 
 # Lungorna och blodet
-Der här är Fati
+Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frågor om kroppen. Hans mamma läser i en bok och berättar.
 # Njurarna
 
 | Svenska | Modersmål |
@@ -152,11 +152,11 @@ Der här är Fati
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDgzNzU2ODIsNjE1OTI3MDQwLC01MT
-Q5MzczMzUsMTM1MzM5Njg2MCwxMjE1MDkzOTM2LDU1MjUyMzg4
-OCwxNjQ4MDQwMTY3LC0xNTAwNDU4NzA0LDE1MzM5NDI2OCwtMT
-U3NzA1MzM5MiwzNDQ0NjA1MDIsLTM2NjkxOTIyMyw1NjA0ODMw
-ODAsMTg5NDM5OTI3MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1LC0xMz
-k2MzQzNzUwLC01ODcyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2
-MjI5OV19
+eyJoaXN0b3J5IjpbMTk3MDA3MjM1MSw2MTU5MjcwNDAsLTUxND
+kzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4
+LDE2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNT
+c3MDUzMzkyLDM0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4
+MCwxODk0Mzk5MjcyLDEwMTAwOTQwNDYsLTE1NDkzMDUsLTEzOT
+YzNDM3NTAsLTU4NzI5OTExNSwxMjg3OTA0NDg3LC0xMTk3NjYy
+Mjk5XX0=
 -->
