@@ -94,7 +94,7 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 ## Blodprov
 Ofta vill läkaren att man ska lämna ett blodprov. På blodprovet kan läkaren ibland se om man är sjuk.
 
-Läkaren kan också se om man har för lite järn i blodet. Blodet behöver järn. Därför är det viktigt att äta maten innehåll 
+Läkaren kan också se om man har för lite järn i blodet. Blodet behöver järn. Därför är det viktigt att äta mat som innehåller järn. Det finns mycket järn i till exempel kött ägg fisk och gr 
 # Levern
 
 | Svenska | Modersmål |
@@ -131,7 +131,7 @@ Läkaren kan också se om man har för lite järn i blodet. Blodet behöver jär
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzNzcxNjA2LC01MTQ5MzczMzUsMTM1Mz
+eyJoaXN0b3J5IjpbOTc0Nzk2NTg4LC01MTQ5MzczMzUsMTM1Mz
 M5Njg2MCwxMjE1MDkzOTM2LDU1MjUyMzg4OCwxNjQ4MDQwMTY3
 LC0xNTAwNDU4NzA0LDE1MzM5NDI2OCwtMTU3NzA1MzM5MiwzND
 Q0NjA1MDIsLTM2NjkxOTIyMyw1NjA0ODMwODAsMTg5NDM5OTI3
