@@ -98,7 +98,7 @@ Läkaren kan också se om man har för lite järn i blodet. Blodet behöver jär
 
 # Hjärtat och blodet
 hjärtat<br>lungorna<br>blodomloppet
-
+Hjärtat är en muskel, 
 
 # Levern
 
@@ -136,7 +136,7 @@ hjärtat<br>lungorna<br>blodomloppet
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc1MjU5MzIsLTUxNDkzNzMzNSwxMz
+eyJoaXN0b3J5IjpbLTE5NzM4MDM2MzcsLTUxNDkzNzMzNSwxMz
 UzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LDE2NDgwNDAx
 NjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNTc3MDUzMzkyLD
 M0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4MCwxODk0Mzk5
