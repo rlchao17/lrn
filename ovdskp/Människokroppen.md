@@ -155,8 +155,8 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 | --- | --- |
 | **Josef** | Mamma, du sa att blodet hämtar syre från lungorna. Vad gör blodet mer? |
 | **Mamma** | Blodet hämtar också näring från tarmarna i magen. |
-| **Josef** |  |
-| **Mamma** |  |
+| **Josef** | Vad är näring? |
+| **Mamma** | Näring finns i mat.  |
 | **Josef** |  |
 | **Mamma** |  |
 | **Josef** |  |
@@ -185,11 +185,11 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM2Njk0NjMsMTk2ODcxMDc4MiwtNT
-A0Mjc5NTA0LDYxNTkyNzA0MCwtNTE0OTM3MzM1LDEzNTMzOTY4
-NjAsMTIxNTA5MzkzNiw1NTI1MjM4ODgsMTY0ODA0MDE2NywtMT
-UwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1NzcwNTMzOTIsMzQ0NDYw
-NTAyLC0zNjY5MTkyMjMsNTYwNDgzMDgwLDE4OTQzOTkyNzIsMT
-AxMDA5NDA0NiwtMTU0OTMwNSwtMTM5NjM0Mzc1MCwtNTg3Mjk5
-MTE1XX0=
+eyJoaXN0b3J5IjpbLTE0NTIxMDkzMDIsLTEyNDM2Njk0NjMsMT
+k2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTkyNzA0MCwtNTE0OTM3
+MzM1LDEzNTMzOTY4NjAsMTIxNTA5MzkzNiw1NTI1MjM4ODgsMT
+Y0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1Nzcw
+NTMzOTIsMzQ0NDYwNTAyLC0zNjY5MTkyMjMsNTYwNDgzMDgwLD
+E4OTQzOTkyNzIsMTAxMDA5NDA0NiwtMTU0OTMwNSwtMTM5NjM0
+Mzc1MF19
 -->
