@@ -159,7 +159,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 | **Mamma** | Näring finns i mat. Kroppen behöver näring för att du ska växa eller vara frisk. |
 | **Josef** | Mamma, jag är hungrig! |
 | **Mamma** | Du blir hungrig när din kropp behöver mer näring. |
-| **Josef** |  |
+| **Josef** | Mamma, är det så här?  |
 | **Mamma** |  |
 
 # Njurarna
@@ -185,7 +185,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTUyMTgzOSwtMTI0MzY2OTQ2MywxOT
+eyJoaXN0b3J5IjpbLTkzOTg1OTE5MiwtMTI0MzY2OTQ2MywxOT
 Y4NzEwNzgyLC01MDQyNzk1MDQsNjE1OTI3MDQwLC01MTQ5Mzcz
 MzUsMTM1MzM5Njg2MCwxMjE1MDkzOTM2LDU1MjUyMzg4OCwxNj
 Q4MDQwMTY3LC0xNTAwNDU4NzA0LDE1MzM5NDI2OCwtMTU3NzA1
