@@ -160,7 +160,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 | **Josef** | Mamma, jag är hungrig! |
 | **Mamma** | Du blir hungrig när din kropp behöver mer näring. |
 | **Josef** | Mamma, är det så här? Man ska ladda batteriet på en mobiltelefon för att den ska fungera. Min kropp behöver syre och näring för att fungera. |
-| **Mamma** |  |
+| **Mamma** | Ja, så kanske man kan säga. Nu måste vi äta! |
 
 # Njurarna
 
@@ -185,7 +185,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg4MDIyNTgsLTEyNDM2Njk0NjMsMT
+eyJoaXN0b3J5IjpbLTE0NjQyMDY5OTcsLTEyNDM2Njk0NjMsMT
 k2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTkyNzA0MCwtNTE0OTM3
 MzM1LDEzNTMzOTY4NjAsMTIxNTA5MzkzNiw1NTI1MjM4ODgsMT
 Y0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1Nzcw
