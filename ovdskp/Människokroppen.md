@@ -154,7 +154,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 | <!-- --> | <!-- --> |
 | --- | --- |
 | **Josef** | Mamma, du sa att blodet hämtar syre från lungorna. Vad gör blodet mer? |
-| **Mamma** |  |
+| **Mamma** | Blodet hämtar  |
 | **Josef** |  |
 | **Mamma** |  |
 | **Josef** |  |
@@ -185,11 +185,11 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1NjQ2NjQ2LDE5Njg3MTA3ODIsLTUwND
-I3OTUwNCw2MTU5MjcwNDAsLTUxNDkzNzMzNSwxMzUzMzk2ODYw
-LDEyMTUwOTM5MzYsNTUyNTIzODg4LDE2NDgwNDAxNjcsLTE1MD
-A0NTg3MDQsMTUzMzk0MjY4LC0xNTc3MDUzMzkyLDM0NDQ2MDUw
-MiwtMzY2OTE5MjIzLDU2MDQ4MzA4MCwxODk0Mzk5MjcyLDEwMT
-AwOTQwNDYsLTE1NDkzMDUsLTEzOTYzNDM3NTAsLTU4NzI5OTEx
-NV19
+eyJoaXN0b3J5IjpbLTE1MDU0NjI4ODQsMTk2ODcxMDc4MiwtNT
+A0Mjc5NTA0LDYxNTkyNzA0MCwtNTE0OTM3MzM1LDEzNTMzOTY4
+NjAsMTIxNTA5MzkzNiw1NTI1MjM4ODgsMTY0ODA0MDE2NywtMT
+UwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1NzcwNTMzOTIsMzQ0NDYw
+NTAyLC0zNjY5MTkyMjMsNTYwNDgzMDgwLDE4OTQzOTkyNzIsMT
+AxMDA5NDA0NiwtMTU0OTMwNSwtMTM5NjM0Mzc1MCwtNTg3Mjk5
+MTE1XX0=
 -->
