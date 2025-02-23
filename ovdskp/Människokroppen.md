@@ -141,8 +141,12 @@ Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frå
 | **Mamma** | När du springer behöver kroppen mycket syre.<br>Då måste hjärtat pumpa fortare. |
 | **Josef** | Jaha. Då förstår jag. Det är därför man måste andas fortare när man springer. |
 
-
-
+ 1. Hon andas in luft genom **munnen**.<br>I luften finns det syre.
+ 2. Syret kommer till **longorna**.
+ 3. **Hjärtat** pumpar blodet till lungorna.
+ 4. Blodet hämtar syre i **lungorna**.
+ 5. Hjärtat pumpar **blodet** runt i hela kroppen.<br>Hela kroppen får syre.
+ 6. När blodet har lämnat syre går det tillbaka till **hjärtat**.
 
 # Njurarna
 
@@ -167,7 +171,7 @@ Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frå
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzQ3OTY0Niw2MTU5MjcwNDAsLTUxND
+eyJoaXN0b3J5IjpbLTUwNDI3OTUwNCw2MTU5MjcwNDAsLTUxND
 kzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4
 LDE2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNT
 c3MDUzMzkyLDM0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4
