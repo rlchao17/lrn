@@ -80,7 +80,7 @@ Musklerna i ansiktet gör att du kan visa om du är *glad*, *ledsen*, *arg*, *r�
 Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos en läkare.
 ## Hos läkaren
 
-> L
+> | Läkaren | 
 
 # Levern
 
@@ -118,11 +118,11 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTU3NDIwMCwxMjE1MDkzOTM2LDU1Mj
-UyMzg4OCwxNjQ4MDQwMTY3LC0xNTAwNDU4NzA0LDE1MzM5NDI2
-OCwtMTU3NzA1MzM5MiwzNDQ0NjA1MDIsLTM2NjkxOTIyMyw1Nj
-A0ODMwODAsMTg5NDM5OTI3MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1
-LC0xMzk2MzQzNzUwLC01ODcyOTkxMTUsMTI4NzkwNDQ4NywtMT
-E5NzY2MjI5OSwtMTYxMDg3OTUyNCwtMTg2MzM5NDAyMiwzNTQw
-NDQ4MDZdfQ==
+eyJoaXN0b3J5IjpbLTIwMzI1NDEyNDcsMTIxNTA5MzkzNiw1NT
+I1MjM4ODgsMTY0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNTMzOTQy
+NjgsLTE1NzcwNTMzOTIsMzQ0NDYwNTAyLC0zNjY5MTkyMjMsNT
+YwNDgzMDgwLDE4OTQzOTkyNzIsMTAxMDA5NDA0NiwtMTU0OTMw
+NSwtMTM5NjM0Mzc1MCwtNTg3Mjk5MTE1LDEyODc5MDQ0ODcsLT
+ExOTc2NjIyOTksLTE2MTA4Nzk1MjQsLTE4NjMzOTQwMjIsMzU0
+MDQ0ODA2XX0=
 -->
