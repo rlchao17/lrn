@@ -97,7 +97,7 @@ Ofta vill läkaren att man ska lämna ett blodprov. På blodprovet kan läkaren 
 Läkaren kan också se om man har för lite järn i blodet. Blodet behöver järn. Därför är det viktigt att äta mat som innehåller järn. Det finns mycket järn i till exempel kött, lever, fisk, ägg och grönsaker. 
 
 # Hjärtat och blodet
-hjärtat<br>lungorna<br>blodomloppet
+hjärtat<br>lungorna<br>blodomloppet<br>
 Hjärtat är en muskel, 
 
 # Levern
@@ -136,7 +136,7 @@ Hjärtat är en muskel,
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM4MDM2MzcsLTUxNDkzNzMzNSwxMz
+eyJoaXN0b3J5IjpbLTE3MTkwMjMwNzksLTUxNDkzNzMzNSwxMz
 UzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LDE2NDgwNDAx
 NjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNTc3MDUzMzkyLD
 M0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4MCwxODk0Mzk5
