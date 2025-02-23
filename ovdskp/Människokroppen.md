@@ -74,7 +74,8 @@ Några muskler arbetar själva, till exempel hjärtat och musklerna i tarmarna. 
 Musklerna i ansiktet gör att du kan visa om du är *glad*, *ledsen*, *arg*, *rädd* eller *förvånad*.
 
 # Lena har ont i axlarna
-Lena har *värk* i axlarna. 
+Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos en läkare.
+
 # Levern
 
 | Svenska | Modersmål |
@@ -111,11 +112,11 @@ Lena har *värk* i axlarna.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODU1NDQ0NiwxNjQ4MDQwMTY3LC0xNT
-AwNDU4NzA0LDE1MzM5NDI2OCwtMTU3NzA1MzM5MiwzNDQ0NjA1
-MDIsLTM2NjkxOTIyMyw1NjA0ODMwODAsMTg5NDM5OTI3MiwxMD
-EwMDk0MDQ2LC0xNTQ5MzA1LC0xMzk2MzQzNzUwLC01ODcyOTkx
-MTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5OSwtMTYxMDg3OTUyNC
-wtMTg2MzM5NDAyMiwzNTQwNDQ4MDYsMjExODcwOTc1MCwtMjAy
-MTA5NTM3OF19
+eyJoaXN0b3J5IjpbODkwMTEyMTg3LDE2NDgwNDAxNjcsLTE1MD
+A0NTg3MDQsMTUzMzk0MjY4LC0xNTc3MDUzMzkyLDM0NDQ2MDUw
+MiwtMzY2OTE5MjIzLDU2MDQ4MzA4MCwxODk0Mzk5MjcyLDEwMT
+AwOTQwNDYsLTE1NDkzMDUsLTEzOTYzNDM3NTAsLTU4NzI5OTEx
+NSwxMjg3OTA0NDg3LC0xMTk3NjYyMjk5LC0xNjEwODc5NTI0LC
+0xODYzMzk0MDIyLDM1NDA0NDgwNiwyMTE4NzA5NzUwLC0yMDIx
+MDk1Mzc4XX0=
 -->
