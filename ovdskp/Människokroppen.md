@@ -63,7 +63,7 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 #### ambågsled
 
 # Musklerna
-Musklerna är köttet i kroppen. En vuxen person
+Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler
 # Levern
 
 | Svenska | Modersål |
@@ -100,10 +100,11 @@ Musklerna är köttet i kroppen. En vuxen person
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDM5OTI3MiwxMDEwMDk0MDQ2LC0xNT
-Q5MzA1LC0xMzk2MzQzNzUwLC01ODcyOTkxMTUsMTI4NzkwNDQ4
-NywtMTE5NzY2MjI5OSwtMTYxMDg3OTUyNCwtMTg2MzM5NDAyMi
-wzNTQwNDQ4MDYsMjExODcwOTc1MCwtMjAyMTA5NTM3OCwxNzI5
-OTEyMTk5LC05NDM0OTY3NiwxMTE4NDI0NDA0LC02OTQ2MjcyMz
-ksLTk0MzQ5Njc2LC0zMzUxMTk5NjIsLTYxNjY3MTY1OV19
+eyJoaXN0b3J5IjpbNTYwNDgzMDgwLDE4OTQzOTkyNzIsMTAxMD
+A5NDA0NiwtMTU0OTMwNSwtMTM5NjM0Mzc1MCwtNTg3Mjk5MTE1
+LDEyODc5MDQ0ODcsLTExOTc2NjIyOTksLTE2MTA4Nzk1MjQsLT
+E4NjMzOTQwMjIsMzU0MDQ0ODA2LDIxMTg3MDk3NTAsLTIwMjEw
+OTUzNzgsMTcyOTkxMjE5OSwtOTQzNDk2NzYsMTExODQyNDQwNC
+wtNjk0NjI3MjM5LC05NDM0OTY3NiwtMzM1MTE5OTYyLC02MTY2
+NzE2NTldfQ==
 -->
