@@ -65,9 +65,10 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 # Musklerna
 Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler. En människa som väger 60 kilo har ungefär 30 kilo muskler. De flesta av musklerna sitter fast i skelettet.
 
+## 
 # Levern
 
-| Svenska | Modersål |
+| Svenska | Modersmål |
 |--|--|
 | en lever | 一个肝脏 |
 | renar | 净化 |
@@ -101,11 +102,11 @@ Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler. En m�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjkxOTIyMyw1NjA0ODMwODAsMTg5ND
-M5OTI3MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1LC0xMzk2MzQzNzUw
-LC01ODcyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5OSwtMT
-YxMDg3OTUyNCwtMTg2MzM5NDAyMiwzNTQwNDQ4MDYsMjExODcw
-OTc1MCwtMjAyMTA5NTM3OCwxNzI5OTEyMTk5LC05NDM0OTY3Ni
-wxMTE4NDI0NDA0LC02OTQ2MjcyMzksLTk0MzQ5Njc2LC0zMzUx
-MTk5NjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMzY2MDg2OCwtMzY2OTE5MjIzLDU2MD
+Q4MzA4MCwxODk0Mzk5MjcyLDEwMTAwOTQwNDYsLTE1NDkzMDUs
+LTEzOTYzNDM3NTAsLTU4NzI5OTExNSwxMjg3OTA0NDg3LC0xMT
+k3NjYyMjk5LC0xNjEwODc5NTI0LC0xODYzMzk0MDIyLDM1NDA0
+NDgwNiwyMTE4NzA5NzUwLC0yMDIxMDk1Mzc4LDE3Mjk5MTIxOT
+ksLTk0MzQ5Njc2LDExMTg0MjQ0MDQsLTY5NDYyNzIzOSwtOTQz
+NDk2NzZdfQ==
 -->
