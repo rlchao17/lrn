@@ -69,8 +69,9 @@ Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler. En m�
 Lederna gör så att du kan böja olika delar av kroppen. Men lederna behöver hjälp. Musklerna hjälper lederna. När du _rör_, till exempel går eller springer, använder du musklerna. Musklerna och lederna samarbetar.
 ## Olika muskler
 Hjärtat är en muskel, men hjärtat sitter inte fast i skelettet. I tarmarna finns det också muskler, men de sitter inte heller fast i skelettet.
-Många muskler arbetar bara när du själv bestämmer det, alltså när din hjärna bestämmer det. Du bestämmer till exempel att du vill springa och då _rör_ du benmusklerna.
+Många muskler arbetar bara när du själv bestämmer det, alltså när din hjärna bestämmer det. Du bestämmer till exempel att du vill springa och då *_rör_* du benmusklerna.
 Några muskler arbetar själva, till exempel hjärtat och musklerna i tarmarna. Du kan inte bestämma över dem. De arbetar hela tiden, också när du sover.
+Musklerna i ansiktet gör att du kan visa om du är glad, ledsen, arg, rädd eller *förvånad*.
 # Levern
 
 | Svenska | Modersmål |
@@ -107,11 +108,11 @@ Några muskler arbetar själva, till exempel hjärtat och musklerna i tarmarna. 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNT
-MzOTQyNjgsLTE1NzcwNTMzOTIsMzQ0NDYwNTAyLC0zNjY5MTky
-MjMsNTYwNDgzMDgwLDE4OTQzOTkyNzIsMTAxMDA5NDA0NiwtMT
-U0OTMwNSwtMTM5NjM0Mzc1MCwtNTg3Mjk5MTE1LDEyODc5MDQ0
-ODcsLTExOTc2NjIyOTksLTE2MTA4Nzk1MjQsLTE4NjMzOTQwMj
-IsMzU0MDQ0ODA2LDIxMTg3MDk3NTAsLTIwMjEwOTUzNzgsMTcy
-OTkxMjE5OV19
+eyJoaXN0b3J5IjpbLTEzMDI5OTcxMjksMTY0ODA0MDE2NywtMT
+UwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1NzcwNTMzOTIsMzQ0NDYw
+NTAyLC0zNjY5MTkyMjMsNTYwNDgzMDgwLDE4OTQzOTkyNzIsMT
+AxMDA5NDA0NiwtMTU0OTMwNSwtMTM5NjM0Mzc1MCwtNTg3Mjk5
+MTE1LDEyODc5MDQ0ODcsLTExOTc2NjIyOTksLTE2MTA4Nzk1Mj
+QsLTE4NjMzOTQwMjIsMzU0MDQ0ODA2LDIxMTg3MDk3NTAsLTIw
+MjEwOTUzNzhdfQ==
 -->
