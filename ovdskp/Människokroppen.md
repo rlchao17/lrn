@@ -90,8 +90,8 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 > | **Lena** | Aj! |
 > | **Läkaren** | Har du ont någon annanstans? |
 > | **Lena** | Ja, jag har ont i lederna också. |
-> | **Läkaren** |  |
-> | **Lena** | |
+> | **Läkaren** | Jag förstår. Då ska vi börja med att ta ett blodprov. |
+
 
 # Levern
 
@@ -129,7 +129,7 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTkzNzgxNywtNTE0OTM3MzM1LDEzNT
+eyJoaXN0b3J5IjpbLTc2NzExNzk5OCwtNTE0OTM3MzM1LDEzNT
 MzOTY4NjAsMTIxNTA5MzkzNiw1NTI1MjM4ODgsMTY0ODA0MDE2
 NywtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1NzcwNTMzOTIsMz
 Q0NDYwNTAyLC0zNjY5MTkyMjMsNTYwNDgzMDgwLDE4OTQzOTky
