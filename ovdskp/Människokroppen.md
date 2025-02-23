@@ -60,10 +60,10 @@ Lederna gör så att du kan böja olika delar i kroppen. När du går böjer du 
 ## Olika leder
 Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du röra uppåt och nedåt. Andra leder kan du röra mycket, till exempel axelleden. Du kan röra armen framåt, bakåt, utåt, inåt, uppåt och nedåt.
 #### axelled
-#### ambågsled
+#### armbågsled
 
 # Musklerna
-Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler
+Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler. En männ
 # Levern
 
 | Svenska | Modersål |
@@ -100,11 +100,11 @@ Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNDgzMDgwLDE4OTQzOTkyNzIsMTAxMD
-A5NDA0NiwtMTU0OTMwNSwtMTM5NjM0Mzc1MCwtNTg3Mjk5MTE1
-LDEyODc5MDQ0ODcsLTExOTc2NjIyOTksLTE2MTA4Nzk1MjQsLT
-E4NjMzOTQwMjIsMzU0MDQ0ODA2LDIxMTg3MDk3NTAsLTIwMjEw
-OTUzNzgsMTcyOTkxMjE5OSwtOTQzNDk2NzYsMTExODQyNDQwNC
-wtNjk0NjI3MjM5LC05NDM0OTY3NiwtMzM1MTE5OTYyLC02MTY2
-NzE2NTldfQ==
+eyJoaXN0b3J5IjpbMTI0NzQ1ODE1OCw1NjA0ODMwODAsMTg5ND
+M5OTI3MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1LC0xMzk2MzQzNzUw
+LC01ODcyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5OSwtMT
+YxMDg3OTUyNCwtMTg2MzM5NDAyMiwzNTQwNDQ4MDYsMjExODcw
+OTc1MCwtMjAyMTA5NTM3OCwxNzI5OTEyMTk5LC05NDM0OTY3Ni
+wxMTE4NDI0NDA0LC02OTQ2MjcyMzksLTk0MzQ5Njc2LC0zMzUx
+MTk5NjJdfQ==
 -->
