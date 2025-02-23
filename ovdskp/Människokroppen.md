@@ -159,7 +159,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 | **Mamma** | Näring finns i mat. Kroppen behöver näring för att du ska växa eller vara frisk. |
 | **Josef** | Mamma, jag är hungrig! |
 | **Mamma** | Du blir hungrig när din kropp behöver mer näring. |
-| **Josef** | Mamma, är det så här? Man ska ladda  |
+| **Josef** | Mamma, är det så här? Man ska ladda batteriet på en mobiltelefon för att den ska fungera. Min kropp behöver syre och näring för att fungera. |
 | **Mamma** |  |
 
 # Njurarna
@@ -185,11 +185,11 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNTA0ODg3LC0xMjQzNjY5NDYzLDE5Nj
-g3MTA3ODIsLTUwNDI3OTUwNCw2MTU5MjcwNDAsLTUxNDkzNzMz
-NSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LDE2ND
-gwNDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNTc3MDUz
-MzkyLDM0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4MCwxOD
-k0Mzk5MjcyLDEwMTAwOTQwNDYsLTE1NDkzMDUsLTEzOTYzNDM3
-NTBdfQ==
+eyJoaXN0b3J5IjpbLTEyNjg4MDIyNTgsLTEyNDM2Njk0NjMsMT
+k2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTkyNzA0MCwtNTE0OTM3
+MzM1LDEzNTMzOTY4NjAsMTIxNTA5MzkzNiw1NTI1MjM4ODgsMT
+Y0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1Nzcw
+NTMzOTIsMzQ0NDYwNTAyLC0zNjY5MTkyMjMsNTYwNDgzMDgwLD
+E4OTQzOTkyNzIsMTAxMDA5NDA0NiwtMTU0OTMwNSwtMTM5NjM0
+Mzc1MF19
 -->
