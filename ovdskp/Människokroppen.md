@@ -84,11 +84,11 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 > | --- | --- |
 > | **Läkaren** | Hej! Hur är det med dig? |
 > | **Lena** | Jag har ont i axlarna.<br>Det värker hela tiden. |
-> | **Läkaren** | Jaha. Var gör det ont? Får j |
-> | **Lena** | |
-> | **Läkaren** | |
-> | **Lena** | |
-> | **Läkaren** | |
+> | **Läkaren** | Jaha. Var gör det ont? Får jag känna? |
+> | **Lena** | Ja. |
+> | **Läkaren** | Gör det ont när jag trycker här? |
+> | **Lena** | Aj! |
+> | **Läkaren** |  |
 > | **Lena** | |
 > | **Läkaren** | |
 > | **Lena** | |
@@ -129,11 +129,11 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTE5MjcxNDcsMTM1MzM5Njg2MCwxMj
-E1MDkzOTM2LDU1MjUyMzg4OCwxNjQ4MDQwMTY3LC0xNTAwNDU4
-NzA0LDE1MzM5NDI2OCwtMTU3NzA1MzM5MiwzNDQ0NjA1MDIsLT
-M2NjkxOTIyMyw1NjA0ODMwODAsMTg5NDM5OTI3MiwxMDEwMDk0
-MDQ2LC0xNTQ5MzA1LC0xMzk2MzQzNzUwLC01ODcyOTkxMTUsMT
-I4NzkwNDQ4NywtMTE5NzY2MjI5OSwtMTYxMDg3OTUyNCwtMTg2
-MzM5NDAyMl19
+eyJoaXN0b3J5IjpbLTUxNDkzNzMzNSwxMzUzMzk2ODYwLDEyMT
+UwOTM5MzYsNTUyNTIzODg4LDE2NDgwNDAxNjcsLTE1MDA0NTg3
+MDQsMTUzMzk0MjY4LC0xNTc3MDUzMzkyLDM0NDQ2MDUwMiwtMz
+Y2OTE5MjIzLDU2MDQ4MzA4MCwxODk0Mzk5MjcyLDEwMTAwOTQw
+NDYsLTE1NDkzMDUsLTEzOTYzNDM3NTAsLTU4NzI5OTExNSwxMj
+g3OTA0NDg3LC0xMTk3NjYyMjk5LC0xNjEwODc5NTI0LC0xODYz
+Mzk0MDIyXX0=
 -->
