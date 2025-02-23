@@ -152,10 +152,10 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 | **Mamma** | Ja, så kanske man kan säga. Nu måste vi äta! |
 
 **Matens väg genom kroppen.**
- 1. Hon *tuggar* maten.<br>Maten blandas med saliv i **munnen**. Sedan sväljer hon maten.
+ 1. Hon *tuggar* maten. Maten blandas med saliv i **munnen**. Sedan sväljer hon maten.
  2. Maten åker ner genom **matstrupen** till magsäcken.
  3. I **magsäcken** blandas maten med sur magsaft. Maten blir som en gröt.
- 4. Sedan åker maten ner till **tunntarmen**.
+ 4. Sedan åker maten ner till **tunntarmen**. Tunntarmen arbetar också med maten.
 
 # Levern
 
@@ -192,11 +192,11 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg5ODIxMzAsLTE5MTI4NjUxOTIsMT
-c2NjUzNTgzMywtMTQ2NDIwNjk5NywtMTI0MzY2OTQ2MywxOTY4
-NzEwNzgyLC01MDQyNzk1MDQsNjE1OTI3MDQwLC01MTQ5MzczMz
-UsMTM1MzM5Njg2MCwxMjE1MDkzOTM2LDU1MjUyMzg4OCwxNjQ4
-MDQwMTY3LC0xNTAwNDU4NzA0LDE1MzM5NDI2OCwtMTU3NzA1Mz
-M5MiwzNDQ0NjA1MDIsLTM2NjkxOTIyMyw1NjA0ODMwODAsMTg5
-NDM5OTI3Ml19
+eyJoaXN0b3J5IjpbLTU2ODIzMDE4OSwtMTkxMjg2NTE5MiwxNz
+Y2NTM1ODMzLC0xNDY0MjA2OTk3LC0xMjQzNjY5NDYzLDE5Njg3
+MTA3ODIsLTUwNDI3OTUwNCw2MTU5MjcwNDAsLTUxNDkzNzMzNS
+wxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LDE2NDgw
+NDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNTc3MDUzMz
+kyLDM0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4MCwxODk0
+Mzk5MjcyXX0=
 -->
