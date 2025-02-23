@@ -89,8 +89,8 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 > | **Läkaren** | Gör det ont när jag trycker här? |
 > | **Lena** | Aj! |
 > | **Läkaren** | Har du ont någon annanstans? |
-> | **Lena** | |
-> | **Läkaren** | |
+> | **Lena** | Ja, jag har ont i lederna också. |
+> | **Läkaren** |  |
 > | **Lena** | |
 
 # Levern
@@ -129,11 +129,11 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1NTcxNjUsLTUxNDkzNzMzNSwxMzUzMz
-k2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LDE2NDgwNDAxNjcs
-LTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNTc3MDUzMzkyLDM0ND
-Q2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4MCwxODk0Mzk5Mjcy
-LDEwMTAwOTQwNDYsLTE1NDkzMDUsLTEzOTYzNDM3NTAsLTU4Nz
-I5OTExNSwxMjg3OTA0NDg3LC0xMTk3NjYyMjk5LC0xNjEwODc5
-NTI0XX0=
+eyJoaXN0b3J5IjpbMTUxOTkzNzgxNywtNTE0OTM3MzM1LDEzNT
+MzOTY4NjAsMTIxNTA5MzkzNiw1NTI1MjM4ODgsMTY0ODA0MDE2
+NywtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1NzcwNTMzOTIsMz
+Q0NDYwNTAyLC0zNjY5MTkyMjMsNTYwNDgzMDgwLDE4OTQzOTky
+NzIsMTAxMDA5NDA0NiwtMTU0OTMwNSwtMTM5NjM0Mzc1MCwtNT
+g3Mjk5MTE1LDEyODc5MDQ0ODcsLTExOTc2NjIyOTksLTE2MTA4
+Nzk1MjRdfQ==
 -->
