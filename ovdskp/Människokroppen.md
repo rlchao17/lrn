@@ -152,7 +152,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 | **Mamma** | Ja, så kanske man kan säga. Nu måste vi äta! |
 
 **Matens väg genom kroppen.**
- 1. Hon tuggar maten.
+ 1. Hon *tuggar* maten.<br>Maten blandas med saliv i **munnen**. Sedan sväljer hon maten.
 
 # Levern
 
@@ -189,7 +189,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM0MjE4NjAsMTc2NjUzNTgzMywtMT
+eyJoaXN0b3J5IjpbLTE5MTI4NjUxOTIsMTc2NjUzNTgzMywtMT
 Q2NDIwNjk5NywtMTI0MzY2OTQ2MywxOTY4NzEwNzgyLC01MDQy
 Nzk1MDQsNjE1OTI3MDQwLC01MTQ5MzczMzUsMTM1MzM5Njg2MC
 wxMjE1MDkzOTM2LDU1MjUyMzg4OCwxNjQ4MDQwMTY3LC0xNTAw
