@@ -71,6 +71,7 @@ Lederna gör så att du kan böja olika delar av kroppen. Men lederna behöver h
 Hjärtat är en muskel, men hjärtat sitter inte fast i skelettet. I tarmarna finns det också muskler, men de sitter inte heller fast i skelettet.
 
 Många muskler arbetar bara när du själv bestämmer det, alltså när din hjärna bestämmer det. Du bestämmer till exempel att du vill springa och då *rör* du benmusklerna.
+
 Några muskler arbetar själva, till exempel hjärtat och musklerna i tarmarna. Du kan inte bestämma över dem. De arbetar hela tiden, också när du sover.
 
 Musklerna i ansiktet gör att du kan visa om du är *glad*, *ledsen*, *arg*, *rädd* eller *förvånad*.
@@ -78,6 +79,8 @@ Musklerna i ansiktet gör att du kan visa om du är *glad*, *ledsen*, *arg*, *r�
 # Lena har ont i axlarna
 Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos en läkare.
 ## Hos läkaren
+
+> L
 
 # Levern
 
@@ -115,11 +118,11 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTA5MzkzNiw1NTI1MjM4ODgsMTY0OD
-A0MDE2NywtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1NzcwNTMz
-OTIsMzQ0NDYwNTAyLC0zNjY5MTkyMjMsNTYwNDgzMDgwLDE4OT
-QzOTkyNzIsMTAxMDA5NDA0NiwtMTU0OTMwNSwtMTM5NjM0Mzc1
-MCwtNTg3Mjk5MTE1LDEyODc5MDQ0ODcsLTExOTc2NjIyOTksLT
-E2MTA4Nzk1MjQsLTE4NjMzOTQwMjIsMzU0MDQ0ODA2LDIxMTg3
-MDk3NTBdfQ==
+eyJoaXN0b3J5IjpbLTc4NTU3NDIwMCwxMjE1MDkzOTM2LDU1Mj
+UyMzg4OCwxNjQ4MDQwMTY3LC0xNTAwNDU4NzA0LDE1MzM5NDI2
+OCwtMTU3NzA1MzM5MiwzNDQ0NjA1MDIsLTM2NjkxOTIyMyw1Nj
+A0ODMwODAsMTg5NDM5OTI3MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1
+LC0xMzk2MzQzNzUwLC01ODcyOTkxMTUsMTI4NzkwNDQ4NywtMT
+E5NzY2MjI5OSwtMTYxMDg3OTUyNCwtMTg2MzM5NDAyMiwzNTQw
+NDQ4MDZdfQ==
 -->
