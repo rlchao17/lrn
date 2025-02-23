@@ -113,7 +113,7 @@ Det är din puls. Det är dit blod som *pumpas* runt i kroppen.
 | hos en bebis | ungefär 140 gånger |
 | hos en 10-åring | ungefär 90 gånger |
 | hos en vuxen person | ungefär 65 gånger |
-
+Hjärtat pumpar fortare när man springer.
 # Levern
 
 | Svenska | Modersmål |
@@ -150,11 +150,11 @@ Det är din puls. Det är dit blod som *pumpas* runt i kroppen.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1OTI3MDQwLC01MTQ5MzczMzUsMTM1Mz
-M5Njg2MCwxMjE1MDkzOTM2LDU1MjUyMzg4OCwxNjQ4MDQwMTY3
-LC0xNTAwNDU4NzA0LDE1MzM5NDI2OCwtMTU3NzA1MzM5MiwzND
-Q0NjA1MDIsLTM2NjkxOTIyMyw1NjA0ODMwODAsMTg5NDM5OTI3
-MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1LC0xMzk2MzQzNzUwLC01OD
-cyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5OSwtMTYxMDg3
-OTUyNF19
+eyJoaXN0b3J5IjpbMTQxODYyMTk2Myw2MTU5MjcwNDAsLTUxND
+kzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4
+LDE2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNT
+c3MDUzMzkyLDM0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4
+MCwxODk0Mzk5MjcyLDEwMTAwOTQwNDYsLTE1NDkzMDUsLTEzOT
+YzNDM3NTAsLTU4NzI5OTExNSwxMjg3OTA0NDg3LC0xMTk3NjYy
+Mjk5XX0=
 -->
