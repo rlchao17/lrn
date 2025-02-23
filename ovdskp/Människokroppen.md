@@ -68,7 +68,7 @@ Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler. En m�
 ## Varför har du muskler?
 Lederna gör så att du kan böja olika delar av kroppen. Men lederna behöver hjälp. Musklerna hjälper lederna. När du rör, till exempel går eller springer, använder du musklerna. Musklerna och lederna samarbetar.
 ## Olika muskler
-
+Hjärtat är en muskel, men hjärtat sitter inte 
 # Levern
 
 | Svenska | Modersmål |
@@ -105,11 +105,11 @@ Lederna gör så att du kan böja olika delar av kroppen. Men lederna behöver h
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzcwNTMzOTIsMzQ0NDYwNTAyLC0zNj
-Y5MTkyMjMsNTYwNDgzMDgwLDE4OTQzOTkyNzIsMTAxMDA5NDA0
-NiwtMTU0OTMwNSwtMTM5NjM0Mzc1MCwtNTg3Mjk5MTE1LDEyOD
-c5MDQ0ODcsLTExOTc2NjIyOTksLTE2MTA4Nzk1MjQsLTE4NjMz
-OTQwMjIsMzU0MDQ0ODA2LDIxMTg3MDk3NTAsLTIwMjEwOTUzNz
-gsMTcyOTkxMjE5OSwtOTQzNDk2NzYsMTExODQyNDQwNCwtNjk0
-NjI3MjM5XX0=
+eyJoaXN0b3J5IjpbMTg4MzU5NDI0NywtMTU3NzA1MzM5MiwzND
+Q0NjA1MDIsLTM2NjkxOTIyMyw1NjA0ODMwODAsMTg5NDM5OTI3
+MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1LC0xMzk2MzQzNzUwLC01OD
+cyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5OSwtMTYxMDg3
+OTUyNCwtMTg2MzM5NDAyMiwzNTQwNDQ4MDYsMjExODcwOTc1MC
+wtMjAyMTA5NTM3OCwxNzI5OTEyMTk5LC05NDM0OTY3NiwxMTE4
+NDI0NDA0XX0=
 -->
