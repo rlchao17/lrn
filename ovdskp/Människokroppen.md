@@ -80,7 +80,17 @@ Musklerna i ansiktet gör att du kan visa om du är *glad*, *ledsen*, *arg*, *r�
 Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos en läkare.
 ## Hos läkaren
 
-> | Läkaren | 
+> | Läkaren | Hej! Hur är det med dig? |
+> | Lena | Jag har o |
+> | | |
+> | | |
+> | | |
+> | | |
+> | | |
+> | | |
+> | | |
+> | | |
+> 
 
 # Levern
 
@@ -118,7 +128,7 @@ Lena har *värk* i axlarna. Hon ringer till vårdcentralen och får en tid hos e
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI1NDEyNDcsMTIxNTA5MzkzNiw1NT
+eyJoaXN0b3J5IjpbLTEzOTQ5NTM1ODAsMTIxNTA5MzkzNiw1NT
 I1MjM4ODgsMTY0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNTMzOTQy
 NjgsLTE1NzcwNTMzOTIsMzQ0NDYwNTAyLC0zNjY5MTkyMjMsNT
 YwNDgzMDgwLDE4OTQzOTkyNzIsMTAxMDA5NDA0NiwtMTU0OTMw
