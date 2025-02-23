@@ -153,6 +153,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 
 **Matens väg genom kroppen.**
  1. Hon *tuggar* maten.<br>Maten blandas med saliv i **munnen**. Sedan sväljer hon maten.
+ 2. Maten åker ner genom mats
 
 # Levern
 
@@ -189,11 +190,11 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI4NjUxOTIsMTc2NjUzNTgzMywtMT
-Q2NDIwNjk5NywtMTI0MzY2OTQ2MywxOTY4NzEwNzgyLC01MDQy
-Nzk1MDQsNjE1OTI3MDQwLC01MTQ5MzczMzUsMTM1MzM5Njg2MC
-wxMjE1MDkzOTM2LDU1MjUyMzg4OCwxNjQ4MDQwMTY3LC0xNTAw
-NDU4NzA0LDE1MzM5NDI2OCwtMTU3NzA1MzM5MiwzNDQ0NjA1MD
-IsLTM2NjkxOTIyMyw1NjA0ODMwODAsMTg5NDM5OTI3MiwxMDEw
-MDk0MDQ2XX0=
+eyJoaXN0b3J5IjpbMTMyMzI4NzcyNiwtMTkxMjg2NTE5MiwxNz
+Y2NTM1ODMzLC0xNDY0MjA2OTk3LC0xMjQzNjY5NDYzLDE5Njg3
+MTA3ODIsLTUwNDI3OTUwNCw2MTU5MjcwNDAsLTUxNDkzNzMzNS
+wxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LDE2NDgw
+NDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNTc3MDUzMz
+kyLDM0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4MCwxODk0
+Mzk5MjcyXX0=
 -->
