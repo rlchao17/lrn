@@ -149,6 +149,7 @@ Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frå
  5. Hjärtat pumpar **blodet** runt i hela kroppen.<br>Hela kroppen får syre.
  6. När blodet har lämnat syre går det tillbaka till **hjärtat**.
 
+# 
 # Njurarna
 
 | Svenska | Modersmål |
@@ -172,11 +173,11 @@ Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frå
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzQ0NjYyMiwtNTA0Mjc5NTA0LDYxNT
-kyNzA0MCwtNTE0OTM3MzM1LDEzNTMzOTY4NjAsMTIxNTA5Mzkz
-Niw1NTI1MjM4ODgsMTY0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNT
-MzOTQyNjgsLTE1NzcwNTMzOTIsMzQ0NDYwNTAyLC0zNjY5MTky
-MjMsNTYwNDgzMDgwLDE4OTQzOTkyNzIsMTAxMDA5NDA0NiwtMT
-U0OTMwNSwtMTM5NjM0Mzc1MCwtNTg3Mjk5MTE1LDEyODc5MDQ0
-ODddfQ==
+eyJoaXN0b3J5IjpbLTIxMTUxNTM5NjUsLTUwNDI3OTUwNCw2MT
+U5MjcwNDAsLTUxNDkzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5
+MzYsNTUyNTIzODg4LDE2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMT
+UzMzk0MjY4LC0xNTc3MDUzMzkyLDM0NDQ2MDUwMiwtMzY2OTE5
+MjIzLDU2MDQ4MzA4MCwxODk0Mzk5MjcyLDEwMTAwOTQwNDYsLT
+E1NDkzMDUsLTEzOTYzNDM3NTAsLTU4NzI5OTExNSwxMjg3OTA0
+NDg3XX0=
 -->
