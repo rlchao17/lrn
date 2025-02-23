@@ -113,7 +113,8 @@ Det är din puls. Det är dit blod som *pumpas* runt i kroppen.
 | hos en bebis | ungefär 140 gånger |
 | hos en 10-åring | ungefär 90 gånger |
 | hos en vuxen person | ungefär 65 gånger |
-Hjärtat pumpar fortare när man springer. Hos en vuxen person som vilar pumpar hjärtat ungefär 65 gånger på en minut. Men hos en vuxen 
+Hjärtat pumpar fortare när man springer. Hos en vuxen person som vilar pumpar hjärtat ungefär 65 gånger på en minut. Men hos en vuxen person som springer pumpar hjärtat ungefär 150 gånger på en minut.
+
 # Levern
 
 | Svenska | Modersmål |
@@ -150,7 +151,7 @@ Hjärtat pumpar fortare när man springer. Hos en vuxen person som vilar pumpar 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDg3NTA5Miw2MTU5MjcwNDAsLTUxND
+eyJoaXN0b3J5IjpbMTE4MzgzNTUzNiw2MTU5MjcwNDAsLTUxND
 kzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4
 LDE2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNT
 c3MDUzMzkyLDM0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4
