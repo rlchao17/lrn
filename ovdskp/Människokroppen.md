@@ -63,7 +63,8 @@ Några leder kan du bara röra lite, till exempel armbågsleden. Den kan du rör
 #### armbågsled
 
 # Musklerna
-Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler. En männ
+Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler. En människa som väger 60 kilo har ungefär 30 kilo muskler. De flesta av musklerna sitter fast i skelettet.
+
 # Levern
 
 | Svenska | Modersål |
@@ -100,7 +101,7 @@ Musklerna är köttet i kroppen. En vuxen person har ungefär 650 muskler. En m�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzQ1ODE1OCw1NjA0ODMwODAsMTg5ND
+eyJoaXN0b3J5IjpbLTM2NjkxOTIyMyw1NjA0ODMwODAsMTg5ND
 M5OTI3MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1LC0xMzk2MzQzNzUw
 LC01ODcyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2MjI5OSwtMT
 YxMDg3OTUyNCwtMTg2MzM5NDAyMiwzNTQwNDQ4MDYsMjExODcw
