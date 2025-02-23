@@ -150,7 +150,18 @@ Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frå
  6. När blodet har lämnat syre går det tillbaka till **hjärtat**.
 
 # Blodet och tarmarna
-Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hjärtat och blodet. 
+Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hjärtat och blodet. Men Josef har många frågor.
+| <!-- --> | <!-- --> |
+| --- | --- |
+| **Josef** |  |
+| **Mamma** |  |
+| **Josef** |  |
+| **Mamma** |  |
+| **Josef** |  |
+| **Mamma** |  |
+| **Josef** |  |
+| **Mamma** |  |
+
 # Njurarna
 
 | Svenska | Modersmål |
@@ -174,11 +185,11 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ0MDg4MjMsLTUwNDI3OTUwNCw2MT
-U5MjcwNDAsLTUxNDkzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5
-MzYsNTUyNTIzODg4LDE2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMT
-UzMzk0MjY4LC0xNTc3MDUzMzkyLDM0NDQ2MDUwMiwtMzY2OTE5
-MjIzLDU2MDQ4MzA4MCwxODk0Mzk5MjcyLDEwMTAwOTQwNDYsLT
-E1NDkzMDUsLTEzOTYzNDM3NTAsLTU4NzI5OTExNSwxMjg3OTA0
-NDg3XX0=
+eyJoaXN0b3J5IjpbMTk2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNT
+kyNzA0MCwtNTE0OTM3MzM1LDEzNTMzOTY4NjAsMTIxNTA5Mzkz
+Niw1NTI1MjM4ODgsMTY0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNT
+MzOTQyNjgsLTE1NzcwNTMzOTIsMzQ0NDYwNTAyLC0zNjY5MTky
+MjMsNTYwNDgzMDgwLDE4OTQzOTkyNzIsMTAxMDA5NDA0NiwtMT
+U0OTMwNSwtMTM5NjM0Mzc1MCwtNTg3Mjk5MTE1LDEyODc5MDQ0
+ODddfQ==
 -->
