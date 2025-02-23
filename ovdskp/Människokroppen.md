@@ -127,7 +127,8 @@ Hjärtat pumpar fortare när man springer. Hos en vuxen person som vilar pumpar 
 | ett gift | 一种毒素 |
 | giftig | 有毒的 |
 
-
+# Lungorna och blodet
+Der här är Fati
 # Njurarna
 
 | Svenska | Modersmål |
@@ -151,11 +152,11 @@ Hjärtat pumpar fortare när man springer. Hos en vuxen person som vilar pumpar 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzgzNTUzNiw2MTU5MjcwNDAsLTUxND
-kzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4
-LDE2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNT
-c3MDUzMzkyLDM0NDQ2MDUwMiwtMzY2OTE5MjIzLDU2MDQ4MzA4
-MCwxODk0Mzk5MjcyLDEwMTAwOTQwNDYsLTE1NDkzMDUsLTEzOT
-YzNDM3NTAsLTU4NzI5OTExNSwxMjg3OTA0NDg3LC0xMTk3NjYy
-Mjk5XX0=
+eyJoaXN0b3J5IjpbLTIwNDgzNzU2ODIsNjE1OTI3MDQwLC01MT
+Q5MzczMzUsMTM1MzM5Njg2MCwxMjE1MDkzOTM2LDU1MjUyMzg4
+OCwxNjQ4MDQwMTY3LC0xNTAwNDU4NzA0LDE1MzM5NDI2OCwtMT
+U3NzA1MzM5MiwzNDQ0NjA1MDIsLTM2NjkxOTIyMyw1NjA0ODMw
+ODAsMTg5NDM5OTI3MiwxMDEwMDk0MDQ2LC0xNTQ5MzA1LC0xMz
+k2MzQzNzUwLC01ODcyOTkxMTUsMTI4NzkwNDQ4NywtMTE5NzY2
+MjI5OV19
 -->
