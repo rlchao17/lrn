@@ -151,8 +151,8 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 | **Josef** | Mamma, är det så här? Man ska ladda batteriet på en mobiltelefon för att den ska fungera. Min kropp behöver syre och näring för att fungera. |
 | **Mamma** | Ja, så kanske man kan säga. Nu måste vi äta! |
 
-Matens väg genom kropp
- 1. List item
+**Matens väg genom kroppen.**
+ 1. Hon tuggar maten.
 
 # Levern
 
@@ -189,11 +189,11 @@ Matens väg genom kropp
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0MjY1ODc2LDE3NjY1MzU4MzMsLTE0Nj
-QyMDY5OTcsLTEyNDM2Njk0NjMsMTk2ODcxMDc4MiwtNTA0Mjc5
-NTA0LDYxNTkyNzA0MCwtNTE0OTM3MzM1LDEzNTMzOTY4NjAsMT
-IxNTA5MzkzNiw1NTI1MjM4ODgsMTY0ODA0MDE2NywtMTUwMDQ1
-ODcwNCwxNTMzOTQyNjgsLTE1NzcwNTMzOTIsMzQ0NDYwNTAyLC
-0zNjY5MTkyMjMsNTYwNDgzMDgwLDE4OTQzOTkyNzIsMTAxMDA5
-NDA0Nl19
+eyJoaXN0b3J5IjpbLTIwNTM0MjE4NjAsMTc2NjUzNTgzMywtMT
+Q2NDIwNjk5NywtMTI0MzY2OTQ2MywxOTY4NzEwNzgyLC01MDQy
+Nzk1MDQsNjE1OTI3MDQwLC01MTQ5MzczMzUsMTM1MzM5Njg2MC
+wxMjE1MDkzOTM2LDU1MjUyMzg4OCwxNjQ4MDQwMTY3LC0xNTAw
+NDU4NzA0LDE1MzM5NDI2OCwtMTU3NzA1MzM5MiwzNDQ0NjA1MD
+IsLTM2NjkxOTIyMyw1NjA0ODMwODAsMTg5NDM5OTI3MiwxMDEw
+MDk0MDQ2XX0=
 -->
