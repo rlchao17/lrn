@@ -156,7 +156,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
  2. Maten åker ner genom **matstrupen** till magsäcken.
  3. I **magsäcken** blandas maten med sur magsaft. Maten blir som en gröt.
  4. Sedan åker maten ner till **tunntarmen**. Tunntarmen arbetar också med maten. Blodet kommer nu och hämtar näring från maten. Sedan lämnar blodet näringen i till exempel musklerna.
- 5. Det som är kvar av maten åker ner till **tjocktarmen**. Tjocktarmen suger upp vattnet från maten.
+ 5. Det som är kvar av maten åker ner till **tjocktarmen**. Tjocktarmen *suger* upp vattnet från maten.
  6. Kroppen kan inte använda allt som vi äter och dricker. Det som nu finns kvar av maten kommer ut som avföring genom **ändtarmen**.
 
 # Levern
@@ -194,11 +194,11 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjIzODI1NywyMTE2NjcyNzI3LC0xOT
-EyODY1MTkyLDE3NjY1MzU4MzMsLTE0NjQyMDY5OTcsLTEyNDM2
-Njk0NjMsMTk2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTkyNzA0MC
-wtNTE0OTM3MzM1LDEzNTMzOTY4NjAsMTIxNTA5MzkzNiw1NTI1
-MjM4ODgsMTY0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNTMzOTQyNj
-gsLTE1NzcwNTMzOTIsMzQ0NDYwNTAyLC0zNjY5MTkyMjMsNTYw
-NDgzMDgwXX0=
+eyJoaXN0b3J5IjpbLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNj
+Y3MjcyNywtMTkxMjg2NTE5MiwxNzY2NTM1ODMzLC0xNDY0MjA2
+OTk3LC0xMjQzNjY5NDYzLDE5Njg3MTA3ODIsLTUwNDI3OTUwNC
+w2MTU5MjcwNDAsLTUxNDkzNzMzNSwxMzUzMzk2ODYwLDEyMTUw
+OTM5MzYsNTUyNTIzODg4LDE2NDgwNDAxNjcsLTE1MDA0NTg3MD
+QsMTUzMzk0MjY4LC0xNTc3MDUzMzkyLDM0NDQ2MDUwMiwtMzY2
+OTE5MjIzXX0=
 -->
