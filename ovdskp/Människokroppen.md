@@ -157,7 +157,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
  3. I **magsäcken** blandas maten med sur magsaft. Maten blir som en gröt.
  4. Sedan åker maten ner till **tunntarmen**. Tunntarmen arbetar också med maten. Blodet kommer nu och hämtar näring från maten. Sedan lämnar blodet näringen i till exempel musklerna.
  5. Det som är kvar av maten åker ner till **tjocktarmen**. Tjocktarmen suger upp vattnet från maten.
- 6. Kroppen kan inte använda allt som vi äter och dricker. Det som nu finns kvar av maten
+ 6. Kroppen kan inte använda allt som vi äter och dricker. Det som nu finns kvar av maten kommer ut som avföring genom **ändtarmen**.
 
 # Levern
 
@@ -194,7 +194,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzg1ODM4NCwyMTE2NjcyNzI3LC0xOT
+eyJoaXN0b3J5IjpbMTEzNjIzODI1NywyMTE2NjcyNzI3LC0xOT
 EyODY1MTkyLDE3NjY1MzU4MzMsLTE0NjQyMDY5OTcsLTEyNDM2
 Njk0NjMsMTk2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTkyNzA0MC
 wtNTE0OTM3MzM1LDEzNTMzOTY4NjAsMTIxNTA5MzkzNiw1NTI1
