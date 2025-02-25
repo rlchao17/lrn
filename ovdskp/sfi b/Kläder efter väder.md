@@ -6,9 +6,10 @@ Ylva ska gå till jobbet. Men hon vill inte ha sin varma vinterjacka. Den har ho
 
 Innan Ylva går hemifrån tittar hon i spegeln. Hon är fin. Vårfin. Hon går ut. Det blåser och är kallt. Solen skiner i ögonen. Men solen värmer inte.
 
-Ylva skyndar dig
+Ylva skyndar sig till jobbet. Solen går i moln. Små, vita snöflingor börjar falla. Vintern är visst fortfarande kvar. Typiskt aprilväder.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc4MzMzMCwtMzM2MjgxNjQwLC0yMD
+eyJoaXN0b3J5IjpbLTk5MTM5MzUyMiwtMzM2MjgxNjQwLC0yMD
 A0NDAyOTgwLDE1NTg5OTkxNDldfQ==
 -->
