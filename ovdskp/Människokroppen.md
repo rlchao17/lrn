@@ -179,7 +179,8 @@ Blodet *rinner* genom levern. Där stoppas farliga ämnen från att komma ut i k
 
 # Njurarna
 Njurarna renar också blodet. Blodet rinner genom njurarna. Vatten och ämnen som kroppen inte behöver blir *urin*.
-njurarna<br>urinbl
+#### njurarna<br>urinblåsan
+
 | Svenska | Modersmål |
 |--|--|
 | urin | 尿液 |
@@ -201,11 +202,11 @@ njurarna<br>urinbl
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODU4OTM3NSwtMTAzNTk0MzUxOSwtOT
-c1MjAwOTUsMTEzNjIzODI1NywyMTE2NjcyNzI3LC0xOTEyODY1
-MTkyLDE3NjY1MzU4MzMsLTE0NjQyMDY5OTcsLTEyNDM2Njk0Nj
-MsMTk2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTkyNzA0MCwtNTE0
-OTM3MzM1LDEzNTMzOTY4NjAsMTIxNTA5MzkzNiw1NTI1MjM4OD
-gsMTY0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1
-NzcwNTMzOTJdfQ==
+eyJoaXN0b3J5IjpbODc5ODYxNjAsLTEwMzU5NDM1MTksLTk3NT
+IwMDk1LDExMzYyMzgyNTcsMjExNjY3MjcyNywtMTkxMjg2NTE5
+MiwxNzY2NTM1ODMzLC0xNDY0MjA2OTk3LC0xMjQzNjY5NDYzLD
+E5Njg3MTA3ODIsLTUwNDI3OTUwNCw2MTU5MjcwNDAsLTUxNDkz
+NzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LD
+E2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNTc3
+MDUzMzkyXX0=
 -->
