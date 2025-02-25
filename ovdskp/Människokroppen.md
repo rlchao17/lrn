@@ -160,9 +160,9 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
  6. Kroppen kan inte använda allt som vi äter och dricker. Det som nu finns kvar av maten kommer ut som avföring genom **ändtarmen**.
 
 # Levern
-Kroppen kan inte använda allt som du äter och dricker. Allt är inte bra för kroppen. Därför måste blodet renas. Det är levern som renar blodet.
+Kroppen kan inte använda allt som du äter och dricker. Allt är inte bra för kroppen. Därför måste blodet *renas*. Det är levern som *renar* blodet.
 
-Blodet *rinner* genom levern. Där stoppas farliga ämnen från att komma ut i kroppen. Farliga ämnen är till exempel gift som finns i cigaretter. Där inte bra om det finns för mycket giftiga ämnen i levern.
+Blodet *rinner* genom levern. Där stoppas farliga ämnen från att komma ut i kroppen. *Farliga* *ämnen* är till exempel *gift* som finns i cigaretter. Där inte bra om det finns för mycket *giftiga* *ämnen* i levern.
 #### levern
 
 | Svenska | Kinesiska |
@@ -198,11 +198,11 @@ Blodet *rinner* genom levern. Där stoppas farliga ämnen från att komma ut i k
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MzkzOTYsLTEwMzU5NDM1MTksLTk3NT
-IwMDk1LDExMzYyMzgyNTcsMjExNjY3MjcyNywtMTkxMjg2NTE5
-MiwxNzY2NTM1ODMzLC0xNDY0MjA2OTk3LC0xMjQzNjY5NDYzLD
-E5Njg3MTA3ODIsLTUwNDI3OTUwNCw2MTU5MjcwNDAsLTUxNDkz
-NzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LD
-E2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNTc3
-MDUzMzkyXX0=
+eyJoaXN0b3J5IjpbMTA4NDAwNjM2NCwtMTAzNTk0MzUxOSwtOT
+c1MjAwOTUsMTEzNjIzODI1NywyMTE2NjcyNzI3LC0xOTEyODY1
+MTkyLDE3NjY1MzU4MzMsLTE0NjQyMDY5OTcsLTEyNDM2Njk0Nj
+MsMTk2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTkyNzA0MCwtNTE0
+OTM3MzM1LDEzNTMzOTY4NjAsMTIxNTA5MzkzNiw1NTI1MjM4OD
+gsMTY0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1
+NzcwNTMzOTJdfQ==
 -->
