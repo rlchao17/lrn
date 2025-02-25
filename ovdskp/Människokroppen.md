@@ -183,7 +183,9 @@ Njurarna renar också blodet. Blodet rinner genom njurarna. Vatten och ämnen so
 > Levern och njurarna är kroppens tvättmaskin, tror jag.
 
 ## Urinprov
-Ibland vill läkaren att man ska lämna urinprov. 
+Ibland vill läkaren att man ska lämna urinprov. I urinen kan läkaren se om man har någon sjukdom, till exempel diabetes.
+
+Man kan också se i en kvinnas urin om hon är gravid.
 | Svenska | Kinesiska |
 |--|--|
 | urin | 尿液 |
@@ -205,11 +207,11 @@ Ibland vill läkaren att man ska lämna urinprov.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIzMTAzMzUsODc5ODYxNjAsLTEwMz
-U5NDM1MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNjY3Mjcy
-NywtMTkxMjg2NTE5MiwxNzY2NTM1ODMzLC0xNDY0MjA2OTk3LC
-0xMjQzNjY5NDYzLDE5Njg3MTA3ODIsLTUwNDI3OTUwNCw2MTU5
-MjcwNDAsLTUxNDkzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5Mz
-YsNTUyNTIzODg4LDE2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMTUz
-Mzk0MjY4XX0=
+eyJoaXN0b3J5IjpbLTc3ODM2NjY1OCw4Nzk4NjE2MCwtMTAzNT
+k0MzUxOSwtOTc1MjAwOTUsMTEzNjIzODI1NywyMTE2NjcyNzI3
+LC0xOTEyODY1MTkyLDE3NjY1MzU4MzMsLTE0NjQyMDY5OTcsLT
+EyNDM2Njk0NjMsMTk2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTky
+NzA0MCwtNTE0OTM3MzM1LDEzNTMzOTY4NjAsMTIxNTA5MzkzNi
+w1NTI1MjM4ODgsMTY0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNTMz
+OTQyNjhdfQ==
 -->
