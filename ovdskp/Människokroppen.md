@@ -195,8 +195,10 @@ Man kan också se i en kvinnas urin om hon är *gravid*.
 
 # Hjärnan och nerverna
 Hjärnan finns inuti huvudet. Den är mycket viktig.
+Vi tänker med hjärnan. Hjärnan hjälper oss med mycket, till exempel att minnas.
 
-Vi tänker 
+
+
 |Svenska  | Kinesiska |
 |--|--|
 | en nerv | 神经 |
@@ -209,7 +211,7 @@ Vi tänker
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTIwNTYzNCwtNzc4MzY2NjU4LDg3OT
+eyJoaXN0b3J5IjpbMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3OT
 g2MTYwLC0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMTM2MjM4MjU3
 LDIxMTY2NzI3MjcsLTE5MTI4NjUxOTIsMTc2NjUzNTgzMywtMT
 Q2NDIwNjk5NywtMTI0MzY2OTQ2MywxOTY4NzEwNzgyLC01MDQy
