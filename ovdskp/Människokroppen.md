@@ -219,18 +219,18 @@ När du känner på ett äpple skickas ett meddelande från nerver i din hud til
 När du luktar på äpplet skickas ett meddelande från nerver i din näsa till hjärnan. Hjärnan talar om för dig hur det luktar. Sedan minns hjärnan hur ett äpple luktar.
 
 ## Syn
-
+När du ser på äpplet skickas ett meddelande från nerver i dina ögon till hjärnan. Hjärnan talar om vad du ser. 
 
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Nzc1NjgyOCwtMjAxMzM4ODY1NiwxND
-k1NDAwMDEzLDEyNTEyODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2
-NjU4LDg3OTg2MTYwLC0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMT
-M2MjM4MjU3LDIxMTY2NzI3MjcsLTE5MTI4NjUxOTIsMTc2NjUz
-NTgzMywtMTQ2NDIwNjk5NywtMTI0MzY2OTQ2MywxOTY4NzEwNz
-gyLC01MDQyNzk1MDQsNjE1OTI3MDQwLC01MTQ5MzczMzUsMTM1
-MzM5Njg2MF19
+eyJoaXN0b3J5IjpbLTExMzAwNDE2MzEsLTI0Nzc1NjgyOCwtMj
+AxMzM4ODY1NiwxNDk1NDAwMDEzLDEyNTEyODc3NjEsMTIzMDc4
+NTcyMywtNzc4MzY2NjU4LDg3OTg2MTYwLC0xMDM1OTQzNTE5LC
+05NzUyMDA5NSwxMTM2MjM4MjU3LDIxMTY2NzI3MjcsLTE5MTI4
+NjUxOTIsMTc2NjUzNTgzMywtMTQ2NDIwNjk5NywtMTI0MzY2OT
+Q2MywxOTY4NzEwNzgyLC01MDQyNzk1MDQsNjE1OTI3MDQwLC01
+MTQ5MzczMzVdfQ==
 -->
