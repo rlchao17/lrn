@@ -162,7 +162,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 # Levern
 Kroppen kan inte använda allt som du äter och dricker. Allt är inte bra för kroppen. Därför måste blodet renas. Det är levern som renar blodet.
 
-
+Blodet rinner genom levern
 | Svenska | Kinesiska |
 |--|--|
 | en lever | 一个肝脏 |
@@ -196,7 +196,7 @@ Kroppen kan inte använda allt som du äter och dricker. Allt är inte bra för 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTk1MTc1NCwtOTc1MjAwOTUsMTEzNj
+eyJoaXN0b3J5IjpbMTU4NTUwMTI5MCwtOTc1MjAwOTUsMTEzNj
 IzODI1NywyMTE2NjcyNzI3LC0xOTEyODY1MTkyLDE3NjY1MzU4
 MzMsLTE0NjQyMDY5OTcsLTEyNDM2Njk0NjMsMTk2ODcxMDc4Mi
 wtNTA0Mjc5NTA0LDYxNTkyNzA0MCwtNTE0OTM3MzM1LDEzNTMz
