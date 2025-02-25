@@ -175,7 +175,10 @@ Blodet *rinner* genom levern. Där stoppas farliga ämnen från att komma ut i k
 | ett gift | 一种毒素 |
 | giftig | 有毒的 |
 
+**Det som finns i den här flaskan är giftigt. Man får inte dricka det. Det är farligt.**
+
 # Njurarna
+Njurarna renar också blodet. Blodet rinner genom njurarna. Vatten och ämnen som kroppen inte behöver blir *urin*.
 
 | Svenska | Modersmål |
 |--|--|
@@ -198,7 +201,7 @@ Blodet *rinner* genom levern. Där stoppas farliga ämnen från att komma ut i k
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDAwNjM2NCwtMTAzNTk0MzUxOSwtOT
+eyJoaXN0b3J5IjpbLTcwODgxNDUwMiwtMTAzNTk0MzUxOSwtOT
 c1MjAwOTUsMTEzNjIzODI1NywyMTE2NjcyNzI3LC0xOTEyODY1
 MTkyLDE3NjY1MzU4MzMsLTE0NjQyMDY5OTcsLTEyNDM2Njk0Nj
 MsMTk2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTkyNzA0MCwtNTE0
