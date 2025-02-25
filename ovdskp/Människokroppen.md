@@ -212,11 +212,11 @@ Från hjärnan går *nerver*. Genom nerverna *skickas* *meddelanden* från hjär
 Vi har fem sinnen: känsel, lukt, syn, smak och hörsel.
 
 ## Känsel
-När du känner på ett äpple skickas ett meddelande från nerver i din hud till hjärnan. Hjärnan *talar om för* dig hur det känns. Sedan *minns* hjärnan hur ett äpple känns.
+När du känner på ett äpple skickas ett meddelande från nerver i din **hud** till hjärnan. Hjärnan *talar om för* dig hur det känns. Sedan *minns* hjärnan hur ett äpple känns.
 #### hud
 
 ## Lukt
-När du luktar på äpplet skickas ett meddelande från nerver i din näsa till hjärnan. Hjärnan talar om för dig hur det luktar. Sedan minns hjärnan hur ett äpple luktar.
+När du luktar på äpplet skickas ett meddelande från nerver i din **näsa** till hjärnan. Hjärnan talar om för dig hur det luktar. Sedan minns hjärnan hur ett äpple luktar.
 
 ## Syn
 När du ser på äpplet skickas ett meddelande från nerver i dina **ögon** till hjärnan. Hjärnan talar om vad du ser. Sedan minns hjärnan hur ett äpple ser ut.
@@ -225,18 +225,18 @@ När du ser på äpplet skickas ett meddelande från nerver i dina **ögon** til
 När du smakar på äpplet skickas ett meddelande från **tungan** och **näsan** till hjärnan. Hjärnan talar om dig hur det smakar. Sedan minns hjärnan hur ett äpple smakar.
 
 ## Hörsel
-
+När du äter äpplet hör **örat** hur det låter. 
 
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk1Nzg0OTYsLTE0MTY2NzgxNjAsLT
-I0Nzc1NjgyOCwtMjAxMzM4ODY1NiwxNDk1NDAwMDEzLDEyNTEy
-ODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3OTg2MTYwLC
-0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMTM2MjM4MjU3LDIxMTY2
-NzI3MjcsLTE5MTI4NjUxOTIsMTc2NjUzNTgzMywtMTQ2NDIwNj
-k5NywtMTI0MzY2OTQ2MywxOTY4NzEwNzgyLC01MDQyNzk1MDQs
-NjE1OTI3MDQwXX0=
+eyJoaXN0b3J5IjpbMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMj
+Q3NzU2ODI4LC0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4
+Nzc2MSwxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAsLT
+EwMzU5NDM1MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNjY3
+MjcyNywtMTkxMjg2NTE5MiwxNzY2NTM1ODMzLC0xNDY0MjA2OT
+k3LC0xMjQzNjY5NDYzLDE5Njg3MTA3ODIsLTUwNDI3OTUwNCw2
+MTU5MjcwNDBdfQ==
 -->
