@@ -209,17 +209,18 @@ Från hjärnan går *nerver*. Genom nerverna *skickas* *meddelanden* från hjär
 | ett meddelande | 信息 |
 
 # Våra sinnen
+Vi har fem sinnen: känsel, lukt, syn, smak och hörsel.
 
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODE2MzAxNSwxNDk1NDAwMDEzLDEyNT
-EyODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3OTg2MTYw
-LC0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMTM2MjM4MjU3LDIxMT
-Y2NzI3MjcsLTE5MTI4NjUxOTIsMTc2NjUzNTgzMywtMTQ2NDIw
-Njk5NywtMTI0MzY2OTQ2MywxOTY4NzEwNzgyLC01MDQyNzk1MD
-QsNjE1OTI3MDQwLC01MTQ5MzczMzUsMTM1MzM5Njg2MCwxMjE1
-MDkzOTM2XX0=
+eyJoaXN0b3J5IjpbNDA0MzQyNDgzLDE0OTU0MDAwMTMsMTI1MT
+I4Nzc2MSwxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAs
+LTEwMzU5NDM1MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNj
+Y3MjcyNywtMTkxMjg2NTE5MiwxNzY2NTM1ODMzLC0xNDY0MjA2
+OTk3LC0xMjQzNjY5NDYzLDE5Njg3MTA3ODIsLTUwNDI3OTUwNC
+w2MTU5MjcwNDAsLTUxNDkzNzMzNSwxMzUzMzk2ODYwLDEyMTUw
+OTM5MzZdfQ==
 -->
