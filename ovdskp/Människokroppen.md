@@ -209,12 +209,13 @@ Från hjärnan går *nerver*. Genom nerverna *skickas* *meddelanden* från hjär
 | ett meddelande | 信息 |
 
 # Våra sinnen
+
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjEyODY3OSwxNDk1NDAwMDEzLDEyNT
+eyJoaXN0b3J5IjpbMTc4ODE2MzAxNSwxNDk1NDAwMDEzLDEyNT
 EyODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3OTg2MTYw
 LC0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMTM2MjM4MjU3LDIxMT
 Y2NzI3MjcsLTE5MTI4NjUxOTIsMTc2NjUzNTgzMywtMTQ2NDIw
