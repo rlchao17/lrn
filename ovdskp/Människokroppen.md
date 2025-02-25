@@ -160,7 +160,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
  6. Kroppen kan inte använda allt som vi äter och dricker. Det som nu finns kvar av maten kommer ut som avföring genom **ändtarmen**.
 
 # Levern
-Kroppen kan inte använda allt som du äter och dricker. Allt är inte bra för kroppen. Därför måste blodet renas. 
+Kroppen kan inte använda allt som du äter och dricker. Allt är inte bra för kroppen. Därför måste blodet renas. Det är levern
 | Svenska | Kinesiska |
 |--|--|
 | en lever | 一个肝脏 |
@@ -194,7 +194,7 @@ Kroppen kan inte använda allt som du äter och dricker. Allt är inte bra för 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1NTYzOTc4LC05NzUyMDA5NSwxMTM2Mj
+eyJoaXN0b3J5IjpbNjU3ODc3Njc1LC05NzUyMDA5NSwxMTM2Mj
 M4MjU3LDIxMTY2NzI3MjcsLTE5MTI4NjUxOTIsMTc2NjUzNTgz
 MywtMTQ2NDIwNjk5NywtMTI0MzY2OTQ2MywxOTY4NzEwNzgyLC
 01MDQyNzk1MDQsNjE1OTI3MDQwLC01MTQ5MzczMzUsMTM1MzM5
