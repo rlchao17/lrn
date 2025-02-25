@@ -194,7 +194,9 @@ Man kan också se i en kvinnas urin om hon är *gravid*.
 | gravid | 怀孕的 |
 
 # Hjärnan och nerverna
-Hjär
+Hjärnan finns inuti huvudet. Den är mycket viktig.
+
+Vi tänker 
 |Svenska  | Kinesiska |
 |--|--|
 | en nerv | 神经 |
@@ -207,11 +209,11 @@ Hjär
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk5MzE1MTIsLTc3ODM2NjY1OCw4Nz
-k4NjE2MCwtMTAzNTk0MzUxOSwtOTc1MjAwOTUsMTEzNjIzODI1
-NywyMTE2NjcyNzI3LC0xOTEyODY1MTkyLDE3NjY1MzU4MzMsLT
-E0NjQyMDY5OTcsLTEyNDM2Njk0NjMsMTk2ODcxMDc4MiwtNTA0
-Mjc5NTA0LDYxNTkyNzA0MCwtNTE0OTM3MzM1LDEzNTMzOTY4Nj
-AsMTIxNTA5MzkzNiw1NTI1MjM4ODgsMTY0ODA0MDE2NywtMTUw
-MDQ1ODcwNF19
+eyJoaXN0b3J5IjpbLTYzOTIwNTYzNCwtNzc4MzY2NjU4LDg3OT
+g2MTYwLC0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMTM2MjM4MjU3
+LDIxMTY2NzI3MjcsLTE5MTI4NjUxOTIsMTc2NjUzNTgzMywtMT
+Q2NDIwNjk5NywtMTI0MzY2OTQ2MywxOTY4NzEwNzgyLC01MDQy
+Nzk1MDQsNjE1OTI3MDQwLC01MTQ5MzczMzUsMTM1MzM5Njg2MC
+wxMjE1MDkzOTM2LDU1MjUyMzg4OCwxNjQ4MDQwMTY3LC0xNTAw
+NDU4NzA0XX0=
 -->
