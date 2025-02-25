@@ -162,7 +162,8 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 # Levern
 Kroppen kan inte använda allt som du äter och dricker. Allt är inte bra för kroppen. Därför måste blodet renas. Det är levern som renar blodet.
 
-Blodet rinner genom levern. Där stoppas farliga ämnen från att komma ut i kroppen. Farliga ämnen är till exempel gift som finns i cigaretter. Där inte bra om det f
+Blodet rinner genom levern. Där stoppas farliga ämnen från att komma ut i kroppen. Farliga ämnen är till exempel gift som finns i cigaretter. Där inte bra om det finns för mycket giftiga ämnen i levern.
+#### levern
 | Svenska | Kinesiska |
 |--|--|
 | en lever | 一个肝脏 |
@@ -196,11 +197,11 @@ Blodet rinner genom levern. Där stoppas farliga ämnen från att komma ut i kro
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjM5Mzg0NSwtMTAzNTk0MzUxOSwtOT
-c1MjAwOTUsMTEzNjIzODI1NywyMTE2NjcyNzI3LC0xOTEyODY1
-MTkyLDE3NjY1MzU4MzMsLTE0NjQyMDY5OTcsLTEyNDM2Njk0Nj
-MsMTk2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTkyNzA0MCwtNTE0
-OTM3MzM1LDEzNTMzOTY4NjAsMTIxNTA5MzkzNiw1NTI1MjM4OD
-gsMTY0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1
-NzcwNTMzOTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMTEyMjk3MTQsLTEwMzU5NDM1MTksLT
+k3NTIwMDk1LDExMzYyMzgyNTcsMjExNjY3MjcyNywtMTkxMjg2
+NTE5MiwxNzY2NTM1ODMzLC0xNDY0MjA2OTk3LC0xMjQzNjY5ND
+YzLDE5Njg3MTA3ODIsLTUwNDI3OTUwNCw2MTU5MjcwNDAsLTUx
+NDkzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzOD
+g4LDE2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0x
+NTc3MDUzMzkyXX0=
 -->
