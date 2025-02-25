@@ -211,16 +211,18 @@ Från hjärnan går *nerver*. Genom nerverna *skickas* *meddelanden* från hjär
 # Våra sinnen
 Vi har fem sinnen: känsel, lukt, syn, smak och hörsel.
 
+## Känsel
+När du känner på ett äpple 
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0MzQyNDgzLDE0OTU0MDAwMTMsMTI1MT
-I4Nzc2MSwxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAs
-LTEwMzU5NDM1MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNj
-Y3MjcyNywtMTkxMjg2NTE5MiwxNzY2NTM1ODMzLC0xNDY0MjA2
-OTk3LC0xMjQzNjY5NDYzLDE5Njg3MTA3ODIsLTUwNDI3OTUwNC
-w2MTU5MjcwNDAsLTUxNDkzNzMzNSwxMzUzMzk2ODYwLDEyMTUw
-OTM5MzZdfQ==
+eyJoaXN0b3J5IjpbLTE5NzQ4NzQwODIsMTQ5NTQwMDAxMywxMj
+UxMjg3NzYxLDEyMzA3ODU3MjMsLTc3ODM2NjY1OCw4Nzk4NjE2
+MCwtMTAzNTk0MzUxOSwtOTc1MjAwOTUsMTEzNjIzODI1NywyMT
+E2NjcyNzI3LC0xOTEyODY1MTkyLDE3NjY1MzU4MzMsLTE0NjQy
+MDY5OTcsLTEyNDM2Njk0NjMsMTk2ODcxMDc4MiwtNTA0Mjc5NT
+A0LDYxNTkyNzA0MCwtNTE0OTM3MzM1LDEzNTMzOTY4NjAsMTIx
+NTA5MzkzNl19
 -->
