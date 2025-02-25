@@ -227,16 +227,17 @@ När du smakar på äpplet skickas ett meddelande från **tungan** och **näsan*
 ## Hörsel
 När du äter äpplet hör **örat** hur det låter. Ett meddelande skickas från örat till hjärnan. Sedan minns hjärnan hur det låter när man äter ett äpple.
 
+
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDYwNzgwMywxMDYzMzM1MzY2LC0xND
-E2Njc4MTYwLC0yNDc3NTY4MjgsLTIwMTMzODg2NTYsMTQ5NTQw
-MDAxMywxMjUxMjg3NzYxLDEyMzA3ODU3MjMsLTc3ODM2NjY1OC
-w4Nzk4NjE2MCwtMTAzNTk0MzUxOSwtOTc1MjAwOTUsMTEzNjIz
-ODI1NywyMTE2NjcyNzI3LC0xOTEyODY1MTkyLDE3NjY1MzU4Mz
-MsLTE0NjQyMDY5OTcsLTEyNDM2Njk0NjMsMTk2ODcxMDc4Miwt
-NTA0Mjc5NTA0XX0=
+eyJoaXN0b3J5IjpbNzgwMTgyNzA3LC01MzA2MDc4MDMsMTA2Mz
+MzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC0yMDEzMzg4
+NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMwNzg1NzIzLC
+03NzgzNjY2NTgsODc5ODYxNjAsLTEwMzU5NDM1MTksLTk3NTIw
+MDk1LDExMzYyMzgyNTcsMjExNjY3MjcyNywtMTkxMjg2NTE5Mi
+wxNzY2NTM1ODMzLC0xNDY0MjA2OTk3LC0xMjQzNjY5NDYzLDE5
+Njg3MTA3ODJdfQ==
 -->
