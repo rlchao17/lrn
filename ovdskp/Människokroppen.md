@@ -197,7 +197,7 @@ Man kan också se i en kvinnas urin om hon är *gravid*.
 Hjärnan finns inuti huvudet. Den är mycket viktig.
 Vi tänker med hjärnan. Hjärnan hjälper oss med mycket, till exempel att minnas.
 
-Från hjärnan går nerver. Genom nerverna skickas meddelanden från hjärnan till olika 
+Från hjärnan går *nerver*. Genom nerverna **skickas** *meddelanden* från hjärnan till olika delar av kroppen och sedan tillbaka till hjärnan.
 
 |Svenska  | Kinesiska |
 |--|--|
@@ -211,11 +211,11 @@ Från hjärnan går nerver. Genom nerverna skickas meddelanden från hjärnan ti
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTI4Nzc2MSwxMjMwNzg1NzIzLC03Nz
-gzNjY2NTgsODc5ODYxNjAsLTEwMzU5NDM1MTksLTk3NTIwMDk1
-LDExMzYyMzgyNTcsMjExNjY3MjcyNywtMTkxMjg2NTE5MiwxNz
-Y2NTM1ODMzLC0xNDY0MjA2OTk3LC0xMjQzNjY5NDYzLDE5Njg3
-MTA3ODIsLTUwNDI3OTUwNCw2MTU5MjcwNDAsLTUxNDkzNzMzNS
-wxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LDE2NDgw
-NDAxNjddfQ==
+eyJoaXN0b3J5IjpbLTE1NDUxMjI4MDgsMTI1MTI4Nzc2MSwxMj
+MwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAsLTEwMzU5NDM1
+MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNjY3MjcyNywtMT
+kxMjg2NTE5MiwxNzY2NTM1ODMzLC0xNDY0MjA2OTk3LC0xMjQz
+NjY5NDYzLDE5Njg3MTA3ODIsLTUwNDI3OTUwNCw2MTU5MjcwND
+AsLTUxNDkzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUy
+NTIzODg4XX0=
 -->
