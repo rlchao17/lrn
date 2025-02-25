@@ -213,15 +213,16 @@ Vi har fem sinnen: känsel, lukt, syn, smak och hörsel.
 
 ## Känsel
 När du känner på ett äpple skickas ett meddelande från nerver i din hud till hjärnan. Hjärnan talar om för dig hur det känns. Sedan *minns* hjärnan hur ett äpple känns.
+#### hud
 
 ## Lukt
-
+När du luktar på äpplet skickas ett meddelande från 
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDIwNjYzMiwxNDk1NDAwMDEzLDEyNT
+eyJoaXN0b3J5IjpbMTM2Njc0NzY3MywxNDk1NDAwMDEzLDEyNT
 EyODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3OTg2MTYw
 LC0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMTM2MjM4MjU3LDIxMT
 Y2NzI3MjcsLTE5MTI4NjUxOTIsMTc2NjUzNTgzMywtMTQ2NDIw
