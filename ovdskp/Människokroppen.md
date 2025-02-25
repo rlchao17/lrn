@@ -178,8 +178,9 @@ Blodet *rinner* genom levern. Där stoppas farliga ämnen från att komma ut i k
 **Det som finns i den här flaskan är giftigt. Man får inte dricka det. Det är farligt.**
 
 # Njurarna
-Njurarna renar också blodet. Blodet rinner genom njurarna. Vatten och ämnen som kroppen inte behöver blir *urin*.
 #### njurarna<br>urinblåsan
+Njurarna renar också blodet. Blodet rinner genom njurarna. Vatten och ämnen som kroppen inte behöver blir *urin*.
+
 > Levern och njurarna är kroppens tvättmaskin, tror jag.
 
 ## Urinprov
@@ -194,10 +195,11 @@ Man kan också se i en kvinnas urin om hon är *gravid*.
 | gravid | 怀孕的 |
 
 # Hjärnan och nerverna
+#### hjärnan<br>nerver
 Hjärnan finns inuti huvudet. Den är mycket viktig.
-Vi tänker med hjärnan. Hjärnan hjälper oss med mycket, till exempel att minnas.
+Vi tänker med hjärnan. Hjärnan hjälper oss med mycket, till exempel att *minnas*.
 
-Från hjärnan går *nerver*. Genom nerverna **skickas** *meddelanden* från hjärnan till olika delar av kroppen och sedan tillbaka till hjärnan.
+Från hjärnan går *nerver*. Genom nerverna *skickas* *meddelanden* från hjärnan till olika delar av kroppen och sedan tillbaka till hjärnan.
 
 |Svenska  | Kinesiska |
 |--|--|
@@ -211,11 +213,11 @@ Från hjärnan går *nerver*. Genom nerverna **skickas** *meddelanden* från hj�
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDUxMjI4MDgsMTI1MTI4Nzc2MSwxMj
-MwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAsLTEwMzU5NDM1
-MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNjY3MjcyNywtMT
-kxMjg2NTE5MiwxNzY2NTM1ODMzLC0xNDY0MjA2OTk3LC0xMjQz
-NjY5NDYzLDE5Njg3MTA3ODIsLTUwNDI3OTUwNCw2MTU5MjcwND
-AsLTUxNDkzNzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUy
-NTIzODg4XX0=
+eyJoaXN0b3J5IjpbMTQ5NTQwMDAxMywxMjUxMjg3NzYxLDEyMz
+A3ODU3MjMsLTc3ODM2NjY1OCw4Nzk4NjE2MCwtMTAzNTk0MzUx
+OSwtOTc1MjAwOTUsMTEzNjIzODI1NywyMTE2NjcyNzI3LC0xOT
+EyODY1MTkyLDE3NjY1MzU4MzMsLTE0NjQyMDY5OTcsLTEyNDM2
+Njk0NjMsMTk2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTkyNzA0MC
+wtNTE0OTM3MzM1LDEzNTMzOTY4NjAsMTIxNTA5MzkzNiw1NTI1
+MjM4ODhdfQ==
 -->
