@@ -180,8 +180,9 @@ Blodet *rinner* genom levern. Där stoppas farliga ämnen från att komma ut i k
 # Njurarna
 Njurarna renar också blodet. Blodet rinner genom njurarna. Vatten och ämnen som kroppen inte behöver blir *urin*.
 #### njurarna<br>urinblåsan
+Levern och njurarna är kroppens tvättmaskin, tror jag.
 
-| Svenska | Modersmål |
+| Svenska | Kinesiska |
 |--|--|
 | urin | 尿液 |
 | en sjukdom | 一种疾病 |
@@ -202,11 +203,11 @@ Njurarna renar också blodet. Blodet rinner genom njurarna. Vatten och ämnen so
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5ODYxNjAsLTEwMzU5NDM1MTksLTk3NT
-IwMDk1LDExMzYyMzgyNTcsMjExNjY3MjcyNywtMTkxMjg2NTE5
-MiwxNzY2NTM1ODMzLC0xNDY0MjA2OTk3LC0xMjQzNjY5NDYzLD
-E5Njg3MTA3ODIsLTUwNDI3OTUwNCw2MTU5MjcwNDAsLTUxNDkz
-NzMzNSwxMzUzMzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LD
-E2NDgwNDAxNjcsLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNTc3
-MDUzMzkyXX0=
+eyJoaXN0b3J5IjpbLTQ2MzkwNTY4MSw4Nzk4NjE2MCwtMTAzNT
+k0MzUxOSwtOTc1MjAwOTUsMTEzNjIzODI1NywyMTE2NjcyNzI3
+LC0xOTEyODY1MTkyLDE3NjY1MzU4MzMsLTE0NjQyMDY5OTcsLT
+EyNDM2Njk0NjMsMTk2ODcxMDc4MiwtNTA0Mjc5NTA0LDYxNTky
+NzA0MCwtNTE0OTM3MzM1LDEzNTMzOTY4NjAsMTIxNTA5MzkzNi
+w1NTI1MjM4ODgsMTY0ODA0MDE2NywtMTUwMDQ1ODcwNCwxNTMz
+OTQyNjhdfQ==
 -->
