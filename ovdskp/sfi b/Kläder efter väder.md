@@ -2,9 +2,11 @@ Det har varit en lång, mörk vinter. Idag är det första april. Ylva vaknar. D
 
 Ylva stiger upp. Hon letar i sin garderob. Hon tar på sig ett par ljusa jeans. Hon hittar också en blommig blus. Den köpte hon på rea i höstas.
 
-Ylva ska gå till jobbet. Men hon vill inte ha sin varm
+Ylva ska gå till jobbet. Men hon vill inte ha sin varma vinterjacka. Den har hon haft på sig hela hösten och vintern. Idag vill hon ha sin nya vårjacka. Hon lämnar sin mössa och sina vantar. Nu är det ju vår.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg4NzIyNzQsLTIwMDQ0MDI5ODAsMT
-U1ODk5OTE0OV19
+eyJoaXN0b3J5IjpbNzM2MzQzODgsLTIwMDQ0MDI5ODAsMTU1OD
+k5OTE0OV19
 -->
