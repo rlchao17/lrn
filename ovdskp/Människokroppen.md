@@ -212,11 +212,13 @@ Från hjärnan går *nerver*. Genom nerverna *skickas* *meddelanden* från hjär
 Vi har fem sinnen: känsel, lukt, syn, smak och hörsel.
 
 ## Känsel
-När du känner på ett äpple skickas ett meddelande från nerver i din hud till hjärnan. Hjärnan talar om för dig hur det känns. Sedan *minns* hjärnan hur ett äpple känns.
+När du känner på ett äpple skickas ett meddelande från nerver i din hud till hjärnan. Hjärnan *talar om för* dig hur det känns. Sedan *minns* hjärnan hur ett äpple känns.
 #### hud
 
 ## Lukt
 När du luktar på äpplet skickas ett meddelande från nerver i din näsa till hjärnan. Hjärnan talar om för dig hur det luktar. Sedan minns hjärnan hur ett äpple luktar.
+
+## Syn
 
 
 # En frisk kopp
@@ -224,11 +226,11 @@ När du luktar på äpplet skickas ett meddelande från nerver i din näsa till 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTMzODg2NTYsMTQ5NTQwMDAxMywxMj
-UxMjg3NzYxLDEyMzA3ODU3MjMsLTc3ODM2NjY1OCw4Nzk4NjE2
-MCwtMTAzNTk0MzUxOSwtOTc1MjAwOTUsMTEzNjIzODI1NywyMT
-E2NjcyNzI3LC0xOTEyODY1MTkyLDE3NjY1MzU4MzMsLTE0NjQy
-MDY5OTcsLTEyNDM2Njk0NjMsMTk2ODcxMDc4MiwtNTA0Mjc5NT
-A0LDYxNTkyNzA0MCwtNTE0OTM3MzM1LDEzNTMzOTY4NjAsMTIx
-NTA5MzkzNl19
+eyJoaXN0b3J5IjpbLTI0Nzc1NjgyOCwtMjAxMzM4ODY1NiwxND
+k1NDAwMDEzLDEyNTEyODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2
+NjU4LDg3OTg2MTYwLC0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMT
+M2MjM4MjU3LDIxMTY2NzI3MjcsLTE5MTI4NjUxOTIsMTc2NjUz
+NTgzMywtMTQ2NDIwNjk5NywtMTI0MzY2OTQ2MywxOTY4NzEwNz
+gyLC01MDQyNzk1MDQsNjE1OTI3MDQwLC01MTQ5MzczMzUsMTM1
+MzM5Njg2MF19
 -->
