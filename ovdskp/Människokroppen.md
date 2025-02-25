@@ -162,7 +162,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 # Levern
 Kroppen kan inte använda allt som du äter och dricker. Allt är inte bra för kroppen. Därför måste blodet renas. Det är levern som renar blodet.
 
-Blodet rinner genom levern
+Blodet rinner genom levern. Dar stoppas farliga ämnen från att komma ut i kroppen.
 | Svenska | Kinesiska |
 |--|--|
 | en lever | 一个肝脏 |
@@ -196,11 +196,11 @@ Blodet rinner genom levern
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTUwMTI5MCwtOTc1MjAwOTUsMTEzNj
-IzODI1NywyMTE2NjcyNzI3LC0xOTEyODY1MTkyLDE3NjY1MzU4
-MzMsLTE0NjQyMDY5OTcsLTEyNDM2Njk0NjMsMTk2ODcxMDc4Mi
-wtNTA0Mjc5NTA0LDYxNTkyNzA0MCwtNTE0OTM3MzM1LDEzNTMz
-OTY4NjAsMTIxNTA5MzkzNiw1NTI1MjM4ODgsMTY0ODA0MDE2Ny
-wtMTUwMDQ1ODcwNCwxNTMzOTQyNjgsLTE1NzcwNTMzOTIsMzQ0
-NDYwNTAyXX0=
+eyJoaXN0b3J5IjpbLTEwMzU5NDM1MTksLTk3NTIwMDk1LDExMz
+YyMzgyNTcsMjExNjY3MjcyNywtMTkxMjg2NTE5MiwxNzY2NTM1
+ODMzLC0xNDY0MjA2OTk3LC0xMjQzNjY5NDYzLDE5Njg3MTA3OD
+IsLTUwNDI3OTUwNCw2MTU5MjcwNDAsLTUxNDkzNzMzNSwxMzUz
+Mzk2ODYwLDEyMTUwOTM5MzYsNTUyNTIzODg4LDE2NDgwNDAxNj
+csLTE1MDA0NTg3MDQsMTUzMzk0MjY4LC0xNTc3MDUzMzkyLDM0
+NDQ2MDUwMl19
 -->
