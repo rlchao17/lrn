@@ -23,14 +23,14 @@ Alla organ i kroppen samarbetar för att din kropp ska fungera bra.
 |ett organ  | 一个器官 |
 
 # Skelettet
-En vuxen människa har 206 ben inuti kroppen. Alla ben tillsammans kallas för ett skelett.
-Skelettets längsta ben är lårbenet.
+En vuxen människa har 206 ben inuti kroppen. Alla ben tillsammans kallas för ett skelett.<br>
+Skelettets längsta ben är lårbenet.<br>
 Skelettets kortaste ben finns inuti örat. Det är bara 3 millimeter.
 
 ## Varför har du ett skelett?
-> Skelettet och musklerna håller kroppen uppe. Utan skelettet kan du inte stå upp.
+Skelettet och musklerna håller kroppen uppe. Utan skelettet kan du inte stå upp.
 
- > Några ben i skelettet skyddar kroppen.
+Några ben i skelettet skyddar kroppen.
  #### skallen
  #### hjärnan
 
@@ -244,7 +244,7 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTA3Mzk5NSw2NjY3MDc2OTEsMTA0MT
+eyJoaXN0b3J5IjpbMTIzOTk0NTA1MSw2NjY3MDc2OTEsMTA0MT
 Q3OTU4MSwtNTMwNjA3ODAzLDEwNjMzMzUzNjYsLTE0MTY2Nzgx
 NjAsLTI0Nzc1NjgyOCwtMjAxMzM4ODY1NiwxNDk1NDAwMDEzLD
 EyNTEyODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3OTg2
