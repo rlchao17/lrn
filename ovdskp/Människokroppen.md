@@ -246,17 +246,17 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 Virus och bakterier kan smitta.<br>
 Ahmed är **förkyld**. Han har ett virus.
 
-Ahmed **hostar** mycket. Då kan hans son också bli sjuk. Varför? Jo, därför att virus kan smitta i luften.
+Ahmed **hostar** mycket. Då kan hans son också bli sjuk. Varför? Jo, därför att virus kan smitta i luften. Armed måste hålla armen för munnen när han hostar, så att han inte smittar
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjM3MTM2NCwxNDA5ODAxOTU4LC0xNz
-gyMzQzNTI5LDExNDUyNTQ3MDIsLTExMDI4ODYwOTAsMTYwMzIz
-NTY4OCwtNzQ1MDI5MTA4LDQ1NDc0OTc1NSw2NjY3MDc2OTEsMT
-A0MTQ3OTU4MSwtNTMwNjA3ODAzLDEwNjMzMzUzNjYsLTE0MTY2
-NzgxNjAsLTI0Nzc1NjgyOCwtMjAxMzM4ODY1NiwxNDk1NDAwMD
-EzLDEyNTEyODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3
-OTg2MTYwXX0=
+eyJoaXN0b3J5IjpbLTQzMTI0MjU0OSwtMzI2MzcxMzY0LDE0MD
+k4MDE5NTgsLTE3ODIzNDM1MjksMTE0NTI1NDcwMiwtMTEwMjg4
+NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsNDU0NzQ5NzU1LD
+Y2NjcwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4MDMsMTA2MzMz
+NTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC0yMDEzMzg4Nj
+U2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMwNzg1NzIzLC03
+NzgzNjY2NThdfQ==
 -->
