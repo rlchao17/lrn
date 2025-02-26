@@ -177,7 +177,7 @@ Blodet *rinner* genom levern. Där stoppas farliga ämnen från att komma ut i k
 | ett gift | 一种毒素 |
 | giftig | 有毒的 |
 
-Det som finns i den här flaskan är giftigt. Man får inte dricka det. Det är farligt.
+> Det som finns i den här flaskan är giftigt. Man får inte dricka det. Det är farligt.
 
 # Njurarna
 #### njurarna<br>urinblåsan
@@ -192,7 +192,7 @@ Man kan också se i en kvinnas urin om hon är *gravid*.
 | Svenska | Kinesiska |
 |--|--|
 | urin | 尿液 |
-| en sjukdom | 一种疾病 |
+| en sjukdom | 疾病 |
 | diabetes | 糖尿病 |
 | gravid | 怀孕的 |
 
@@ -247,11 +247,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI1NzA2MDEsLTE3ODIzNDM1MjksMT
-E0NTI1NDcwMiwtMTEwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUw
-MjkxMDgsNDU0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgxLC
-01MzA2MDc4MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3
-NzU2ODI4LC0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nz
-c2MSwxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAsLTEw
-MzU5NDM1MTldfQ==
+eyJoaXN0b3J5IjpbMTQwOTgwMTk1OCwtMTc4MjM0MzUyOSwxMT
+Q1MjU0NzAyLC0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLTc0NTAy
+OTEwOCw0NTQ3NDk3NTUsNjY2NzA3NjkxLDEwNDE0Nzk1ODEsLT
+UzMDYwNzgwMywxMDYzMzM1MzY2LC0xNDE2Njc4MTYwLC0yNDc3
+NTY4MjgsLTIwMTMzODg2NTYsMTQ5NTQwMDAxMywxMjUxMjg3Nz
+YxLDEyMzA3ODU3MjMsLTc3ODM2NjY1OCw4Nzk4NjE2MCwtMTAz
+NTk0MzUxOV19
 -->
