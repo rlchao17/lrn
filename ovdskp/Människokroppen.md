@@ -101,7 +101,9 @@ Läkaren kan också se om man har för lite järn i blodet. Blodet behöver jär
 
 Hjärtat är en muskel, men det sitter inte fast i skelettet. Det är lika stort som din *knutna* hand.
 #### en knuten hand<br>hjärtat
-Hjärtat *pumpar* blodet runt i kroppen.<br>Det kallas blod*om*loppet.<br>En vuxen person har ungefär fem liter blod.
+Hjärtat *pumpar* blodet runt i kroppen.<br>
+Det kallas blod*om*loppet.<br>
+En vuxen person har ungefär fem liter blod.
 
 Känn på siden av din hals. Känner du att det pulserar?
 
@@ -245,11 +247,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTAyOTEwOCw0NTQ3NDk3NTUsNjY2Nz
-A3NjkxLDEwNDE0Nzk1ODEsLTUzMDYwNzgwMywxMDYzMzM1MzY2
-LC0xNDE2Njc4MTYwLC0yNDc3NTY4MjgsLTIwMTMzODg2NTYsMT
-Q5NTQwMDAxMywxMjUxMjg3NzYxLDEyMzA3ODU3MjMsLTc3ODM2
-NjY1OCw4Nzk4NjE2MCwtMTAzNTk0MzUxOSwtOTc1MjAwOTUsMT
-EzNjIzODI1NywyMTE2NjcyNzI3LC0xOTEyODY1MTkyLDE3NjY1
-MzU4MzNdfQ==
+eyJoaXN0b3J5IjpbMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LDQ1ND
+c0OTc1NSw2NjY3MDc2OTEsMTA0MTQ3OTU4MSwtNTMwNjA3ODAz
+LDEwNjMzMzUzNjYsLTE0MTY2NzgxNjAsLTI0Nzc1NjgyOCwtMj
+AxMzM4ODY1NiwxNDk1NDAwMDEzLDEyNTEyODc3NjEsMTIzMDc4
+NTcyMywtNzc4MzY2NjU4LDg3OTg2MTYwLC0xMDM1OTQzNTE5LC
+05NzUyMDA5NSwxMTM2MjM4MjU3LDIxMTY2NzI3MjcsLTE5MTI4
+NjUxOTJdfQ==
 -->
