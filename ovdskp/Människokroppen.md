@@ -43,8 +43,8 @@ De flesta av musklerna sitter fast i skelettt.
  - Här sitter muskeln fast i skelettet.
 
 ## Röntgen 
- - Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamera. Det här är en röntgenbild av en hand.
- - Hur många ben ser du i handen?
+Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamera. Det här är en röntgenbild av en hand.
+>Hur många ben ser du i handen?
 
 ## Skelettet behöver kalk
 
@@ -245,7 +245,7 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc1MDc4NDksNDU0NzQ5NzU1LDY2Nj
+eyJoaXN0b3J5IjpbLTIwMDcyMjE1MzMsNDU0NzQ5NzU1LDY2Nj
 cwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4MDMsMTA2MzMzNTM2
 NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC0yMDEzMzg4NjU2LD
 E0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMwNzg1NzIzLC03Nzgz
