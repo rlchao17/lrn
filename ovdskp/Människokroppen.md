@@ -254,13 +254,14 @@ Ahmed **hostar** mycket. Då kan hans son också bli sjuk. Varför? Jo, därför
 ## Antibiotika
 Några sjukdomar beror på bakterier. Då hjälper ofta antibiotika.<br>
 Några sjukdomar beror på virus. Då hjälper inte antibiotika.<br>
-När du är förkyld har du ofta ett virus
+När du är förkyld har du ofta ett virus, inte bakterier.
+
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjI0NDYzNCw0ODA0MjEzNiwtMzI2Mz
+eyJoaXN0b3J5IjpbMTE0ODM5NTkwMSw0ODA0MjEzNiwtMzI2Mz
 cxMzY0LDE0MDk4MDE5NTgsLTE3ODIzNDM1MjksMTE0NTI1NDcw
 MiwtMTEwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsND
 U0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4
