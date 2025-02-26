@@ -37,9 +37,9 @@ Några ben i skelettet skyddar kroppen.
 
  - Hjälmen skyddar skallen.
  - Skallen skyddar hjärnan.
- - Titta på skelettbilden. Peka på benen som skyddar lungorna och hjärtat.
+> Titta på skelettbilden. Peka på benen som skyddar lungorna och hjärtat.
 
-> De flesta av musklerna sitter fast i skelettt.
+De flesta av musklerna sitter fast i skelettt.
  - Här sitter muskeln fast i skelettet.
 
 ## Röntgen 
@@ -245,11 +245,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxND
-c5NTgxLC01MzA2MDc4MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2
-MCwtMjQ3NzU2ODI4LC0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMT
-I1MTI4Nzc2MSwxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYx
-NjAsLTEwMzU5NDM1MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMj
-ExNjY3MjcyNywtMTkxMjg2NTE5MiwxNzY2NTM1ODMzLC0xNDY0
-MjA2OTk3XX0=
+eyJoaXN0b3J5IjpbMTE4Nzk3MTc1Miw0NTQ3NDk3NTUsNjY2Nz
+A3NjkxLDEwNDE0Nzk1ODEsLTUzMDYwNzgwMywxMDYzMzM1MzY2
+LC0xNDE2Njc4MTYwLC0yNDc3NTY4MjgsLTIwMTMzODg2NTYsMT
+Q5NTQwMDAxMywxMjUxMjg3NzYxLDEyMzA3ODU3MjMsLTc3ODM2
+NjY1OCw4Nzk4NjE2MCwtMTAzNTk0MzUxOSwtOTc1MjAwOTUsMT
+EzNjIzODI1NywyMTE2NjcyNzI3LC0xOTEyODY1MTkyLDE3NjY1
+MzU4MzNdfQ==
 -->
