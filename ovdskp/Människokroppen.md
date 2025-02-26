@@ -250,16 +250,19 @@ Ahmed **hostar** mycket. Då kan hans son också bli sjuk. Varför? Jo, därför
 > Varför är det viktigt att tvätta händerna innan man äter?
 >
 > Varför ska du inte gå till skolan eller till arbetet om du är sjuk? 
+
+## Antibiotika
+
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNDIxMzYsLTMyNjM3MTM2NCwxNDA5OD
-AxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3MDIsLTExMDI4ODYw
-OTAsMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LDQ1NDc0OTc1NSw2Nj
-Y3MDc2OTEsMTA0MTQ3OTU4MSwtNTMwNjA3ODAzLDEwNjMzMzUz
-NjYsLTE0MTY2NzgxNjAsLTI0Nzc1NjgyOCwtMjAxMzM4ODY1Ni
-wxNDk1NDAwMDEzLDEyNTEyODc3NjEsMTIzMDc4NTcyMywtNzc4
-MzY2NjU4XX0=
+eyJoaXN0b3J5IjpbLTc2ODgzNDU3NSw0ODA0MjEzNiwtMzI2Mz
+cxMzY0LDE0MDk4MDE5NTgsLTE3ODIzNDM1MjksMTE0NTI1NDcw
+MiwtMTEwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsND
+U0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4
+MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC
+0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMw
+Nzg1NzIzXX0=
 -->
