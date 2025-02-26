@@ -248,18 +248,18 @@ Ahmed är **förkyld**. Han har ett virus.
 
 Ahmed **hostar** mycket. Då kan hans son också bli sjuk. Varför? Jo, därför att virus kan smitta i luften. Armed måste hålla armen för munnen när han hostar, så att han inte smittar sin son.
 > Varför är det viktigt att tvätta händerna innan man äter?
-
+>
 > Varför ska du inte gå till skolan eller till arbetet om du är sjuk? 
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTgzMzQ4NCwtMzI2MzcxMzY0LDE0MD
-k4MDE5NTgsLTE3ODIzNDM1MjksMTE0NTI1NDcwMiwtMTEwMjg4
-NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsNDU0NzQ5NzU1LD
-Y2NjcwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4MDMsMTA2MzMz
-NTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC0yMDEzMzg4Nj
-U2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMwNzg1NzIzLC03
-NzgzNjY2NThdfQ==
+eyJoaXN0b3J5IjpbNDgwNDIxMzYsLTMyNjM3MTM2NCwxNDA5OD
+AxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3MDIsLTExMDI4ODYw
+OTAsMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LDQ1NDc0OTc1NSw2Nj
+Y3MDc2OTEsMTA0MTQ3OTU4MSwtNTMwNjA3ODAzLDEwNjMzMzUz
+NjYsLTE0MTY2NzgxNjAsLTI0Nzc1NjgyOCwtMjAxMzM4ODY1Ni
+wxNDk1NDAwMDEzLDEyNTEyODc3NjEsMTIzMDc4NTcyMywtNzc4
+MzY2NjU4XX0=
 -->
