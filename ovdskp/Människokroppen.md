@@ -1,6 +1,6 @@
 # Kroppen
 
-> Utanpå ser vi människor olika ut, men inuti kroppen är vi lika.
+Utanpå ser vi människor olika ut, men inuti kroppen är vi lika.
 
 # Inuti kroppen
 #### skelettet
@@ -245,11 +245,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2NzA3NjkxLDEwNDE0Nzk1ODEsLTUzMD
-YwNzgwMywxMDYzMzM1MzY2LC0xNDE2Njc4MTYwLC0yNDc3NTY4
-MjgsLTIwMTMzODg2NTYsMTQ5NTQwMDAxMywxMjUxMjg3NzYxLD
-EyMzA3ODU3MjMsLTc3ODM2NjY1OCw4Nzk4NjE2MCwtMTAzNTk0
-MzUxOSwtOTc1MjAwOTUsMTEzNjIzODI1NywyMTE2NjcyNzI3LC
-0xOTEyODY1MTkyLDE3NjY1MzU4MzMsLTE0NjQyMDY5OTcsLTEy
-NDM2Njk0NjNdfQ==
+eyJoaXN0b3J5IjpbMjA0NjI0MDU4NSw2NjY3MDc2OTEsMTA0MT
+Q3OTU4MSwtNTMwNjA3ODAzLDEwNjMzMzUzNjYsLTE0MTY2Nzgx
+NjAsLTI0Nzc1NjgyOCwtMjAxMzM4ODY1NiwxNDk1NDAwMDEzLD
+EyNTEyODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3OTg2
+MTYwLC0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMTM2MjM4MjU3LD
+IxMTY2NzI3MjcsLTE5MTI4NjUxOTIsMTc2NjUzNTgzMywtMTQ2
+NDIwNjk5N119
 -->
