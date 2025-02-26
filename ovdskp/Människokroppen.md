@@ -242,16 +242,18 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 > Är du sjuk när din kroppstemperatur är 39 grader?
 #### en termometer
 
+## Smitta
+Virus och bakterier kan smitta.
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTgwMTk1OCwtMTc4MjM0MzUyOSwxMT
-Q1MjU0NzAyLC0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLTc0NTAy
-OTEwOCw0NTQ3NDk3NTUsNjY2NzA3NjkxLDEwNDE0Nzk1ODEsLT
-UzMDYwNzgwMywxMDYzMzM1MzY2LC0xNDE2Njc4MTYwLC0yNDc3
-NTY4MjgsLTIwMTMzODg2NTYsMTQ5NTQwMDAxMywxMjUxMjg3Nz
-YxLDEyMzA3ODU3MjMsLTc3ODM2NjY1OCw4Nzk4NjE2MCwtMTAz
-NTk0MzUxOV19
+eyJoaXN0b3J5IjpbLTcxODUyNTQyMiwxNDA5ODAxOTU4LC0xNz
+gyMzQzNTI5LDExNDUyNTQ3MDIsLTExMDI4ODYwOTAsMTYwMzIz
+NTY4OCwtNzQ1MDI5MTA4LDQ1NDc0OTc1NSw2NjY3MDc2OTEsMT
+A0MTQ3OTU4MSwtNTMwNjA3ODAzLDEwNjMzMzUzNjYsLTE0MTY2
+NzgxNjAsLTI0Nzc1NjgyOCwtMjAxMzM4ODY1NiwxNDk1NDAwMD
+EzLDEyNTEyODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3
+OTg2MTYwXX0=
 -->
