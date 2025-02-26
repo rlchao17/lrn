@@ -265,17 +265,20 @@ Maria är sjuk. Hon gick till doktorn i förra veckan.<br>
 Doktorn sa att hon har lunginflammation.<br>
 Hon ska ta antibiotika.
 
-Maria måste ta antibiotika i tio dagar. Hon har tagit antibiotika i sex 
+Maria måste ta antibiotika i tio dagar. Hon har tagit antibiotika i sex dagar. Nu mår hon bra.<br>
+Hon säger: Jag mår bra nu. Jag ska sluta ta medicinen.
+
+Nej, säger Marias mamma. 
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjk5MjU1Niw0ODA0MjEzNiwtMzI2Mz
-cxMzY0LDE0MDk4MDE5NTgsLTE3ODIzNDM1MjksMTE0NTI1NDcw
-MiwtMTEwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsND
-U0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4
-MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC
-0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMw
-Nzg1NzIzXX0=
+eyJoaXN0b3J5IjpbLTEzNzcxMjE4MDMsNDgwNDIxMzYsLTMyNj
+M3MTM2NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3
+MDIsLTExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LD
+Q1NDc0OTc1NSw2NjY3MDc2OTEsMTA0MTQ3OTU4MSwtNTMwNjA3
+ODAzLDEwNjMzMzUzNjYsLTE0MTY2NzgxNjAsLTI0Nzc1NjgyOC
+wtMjAxMzM4ODY1NiwxNDk1NDAwMDEzLDEyNTEyODc3NjEsMTIz
+MDc4NTcyM119
 -->
