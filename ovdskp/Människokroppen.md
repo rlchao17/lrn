@@ -244,19 +244,19 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 
 ## Smitta
 Virus och bakterier kan smitta.<br>
-Ahmed är förkyld. Han har ett virus.
+Ahmed är **förkyld**. Han har ett virus.
 
-
+Ahmed **hostar** mycket.
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTMwOTkyMjMsMTQwOTgwMTk1OCwtMT
-c4MjM0MzUyOSwxMTQ1MjU0NzAyLC0xMTAyODg2MDkwLDE2MDMy
-MzU2ODgsLTc0NTAyOTEwOCw0NTQ3NDk3NTUsNjY2NzA3NjkxLD
-EwNDE0Nzk1ODEsLTUzMDYwNzgwMywxMDYzMzM1MzY2LC0xNDE2
-Njc4MTYwLC0yNDc3NTY4MjgsLTIwMTMzODg2NTYsMTQ5NTQwMD
-AxMywxMjUxMjg3NzYxLDEyMzA3ODU3MjMsLTc3ODM2NjY1OCw4
-Nzk4NjE2MF19
+eyJoaXN0b3J5IjpbODExODQ3NTMwLDE0MDk4MDE5NTgsLTE3OD
+IzNDM1MjksMTE0NTI1NDcwMiwtMTEwMjg4NjA5MCwxNjAzMjM1
+Njg4LC03NDUwMjkxMDgsNDU0NzQ5NzU1LDY2NjcwNzY5MSwxMD
+QxNDc5NTgxLC01MzA2MDc4MDMsMTA2MzMzNTM2NiwtMTQxNjY3
+ODE2MCwtMjQ3NzU2ODI4LC0yMDEzMzg4NjU2LDE0OTU0MDAwMT
+MsMTI1MTI4Nzc2MSwxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5
+ODYxNjBdfQ==
 -->
