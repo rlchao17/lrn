@@ -233,16 +233,18 @@ Vill du se virus och bakterier?<br>
 Då behöver du ett bra mikroskop. Varför?<br>
 Jo, virus och bakterier är så små att du inte kan se dem utan ett mikroskop.
 
+## Feber
+Ibland blir kroppen warm när du är sjuk. Då har du feber.
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTQ3OTU4MSwtNTMwNjA3ODAzLDEwNj
-MzMzUzNjYsLTE0MTY2NzgxNjAsLTI0Nzc1NjgyOCwtMjAxMzM4
-ODY1NiwxNDk1NDAwMDEzLDEyNTEyODc3NjEsMTIzMDc4NTcyMy
-wtNzc4MzY2NjU4LDg3OTg2MTYwLC0xMDM1OTQzNTE5LC05NzUy
-MDA5NSwxMTM2MjM4MjU3LDIxMTY2NzI3MjcsLTE5MTI4NjUxOT
-IsMTc2NjUzNTgzMywtMTQ2NDIwNjk5NywtMTI0MzY2OTQ2Mywx
-OTY4NzEwNzgyXX0=
+eyJoaXN0b3J5IjpbMjA1NzcwMjI0NywxMDQxNDc5NTgxLC01Mz
+A2MDc4MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2
+ODI4LC0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MS
+wxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAsLTEwMzU5
+NDM1MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNjY3MjcyNy
+wtMTkxMjg2NTE5MiwxNzY2NTM1ODMzLC0xNDY0MjA2OTk3LC0x
+MjQzNjY5NDYzXX0=
 -->
