@@ -25,7 +25,7 @@ Alla organ i kroppen samarbetar för att din kropp ska fungera bra.
 # Skelettet
 En vuxen människa har 206 ben inuti kroppen. Alla ben tillsammans kallas för ett skelett.<br>
 Skelettets längsta ben är lårbenet.
-
+#### lårbenet
 Skelettets kortaste ben finns inuti örat. Det är bara 3 millimeter.
 
 ## Varför har du ett skelett?
@@ -245,11 +245,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Nzk3MTc1Miw0NTQ3NDk3NTUsNjY2Nz
-A3NjkxLDEwNDE0Nzk1ODEsLTUzMDYwNzgwMywxMDYzMzM1MzY2
-LC0xNDE2Njc4MTYwLC0yNDc3NTY4MjgsLTIwMTMzODg2NTYsMT
-Q5NTQwMDAxMywxMjUxMjg3NzYxLDEyMzA3ODU3MjMsLTc3ODM2
-NjY1OCw4Nzk4NjE2MCwtMTAzNTk0MzUxOSwtOTc1MjAwOTUsMT
-EzNjIzODI1NywyMTE2NjcyNzI3LC0xOTEyODY1MTkyLDE3NjY1
-MzU4MzNdfQ==
+eyJoaXN0b3J5IjpbLTEzMTc1MDc4NDksNDU0NzQ5NzU1LDY2Nj
+cwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4MDMsMTA2MzMzNTM2
+NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC0yMDEzMzg4NjU2LD
+E0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMwNzg1NzIzLC03Nzgz
+NjY2NTgsODc5ODYxNjAsLTEwMzU5NDM1MTksLTk3NTIwMDk1LD
+ExMzYyMzgyNTcsMjExNjY3MjcyNywtMTkxMjg2NTE5MiwxNzY2
+NTM1ODMzXX0=
 -->
