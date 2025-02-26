@@ -177,7 +177,7 @@ Blodet *rinner* genom levern. Där stoppas farliga ämnen från att komma ut i k
 | ett gift | 一种毒素 |
 | giftig | 有毒的 |
 
-**Det som finns i den här flaskan är giftigt. Man får inte dricka det. Det är farligt.**
+Det som finns i den här flaskan är giftigt. Man får inte dricka det. Det är farligt.
 
 # Njurarna
 #### njurarna<br>urinblåsan
@@ -247,11 +247,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIzNDM1MjksMTE0NTI1NDcwMiwtMT
-EwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsNDU0NzQ5
-NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4MDMsMT
-A2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC0yMDEz
-Mzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMwNzg1Nz
-IzLC03NzgzNjY2NTgsODc5ODYxNjAsLTEwMzU5NDM1MTksLTk3
-NTIwMDk1XX0=
+eyJoaXN0b3J5IjpbLTE3NTI1NzA2MDEsLTE3ODIzNDM1MjksMT
+E0NTI1NDcwMiwtMTEwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUw
+MjkxMDgsNDU0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgxLC
+01MzA2MDc4MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3
+NzU2ODI4LC0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nz
+c2MSwxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAsLTEw
+MzU5NDM1MTldfQ==
 -->
