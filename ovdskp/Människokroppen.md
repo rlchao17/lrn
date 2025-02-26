@@ -262,17 +262,20 @@ Ahmed tycker det är konstigt. Han är sjuk, men han får inte antibiotika.
 > Varför får Ahmed inte antibiotika, tror du?
 
 Maria är sjuk. Hon gick till doktorn i förra veckan.<br>
+Doktorn sa att hon har lunginflammation.<br>
+Hon ska ta antibiotika.
 
+Maria måste ta antibiotika i tio dagar. Hon har tagit antibiotika i sex 
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2NjQzMTA2LDQ4MDQyMTM2LC0zMjYzNz
-EzNjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUyOSwxMTQ1MjU0NzAy
-LC0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLTc0NTAyOTEwOCw0NT
-Q3NDk3NTUsNjY2NzA3NjkxLDEwNDE0Nzk1ODEsLTUzMDYwNzgw
-MywxMDYzMzM1MzY2LC0xNDE2Njc4MTYwLC0yNDc3NTY4MjgsLT
-IwMTMzODg2NTYsMTQ5NTQwMDAxMywxMjUxMjg3NzYxLDEyMzA3
-ODU3MjNdfQ==
+eyJoaXN0b3J5IjpbLTIyMjk5MjU1Niw0ODA0MjEzNiwtMzI2Mz
+cxMzY0LDE0MDk4MDE5NTgsLTE3ODIzNDM1MjksMTE0NTI1NDcw
+MiwtMTEwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsND
+U0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4
+MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC
+0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMw
+Nzg1NzIzXX0=
 -->
