@@ -273,12 +273,13 @@ Nej, säger Marias mamma. Doktorn sa att du måste ta antibiotika i tio dagar. A
 
  + Maria Noor
  + 3 gånger dagligen i 10 dagar. Sväljes hela.
+
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTgzOTY0OSw0ODA0MjEzNiwtMzI2Mz
+eyJoaXN0b3J5IjpbMTY4NTI2OTM5MSw0ODA0MjEzNiwtMzI2Mz
 cxMzY0LDE0MDk4MDE5NTgsLTE3ODIzNDM1MjksMTE0NTI1NDcw
 MiwtMTEwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsND
 U0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4
