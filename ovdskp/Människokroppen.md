@@ -49,11 +49,11 @@ Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamera. Det
 ## Skelettet behöver kalk
 
 Skelettets ben består mest av kalk. För att skelettet ska bli starkt måste vi äta mat med kalk i. Det finns mycket kalk i till exempel: 
-> Mjölk, ost, nötter, apelsin och broccoli 
+ + Mjölk, ost, nötter, apelsin och broccoli 
 
 # Lederna 
 Skelettets ben möts i leder.
- - Peka på lederna på skelettbilden.
+> Peka på lederna på skelettbilden.
 
 ## varför har du leder? 
 Lederna gör så att du kan böja olika delar i kroppen. När du går böjer du benen, och när du håller i en penna böjer du fingrarna. 
@@ -245,11 +245,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjMyMDc2LDQ1NDc0OTc1NSw2NjY3MD
-c2OTEsMTA0MTQ3OTU4MSwtNTMwNjA3ODAzLDEwNjMzMzUzNjYs
-LTE0MTY2NzgxNjAsLTI0Nzc1NjgyOCwtMjAxMzM4ODY1NiwxND
-k1NDAwMDEzLDEyNTEyODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2
-NjU4LDg3OTg2MTYwLC0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMT
-M2MjM4MjU3LDIxMTY2NzI3MjcsLTE5MTI4NjUxOTIsMTc2NjUz
-NTgzM119
+eyJoaXN0b3J5IjpbLTc0NTAyOTEwOCw0NTQ3NDk3NTUsNjY2Nz
+A3NjkxLDEwNDE0Nzk1ODEsLTUzMDYwNzgwMywxMDYzMzM1MzY2
+LC0xNDE2Njc4MTYwLC0yNDc3NTY4MjgsLTIwMTMzODg2NTYsMT
+Q5NTQwMDAxMywxMjUxMjg3NzYxLDEyMzA3ODU3MjMsLTc3ODM2
+NjY1OCw4Nzk4NjE2MCwtMTAzNTk0MzUxOSwtOTc1MjAwOTUsMT
+EzNjIzODI1NywyMTE2NjcyNzI3LC0xOTEyODY1MTkyLDE3NjY1
+MzU4MzNdfQ==
 -->
