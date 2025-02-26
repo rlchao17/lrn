@@ -151,7 +151,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 | **Josef** | Mamma, jag är hungrig! |
 | **Mamma** | Du blir hungrig när din kropp behöver mer näring. |
 | **Josef** | Mamma, är det så här? Man behöver ladda batteriet på en mobiltelefon för att den ska fungera. Min kropp behöver syre och näring för att fungera. |
-| **Mamma** | Ja, så kanske man kan säga. Nu måste vi äta! |
+| **Mamma** | Ja, så kanske **man** kan säga. Nu måste vi äta! |
 
 **Matens väg genom kroppen.**
  1. Hon *tuggar* maten. Maten blandas med saliv i **munnen**. Sedan sväljer hon maten.
@@ -247,11 +247,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTE0MTkxMSwxMTQ1MjU0NzAyLC0xMT
-AyODg2MDkwLDE2MDMyMzU2ODgsLTc0NTAyOTEwOCw0NTQ3NDk3
-NTUsNjY2NzA3NjkxLDEwNDE0Nzk1ODEsLTUzMDYwNzgwMywxMD
-YzMzM1MzY2LC0xNDE2Njc4MTYwLC0yNDc3NTY4MjgsLTIwMTMz
-ODg2NTYsMTQ5NTQwMDAxMywxMjUxMjg3NzYxLDEyMzA3ODU3Mj
-MsLTc3ODM2NjY1OCw4Nzk4NjE2MCwtMTAzNTk0MzUxOSwtOTc1
-MjAwOTVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODIzNDM1MjksMTE0NTI1NDcwMiwtMT
+EwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsNDU0NzQ5
+NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4MDMsMT
+A2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC0yMDEz
+Mzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMwNzg1Nz
+IzLC03NzgzNjY2NTgsODc5ODYxNjAsLTEwMzU5NDM1MTksLTk3
+NTIwMDk1XX0=
 -->
