@@ -243,13 +243,15 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 #### en termometer
 
 ## Smitta
-Virus och bakterier kan smitta.
+Virus och bakterier kan smitta.<br>
+Ahmed är förkyld. Han har ett virus.
+
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODUyNTQyMiwxNDA5ODAxOTU4LC0xNz
+eyJoaXN0b3J5IjpbMjE0MzUzNTkzMSwxNDA5ODAxOTU4LC0xNz
 gyMzQzNTI5LDExNDUyNTQ3MDIsLTExMDI4ODYwOTAsMTYwMzIz
 NTY4OCwtNzQ1MDI5MTA4LDQ1NDc0OTc1NSw2NjY3MDc2OTEsMT
 A0MTQ3OTU4MSwtNTMwNjA3ODAzLDEwNjMzMzUzNjYsLTE0MTY2
