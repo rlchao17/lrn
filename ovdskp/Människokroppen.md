@@ -7,7 +7,7 @@
 #### musklerna
 #### lungorna, levern, hjärtat, magsäcken, tjocktarmen, tunntarmen, ändtarmen
 #### njurarna
-> Hjärtat, hjärnan, lungorna, levern, magsäcken, tarmarna och njurarna är organ i kroppen.
+> Hjärtat, hjärnan, lungorna, levern, magsäcken, tarmarna och njurarna är organ i kroppen.<br>
 > Alla organ i kroppen samarbetar för att din kropp ska fungera bra.
 
 |Svenska|Kinesiska  |
@@ -245,11 +245,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjU5ODQ3MSwxMDQxNDc5NTgxLC01Mz
-A2MDc4MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2
-ODI4LC0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MS
-wxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAsLTEwMzU5
-NDM1MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNjY3MjcyNy
-wtMTkxMjg2NTE5MiwxNzY2NTM1ODMzLC0xNDY0MjA2OTk3LC0x
-MjQzNjY5NDYzXX0=
+eyJoaXN0b3J5IjpbNjY2NzA3NjkxLDEwNDE0Nzk1ODEsLTUzMD
+YwNzgwMywxMDYzMzM1MzY2LC0xNDE2Njc4MTYwLC0yNDc3NTY4
+MjgsLTIwMTMzODg2NTYsMTQ5NTQwMDAxMywxMjUxMjg3NzYxLD
+EyMzA3ODU3MjMsLTc3ODM2NjY1OCw4Nzk4NjE2MCwtMTAzNTk0
+MzUxOSwtOTc1MjAwOTUsMTEzNjIzODI1NywyMTE2NjcyNzI3LC
+0xOTEyODY1MTkyLDE3NjY1MzU4MzMsLTE0NjQyMDY5OTcsLTEy
+NDM2Njk0NjNdfQ==
 -->
