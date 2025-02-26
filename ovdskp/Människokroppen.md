@@ -114,6 +114,7 @@ Det är din puls. Det är dit blod som *pumpas* runt i kroppen.
 | hos en bebis | ungefär 140 gånger |
 | hos en 10-åring | ungefär 90 gånger |
 | hos en vuxen person | ungefär 65 gånger |
+
 Hjärtat pumpar fortare när man springer. Hos en vuxen person som vilar pumpar hjärtat ungefär 65 gånger på en minut. Men hos en vuxen person som springer pumpar hjärtat ungefär 150 gånger på en minut.
 
 
@@ -246,11 +247,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkyNjk2OCwxNjAzMjM1Njg4LC03ND
-UwMjkxMDgsNDU0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgx
-LC01MzA2MDc4MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMj
-Q3NzU2ODI4LC0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4
-Nzc2MSwxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAsLT
-EwMzU5NDM1MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNjY3
-MjcyN119
+eyJoaXN0b3J5IjpbLTExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNz
+Q1MDI5MTA4LDQ1NDc0OTc1NSw2NjY3MDc2OTEsMTA0MTQ3OTU4
+MSwtNTMwNjA3ODAzLDEwNjMzMzUzNjYsLTE0MTY2NzgxNjAsLT
+I0Nzc1NjgyOCwtMjAxMzM4ODY1NiwxNDk1NDAwMDEzLDEyNTEy
+ODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3OTg2MTYwLC
+0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMTM2MjM4MjU3LDIxMTY2
+NzI3MjddfQ==
 -->
