@@ -127,7 +127,7 @@ Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frå
 | **Josef** | Varför måste man ha luft? |
 | **Mamma** | Det är för att kroppen behöver syre, och syre finns i luften. |
 | **Josef** | Men hur får hela kroppen syre? |
-| **Mamma** | Jo, du andas i luft med syre i lungorna.<br>Hjärtat pumpar runt blodet i kroppen.<br>Och när blodet kommer till lungorna hämtar blodet syre.<br>*Sedan* pumpar hjärtat blodet *vidare* till hela kroppen. |
+| **Mamma** | Jo, du andas in luft med syre i lungorna.<br>Hjärtat pumpar runt blodet i kroppen.<br>Och när blodet kommer till lungorna hämtar blodet syre.<br>*Sedan* pumpar hjärtat blodet *vidare* till hela kroppen. |
 | **Josef** | Och då får hela kroppen syre! Vad bra! |
 | **Mamma** | När du springer behöver kroppen mycket syre.<br>Då måste hjärtat pumpa fortare. |
 | **Josef** | Jaha. Då förstår jag. Det är därför man måste andas fortare när man springer. |
@@ -247,11 +247,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNz
-Q1MDI5MTA4LDQ1NDc0OTc1NSw2NjY3MDc2OTEsMTA0MTQ3OTU4
-MSwtNTMwNjA3ODAzLDEwNjMzMzUzNjYsLTE0MTY2NzgxNjAsLT
-I0Nzc1NjgyOCwtMjAxMzM4ODY1NiwxNDk1NDAwMDEzLDEyNTEy
-ODc3NjEsMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3OTg2MTYwLC
-0xMDM1OTQzNTE5LC05NzUyMDA5NSwxMTM2MjM4MjU3LDIxMTY2
-NzI3MjddfQ==
+eyJoaXN0b3J5IjpbMTE0NTI1NDcwMiwtMTEwMjg4NjA5MCwxNj
+AzMjM1Njg4LC03NDUwMjkxMDgsNDU0NzQ5NzU1LDY2NjcwNzY5
+MSwxMDQxNDc5NTgxLC01MzA2MDc4MDMsMTA2MzMzNTM2NiwtMT
+QxNjY3ODE2MCwtMjQ3NzU2ODI4LC0yMDEzMzg4NjU2LDE0OTU0
+MDAwMTMsMTI1MTI4Nzc2MSwxMjMwNzg1NzIzLC03NzgzNjY2NT
+gsODc5ODYxNjAsLTEwMzU5NDM1MTksLTk3NTIwMDk1LDExMzYy
+MzgyNTddfQ==
 -->
