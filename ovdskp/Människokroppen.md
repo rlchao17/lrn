@@ -256,17 +256,17 @@ Några sjukdomar beror på bakterier. Då hjälper ofta antibiotika.<br>
 Några sjukdomar beror på virus. Då hjälper inte antibiotika.<br>
 När du är förkyld har du ofta ett virus, inte bakterier.
 
-Ahmed är sjuk. Han har feber och är förkyld. Ahmed går till doktorn.
+Ahmed är sjuk. Han har feber och är förkyld. Ahmed går till doktorn. Doktorn säger: De behöver ingen medicin. 
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3MDgyMjM2LDQ4MDQyMTM2LC0zMjYzNz
-EzNjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUyOSwxMTQ1MjU0NzAy
-LC0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLTc0NTAyOTEwOCw0NT
-Q3NDk3NTUsNjY2NzA3NjkxLDEwNDE0Nzk1ODEsLTUzMDYwNzgw
-MywxMDYzMzM1MzY2LC0xNDE2Njc4MTYwLC0yNDc3NTY4MjgsLT
-IwMTMzODg2NTYsMTQ5NTQwMDAxMywxMjUxMjg3NzYxLDEyMzA3
-ODU3MjNdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjk5MDc1MTksNDgwNDIxMzYsLTMyNj
+M3MTM2NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3
+MDIsLTExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LD
+Q1NDc0OTc1NSw2NjY3MDc2OTEsMTA0MTQ3OTU4MSwtNTMwNjA3
+ODAzLDEwNjMzMzUzNjYsLTE0MTY2NzgxNjAsLTI0Nzc1NjgyOC
+wtMjAxMzM4ODY1NiwxNDk1NDAwMDEzLDEyNTEyODc3NjEsMTIz
+MDc4NTcyM119
 -->
