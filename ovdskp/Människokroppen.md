@@ -232,19 +232,21 @@ Virus och bakterier kan göra oss sjuka.<br>
 Vill du se virus och bakterier?<br>
 Då behöver du ett bra mikroskop. Varför?<br>
 Jo, virus och bakterier är så små att du inte kan se dem utan ett mikroskop.
+#### ett mikroskop
 
 ## Feber
 Ibland blir kroppen warm när du är sjuk. Då har du feber.
+> Ungefär vilken temper
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzcwMjI0NywxMDQxNDc5NTgxLC01Mz
-A2MDc4MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2
-ODI4LC0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MS
-wxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAsLTEwMzU5
-NDM1MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNjY3MjcyNy
-wtMTkxMjg2NTE5MiwxNzY2NTM1ODMzLC0xNDY0MjA2OTk3LC0x
-MjQzNjY5NDYzXX0=
+eyJoaXN0b3J5IjpbLTExMzQxNzQwNDIsMTA0MTQ3OTU4MSwtNT
+MwNjA3ODAzLDEwNjMzMzUzNjYsLTE0MTY2NzgxNjAsLTI0Nzc1
+NjgyOCwtMjAxMzM4ODY1NiwxNDk1NDAwMDEzLDEyNTEyODc3Nj
+EsMTIzMDc4NTcyMywtNzc4MzY2NjU4LDg3OTg2MTYwLC0xMDM1
+OTQzNTE5LC05NzUyMDA5NSwxMTM2MjM4MjU3LDIxMTY2NzI3Mj
+csLTE5MTI4NjUxOTIsMTc2NjUzNTgzMywtMTQ2NDIwNjk5Nywt
+MTI0MzY2OTQ2M119
 -->
