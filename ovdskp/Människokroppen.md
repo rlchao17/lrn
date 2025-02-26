@@ -105,8 +105,7 @@ Hjärtat *pumpar* blodet runt i kroppen.<br>
 Det kallas blod*om*loppet.<br>
 En vuxen person har ungefär fem liter blod.
 
-Känn på siden av din hals. Känner du att det pulserar?
-
+Känn på siden av din hals. Känner du att det pulserar?<br>
 Det är din puls. Det är dit blod som *pumpas* runt i kroppen.
 
 **Så här många gånger pumpar hjärtat på en minut:**
@@ -247,11 +246,11 @@ Ibland blir kroppen warm när du är sjuk. Då har du feber.
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LDQ1ND
-c0OTc1NSw2NjY3MDc2OTEsMTA0MTQ3OTU4MSwtNTMwNjA3ODAz
-LDEwNjMzMzUzNjYsLTE0MTY2NzgxNjAsLTI0Nzc1NjgyOCwtMj
-AxMzM4ODY1NiwxNDk1NDAwMDEzLDEyNTEyODc3NjEsMTIzMDc4
-NTcyMywtNzc4MzY2NjU4LDg3OTg2MTYwLC0xMDM1OTQzNTE5LC
-05NzUyMDA5NSwxMTM2MjM4MjU3LDIxMTY2NzI3MjcsLTE5MTI4
-NjUxOTJdfQ==
+eyJoaXN0b3J5IjpbLTE5OTkyNjk2OCwxNjAzMjM1Njg4LC03ND
+UwMjkxMDgsNDU0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgx
+LC01MzA2MDc4MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMj
+Q3NzU2ODI4LC0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4
+Nzc2MSwxMjMwNzg1NzIzLC03NzgzNjY2NTgsODc5ODYxNjAsLT
+EwMzU5NDM1MTksLTk3NTIwMDk1LDExMzYyMzgyNTcsMjExNjY3
+MjcyN119
 -->
