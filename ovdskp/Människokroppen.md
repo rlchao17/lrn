@@ -1,14 +1,15 @@
 # Kroppen
 
-Utanpå ser vi människor olika ut, men inuti kroppen är vi lika.
+> Utanpå ser vi människor olika ut, men inuti kroppen är vi lika.
 
 # Inuti kroppen
 #### skelettet
 #### musklerna
 #### lungorna, levern, hjärtat, magsäcken, tjocktarmen, tunntarmen, ändtarmen
 #### njurarna
-Hjärtat, hjärnan, lungorna, levern, magsäcken, tarmarna och njurarna är organ i kroppen.<br>
-Alla organ i kroppen samarbetar för att din kropp ska fungera bra.
+> Hjärtat, hjärnan, lungorna, levern, magsäcken, tarmarna och njurarna är organ i kroppen.<br>
+
+> Alla organ i kroppen samarbetar för att din kropp ska fungera bra.
 
 |Svenska|Kinesiska  |
 |--|--|
@@ -23,28 +24,30 @@ Alla organ i kroppen samarbetar för att din kropp ska fungera bra.
 |ett organ  | 一个器官 |
 
 # Skelettet
-En vuxen människa har 206 ben inuti kroppen. Alla ben tillsammans kallas för ett skelett.<br>
-Skelettets längsta ben är lårbenet.
+> En vuxen människa har 206 ben inuti kroppen. Alla ben tillsammans kallas för ett skelett.<br>
+
+
+> Skelettets längsta ben är lårbenet.
 #### lårbenet
-Skelettets kortaste ben finns inuti örat. Det är bara 3 millimeter.
+> Skelettets kortaste ben finns inuti örat. Det är bara 3 millimeter.
 
 ## Varför har du ett skelett?
-Skelettet och musklerna håller kroppen uppe. Utan skelettet kan du inte stå upp.
+> Skelettet och musklerna håller kroppen uppe. Utan skelettet kan du inte stå upp.
 
-Några ben i skelettet skyddar kroppen.
+ > Några ben i skelettet skyddar kroppen.
  #### skallen
  #### hjärnan
 
  - Hjälmen skyddar skallen.
  - Skallen skyddar hjärnan.
-> Titta på skelettbilden. Peka på benen som skyddar lungorna och hjärtat.
+> - Titta på skelettbilden. Peka på benen som skyddar lungorna och hjärtat.
 
-De flesta av musklerna sitter fast i skelettt.
+> De flesta av musklerna sitter fast i skelettt.
  - Här sitter muskeln fast i skelettet.
 
 ## Röntgen 
-Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamera. Det här är en röntgenbild av en hand.
-> Hur många ben ser du i handen?
+ - Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamera. Det här är en röntgenbild av en hand.
+> - Hur många ben ser du i handen?
 
 ## Skelettet behöver kalk
 
@@ -53,7 +56,7 @@ Skelettets ben består mest av kalk. För att skelettet ska bli starkt måste vi
 
 # Lederna 
 Skelettets ben möts i leder.
-> Peka på lederna på skelettbilden.
+> - Peka på lederna på skelettbilden.
 
 ## varför har du leder? 
 Lederna gör så att du kan böja olika delar i kroppen. När du går böjer du benen, och när du håller i en penna böjer du fingrarna. 
@@ -106,6 +109,7 @@ Det kallas blod*om*loppet.<br>
 En vuxen person har ungefär fem liter blod.
 
 Känn på siden av din hals. Känner du att det pulserar?<br>
+
 Det är din puls. Det är dit blod som *pumpas* runt i kroppen.
 
 **Så här många gånger pumpar hjärtat på en minut:**
@@ -150,7 +154,7 @@ Josef vill veta mycket om kroppen.<br>Hans mamma har berättat för honom om hj�
 | **Mamma** | Näring finns i mat. Kroppen behöver näring för att du ska växa eller vara frisk. |
 | **Josef** | Mamma, jag är hungrig! |
 | **Mamma** | Du blir hungrig när din kropp behöver mer näring. |
-| **Josef** | Mamma, är det så här? Man behöver ladda batteriet på en mobiltelefon för att den ska fungera. Min kropp behöver syre och näring för att fungera. |
+| **Josef** | Mamma, är det så här? Man behöverska ladda batteriet på en mobiltelefon för att den ska fungera. Min kropp behöver syre och näring för att fungera. |
 | **Mamma** | Ja, så kanske **man** kan säga. Nu måste vi äta! |
 
 **Matens väg genom kroppen.**
@@ -189,10 +193,23 @@ Njurarna renar också blodet. Blodet rinner genom njurarna. Vatten och ämnen so
 Ibland vill läkaren att man ska lämna urinprov. I urinen kan läkaren se om man har någon *sjukdom*, till exempel *diabetes*.
 
 Man kan också se i en kvinnas urin om hon är *gravid*.
+| Svenska | Kinesiska
 | Svenska | Kinesiska |
 |--|--|
+| en lever | 一个肝脏 |
+| renar | 净化 |
+| rinner | 流动 |
+| farlig | 危险的 |
+| ett ämne | 一种物质 |
+| ett gift | 一种毒素 |
+| giftig | 有毒的 |
+
+# Njurarna
+
+| Svenska | Modersmål |
+|--|--|
 | urin | 尿液 |
-| en sjukdom | 疾病 |
+| en sjukdom | 一种疾病 |
 | diabetes | 糖尿病 |
 | gravid | 怀孕的 |
 
@@ -273,17 +290,23 @@ Nej, säger Marias mamma. Doktorn sa att du måste ta antibiotika i tio dagar. A
 
  + Maria Noor
  + 3 gånger dagligen i 10 dagar. Sväljes hela.
+|Svenska  | Kinesiska |
+|--|--|
+| en nerv | 神经 |
+| minnas | 记得 |
+| skickar | 发送 |
+| ett meddelande | 信息 |
 
 # En frisk kopp
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTI2OTM5MSw0ODA0MjEzNiwtMzI2Mz
-cxMzY0LDE0MDk4MDE5NTgsLTE3ODIzNDM1MjksMTE0NTI1NDcw
-MiwtMTEwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsND
-U0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4
-MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC
-0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMw
-Nzg1NzIzXX0=
+eyJoaXN0b3J5IjpbMTU3NjI3NDQ0OSwxNjg1MjY5MzkxLDQ4MD
+QyMTM2LC0zMjYzNzEzNjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUy
+OSwxMTQ1MjU0NzAyLC0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLT
+c0NTAyOTEwOCw0NTQ3NDk3NTUsNjY2NzA3NjkxLDEwNDE0Nzk1
+ODEsLTUzMDYwNzgwMywxMDYzMzM1MzY2LC0xNDE2Njc4MTYwLC
+0yNDc3NTY4MjgsLTIwMTMzODg2NTYsMTQ5NTQwMDAxMywxMjUx
+Mjg3NzYxXX0=
 -->
