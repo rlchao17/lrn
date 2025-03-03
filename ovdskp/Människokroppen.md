@@ -70,7 +70,7 @@ Lederna gör så att du kan böja olika delar av kroppen. Men lederna behöver h
 ## Olika muskler
 Hjärtat är en muskel, men hjärtat sitter inte fast i skelettet. I tarmarna finns det också muskler, men de sitter inte *heller* fast i skelettet.
 
-Många muskler arbetar bara när du själv bestämmer det, alltså när din hjärna bestämmer det. Du bestämmer till exempel att du vill springa och då *rör* du benmusklerna.
+Många muskler arbetar bara när du själv bestämmer det, *alltså* när din hjärna bestämmer det. Du bestämmer till exempel att du vill springa och då *rör* du benmusklerna.
 
 Några muskler arbetar själva, till exempel hjärtat och musklerna i tarmarna. Du kan inte bestämma över dem. De arbetar hela tiden, också när du sover.
 
@@ -279,11 +279,11 @@ Nej, säger Marias mamma. Doktorn sa att du måste ta antibiotika i tio dagar. A
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2MTU2NDc4LC0zNDYxMjc5MTgsMTkwOD
-E3NzkwNywxNjg1MjY5MzkxLDQ4MDQyMTM2LC0zMjYzNzEzNjQs
-MTQwOTgwMTk1OCwtMTc4MjM0MzUyOSwxMTQ1MjU0NzAyLC0xMT
-AyODg2MDkwLDE2MDMyMzU2ODgsLTc0NTAyOTEwOCw0NTQ3NDk3
-NTUsNjY2NzA3NjkxLDEwNDE0Nzk1ODEsLTUzMDYwNzgwMywxMD
-YzMzM1MzY2LC0xNDE2Njc4MTYwLC0yNDc3NTY4MjgsLTIwMTMz
-ODg2NTZdfQ==
+eyJoaXN0b3J5IjpbLTc5NjMzMDY0OCwyOTYxNTY0NzgsLTM0Nj
+EyNzkxOCwxOTA4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYs
+LTMyNjM3MTM2NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LDExND
+UyNTQ3MDIsLTExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1MDI5
+MTA4LDQ1NDc0OTc1NSw2NjY3MDc2OTEsMTA0MTQ3OTU4MSwtNT
+MwNjA3ODAzLDEwNjMzMzUzNjYsLTE0MTY2NzgxNjAsLTI0Nzc1
+NjgyOF19
 -->
