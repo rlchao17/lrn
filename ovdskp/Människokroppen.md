@@ -115,7 +115,7 @@ Det är din puls. Det är dit blod som *pumpas* runt i kroppen.
 | hos en 10-åring | ungefär 90 gånger |
 | hos en vuxen person | ungefär 65 gånger |
 
-Hjärtat pumpar fortare när man springer. Hos en vuxen person som vilar pumpar hjärtat ungefär 65 gånger på en minut. Men hos en vuxen person som springer pumpar hjärtat ungefär 150 gånger på en minut.
+Hjärtat pumpar fortare när man springer. *Hos* en vuxen person som vilar pumpar hjärtat ungefär 65 gånger på en minut. Men hos en vuxen person som springer pumpar hjärtat ungefär 150 gånger på en minut.
 
 
 # Lungorna och blodet
@@ -279,11 +279,11 @@ Nej, säger Marias mamma. Doktorn sa att du måste ta antibiotika i tio dagar. A
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjMzMDY0OCwyOTYxNTY0NzgsLTM0Nj
-EyNzkxOCwxOTA4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYs
-LTMyNjM3MTM2NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LDExND
-UyNTQ3MDIsLTExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1MDI5
-MTA4LDQ1NDc0OTc1NSw2NjY3MDc2OTEsMTA0MTQ3OTU4MSwtNT
-MwNjA3ODAzLDEwNjMzMzUzNjYsLTE0MTY2NzgxNjAsLTI0Nzc1
-NjgyOF19
+eyJoaXN0b3J5IjpbMTQyMjQ2NTMxNiwtNzk2MzMwNjQ4LDI5Nj
+E1NjQ3OCwtMzQ2MTI3OTE4LDE5MDgxNzc5MDcsMTY4NTI2OTM5
+MSw0ODA0MjEzNiwtMzI2MzcxMzY0LDE0MDk4MDE5NTgsLTE3OD
+IzNDM1MjksMTE0NTI1NDcwMiwtMTEwMjg4NjA5MCwxNjAzMjM1
+Njg4LC03NDUwMjkxMDgsNDU0NzQ5NzU1LDY2NjcwNzY5MSwxMD
+QxNDc5NTgxLC01MzA2MDc4MDMsMTA2MzMzNTM2NiwtMTQxNjY3
+ODE2MF19
 -->
