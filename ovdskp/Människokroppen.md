@@ -12,15 +12,15 @@ Alla organ i kroppen samarbetar för att din kropp ska fungera bra.
 
 |Svenska|Kinesiska  |
 |--|--|
-| ett skelett | 一副骨架 |
-| en muskel | 一块肌肉 |
-| ett hjärta | 一颗心脏 |
-| en lunga | 一个大脑 |
-|en lever  | 一个肝脏 |
-| en magsäck | 一个胃 |
-| en tarm | 一条肠 |
-| en njure | 一个肾脏 |
-|ett organ  | 一个器官 |
+| ett skelett | 骨架 |
+| en muskel | 肌肉 |
+| ett hjärta | 心脏 |
+| en lunga | 大脑 |
+|en lever  | 肝脏 |
+| en magsäck | 胃 |
+| en tarm | 肠 |
+| en njure | 肾脏 |
+|ett organ  | 器官 |
 
 # Skelettet
 En vuxen människa har 206 ben inuti kroppen. Alla ben tillsammans kallas för ett skelett.<br>
@@ -279,11 +279,11 @@ Nej, säger Marias mamma. Doktorn sa att du måste ta antibiotika i tio dagar. A
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTI2OTM5MSw0ODA0MjEzNiwtMzI2Mz
-cxMzY0LDE0MDk4MDE5NTgsLTE3ODIzNDM1MjksMTE0NTI1NDcw
-MiwtMTEwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsND
-U0NzQ5NzU1LDY2NjcwNzY5MSwxMDQxNDc5NTgxLC01MzA2MDc4
-MDMsMTA2MzMzNTM2NiwtMTQxNjY3ODE2MCwtMjQ3NzU2ODI4LC
-0yMDEzMzg4NjU2LDE0OTU0MDAwMTMsMTI1MTI4Nzc2MSwxMjMw
-Nzg1NzIzXX0=
+eyJoaXN0b3J5IjpbMTkwODE3NzkwNywxNjg1MjY5MzkxLDQ4MD
+QyMTM2LC0zMjYzNzEzNjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUy
+OSwxMTQ1MjU0NzAyLC0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLT
+c0NTAyOTEwOCw0NTQ3NDk3NTUsNjY2NzA3NjkxLDEwNDE0Nzk1
+ODEsLTUzMDYwNzgwMywxMDYzMzM1MzY2LC0xNDE2Njc4MTYwLC
+0yNDc3NTY4MjgsLTIwMTMzODg2NTYsMTQ5NTQwMDAxMywxMjUx
+Mjg3NzYxXX0=
 -->
