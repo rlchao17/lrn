@@ -43,7 +43,7 @@ De flesta av musklerna sitter fast i skelettt.
  - Här sitter muskeln fast i skelettet.
 
 ## Röntgen 
-Man kan ta bilder skelettet och olika organ i kroppen med en röntgenkamera. Det här är en röntgenbild av en hand.
+Man kan ta bilder av skelettet och olika organ i kroppen med en röntgenkamera. Det här är en röntgenbild av en hand.
 > Hur många ben ser du i handen?
 
 ## Skelettet behöver kalk
@@ -279,11 +279,11 @@ Nej, säger Marias mamma. Doktorn sa att du måste ta antibiotika i tio dagar. A
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODE3NzkwNywxNjg1MjY5MzkxLDQ4MD
-QyMTM2LC0zMjYzNzEzNjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUy
-OSwxMTQ1MjU0NzAyLC0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLT
-c0NTAyOTEwOCw0NTQ3NDk3NTUsNjY2NzA3NjkxLDEwNDE0Nzk1
-ODEsLTUzMDYwNzgwMywxMDYzMzM1MzY2LC0xNDE2Njc4MTYwLC
-0yNDc3NTY4MjgsLTIwMTMzODg2NTYsMTQ5NTQwMDAxMywxMjUx
-Mjg3NzYxXX0=
+eyJoaXN0b3J5IjpbLTM0NjEyNzkxOCwxOTA4MTc3OTA3LDE2OD
+UyNjkzOTEsNDgwNDIxMzYsLTMyNjM3MTM2NCwxNDA5ODAxOTU4
+LC0xNzgyMzQzNTI5LDExNDUyNTQ3MDIsLTExMDI4ODYwOTAsMT
+YwMzIzNTY4OCwtNzQ1MDI5MTA4LDQ1NDc0OTc1NSw2NjY3MDc2
+OTEsMTA0MTQ3OTU4MSwtNTMwNjA3ODAzLDEwNjMzMzUzNjYsLT
+E0MTY2NzgxNjAsLTI0Nzc1NjgyOCwtMjAxMzM4ODY1NiwxNDk1
+NDAwMDEzXX0=
 -->
