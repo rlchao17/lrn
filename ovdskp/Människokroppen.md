@@ -130,7 +130,7 @@ Det här är Fatima och hennes son Josef. Josef är sex år. Han har många frå
 | **Mamma** | Jo, du andas in luft med syre i lungorna.<br>Hjärtat pumpar runt blodet i kroppen.<br>Och när blodet kommer till lungorna hämtar blodet syre.<br>*Sedan* pumpar hjärtat blodet *vidare* till hela kroppen. |
 | **Josef** | Och då får hela kroppen syre! Vad bra! |
 | **Mamma** | När du springer behöver kroppen mycket syre.<br>Då måste hjärtat pumpa fortare. |
-| **Josef** | Jaha. Då förstår jag. Det är därför man måste andas fortare när man springer. |
+| **Josef** | Jaha. Då förstår jag. Det är *därför* man måste andas fortare när man springer. |
 
 **Blodet hämtar syre från lungorna.**
  1. Hon andas in luft genom **munnen**.<br>I luften finns det syre.
@@ -279,11 +279,11 @@ Nej, säger Marias mamma. Doktorn sa att du måste ta antibiotika i tio dagar. A
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjQ2NTMxNiwtNzk2MzMwNjQ4LDI5Nj
-E1NjQ3OCwtMzQ2MTI3OTE4LDE5MDgxNzc5MDcsMTY4NTI2OTM5
-MSw0ODA0MjEzNiwtMzI2MzcxMzY0LDE0MDk4MDE5NTgsLTE3OD
-IzNDM1MjksMTE0NTI1NDcwMiwtMTEwMjg4NjA5MCwxNjAzMjM1
-Njg4LC03NDUwMjkxMDgsNDU0NzQ5NzU1LDY2NjcwNzY5MSwxMD
-QxNDc5NTgxLC01MzA2MDc4MDMsMTA2MzMzNTM2NiwtMTQxNjY3
-ODE2MF19
+eyJoaXN0b3J5IjpbMTE4NDcxMTQyOCwxNDIyNDY1MzE2LC03OT
+YzMzA2NDgsMjk2MTU2NDc4LC0zNDYxMjc5MTgsMTkwODE3Nzkw
+NywxNjg1MjY5MzkxLDQ4MDQyMTM2LC0zMjYzNzEzNjQsMTQwOT
+gwMTk1OCwtMTc4MjM0MzUyOSwxMTQ1MjU0NzAyLC0xMTAyODg2
+MDkwLDE2MDMyMzU2ODgsLTc0NTAyOTEwOCw0NTQ3NDk3NTUsNj
+Y2NzA3NjkxLDEwNDE0Nzk1ODEsLTUzMDYwNzgwMywxMDYzMzM1
+MzY2XX0=
 -->
