@@ -322,8 +322,10 @@ I sprit finns det mycket alkohol.<br>
 I öl finns det oftast lite alkohol.
 
 Affärer får inte sälja öl till personer som är under 18 år. Det är förbjudet att sälja vin och sprit till personer som är under 20 år.
+#### öl<br>vin<br>sprit
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA0NDQ2NzEsLTE0NTIxMDgzOTMsMz
+eyJoaXN0b3J5IjpbLTEwNDIwNDM1NjAsLTE0NTIxMDgzOTMsMz
 gwMTQwNjc1LC02NzUxNjIyNTksLTM2NTQyNTI5MywtMjA2NTI4
 MzgyNywtMTEyMTEzMjk3Niw0MDUyNDE5MzMsLTMyOTA5NjM3MC
 wxMTg0NzExNDI4LDE0MjI0NjUzMTYsLTc5NjMzMDY0OCwyOTYx
