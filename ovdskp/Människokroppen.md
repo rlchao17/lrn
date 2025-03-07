@@ -282,13 +282,13 @@ Det finns mycket du kan göra för att din kropp ska må bra.
 Det är viktigt att äta näringsrik mat.<br>
 Du behöver äta olika saker för att må bra.
 ## Motion
-Det är viktigt att röra på kroppen. Skelettet och musklerna blir starkare om du motionerar. Du kan träna på gym eller simma i simhallen.
+Det är viktigt att röra på kroppen. Skelettet och musklerna blir starkare om du motionerar. Du kan träna på gym eller simma i simhallen. Att gå långa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzcwMTg3MDcsLTExMjExMzI5NzYsND
-A1MjQxOTMzLC0zMjkwOTYzNzAsMTE4NDcxMTQyOCwxNDIyNDY1
-MzE2LC03OTYzMzA2NDgsMjk2MTU2NDc4LC0zNDYxMjc5MTgsMT
-kwODE3NzkwNywxNjg1MjY5MzkxLDQ4MDQyMTM2LC0zMjYzNzEz
-NjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUyOSwxMTQ1MjU0NzAyLC
-0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLTc0NTAyOTEwOCw0NTQ3
-NDk3NTVdfQ==
+eyJoaXN0b3J5IjpbMTQ0MjQyNjIzNSwtMTEyMTEzMjk3Niw0MD
+UyNDE5MzMsLTMyOTA5NjM3MCwxMTg0NzExNDI4LDE0MjI0NjUz
+MTYsLTc5NjMzMDY0OCwyOTYxNTY0NzgsLTM0NjEyNzkxOCwxOT
+A4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYsLTMyNjM3MTM2
+NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3MDIsLT
+ExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LDQ1NDc0
+OTc1NV19
 -->
