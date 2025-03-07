@@ -321,13 +321,13 @@ Det finns giftiga ämnen i alkohol. Därför är det farligt att dricka mycket a
 I sprit finns det mycket alkohol.<br>
 I öl finns det oftast lite alkohol.
 
-
+Affärer får inte sälja öl till personer som är under 18 år. Det är förbjudet att sälja vin och sprit till personer som är under 20 år.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzMzQyMzA0LC0xNDUyMTA4MzkzLDM4MD
-E0MDY3NSwtNjc1MTYyMjU5LC0zNjU0MjUyOTMsLTIwNjUyODM4
-MjcsLTExMjExMzI5NzYsNDA1MjQxOTMzLC0zMjkwOTYzNzAsMT
-E4NDcxMTQyOCwxNDIyNDY1MzE2LC03OTYzMzA2NDgsMjk2MTU2
-NDc4LC0zNDYxMjc5MTgsMTkwODE3NzkwNywxNjg1MjY5MzkxLD
-Q4MDQyMTM2LC0zMjYzNzEzNjQsMTQwOTgwMTk1OCwtMTc4MjM0
-MzUyOV19
+eyJoaXN0b3J5IjpbLTE4NzA0NDQ2NzEsLTE0NTIxMDgzOTMsMz
+gwMTQwNjc1LC02NzUxNjIyNTksLTM2NTQyNTI5MywtMjA2NTI4
+MzgyNywtMTEyMTEzMjk3Niw0MDUyNDE5MzMsLTMyOTA5NjM3MC
+wxMTg0NzExNDI4LDE0MjI0NjUzMTYsLTc5NjMzMDY0OCwyOTYx
+NTY0NzgsLTM0NjEyNzkxOCwxOTA4MTc3OTA3LDE2ODUyNjkzOT
+EsNDgwNDIxMzYsLTMyNjM3MTM2NCwxNDA5ODAxOTU4LC0xNzgy
+MzQzNTI5XX0=
 -->
