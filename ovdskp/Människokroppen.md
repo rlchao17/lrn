@@ -315,13 +315,14 @@ Narkotika är också farligt för kroppen. I narkotika finns det giftiga ämnen.
 I Sverige är det förbjudet att köpa och sälja narkotika. Det är också förbjudet att använda narkotika, till exempel kat, hasch och kokain.
 < Han säljer kat.
 ## Alkohol
-Öl, vin och sprit innehåller alkohol.
+Öl, vin och sprit innehåller alkohol.<br>
+Det finns giftiga ämnen i alkohol. Därför är det farligt att dricka mycket alkohol. Alkohol k
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzQxNTU4NSwtMTQ1MjEwODM5MywzOD
-AxNDA2NzUsLTY3NTE2MjI1OSwtMzY1NDI1MjkzLC0yMDY1Mjgz
-ODI3LC0xMTIxMTMyOTc2LDQwNTI0MTkzMywtMzI5MDk2MzcwLD
-ExODQ3MTE0MjgsMTQyMjQ2NTMxNiwtNzk2MzMwNjQ4LDI5NjE1
-NjQ3OCwtMzQ2MTI3OTE4LDE5MDgxNzc5MDcsMTY4NTI2OTM5MS
-w0ODA0MjEzNiwtMzI2MzcxMzY0LDE0MDk4MDE5NTgsLTE3ODIz
-NDM1MjldfQ==
+eyJoaXN0b3J5IjpbMTIxMzU1NzQ3LC0xNDUyMTA4MzkzLDM4MD
+E0MDY3NSwtNjc1MTYyMjU5LC0zNjU0MjUyOTMsLTIwNjUyODM4
+MjcsLTExMjExMzI5NzYsNDA1MjQxOTMzLC0zMjkwOTYzNzAsMT
+E4NDcxMTQyOCwxNDIyNDY1MzE2LC03OTYzMzA2NDgsMjk2MTU2
+NDc4LC0zNDYxMjc5MTgsMTkwODE3NzkwNywxNjg1MjY5MzkxLD
+Q4MDQyMTM2LC0zMjYzNzEzNjQsMTQwOTgwMTk1OCwtMTc4MjM0
+MzUyOV19
 -->
