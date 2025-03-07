@@ -279,9 +279,12 @@ Nej, säger Marias mamma. Doktorn sa att du måste ta antibiotika i tio dagar. A
 Det finns mycket du kan göra för att din kropp ska må bra.
 
 ## Näringsrik mat
-
+Det är viktigt att äta näringsrik mat.<br>
+Du behöver äta olika saker för att må bra.
+## Motion
+Det är viktigt att röra på
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ5ODU5OTEsLTExMjExMzI5NzYsND
+eyJoaXN0b3J5IjpbLTE1MjQwNzEyNTcsLTExMjExMzI5NzYsND
 A1MjQxOTMzLC0zMjkwOTYzNzAsMTE4NDcxMTQyOCwxNDIyNDY1
 MzE2LC03OTYzMzA2NDgsMjk2MTU2NDc4LC0zNDYxMjc5MTgsMT
 kwODE3NzkwNywxNjg1MjY5MzkxLDQ4MDQyMTM2LC0zMjYzNzEz
