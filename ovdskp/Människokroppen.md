@@ -316,9 +316,14 @@ I Sverige är det förbjudet att köpa och sälja narkotika. Det är också för
 < Han säljer kat.
 ## Alkohol
 Öl, vin och sprit innehåller alkohol.<br>
-Det finns giftiga ämnen i alkohol. Därför är det farligt att dricka mycket alkohol. Alkohol k
+Det finns giftiga ämnen i alkohol. Därför är det farligt att dricka mycket alkohol. Alkohol kan skada till exempel levern, hjärtat, njurarna och hjärnan.
+
+I sprit finns det mycket alkohol.<br>
+I öl finns det oftast lite alkohol.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzU1NzQ3LC0xNDUyMTA4MzkzLDM4MD
+eyJoaXN0b3J5IjpbNDAzMzQyMzA0LC0xNDUyMTA4MzkzLDM4MD
 E0MDY3NSwtNjc1MTYyMjU5LC0zNjU0MjUyOTMsLTIwNjUyODM4
 MjcsLTExMjExMzI5NzYsNDA1MjQxOTMzLC0zMjkwOTYzNzAsMT
 E4NDcxMTQyOCwxNDIyNDY1MzE2LC03OTYzMzA2NDgsMjk2MTU2
