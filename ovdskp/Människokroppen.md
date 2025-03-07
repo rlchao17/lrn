@@ -297,14 +297,14 @@ Eva är hos tändläkaren.
 |  **Tandläkaren**  | Ja, det är jättebra med lördagsgodis. Det är inte bra att äta godis ofta. Bruckar du dricka läsk? |
 |  **Eva**  | Inte så ofta. Bara ibland. |
 |  **Tandläkaren**  | Det är mycket socker i läsk och saft också. Det är bättre att dricka vatten när du är törstig. |
-|  **Eva**  |  |
+|  **Eva**  | Okej. Jag förstår. |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM2NzE2NDQsLTIwNjUyODM4MjcsLT
-ExMjExMzI5NzYsNDA1MjQxOTMzLC0zMjkwOTYzNzAsMTE4NDcx
-MTQyOCwxNDIyNDY1MzE2LC03OTYzMzA2NDgsMjk2MTU2NDc4LC
-0zNDYxMjc5MTgsMTkwODE3NzkwNywxNjg1MjY5MzkxLDQ4MDQy
-MTM2LC0zMjYzNzEzNjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUyOS
-wxMTQ1MjU0NzAyLC0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLTc0
-NTAyOTEwOF19
+eyJoaXN0b3J5IjpbNDkxOTcwNjI3LC0yMDY1MjgzODI3LC0xMT
+IxMTMyOTc2LDQwNTI0MTkzMywtMzI5MDk2MzcwLDExODQ3MTE0
+MjgsMTQyMjQ2NTMxNiwtNzk2MzMwNjQ4LDI5NjE1NjQ3OCwtMz
+Q2MTI3OTE4LDE5MDgxNzc5MDcsMTY4NTI2OTM5MSw0ODA0MjEz
+NiwtMzI2MzcxMzY0LDE0MDk4MDE5NTgsLTE3ODIzNDM1MjksMT
+E0NTI1NDcwMiwtMTEwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUw
+MjkxMDhdfQ==
 -->
