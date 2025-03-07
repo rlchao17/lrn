@@ -285,12 +285,14 @@ Du behöver äta olika saker för att må bra.
 Det är viktigt att röra på kroppen. Skelettet och musklerna blir starkare om du motionerar. Du kan träna på gym eller simma i simhallen. Att gå långa promenader är också bra. Försök att motionera minst en halvtimme varje dag.
 ## Sömn
 Det är också vikgit att du sover bra, att du får tillräckligt med sömn. Hjärnan måste vila. De flesta vuxna behöver sova 7 eller 8 timmar varje natt, men barn behöver sova fler timmar. Ett bar som är ett år behöver sova cirka 14 timmar varje natt. Ett barn som är åtta år behöver sova cirka 10 timmar varje natt.
+> Hur gör du för att hålla dig frisk?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA2MjU5OCwtMTEyMTEzMjk3Niw0MD
-UyNDE5MzMsLTMyOTA5NjM3MCwxMTg0NzExNDI4LDE0MjI0NjUz
-MTYsLTc5NjMzMDY0OCwyOTYxNTY0NzgsLTM0NjEyNzkxOCwxOT
-A4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYsLTMyNjM3MTM2
-NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3MDIsLT
-ExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LDQ1NDc0
-OTc1NV19
+eyJoaXN0b3J5IjpbNzgzODUzMiwtMTEyMTEzMjk3Niw0MDUyND
+E5MzMsLTMyOTA5NjM3MCwxMTg0NzExNDI4LDE0MjI0NjUzMTYs
+LTc5NjMzMDY0OCwyOTYxNTY0NzgsLTM0NjEyNzkxOCwxOTA4MT
+c3OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYsLTMyNjM3MTM2NCwx
+NDA5ODAxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3MDIsLTExMD
+I4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LDQ1NDc0OTc1
+NV19
 -->
