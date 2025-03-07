@@ -303,9 +303,9 @@ Eva är hos tändläkaren.
 # Farligt för kroppen
 Näringsrik mat, motion och sömn är bra för kroppen. Men det finns saker som inte är bra för kroppen.
 ## Cigaretter
-
+Att röka är farligt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjUxMjM5NSwtMjA2NTI4MzgyNywtMT
+eyJoaXN0b3J5IjpbLTM2NTQyNTI5MywtMjA2NTI4MzgyNywtMT
 EyMTEzMjk3Niw0MDUyNDE5MzMsLTMyOTA5NjM3MCwxMTg0NzEx
 NDI4LDE0MjI0NjUzMTYsLTc5NjMzMDY0OCwyOTYxNTY0NzgsLT
 M0NjEyNzkxOCwxOTA4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIx
