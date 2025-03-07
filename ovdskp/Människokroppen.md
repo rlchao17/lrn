@@ -295,12 +295,12 @@ Eva är hos tändläkaren.
 |  **Tandläkaren**  | Äter du mycket godis? |
 |  **Eva**  | Ja, nästan varje dag. Men min kompis får bara godis en dag i vackan, på lördagarna. |
 |  **Tandläkaren**  | Ja, det är jättebra med lördagsgodis. Det är inte bra att äta godis ofta. Bruckar du dricka läsk? |
-|  **Eva**  | Inte så |
-|  **Tandläkaren**  |  |
+|  **Eva**  | Inte så ofta. Bara ibland. |
+|  **Tandläkaren**  | Det är mycket socker i läsk och saft också. Det är bättre att dricka vatten när du är törstig. |
 |  **Eva**  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI2ODg4MzIsLTIwNjUyODM4MjcsLT
+eyJoaXN0b3J5IjpbLTEwODM2NzE2NDQsLTIwNjUyODM4MjcsLT
 ExMjExMzI5NzYsNDA1MjQxOTMzLC0zMjkwOTYzNzAsMTE4NDcx
 MTQyOCwxNDIyNDY1MzE2LC03OTYzMzA2NDgsMjk2MTU2NDc4LC
 0zNDYxMjc5MTgsMTkwODE3NzkwNywxNjg1MjY5MzkxLDQ4MDQy
