@@ -303,13 +303,15 @@ Eva är hos tändläkaren.
 # Farligt för kroppen
 Näringsrik mat, motion och sömn är bra för kroppen. Men det finns saker som inte är bra för kroppen.
 ## Cigaretter
-Att röka är farligt.
+Att röka är farligt. Det finns giftiga ämnen i cigaretter. Om man röker kan man bli sjuk. Man kan till exempel få cancer i lungorna.
+
+Det är viktigt att inte röka inomhus. Röken stannar i rummet. Alla som är där andas in röken. Därför är det förbjudet att röka på många platser i Sverige.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTQyNTI5MywtMjA2NTI4MzgyNywtMT
-EyMTEzMjk3Niw0MDUyNDE5MzMsLTMyOTA5NjM3MCwxMTg0NzEx
-NDI4LDE0MjI0NjUzMTYsLTc5NjMzMDY0OCwyOTYxNTY0NzgsLT
-M0NjEyNzkxOCwxOTA4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIx
-MzYsLTMyNjM3MTM2NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LD
-ExNDUyNTQ3MDIsLTExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1
-MDI5MTA4XX0=
+eyJoaXN0b3J5IjpbLTUxMTU5MTQyMSwtMzY1NDI1MjkzLC0yMD
+Y1MjgzODI3LC0xMTIxMTMyOTc2LDQwNTI0MTkzMywtMzI5MDk2
+MzcwLDExODQ3MTE0MjgsMTQyMjQ2NTMxNiwtNzk2MzMwNjQ4LD
+I5NjE1NjQ3OCwtMzQ2MTI3OTE4LDE5MDgxNzc5MDcsMTY4NTI2
+OTM5MSw0ODA0MjEzNiwtMzI2MzcxMzY0LDE0MDk4MDE5NTgsLT
+E3ODIzNDM1MjksMTE0NTI1NDcwMiwtMTEwMjg4NjA5MCwxNjAz
+MjM1Njg4XX0=
 -->
