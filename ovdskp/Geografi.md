@@ -21,6 +21,8 @@
 | en sjö | 湖泊 |
 | en flod | 河流 |
 
+# Sverige
+
 # Var ligger Sverige?
 
 |Svenska  |Kinesiska  |
@@ -41,7 +43,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5NTEzODc1LC0yMDAwNDU0NTQyLDM4NT
-YxMTExMSwtNzY1OTU5ODE1LC0xMDMxNzkzNDYzLC0yNTQ5Mjk5
-NzcsLTE0MDc1OTA2NjRdfQ==
+eyJoaXN0b3J5IjpbLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLTIwMD
+A0NTQ1NDIsMzg1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3OTM0
+NjMsLTI1NDkyOTk3NywtMTQwNzU5MDY2NF19
 -->
