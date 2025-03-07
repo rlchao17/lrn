@@ -237,7 +237,7 @@ Jo, virus och bakterier är så små att du inte kan se dem utan ett mikroskop.
 #### ett mikroskop
 
 ## Feber
-Ibland blir kroppen warm när du är sjuk. Då har du feber.
+Ibland blir kroppen varm när du är sjuk. Då har du feber.
 > Ungefär vilken temperatur har din kropp när du är frisk?<br>
 > Är du sjuk när din kroppstemperatur är 39 grader?
 #### en termometer
@@ -279,11 +279,11 @@ Nej, säger Marias mamma. Doktorn sa att du måste ta antibiotika i tio dagar. A
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTA5NjM3MCwxMTg0NzExNDI4LDE0Mj
-I0NjUzMTYsLTc5NjMzMDY0OCwyOTYxNTY0NzgsLTM0NjEyNzkx
-OCwxOTA4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYsLTMyNj
-M3MTM2NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3
-MDIsLTExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LD
-Q1NDc0OTc1NSw2NjY3MDc2OTEsMTA0MTQ3OTU4MSwtNTMwNjA3
-ODAzXX0=
+eyJoaXN0b3J5IjpbNDA1MjQxOTMzLC0zMjkwOTYzNzAsMTE4ND
+cxMTQyOCwxNDIyNDY1MzE2LC03OTYzMzA2NDgsMjk2MTU2NDc4
+LC0zNDYxMjc5MTgsMTkwODE3NzkwNywxNjg1MjY5MzkxLDQ4MD
+QyMTM2LC0zMjYzNzEzNjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUy
+OSwxMTQ1MjU0NzAyLC0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLT
+c0NTAyOTEwOCw0NTQ3NDk3NTUsNjY2NzA3NjkxLDEwNDE0Nzk1
+ODFdfQ==
 -->
