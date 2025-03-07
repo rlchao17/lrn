@@ -298,13 +298,15 @@ Eva är hos tändläkaren.
 |  **Eva**  | Inte så ofta. Bara ibland. |
 |  **Tandläkaren**  | Det är mycket socker i läsk och saft också. Det är bättre att dricka vatten när du är törstig. |
 |  **Eva**  | Okej. Jag förstår. |
+> I en burk läsk är det lika mycket socker som i 12 sockerbitar.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxOTcwNjI3LC0yMDY1MjgzODI3LC0xMT
-IxMTMyOTc2LDQwNTI0MTkzMywtMzI5MDk2MzcwLDExODQ3MTE0
-MjgsMTQyMjQ2NTMxNiwtNzk2MzMwNjQ4LDI5NjE1NjQ3OCwtMz
-Q2MTI3OTE4LDE5MDgxNzc5MDcsMTY4NTI2OTM5MSw0ODA0MjEz
-NiwtMzI2MzcxMzY0LDE0MDk4MDE5NTgsLTE3ODIzNDM1MjksMT
-E0NTI1NDcwMiwtMTEwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUw
-MjkxMDhdfQ==
+eyJoaXN0b3J5IjpbMTYxMTM3NzQwNywtMjA2NTI4MzgyNywtMT
+EyMTEzMjk3Niw0MDUyNDE5MzMsLTMyOTA5NjM3MCwxMTg0NzEx
+NDI4LDE0MjI0NjUzMTYsLTc5NjMzMDY0OCwyOTYxNTY0NzgsLT
+M0NjEyNzkxOCwxOTA4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIx
+MzYsLTMyNjM3MTM2NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LD
+ExNDUyNTQ3MDIsLTExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1
+MDI5MTA4XX0=
 -->
