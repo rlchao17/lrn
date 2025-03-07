@@ -285,12 +285,12 @@ Du behöver äta olika saker för att må bra.
 Det är viktigt att röra på kroppen. Skelettet och musklerna blir starkare om du motionerar. Du kan träna på gym eller simma i simhallen. Att gå långa promenader är också bra. Försök att motionera minst en halvtimme varje dag.
 ## Sömn
 Det är också vikgit att du sover bra, att du får tillräckligt med sömn. Hjärnan måste vila. De flesta vuxna behöver sova 7 eller 8 timmar varje natt, men barn behöver sova fler timmar. Ett bar som är ett år behöver sova cirka 14 timmar varje natt. Ett barn som är åtta år behöver sova cirka 10 timmar varje natt.
-> Hur gör du för att hålla dig frisk?
+> Hur gör du för att hålla *dig* frisk?
 ## Tänderna
 Eva är hos tändläkaren.
 |  <!-- -->  |  <!-- -->  |  
 | --- | --- |  
-|  **Tandläkaren**  | Borstar du tänderna varje dag? Du måste borsta tänderna på morgonen efter frukost och på kvällen innan du går och lägger dig. Då kan du få fina och starka tänder |
+|  **Tandläkaren**  | Borstar du tänderna varje dag? Du måste borsta tänderna på morgonen efter frukost och på kvällen innan du går och lägger dig. Då kan du få fina och starka tänder. |
 |  **Eva**  |  |
 |  **Tandläkaren**  |  |
 |  **Eva**  |  |
@@ -300,7 +300,7 @@ Eva är hos tändläkaren.
 |  **Eva**  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY5NTI4MDksLTExMjExMzI5NzYsND
+eyJoaXN0b3J5IjpbLTEyNTM4NzAyMjEsLTExMjExMzI5NzYsND
 A1MjQxOTMzLC0zMjkwOTYzNzAsMTE4NDcxMTQyOCwxNDIyNDY1
 MzE2LC03OTYzMzA2NDgsMjk2MTU2NDc4LC0zNDYxMjc5MTgsMT
 kwODE3NzkwNywxNjg1MjY5MzkxLDQ4MDQyMTM2LC0zMjYzNzEz
