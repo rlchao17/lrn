@@ -306,12 +306,14 @@ Näringsrik mat, motion och sömn är bra för kroppen. Men det finns saker som 
 Att röka är farligt. Det finns giftiga ämnen i cigaretter. Om man röker kan man bli sjuk. Man kan till exempel få cancer i lungorna.
 
 Det är viktigt att inte röka inomhus. Röken stannar i rummet. Alla som är där andas in röken. Därför är det förbjudet att röka på många platser i Sverige. Det är förbjudet att röka på restauranger, bio, bussar och tåg.
+
+Rökning är särskilt farligt för barn och undomar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTE2MjI1OSwtMzY1NDI1MjkzLC0yMD
-Y1MjgzODI3LC0xMTIxMTMyOTc2LDQwNTI0MTkzMywtMzI5MDk2
-MzcwLDExODQ3MTE0MjgsMTQyMjQ2NTMxNiwtNzk2MzMwNjQ4LD
-I5NjE1NjQ3OCwtMzQ2MTI3OTE4LDE5MDgxNzc5MDcsMTY4NTI2
-OTM5MSw0ODA0MjEzNiwtMzI2MzcxMzY0LDE0MDk4MDE5NTgsLT
-E3ODIzNDM1MjksMTE0NTI1NDcwMiwtMTEwMjg4NjA5MCwxNjAz
-MjM1Njg4XX0=
+eyJoaXN0b3J5IjpbODQyNDYxNzkwLC02NzUxNjIyNTksLTM2NT
+QyNTI5MywtMjA2NTI4MzgyNywtMTEyMTEzMjk3Niw0MDUyNDE5
+MzMsLTMyOTA5NjM3MCwxMTg0NzExNDI4LDE0MjI0NjUzMTYsLT
+c5NjMzMDY0OCwyOTYxNTY0NzgsLTM0NjEyNzkxOCwxOTA4MTc3
+OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYsLTMyNjM3MTM2NCwxND
+A5ODAxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3MDIsLTExMDI4
+ODYwOTBdfQ==
 -->
