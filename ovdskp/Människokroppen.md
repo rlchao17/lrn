@@ -312,14 +312,14 @@ Rökning är särskilt farligt för barn och ungdomar. Därför får affärer in
 ## Narkotika
 Narkotika är också farligt för kroppen. I narkotika finns det giftiga ämnen. Narkotika kan skada hjärnan och andra viktiga organ i kroppen.
 
-I Sverige är det förbjudet att köpa och sälja narkotika. 
+I Sverige är det förbjudet att köpa och sälja narkotika. Det är också förbjudet att använda narkotika, till exempel kat, hasch och kokain.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTIzMzUyOSwzODAxNDA2NzUsLTY3NT
-E2MjI1OSwtMzY1NDI1MjkzLC0yMDY1MjgzODI3LC0xMTIxMTMy
-OTc2LDQwNTI0MTkzMywtMzI5MDk2MzcwLDExODQ3MTE0MjgsMT
-QyMjQ2NTMxNiwtNzk2MzMwNjQ4LDI5NjE1NjQ3OCwtMzQ2MTI3
-OTE4LDE5MDgxNzc5MDcsMTY4NTI2OTM5MSw0ODA0MjEzNiwtMz
-I2MzcxMzY0LDE0MDk4MDE5NTgsLTE3ODIzNDM1MjksMTE0NTI1
-NDcwMl19
+eyJoaXN0b3J5IjpbLTE0NTIxMDgzOTMsMzgwMTQwNjc1LC02Nz
+UxNjIyNTksLTM2NTQyNTI5MywtMjA2NTI4MzgyNywtMTEyMTEz
+Mjk3Niw0MDUyNDE5MzMsLTMyOTA5NjM3MCwxMTg0NzExNDI4LD
+E0MjI0NjUzMTYsLTc5NjMzMDY0OCwyOTYxNTY0NzgsLTM0NjEy
+NzkxOCwxOTA4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYsLT
+MyNjM3MTM2NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LDExNDUy
+NTQ3MDJdfQ==
 -->
