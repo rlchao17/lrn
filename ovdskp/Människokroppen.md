@@ -308,9 +308,11 @@ Att röka är farligt. Det finns giftiga ämnen i cigaretter. Om man röker kan 
 Det är viktigt att inte röka inomhus. Röken stannar i rummet. Alla som är där andas in röken. Därför är det förbjudet att röka på många platser i Sverige. Det är förbjudet att röka på restauranger, bio, bussar och tåg.
 
 Rökning är särskilt farligt för barn och ungdomar. Därför får affärer inte sälja cigaretter till personer som är under 18 år.
-> R
+> Rökning skadar allvarligt dig själv och personer i din omgivning.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyNzg1MjM0LC02NzUxNjIyNTksLTM2NT
+eyJoaXN0b3J5IjpbLTc5ODgxNjI4LC02NzUxNjIyNTksLTM2NT
 QyNTI5MywtMjA2NTI4MzgyNywtMTEyMTEzMjk3Niw0MDUyNDE5
 MzMsLTMyOTA5NjM3MCwxMTg0NzExNDI4LDE0MjI0NjUzMTYsLT
 c5NjMzMDY0OCwyOTYxNTY0NzgsLTM0NjEyNzkxOCwxOTA4MTc3
