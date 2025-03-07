@@ -1,5 +1,6 @@
 # Världen
-
+#### Stilla havet<br>
+#### Nordamerika<br>Sydamerika
 # Jorden och kartan
 
 |Svenska|Kinesiska  |
@@ -43,7 +44,8 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLTIwMD
-A0NTQ1NDIsMzg1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3OTM0
-NjMsLTI1NDkyOTk3NywtMTQwNzU5MDY2NF19
+eyJoaXN0b3J5IjpbLTQ2OTQ4NjM1NSwtOTk0NjMxNjM3LDYyOT
+UxMzg3NSwtMjAwMDQ1NDU0MiwzODU2MTExMTEsLTc2NTk1OTgx
+NSwtMTAzMTc5MzQ2MywtMjU0OTI5OTc3LC0xNDA3NTkwNjY0XX
+0=
 -->
