@@ -282,9 +282,9 @@ Det finns mycket du kan göra för att din kropp ska må bra.
 Det är viktigt att äta näringsrik mat.<br>
 Du behöver äta olika saker för att må bra.
 ## Motion
-Det är viktigt att röra på
+Det är viktigt att röra på kroppen. Skelettet och musklerna blir starkare om du motionerar. Du kan träna på gym eller simma i simhallen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQwNzEyNTcsLTExMjExMzI5NzYsND
+eyJoaXN0b3J5IjpbLTE2MzcwMTg3MDcsLTExMjExMzI5NzYsND
 A1MjQxOTMzLC0zMjkwOTYzNzAsMTE4NDcxMTQyOCwxNDIyNDY1
 MzE2LC03OTYzMzA2NDgsMjk2MTU2NDc4LC0zNDYxMjc5MTgsMT
 kwODE3NzkwNywxNjg1MjY5MzkxLDQ4MDQyMTM2LC0zMjYzNzEz
