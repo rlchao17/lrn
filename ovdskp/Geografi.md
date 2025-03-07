@@ -5,9 +5,9 @@
 
 |Svenska|Kinesiska  |
 |--|--|
-|världen  | 世界 |
+| världen | 世界 |
 | jorden | 地球 |
-|en karta  | 地图 |
+| en karta | 地图 |
 | land | 国家 |
 
 # På kartan
@@ -17,8 +17,8 @@
 | en världsdel | 大洲，大陆 |
 | ett land | 国家 |
 | ett hav | 海洋 |
-|en kust  | 海岸 |
-|en ö  | 岛屿 |
+| en kust | 海岸 |
+| en ö | 岛屿 |
 | en sjö | 湖泊 |
 | en flod | 河流 |
 
@@ -44,8 +44,8 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mj
-k1MTM4NzUsLTIwMDA0NTQ1NDIsMzg1NjExMTExLC03NjU5NTk4
-MTUsLTEwMzE3OTM0NjMsLTI1NDkyOTk3NywtMTQwNzU5MDY2NF
-19
+eyJoaXN0b3J5IjpbMTA1MDkyOTQ4NSwtMTU0MjIyODc0NywtOT
+k0NjMxNjM3LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2MTEx
+MTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5OTc3LC
+0xNDA3NTkwNjY0XX0=
 -->
