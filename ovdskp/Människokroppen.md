@@ -282,9 +282,11 @@ Det finns mycket du kan göra för att din kropp ska må bra.
 Det är viktigt att äta näringsrik mat.<br>
 Du behöver äta olika saker för att må bra.
 ## Motion
-Det är viktigt att röra på kroppen. Skelettet och musklerna blir starkare om du motionerar. Du kan träna på gym eller simma i simhallen. Att gå långa
+Det är viktigt att röra på kroppen. Skelettet och musklerna blir starkare om du motionerar. Du kan träna på gym eller simma i simhallen. Att gå långa promenader är också bra. Försök att motionera minst en halvtimme varje dag.
+## Sömn
+Det är också vikgit att du sover bra, att du får tillräckligt med sömn. Hjärnan måste vila. De flesta vuxna behöver sova 7 eller 8 timmar varje natt, men barn behöver sova fler timmar. Ett bar som är ett år behöver sova cirka 14 timmar varje natt. Ett barn som är åtta år behöver sova cirka 10 timmar varje natt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjQyNjIzNSwtMTEyMTEzMjk3Niw0MD
+eyJoaXN0b3J5IjpbLTE2NzA2MjU5OCwtMTEyMTEzMjk3Niw0MD
 UyNDE5MzMsLTMyOTA5NjM3MCwxMTg0NzExNDI4LDE0MjI0NjUz
 MTYsLTc5NjMzMDY0OCwyOTYxNTY0NzgsLTM0NjEyNzkxOCwxOT
 A4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYsLTMyNjM3MTM2
