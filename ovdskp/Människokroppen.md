@@ -292,19 +292,19 @@ Eva är hos tändläkaren.
 | --- | --- |  
 |  **Tandläkaren**  | Borstar du tänderna varje dag? Du måste borsta tänderna på morgonen efter frukost och på kvällen innan du går och lägger *dig*. Då kan du få fina och starka tänder. |
 |  **Eva**  | Ja, jag vet. Men ibland glömmer jag. |
-|  **Tandläkaren**  |  |
-|  **Eva**  |  |
+|  **Tandläkaren**  | Äter du mycket godis? |
+|  **Eva**  | Ja, nästan varje dag. Men min kompis får bara en dag en vacka, på löda |
 |  **Tandläkaren**  |  |
 |  **Eva**  |  |
 |  **Tandläkaren**  |  |
 |  **Eva**  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUyODM4MjcsLTExMjExMzI5NzYsND
-A1MjQxOTMzLC0zMjkwOTYzNzAsMTE4NDcxMTQyOCwxNDIyNDY1
-MzE2LC03OTYzMzA2NDgsMjk2MTU2NDc4LC0zNDYxMjc5MTgsMT
-kwODE3NzkwNywxNjg1MjY5MzkxLDQ4MDQyMTM2LC0zMjYzNzEz
-NjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUyOSwxMTQ1MjU0NzAyLC
-0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLTc0NTAyOTEwOCw0NTQ3
-NDk3NTVdfQ==
+eyJoaXN0b3J5IjpbLTE2NTA3OTcxMTIsLTIwNjUyODM4MjcsLT
+ExMjExMzI5NzYsNDA1MjQxOTMzLC0zMjkwOTYzNzAsMTE4NDcx
+MTQyOCwxNDIyNDY1MzE2LC03OTYzMzA2NDgsMjk2MTU2NDc4LC
+0zNDYxMjc5MTgsMTkwODE3NzkwNywxNjg1MjY5MzkxLDQ4MDQy
+MTM2LC0zMjYzNzEzNjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUyOS
+wxMTQ1MjU0NzAyLC0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLTc0
+NTAyOTEwOF19
 -->
