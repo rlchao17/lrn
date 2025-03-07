@@ -294,17 +294,17 @@ Eva är hos tändläkaren.
 |  **Eva**  | Ja, jag vet. Men ibland glömmer jag. |
 |  **Tandläkaren**  | Äter du mycket godis? |
 |  **Eva**  | Ja, nästan varje dag. Men min kompis får bara godis en dag i vackan, på lördagarna. |
-|  **Tandläkaren**  | Ja, det är jättebra med lördagars |
-|  **Eva**  |  |
+|  **Tandläkaren**  | Ja, det är jättebra med lördagsgodis. Det är inte bra att äta godis ofta. Bruckar du dricka läsk? |
+|  **Eva**  | Inte så |
 |  **Tandläkaren**  |  |
 |  **Eva**  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODQ1NTI3OSwtMjA2NTI4MzgyNywtMT
-EyMTEzMjk3Niw0MDUyNDE5MzMsLTMyOTA5NjM3MCwxMTg0NzEx
-NDI4LDE0MjI0NjUzMTYsLTc5NjMzMDY0OCwyOTYxNTY0NzgsLT
-M0NjEyNzkxOCwxOTA4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIx
-MzYsLTMyNjM3MTM2NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LD
-ExNDUyNTQ3MDIsLTExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1
-MDI5MTA4XX0=
+eyJoaXN0b3J5IjpbLTIwMTI2ODg4MzIsLTIwNjUyODM4MjcsLT
+ExMjExMzI5NzYsNDA1MjQxOTMzLC0zMjkwOTYzNzAsMTE4NDcx
+MTQyOCwxNDIyNDY1MzE2LC03OTYzMzA2NDgsMjk2MTU2NDc4LC
+0zNDYxMjc5MTgsMTkwODE3NzkwNywxNjg1MjY5MzkxLDQ4MDQy
+MTM2LC0zMjYzNzEzNjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUyOS
+wxMTQ1MjU0NzAyLC0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLTc0
+NTAyOTEwOF19
 -->
