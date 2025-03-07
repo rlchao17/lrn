@@ -286,14 +286,16 @@ Det är viktigt att röra på kroppen. Skelettet och musklerna blir starkare om 
 ## Sömn
 Det är också vikgit att du sover bra, att du får tillräckligt med sömn. Hjärnan måste vila. De flesta vuxna behöver sova 7 eller 8 timmar varje natt, men barn behöver sova fler timmar. Ett bar som är ett år behöver sova cirka 14 timmar varje natt. Ett barn som är åtta år behöver sova cirka 10 timmar varje natt.
 > Hur gör du för att hålla dig frisk?
-## Tän
+## Tänderna
+Eva är hos tändläkaren.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzc4MTIyOCwtMTEyMTEzMjk3Niw0MD
-UyNDE5MzMsLTMyOTA5NjM3MCwxMTg0NzExNDI4LDE0MjI0NjUz
-MTYsLTc5NjMzMDY0OCwyOTYxNTY0NzgsLTM0NjEyNzkxOCwxOT
-A4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYsLTMyNjM3MTM2
-NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3MDIsLT
-ExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LDQ1NDc0
-OTc1NV19
+eyJoaXN0b3J5IjpbODUwNDY5ODUxLC0xMTIxMTMyOTc2LDQwNT
+I0MTkzMywtMzI5MDk2MzcwLDExODQ3MTE0MjgsMTQyMjQ2NTMx
+NiwtNzk2MzMwNjQ4LDI5NjE1NjQ3OCwtMzQ2MTI3OTE4LDE5MD
+gxNzc5MDcsMTY4NTI2OTM5MSw0ODA0MjEzNiwtMzI2MzcxMzY0
+LDE0MDk4MDE5NTgsLTE3ODIzNDM1MjksMTE0NTI1NDcwMiwtMT
+EwMjg4NjA5MCwxNjAzMjM1Njg4LC03NDUwMjkxMDgsNDU0NzQ5
+NzU1XX0=
 -->
