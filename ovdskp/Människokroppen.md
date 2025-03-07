@@ -169,12 +169,12 @@ Blodet *rinner* genom levern. Där stoppas farliga ämnen från att komma ut i k
 
 | Svenska | Kinesiska |
 |--|--|
-| en lever | 一个肝脏 |
+| en lever | 肝脏 |
 | renar | 净化 |
 | rinner | 流动 |
 | farlig | 危险的 |
-| ett ämne | 一种物质 |
-| ett gift | 一种毒素 |
+| ett ämne | 物质 |
+| ett gift | 毒素 |
 | giftig | 有毒的 |
 
 > Det som finns i den här flaskan är giftigt. Man får inte dricka det. Det är farligt.
@@ -279,11 +279,11 @@ Nej, säger Marias mamma. Doktorn sa att du måste ta antibiotika i tio dagar. A
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDcxMTQyOCwxNDIyNDY1MzE2LC03OT
-YzMzA2NDgsMjk2MTU2NDc4LC0zNDYxMjc5MTgsMTkwODE3Nzkw
-NywxNjg1MjY5MzkxLDQ4MDQyMTM2LC0zMjYzNzEzNjQsMTQwOT
-gwMTk1OCwtMTc4MjM0MzUyOSwxMTQ1MjU0NzAyLC0xMTAyODg2
-MDkwLDE2MDMyMzU2ODgsLTc0NTAyOTEwOCw0NTQ3NDk3NTUsNj
-Y2NzA3NjkxLDEwNDE0Nzk1ODEsLTUzMDYwNzgwMywxMDYzMzM1
-MzY2XX0=
+eyJoaXN0b3J5IjpbLTMyOTA5NjM3MCwxMTg0NzExNDI4LDE0Mj
+I0NjUzMTYsLTc5NjMzMDY0OCwyOTYxNTY0NzgsLTM0NjEyNzkx
+OCwxOTA4MTc3OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYsLTMyNj
+M3MTM2NCwxNDA5ODAxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3
+MDIsLTExMDI4ODYwOTAsMTYwMzIzNTY4OCwtNzQ1MDI5MTA4LD
+Q1NDc0OTc1NSw2NjY3MDc2OTEsMTA0MTQ3OTU4MSwtNTMwNjA3
+ODAzXX0=
 -->
