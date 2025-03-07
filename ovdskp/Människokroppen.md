@@ -310,14 +310,14 @@ Det är viktigt att inte röka inomhus. Röken stannar i rummet. Alla som är d�
 Rökning är särskilt farligt för barn och ungdomar. Därför får affärer inte sälja cigaretter till personer som är under 18 år.
 > Rökning skadar allvarligt dig själv och personer i din omgivning.
 ## Narkotika
-Narkotika är också farligt för kroppen. I narkotika finns det giftiga ämnen. Narkotika kan skada
+Narkotika är också farligt för kroppen. I narkotika finns det giftiga ämnen. Narkotika kan skada hjärnan och andra viktiga organ i kroppen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzI1MzUxNCwtNjc1MTYyMjU5LC0zNj
-U0MjUyOTMsLTIwNjUyODM4MjcsLTExMjExMzI5NzYsNDA1MjQx
-OTMzLC0zMjkwOTYzNzAsMTE4NDcxMTQyOCwxNDIyNDY1MzE2LC
-03OTYzMzA2NDgsMjk2MTU2NDc4LC0zNDYxMjc5MTgsMTkwODE3
-NzkwNywxNjg1MjY5MzkxLDQ4MDQyMTM2LC0zMjYzNzEzNjQsMT
-QwOTgwMTk1OCwtMTc4MjM0MzUyOSwxMTQ1MjU0NzAyLC0xMTAy
-ODg2MDkwXX0=
+eyJoaXN0b3J5IjpbMzgwMTQwNjc1LC02NzUxNjIyNTksLTM2NT
+QyNTI5MywtMjA2NTI4MzgyNywtMTEyMTEzMjk3Niw0MDUyNDE5
+MzMsLTMyOTA5NjM3MCwxMTg0NzExNDI4LDE0MjI0NjUzMTYsLT
+c5NjMzMDY0OCwyOTYxNTY0NzgsLTM0NjEyNzkxOCwxOTA4MTc3
+OTA3LDE2ODUyNjkzOTEsNDgwNDIxMzYsLTMyNjM3MTM2NCwxND
+A5ODAxOTU4LC0xNzgyMzQzNTI5LDExNDUyNTQ3MDIsLTExMDI4
+ODYwOTBdfQ==
 -->
