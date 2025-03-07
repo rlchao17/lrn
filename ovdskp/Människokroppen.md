@@ -276,15 +276,16 @@ Nej, säger Marias mamma. Doktorn sa att du måste ta antibiotika i tio dagar. A
  + Sväljes hela.
 
 # En frisk kopp
+Det finns mycket du kan göra för att din kropp ska må bra.
 
 ## Näringsrik mat
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjExMzI5NzYsNDA1MjQxOTMzLC0zMj
-kwOTYzNzAsMTE4NDcxMTQyOCwxNDIyNDY1MzE2LC03OTYzMzA2
-NDgsMjk2MTU2NDc4LC0zNDYxMjc5MTgsMTkwODE3NzkwNywxNj
-g1MjY5MzkxLDQ4MDQyMTM2LC0zMjYzNzEzNjQsMTQwOTgwMTk1
-OCwtMTc4MjM0MzUyOSwxMTQ1MjU0NzAyLC0xMTAyODg2MDkwLD
-E2MDMyMzU2ODgsLTc0NTAyOTEwOCw0NTQ3NDk3NTUsNjY2NzA3
-NjkxXX0=
+eyJoaXN0b3J5IjpbLTE1ODQ5ODU5OTEsLTExMjExMzI5NzYsND
+A1MjQxOTMzLC0zMjkwOTYzNzAsMTE4NDcxMTQyOCwxNDIyNDY1
+MzE2LC03OTYzMzA2NDgsMjk2MTU2NDc4LC0zNDYxMjc5MTgsMT
+kwODE3NzkwNywxNjg1MjY5MzkxLDQ4MDQyMTM2LC0zMjYzNzEz
+NjQsMTQwOTgwMTk1OCwtMTc4MjM0MzUyOSwxMTQ1MjU0NzAyLC
+0xMTAyODg2MDkwLDE2MDMyMzU2ODgsLTc0NTAyOTEwOCw0NTQ3
+NDk3NTVdfQ==
 -->
