@@ -38,7 +38,10 @@ Man planterar växter och sår frön.
 > Brukar du plantera och så på våren?
 ## Djuren på våren
 > en svan med sina ungar
-På våren vaknar alla dju
+På våren vaknar alla djur som har sovit under vintern.<br>
+De är hungriga och letar efter mat.
+
+De flesta djur l
 
 # Tänk på miljön!
 
@@ -47,5 +50,5 @@ På våren vaknar alla dju
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODg2OTU3NV19
+eyJoaXN0b3J5IjpbMTA1NzY2OTQ0N119
 -->
