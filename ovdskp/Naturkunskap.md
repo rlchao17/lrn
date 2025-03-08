@@ -43,7 +43,8 @@ De är hungriga och letar efter mat.
 
 De flesta djur letar också efter någonstans att bo eftersom deras ungar föds på våren eller sommaren.
 
-Flyttfåglarna kommer tillba
+Flyttfåglarna kommer tillbaka till Sverige. Nu ska många fåglar bygga bon och lägga ägg.
+#### ett fågelbo
 
 # Tänk på miljön!
 
@@ -52,6 +53,6 @@ Flyttfåglarna kommer tillba
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDEwNzcxMywxMjQwMzI5MjksMTA1Nz
+eyJoaXN0b3J5IjpbLTg5MjgyMDU5MywxMjQwMzI5MjksMTA1Nz
 Y2OTQ0N119
 -->
