@@ -47,12 +47,14 @@ Flyttfåglarna kommer tillbaka till Sverige. Nu ska många fåglar bygga bon och
 #### ett fågelbo
 
 # Tänk på miljön!
+Platsen där vi bo och allt runt omkring oss är vår miljö. Luften och vattnet är också vår miljö. Hela världen är alla människors miljö. Vi måste vara rädda om miljön. Vi får inte förstöra den.
+
 
 # Vad behöver människor, djur och växter?
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjgyMDU5MywxMjQwMzI5MjksMTA1Nz
-Y2OTQ0N119
+eyJoaXN0b3J5IjpbMTg4MDA0MjI5MSwtODkyODIwNTkzLDEyND
+AzMjkyOSwxMDU3NjY5NDQ3XX0=
 -->
