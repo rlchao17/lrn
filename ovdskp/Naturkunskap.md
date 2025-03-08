@@ -23,6 +23,22 @@
 # Vinter
 
 # Vår
+> Vilka månader är det vår dår du bor?
+## Vädret på våren
+På våren blir dagarna längre.<br>
+När solen skiner smälter snön.
+
+Våren börjar inte samtidigt i hela Sverige. I april finns det vårblommor i Svealand och Götaland, men i Norrland är det fortfarande snö på marken.
+## Växterna på våren
+#### en vitsippa<br>en blåsippa
+På våren blir det grönt ut i naturen och vårblommorna kommer. Alla blommor finns inte i hela Sverige. I Svealand och Götaland finns det blåsippor och vitsippor. I norra Norrland växer det inga vitsippor och blåsippor.
+
+Lövträden får nya löv på våren.<br>
+Man planterar växter och sår frön.
+> Brukar du plantera och så på våren?
+## Djuren på våren
+> en svan med sina ungar
+På våren vaknar alla dju
 
 # Tänk på miljön!
 
@@ -31,5 +47,5 @@
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTM1Njk2MF19
+eyJoaXN0b3J5IjpbMTAzODg2OTU3NV19
 -->
