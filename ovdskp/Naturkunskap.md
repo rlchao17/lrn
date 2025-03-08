@@ -41,7 +41,7 @@ Man planterar växter och sår frön.
 På våren vaknar alla djur som har sovit under vintern.<br>
 De är hungriga och letar efter mat.
 
-De flesta djur l
+De flesta djur letar
 
 # Tänk på miljön!
 
@@ -50,5 +50,5 @@ De flesta djur l
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzY2OTQ0N119
+eyJoaXN0b3J5IjpbMjAzODQ2MjY5NSwxMDU3NjY5NDQ3XX0=
 -->
