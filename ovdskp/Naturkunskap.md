@@ -43,6 +43,8 @@ De är hungriga och letar efter mat.
 
 De flesta djur letar också efter någonstans att bo eftersom deras ungar föds på våren eller sommaren.
 
+Flyttfåglarna kommer tillba
+
 # Tänk på miljön!
 
 # Vad behöver människor, djur och växter?
@@ -50,5 +52,6 @@ De flesta djur letar också efter någonstans att bo eftersom deras ungar föds 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDMyOTI5LDEwNTc2Njk0NDddfQ==
+eyJoaXN0b3J5IjpbMTU5MDEwNzcxMywxMjQwMzI5MjksMTA1Nz
+Y2OTQ0N119
 -->
