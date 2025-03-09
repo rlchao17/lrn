@@ -59,6 +59,7 @@ Det kallas att återvinna. Gamla tidningar kan bli nytt papper. Glas, plast och 
 > Man återvinner i andra länder också.
 ## Gamla mediciner
 > Utg. dat 10-2019
+
 Anna städar skåpet i badrummet. Hon har många brukar med mediciner. Hon tittar på utgångsdatumen.<br>
 Några mediciner är gamla. Hon vill kasta dem i soporna.<br>
 Nej, *stopp* Anna! Ropar hennes syster. Kasta inte medicinerna!
@@ -68,15 +69,16 @@ Varför inte? De är gamla, säger Anna. Vad ska jag göra då?
 Lämna dem till apoteket, svarar hennes syster.
 ## Vi behöver ren luft
 > Röken förorenar luften.
+
 Det finns många bilar i stora städer. Röken som kommer ut från bilarna kallas för avgaser. Det finns gifter i avgaser. Därför blir luften smutsig. Man säger att luften blir förorenad. Det är inte bra att andas in förorenad luft.
 
-Rök från fa
+Rök från fabriker kan också förorena luften.
 # Vad behöver människor, djur och växter?
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDI5MTA0NSwxOTY3Mzg1MjUzLC04OD
+eyJoaXN0b3J5IjpbMTMxNTg1NDM5MiwxOTY3Mzg1MjUzLC04OD
 IxMzI2MDMsMTU2ODc1NDE5OCwxODgwMDQyMjkxLC04OTI4MjA1
 OTMsMTI0MDMyOTI5LDEwNTc2Njk0NDddfQ==
 -->
