@@ -57,13 +57,16 @@ I gamla batterier och glödlampor finns gifter. Därför får vi inte lägga dem
 Vi måste spara på det som kommer från naturen. Det är därför vi sorterar våra sopor. Mycket av det som vi kastar kan man använda en gång till.<br>
 Det kallas att återvinna. Gamla tidningar kan bli nytt papper. Glas, plast och metall kan man smälta ner och göra nya saker av.
 > Man återvinner i andra länder också.
+## Gamla mediciner
+
+## Vi behöver ren luft
 
 # Vad behöver människor, djur och växter?
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk0NjYyNDEsLTg4MjEzMjYwMywxNT
-Y4NzU0MTk4LDE4ODAwNDIyOTEsLTg5MjgyMDU5MywxMjQwMzI5
-MjksMTA1NzY2OTQ0N119
+eyJoaXN0b3J5IjpbNzY0NDgxMjk4LC04ODIxMzI2MDMsMTU2OD
+c1NDE5OCwxODgwMDQyMjkxLC04OTI4MjA1OTMsMTI0MDMyOTI5
+LDEwNTc2Njk0NDddfQ==
 -->
