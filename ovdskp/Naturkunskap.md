@@ -53,12 +53,14 @@ Att kasta sopor och annat skräp i naturen är inte bra. Det kan skada växter o
 
 I gamla batterier och glödlampor finns gifter. Därför får vi inte lägga dem i soppåsen. Det finns särskilda platser där vi kan lämna batterier, lampor och annat som är farligt för miljön.
 > Var kan du lämna saker som är farliga för miljön?
+## Spara och återvinn
+Vi måste spara på det som kommer
 
 # Vad behöver människor, djur och växter?
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzc5MjU1MCwxODgwMDQyMjkxLC04OT
-I4MjA1OTMsMTI0MDMyOTI5LDEwNTc2Njk0NDddfQ==
+eyJoaXN0b3J5IjpbOTU0MTAxNDgwLDE4ODAwNDIyOTEsLTg5Mj
+gyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
 -->
