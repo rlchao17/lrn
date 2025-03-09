@@ -51,13 +51,13 @@ Platsen där vi bo och allt runt omkring oss är vår miljö. Luften och vattnet
 ## Sopor
 Att kasta sopor och annat skräp i naturen är inte bra. Det kan skada växter och djur.
 
-I gamla lampor och glödlampo
+I gamla batterier och glödlampor finns gifter. Därför får vi inte lägga dem i soppåsen. Det finns särskilda platser där vi kan lämna batterier.
 
 # Vad behöver människor, djur och växter?
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEyMTg4NjAsMTg4MDA0MjI5MSwtOD
-kyODIwNTkzLDEyNDAzMjkyOSwxMDU3NjY5NDQ3XX0=
+eyJoaXN0b3J5IjpbMjE1MDMyNjg3LDE4ODAwNDIyOTEsLTg5Mj
+gyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
 -->
