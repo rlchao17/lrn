@@ -58,7 +58,7 @@ Vi måste spara på det som kommer från naturen. Det är därför vi sorterar v
 Det kallas att återvinna. Gamla tidningar kan bli nytt papper. Glas, plast och metall kan man smälta ner och göra nya saker av.
 > Man återvinner i andra länder också.
 ## Gamla mediciner
-
+Anna städar skåpet i badrummet. Hon har många brukar med mediciner. Hon tittar på utgångsdatumen.
 ## Vi behöver ren luft
 
 # Vad behöver människor, djur och växter?
@@ -66,7 +66,7 @@ Det kallas att återvinna. Gamla tidningar kan bli nytt papper. Glas, plast och 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NDgxMjk4LC04ODIxMzI2MDMsMTU2OD
-c1NDE5OCwxODgwMDQyMjkxLC04OTI4MjA1OTMsMTI0MDMyOTI5
-LDEwNTc2Njk0NDddfQ==
+eyJoaXN0b3J5IjpbMTk1MDk0NTE3NCwtODgyMTMyNjAzLDE1Nj
+g3NTQxOTgsMTg4MDA0MjI5MSwtODkyODIwNTkzLDEyNDAzMjky
+OSwxMDU3NjY5NDQ3XX0=
 -->
