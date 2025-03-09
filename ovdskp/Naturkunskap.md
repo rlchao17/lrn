@@ -60,7 +60,9 @@ Det kallas att återvinna. Gamla tidningar kan bli nytt papper. Glas, plast och 
 ## Gamla mediciner
 Anna städar skåpet i badrummet. Hon har många brukar med mediciner. Hon tittar på utgångsdatumen.<br>
 Några mediciner är gamla. Hon vill kasta dem i soporna.<br>
-Nej, stopp Anna! ropar hennes syster. Kasta inte medicinerna!
+Nej, *stopp* Anna! ropar hennes syster. Kasta inte medicinerna!
+
+
 ## Vi behöver ren luft
 
 # Vad behöver människor, djur och växter?
@@ -68,7 +70,7 @@ Nej, stopp Anna! ropar hennes syster. Kasta inte medicinerna!
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODc2MzQyOSwtODgyMTMyNjAzLDE1Nj
+eyJoaXN0b3J5IjpbLTg1NTgzMDU0NSwtODgyMTMyNjAzLDE1Nj
 g3NTQxOTgsMTg4MDA0MjI5MSwtODkyODIwNTkzLDEyNDAzMjky
 OSwxMDU3NjY5NDQ3XX0=
 -->
