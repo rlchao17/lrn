@@ -55,14 +55,14 @@ I gamla batterier och glödlampor finns gifter. Därför får vi inte lägga dem
 > Var kan du lämna saker som är farliga för miljön?
 ## Spara och återvinn
 Vi måste spara på det som kommer från naturen. Det är därför vi sorterar våra sopor. Mycket av det som vi kastar kan man använda en gång till.<br>
-Det kallas att återvinna. 
+Det kallas att återvinna. Gamla tidningar kan bli nytt papper.
 
 # Vad behöver människor, djur och växter?
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTMyNTg3NSwxNTY4NzU0MTk4LDE4OD
+eyJoaXN0b3J5IjpbLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4OD
 AwNDIyOTEsLTg5MjgyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0
 N119
 -->
