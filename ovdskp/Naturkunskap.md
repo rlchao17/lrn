@@ -73,14 +73,12 @@ Lämna dem till apoteket, svarar hennes syster.
 Det finns många bilar i stora städer. Röken som kommer ut från bilarna kallas för avgaser. Det finns gifter i avgaser. Därför blir luften smutsig. Man säger att luften blir förorenad. Det är inte bra att andas in förorenad luft.
 
 Rök från fabriker kan också förorena luften.
-# Tänk på miljön!
-
 # Vad behöver människor, djur och växter?
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTU0NDkyMiwxMzE1ODU0MzkyLDE5Nj
-czODUyNTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIy
-OTEsLTg5MjgyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
+eyJoaXN0b3J5IjpbMTMxNTg1NDM5MiwxOTY3Mzg1MjUzLC04OD
+IxMzI2MDMsMTU2ODc1NDE5OCwxODgwMDQyMjkxLC04OTI4MjA1
+OTMsMTI0MDMyOTI5LDEwNTc2Njk0NDddfQ==
 -->
