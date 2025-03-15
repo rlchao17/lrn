@@ -1,12 +1,12 @@
 ## Hej!
 
 |1| hej |nihao
-|---------|--|
-|         |  |
+|---------|--|--|
+|         |  |  |
 
 |1  | hej | nihao |
-|--|--|
-|  |  |
+|--|--|--|
+|  |  |  |
 
 Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
