@@ -1,5 +1,5 @@
 ## Hej!
 
-|1| hej |nihao
-|---------|--|--|
-|         |  |  |
+| hej |nihao|
+|--|--|
+| hej | nihao |
