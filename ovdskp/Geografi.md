@@ -2,7 +2,7 @@
 #### Stilla havet<br>Atlanten<br>Indiska oceanen
 #### Nordamerika<br>Sydamerika<br>Europa<br>Asien<br>Afrika<br>Oceanien<br>Antarktis
 # Jorden och kartan
-
+Jorden är rund. Den bästa ka
 |Svenska|Kinesiska  |
 |--|--|
 | världen | 世界 |
@@ -44,8 +44,8 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDkyOTQ4NSwtMTU0MjIyODc0NywtOT
-k0NjMxNjM3LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2MTEx
-MTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5OTc3LC
-0xNDA3NTkwNjY0XX0=
+eyJoaXN0b3J5IjpbLTEzMTY5NDM3ODcsMTA1MDkyOTQ4NSwtMT
+U0MjIyODc0NywtOTk0NjMxNjM3LDYyOTUxMzg3NSwtMjAwMDQ1
+NDU0MiwzODU2MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2My
+wtMjU0OTI5OTc3LC0xNDA3NTkwNjY0XX0=
 -->
