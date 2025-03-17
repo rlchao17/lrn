@@ -15,7 +15,7 @@ På jordgloben och på världskartan är det blåa vatten. Allt som inte är bl�
 | en karta | 地图 |
 | land | 国家 |
 ## Världsdelar
-
+;öö;;;;
 # På kartan
 
 | Svenska | Kinesiska |
@@ -50,8 +50,9 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MTg1ODM4LDUxMjg3NzQ0NSwxMDUwOT
-I5NDg1LC0xNTQyMjI4NzQ3LC05OTQ2MzE2MzcsNjI5NTEzODc1
-LC0yMDAwNDU0NTQyLDM4NTYxMTExMSwtNzY1OTU5ODE1LC0xMD
-MxNzkzNDYzLC0yNTQ5Mjk5NzcsLTE0MDc1OTA2NjRdfQ==
+eyJoaXN0b3J5IjpbNTQ2NTEwNDU5LDIyODE4NTgzOCw1MTI4Nz
+c0NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0NywtOTk0NjMxNjM3
+LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2MTExMTEsLTc2NT
+k1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5OTc3LC0xNDA3NTkw
+NjY0XX0=
 -->
