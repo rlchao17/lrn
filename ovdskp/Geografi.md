@@ -24,7 +24,7 @@ Världen delas in i sju världsdelar. Världsdelarna är Afrika, Asien, Europa, 
 Världsdelarna delas in i länder. Det finns många länder i världen, till exempel Sverige, Afghanistan, Somalia, Thailand och Irak.
 
 I Antarktis finns det inga länder. Där är det mycket kallt. Därför bor det inga människor i Antarktis. Några arbetar där, men de bor inte där hela året.
-> Kan du namnen på fler länder?
+> Kan du namnen på fler länder?;;;;ööö;;;;;
 # På kartan
 
 | Svenska | Kinesiska |
@@ -59,7 +59,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDA5MjAwOSwyMjgxODU4MzgsNTEyOD
+eyJoaXN0b3J5IjpbMTQ2NzQ0NjcyNCwyMjgxODU4MzgsNTEyOD
 c3NDQ1LDEwNTA5Mjk0ODUsLTE1NDIyMjg3NDcsLTk5NDYzMTYz
 Nyw2Mjk1MTM4NzUsLTIwMDA0NTQ1NDIsMzg1NjExMTExLC03Nj
 U5NTk4MTUsLTEwMzE3OTM0NjMsLTI1NDkyOTk3NywtMTQwNzU5
