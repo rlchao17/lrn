@@ -5,7 +5,7 @@
 Jorden är rund. Den bästa kartan över världen är också rund.<br>
 Det är en jordglob.
 
-
+På jordgloben och på världenskartan är det blåa vatten. Allt som inte är blått kallas för land.
 |Svenska|Kinesiska  |
 |--|--|
 | världen | 世界 |
@@ -47,8 +47,8 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyODc3NDQ1LDEwNTA5Mjk0ODUsLTE1ND
-IyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLTIwMDA0NTQ1
-NDIsMzg1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3OTM0NjMsLT
-I1NDkyOTk3NywtMTQwNzU5MDY2NF19
+eyJoaXN0b3J5IjpbLTI0MjY0ODgwNSw1MTI4Nzc0NDUsMTA1MD
+kyOTQ4NSwtMTU0MjIyODc0NywtOTk0NjMxNjM3LDYyOTUxMzg3
+NSwtMjAwMDQ1NDU0MiwzODU2MTExMTEsLTc2NTk1OTgxNSwtMT
+AzMTc5MzQ2MywtMjU0OTI5OTc3LC0xNDA3NTkwNjY0XX0=
 -->
