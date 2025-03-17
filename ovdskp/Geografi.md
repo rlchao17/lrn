@@ -16,7 +16,8 @@ På jordgloben och på världskartan är det blåa vatten. Allt som inte är bl�
 | land | 国家 |
 ## Världsdelar
 Världen delas in i sju världsdelar. Världsdelarna är Afrika, Asien, Europa, Oceanien, Nordamerika, Sydamerika och Antarktis.
-
+> I vilken världsdel är du född?
+> I vilken världsdel bor du nu?
 # På kartan
 
 | Svenska | Kinesiska |
@@ -51,9 +52,9 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDE0NTYwMywyMjgxODU4MzgsNTEyOD
-c3NDQ1LDEwNTA5Mjk0ODUsLTE1NDIyMjg3NDcsLTk5NDYzMTYz
-Nyw2Mjk1MTM4NzUsLTIwMDA0NTQ1NDIsMzg1NjExMTExLC03Nj
-U5NTk4MTUsLTEwMzE3OTM0NjMsLTI1NDkyOTk3NywtMTQwNzU5
-MDY2NF19
+eyJoaXN0b3J5IjpbODQzNTg2MDM5LDIyODE4NTgzOCw1MTI4Nz
+c0NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0NywtOTk0NjMxNjM3
+LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2MTExMTEsLTc2NT
+k1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5OTc3LC0xNDA3NTkw
+NjY0XX0=
 -->
