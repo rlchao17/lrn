@@ -2,10 +2,12 @@
 #### Stilla havet<br>Atlanten<br>Indiska oceanen
 #### Nordamerika<br>Sydamerika<br>Europa<br>Asien<br>Afrika<br>Oceanien<br>Antarktis
 # Jorden och kartan
+#### en jordglob<br>en världskarta<br>Jorden är rund.<br>vatten<br>land
 Jorden är rund. Den bästa kartan över världen är också rund.<br>
 Det är en jordglob.
 
-På jordgloben och på världenskartan är det blåa vatten. Allt som inte är blått kallas för land.
+På jordgloben och på världskartan är det blåa vatten. Allt som inte är blått kallas för land.
+
 |Svenska|Kinesiska  |
 |--|--|
 | världen | 世界 |
@@ -47,8 +49,8 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjY0ODgwNSw1MTI4Nzc0NDUsMTA1MD
-kyOTQ4NSwtMTU0MjIyODc0NywtOTk0NjMxNjM3LDYyOTUxMzg3
-NSwtMjAwMDQ1NDU0MiwzODU2MTExMTEsLTc2NTk1OTgxNSwtMT
-AzMTc5MzQ2MywtMjU0OTI5OTc3LC0xNDA3NTkwNjY0XX0=
+eyJoaXN0b3J5IjpbOTYwMDA5NzAxLDUxMjg3NzQ0NSwxMDUwOT
+I5NDg1LC0xNTQyMjI4NzQ3LC05OTQ2MzE2MzcsNjI5NTEzODc1
+LC0yMDAwNDU0NTQyLDM4NTYxMTExMSwtNzY1OTU5ODE1LC0xMD
+MxNzkzNDYzLC0yNTQ5Mjk5NzcsLTE0MDc1OTA2NjRdfQ==
 -->
