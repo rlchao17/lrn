@@ -28,6 +28,7 @@ I Antarktis finns det inga länder. Där är det mycket kallt. Därför bor det 
 #### I Antarktis finns det pingviner.
 
 # På kartan
+## Hav
 
 | Svenska | Kinesiska |
 |--|--|
@@ -61,9 +62,9 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDcyNTc1NzksMjI4MTg1ODM4LDUxMj
-g3NzQ0NSwxMDUwOTI5NDg1LC0xNTQyMjI4NzQ3LC05OTQ2MzE2
-MzcsNjI5NTEzODc1LC0yMDAwNDU0NTQyLDM4NTYxMTExMSwtNz
-Y1OTU5ODE1LC0xMDMxNzkzNDYzLC0yNTQ5Mjk5NzcsLTE0MDc1
-OTA2NjRdfQ==
+eyJoaXN0b3J5IjpbMzMwNzA4NTgwLC0yMTA3MjU3NTc5LDIyOD
+E4NTgzOCw1MTI4Nzc0NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0
+NywtOTk0NjMxNjM3LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzOD
+U2MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5
+OTc3LC0xNDA3NTkwNjY0XX0=
 -->
