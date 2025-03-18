@@ -29,7 +29,7 @@ I Antarktis finns det inga länder. Där är det mycket kallt. Därför bor det 
 
 # På kartan
 ## Hav
-Det här är ett hav. Vattnet i havet är salt.
+Det här är ett hav. Vattnet i havet är salt. Ett stort hav kallas också för en ocean.
 
 | Svenska | Kinesiska |
 |--|--|
@@ -63,9 +63,9 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzYzMTA3MDYsLTIxMDcyNTc1NzksMj
-I4MTg1ODM4LDUxMjg3NzQ0NSwxMDUwOTI5NDg1LC0xNTQyMjI4
-NzQ3LC05OTQ2MzE2MzcsNjI5NTEzODc1LC0yMDAwNDU0NTQyLD
-M4NTYxMTExMSwtNzY1OTU5ODE1LC0xMDMxNzkzNDYzLC0yNTQ5
-Mjk5NzcsLTE0MDc1OTA2NjRdfQ==
+eyJoaXN0b3J5IjpbMTc3ODczMjY2OCwtMjEwNzI1NzU3OSwyMj
+gxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0ODUsLTE1NDIyMjg3
+NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLTIwMDA0NTQ1NDIsMz
+g1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3OTM0NjMsLTI1NDky
+OTk3NywtMTQwNzU5MDY2NF19
 -->
