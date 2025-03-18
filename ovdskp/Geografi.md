@@ -29,7 +29,10 @@ I Antarktis finns det inga länder. Där är det mycket kallt. Därför bor det 
 
 # På kartan
 ## Hav
-Det här är ett hav. Vattnet i havet är salt. Ett stort hav kallas också för en ocean.
+Det här är ett hav. Vattnet i havet är salt. Ett stort hav kallas också för en ocean. Världens största hav är Atlanten, Indiska oceanen och Stilla havet.
+
+## Kust
+En kust är där havet möter land.
 
 | Svenska | Kinesiska |
 |--|--|
@@ -63,7 +66,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODczMjY2OCwtMjEwNzI1NzU3OSwyMj
+eyJoaXN0b3J5IjpbLTc4MzgyNDY2MCwtMjEwNzI1NzU3OSwyMj
 gxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0ODUsLTE1NDIyMjg3
 NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLTIwMDA0NTQ1NDIsMz
 g1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3OTM0NjMsLTI1NDky
