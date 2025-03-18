@@ -53,7 +53,8 @@ Det här är ett sjö. Runt en sjö finns det land.
 
 ## Floder
 Det här är en flod. Floderna rinner ut i en sjö eller ett hav. Världens längsta flod är Nilen i Afrika. Nilen rinner ut i Medelhavet.
-> Peka på floden Nilen på sidorna p
+> Peka på floden Nilen på sidorna 30 och 31.<br>
+> Finns det många floder i ditt hemland?
 
 | Svenska | Kinesiska |
 |--|--|
@@ -66,7 +67,7 @@ Det här är en flod. Floderna rinner ut i en sjö eller ett hav. Världens län
 | en flod | 河流 |
 
 # Sverige
-
+#### Norr
 # Var ligger Sverige?
 
 |Svenska  |Kinesiska  |
@@ -87,7 +88,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzAxODcwNjIsMTgzMzAzNTA3OCwtMj
+eyJoaXN0b3J5IjpbLTEzNzczNDg4MDcsMTgzMzAzNTA3OCwtMj
 EwNzI1NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0
 ODUsLTE1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLT
 IwMDA0NTQ1NDIsMzg1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3
