@@ -67,7 +67,8 @@ Det här är en flod. Floderna rinner ut i en sjö eller ett hav. Världens län
 | en flod | 河流 |
 
 # Sverige
-#### Norr
+#### norr söder väster öster
+
 # Var ligger Sverige?
 
 |Svenska  |Kinesiska  |
@@ -88,7 +89,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzczNDg4MDcsMTgzMzAzNTA3OCwtMj
+eyJoaXN0b3J5IjpbLTEzMDI0MDUyNjUsMTgzMzAzNTA3OCwtMj
 EwNzI1NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0
 ODUsLTE1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLT
 IwMDA0NTQ1NDIsMzg1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3
