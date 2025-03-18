@@ -33,6 +33,8 @@ Det här är ett hav. Vattnet i havet är salt. Ett stort hav kallas också för
 
 ## Kust
 En kust är där havet möter land.
+> Titta på kartan på sidorna 30 och 31.<br>
+> Har alla länder en kust?
 
 | Svenska | Kinesiska |
 |--|--|
@@ -66,7 +68,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzgyNDY2MCwtMjEwNzI1NzU3OSwyMj
+eyJoaXN0b3J5IjpbMjEzNTg2MjE5NywtMjEwNzI1NzU3OSwyMj
 gxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0ODUsLTE1NDIyMjg3
 NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLTIwMDA0NTQ1NDIsMz
 g1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3OTM0NjMsLTI1NDky
