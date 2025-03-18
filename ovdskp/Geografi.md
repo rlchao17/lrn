@@ -45,11 +45,14 @@ Det här är en ö. Runt en ö finns det vatten.
 > Peka på några öar på kartan på sidorna 30 och 31.<br>
 > En av de sju världsdelarna består av öar. Vilken?
  #### Oceanien består av öar.
-> Peka på några sjöar på kartan på sidorna 30 och 31.<br>
-> Finns det många sjöar i ditt hemland
+
 ## Sjöar
 Det här är ett sjö. Runt en sjö finns det land.
+> Peka på några sjöar på kartan på sidorna 30 och 31.<br>
+> Finns det många sjöar i ditt hemland?
 
+## Floder
+Det här är en flod. Floderna rinner ut i en sjö
 | Svenska | Kinesiska |
 |--|--|
 | en världsdel | 大洲，大陆 |
@@ -82,7 +85,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk4MDQ3OTQsMTgzMzAzNTA3OCwtMj
+eyJoaXN0b3J5IjpbLTExNzU4NzcyNDksMTgzMzAzNTA3OCwtMj
 EwNzI1NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0
 ODUsLTE1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLT
 IwMDA0NTQ1NDIsMzg1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3
