@@ -68,7 +68,9 @@ Det här är en flod. Floderna rinner ut i en sjö eller ett hav. Världens län
 
 # Sverige
 #### norr söder väster öster
+Vi brukar dela in Sverige i tre delar: Norrland, Svealand och Götaland. Norrland är störst, men de flesta av Sveriges invånare bor i Svealand och Götaland.
 
+Sverige är ett avlångt land. Det 
 # Var ligger Sverige?
 
 |Svenska  |Kinesiska  |
@@ -89,9 +91,10 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI0MDUyNjUsMTgzMzAzNTA3OCwtMj
-EwNzI1NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0
-ODUsLTE1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLT
-IwMDA0NTQ1NDIsMzg1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3
-OTM0NjMsLTI1NDkyOTk3NywtMTQwNzU5MDY2NF19
+eyJoaXN0b3J5IjpbNjk2NjQ4MTkzLC0xMzAyNDA1MjY1LDE4Mz
+MwMzUwNzgsLTIxMDcyNTc1NzksMjI4MTg1ODM4LDUxMjg3NzQ0
+NSwxMDUwOTI5NDg1LC0xNTQyMjI4NzQ3LC05OTQ2MzE2MzcsNj
+I5NTEzODc1LC0yMDAwNDU0NTQyLDM4NTYxMTExMSwtNzY1OTU5
+ODE1LC0xMDMxNzkzNDYzLC0yNTQ5Mjk5NzcsLTE0MDc1OTA2Nj
+RdfQ==
 -->
