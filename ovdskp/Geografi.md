@@ -70,7 +70,7 @@ Det här är en flod. Floderna rinner ut i en sjö eller ett hav. Världens län
 #### norr söder väster öster
 Vi brukar dela in Sverige i tre delar: Norrland, Svealand och Götaland. Norrland är störst, men de flesta av Sveriges invånare bor i Svealand och Götaland.
 
-Sverige är ett avlångt land. Det 
+Sverige är ett avlångt land. Det tar ett dygn (24 timmar) att köra bil genom hela Sverige från norr till söder.
 # Var ligger Sverige?
 
 |Svenska  |Kinesiska  |
@@ -91,10 +91,10 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NjQ4MTkzLC0xMzAyNDA1MjY1LDE4Mz
-MwMzUwNzgsLTIxMDcyNTc1NzksMjI4MTg1ODM4LDUxMjg3NzQ0
-NSwxMDUwOTI5NDg1LC0xNTQyMjI4NzQ3LC05OTQ2MzE2MzcsNj
-I5NTEzODc1LC0yMDAwNDU0NTQyLDM4NTYxMTExMSwtNzY1OTU5
-ODE1LC0xMDMxNzkzNDYzLC0yNTQ5Mjk5NzcsLTE0MDc1OTA2Nj
-RdfQ==
+eyJoaXN0b3J5IjpbLTM4Nzg1NzIyOCwtMTMwMjQwNTI2NSwxOD
+MzMDM1MDc4LC0yMTA3MjU3NTc5LDIyODE4NTgzOCw1MTI4Nzc0
+NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0NywtOTk0NjMxNjM3LD
+YyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2MTExMTEsLTc2NTk1
+OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5OTc3LC0xNDA3NTkwNj
+Y0XX0=
 -->
