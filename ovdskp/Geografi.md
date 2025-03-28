@@ -98,7 +98,7 @@ De största är Öland och Gotland. De ligger i Östersjön.
 Till Gotland kan man åka båt eller flyga, men inte köra bil.<br>
 Till Öland kan man köra bil. Varför kan man köra bil till Öland, men inte till Gotland?<br>
 Jo, därför att det finns en bro till Öland, men inte till Gotland.
-#### Öland
+#### Ölandsbron
 > Titta på kartan på sidan 36. Peka på Västkusten.<br>
 > Peka på Östersjön, Öland och Gotland.
 
@@ -123,10 +123,10 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc1MTExMDksLTIwNjU0NDUzOTIsLT
-M4Nzg1NzIyOCwtMTMwMjQwNTI2NSwxODMzMDM1MDc4LC0yMTA3
-MjU3NTc5LDIyODE4NTgzOCw1MTI4Nzc0NDUsMTA1MDkyOTQ4NS
-wtMTU0MjIyODc0NywtOTk0NjMxNjM3LDYyOTUxMzg3NSwtMjAw
-MDQ1NDU0MiwzODU2MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5Mz
-Q2MywtMjU0OTI5OTc3LC0xNDA3NTkwNjY0XX0=
+eyJoaXN0b3J5IjpbLTc5MjcyNDI5NSwtMjA2NTQ0NTM5MiwtMz
+g3ODU3MjI4LC0xMzAyNDA1MjY1LDE4MzMwMzUwNzgsLTIxMDcy
+NTc1NzksMjI4MTg1ODM4LDUxMjg3NzQ0NSwxMDUwOTI5NDg1LC
+0xNTQyMjI4NzQ3LC05OTQ2MzE2MzcsNjI5NTEzODc1LC0yMDAw
+NDU0NTQyLDM4NTYxMTExMSwtNzY1OTU5ODE1LC0xMDMxNzkzND
+YzLC0yNTQ5Mjk5NzcsLTE0MDc1OTA2NjRdfQ==
 -->
