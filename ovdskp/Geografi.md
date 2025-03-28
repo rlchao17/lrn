@@ -77,7 +77,10 @@ Sverige är ett avlångt land. Det tar ett dygn (24 timmar) att köra bil genom 
 #### Götaland - Göteborg, Malmö
 ## Städer
 #### Stockholm
-Stockholm, Göteborg och Malmö är stora städer i Sverige.
+Stockholm, Göteborg och Malmö är stora städer i Sverige.<br>
+Stockholm är Sveriges huvudstad.
+
+Kiruna ligger i norr.
 # Var ligger Sverige?
 
 |Svenska  |Kinesiska  |
@@ -98,10 +101,10 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDE0MzU0LC0zODc4NTcyMjgsLTEzMD
-I0MDUyNjUsMTgzMzAzNTA3OCwtMjEwNzI1NzU3OSwyMjgxODU4
-MzgsNTEyODc3NDQ1LDEwNTA5Mjk0ODUsLTE1NDIyMjg3NDcsLT
-k5NDYzMTYzNyw2Mjk1MTM4NzUsLTIwMDA0NTQ1NDIsMzg1NjEx
-MTExLC03NjU5NTk4MTUsLTEwMzE3OTM0NjMsLTI1NDkyOTk3Ny
-wtMTQwNzU5MDY2NF19
+eyJoaXN0b3J5IjpbLTIwNjU0NDUzOTIsLTM4Nzg1NzIyOCwtMT
+MwMjQwNTI2NSwxODMzMDM1MDc4LC0yMTA3MjU3NTc5LDIyODE4
+NTgzOCw1MTI4Nzc0NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0Ny
+wtOTk0NjMxNjM3LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2
+MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5OT
+c3LC0xNDA3NTkwNjY0XX0=
 -->
