@@ -72,6 +72,7 @@ Vi brukar dela in Sverige i tre delar: Norrland, Svealand och Götaland. Norrlan
 
 Sverige är ett avlångt land. Det tar ett dygn (24 timmar) att köra bil genom hela Sverige från norr till söder.
 > Bor du i Norrland, Svealand eller Götaland?
+
 # Var ligger Sverige?
 
 |Svenska  |Kinesiska  |
@@ -92,7 +93,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTE0MzY4NSwtMzg3ODU3MjI4LC0xMz
+eyJoaXN0b3J5IjpbLTE3NDg2MzQxMSwtMzg3ODU3MjI4LC0xMz
 AyNDA1MjY1LDE4MzMwMzUwNzgsLTIxMDcyNTc1NzksMjI4MTg1
 ODM4LDUxMjg3NzQ0NSwxMDUwOTI5NDg1LC0xNTQyMjI4NzQ3LC
 05OTQ2MzE2MzcsNjI5NTEzODc1LC0yMDAwNDU0NTQyLDM4NTYx
