@@ -110,6 +110,9 @@ Några är stora, men de flesta är små.
 
 Vänern och Vättern är de största sjöarna i Sverige. Stockholm ligger vid en stor sjö som heter Mälaren. I Mälaren finns det många små öar.
 
+## Älvar
+
+
 # Var ligger Sverige?
 
 |Svenska  |Kinesiska  |
@@ -130,11 +133,11 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTg1MDMzNSwtMTM1Mzc4NjMyLC03OT
-I3MjQyOTUsLTIwNjU0NDUzOTIsLTM4Nzg1NzIyOCwtMTMwMjQw
-NTI2NSwxODMzMDM1MDc4LC0yMTA3MjU3NTc5LDIyODE4NTgzOC
-w1MTI4Nzc0NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0NywtOTk0
-NjMxNjM3LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2MTExMT
-EsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5OTc3LC0x
-NDA3NTkwNjY0XX0=
+eyJoaXN0b3J5IjpbLTE3Mzk0NjkyMjgsMjAwMTg1MDMzNSwtMT
+M1Mzc4NjMyLC03OTI3MjQyOTUsLTIwNjU0NDUzOTIsLTM4Nzg1
+NzIyOCwtMTMwMjQwNTI2NSwxODMzMDM1MDc4LC0yMTA3MjU3NT
+c5LDIyODE4NTgzOCw1MTI4Nzc0NDUsMTA1MDkyOTQ4NSwtMTU0
+MjIyODc0NywtOTk0NjMxNjM3LDYyOTUxMzg3NSwtMjAwMDQ1ND
+U0MiwzODU2MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2Mywt
+MjU0OTI5OTc3XX0=
 -->
