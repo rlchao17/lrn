@@ -114,7 +114,9 @@ Vänern och Vättern är de största sjöarna i Sverige. Stockholm ligger vid en
 Det finns många floder i Sverige. De kallas för älvar. Göta älv är Sveriges största älv. Den börjar i sjön vänern och rinner ut i havet vid Göteborg.
 
 ## Berg och fjäll
+Det finns berg och fjäll i Sverige. Fjäll är höga berg som ligger i norra Sverige, nära Norge.
 
+Uppe på fjällen växer det inga träd.
 
 # Var ligger Sverige?
 
@@ -136,11 +138,11 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzM1NjQyOCwyMDAxODUwMzM1LC0xMz
-UzNzg2MzIsLTc5MjcyNDI5NSwtMjA2NTQ0NTM5MiwtMzg3ODU3
-MjI4LC0xMzAyNDA1MjY1LDE4MzMwMzUwNzgsLTIxMDcyNTc1Nz
-ksMjI4MTg1ODM4LDUxMjg3NzQ0NSwxMDUwOTI5NDg1LC0xNTQy
-MjI4NzQ3LC05OTQ2MzE2MzcsNjI5NTEzODc1LC0yMDAwNDU0NT
-QyLDM4NTYxMTExMSwtNzY1OTU5ODE1LC0xMDMxNzkzNDYzLC0y
-NTQ5Mjk5NzddfQ==
+eyJoaXN0b3J5IjpbMTk5MDg0NzYwNSwtNzQzMzU2NDI4LDIwMD
+E4NTAzMzUsLTEzNTM3ODYzMiwtNzkyNzI0Mjk1LC0yMDY1NDQ1
+MzkyLC0zODc4NTcyMjgsLTEzMDI0MDUyNjUsMTgzMzAzNTA3OC
+wtMjEwNzI1NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LDEwNTA5
+Mjk0ODUsLTE1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4Nz
+UsLTIwMDA0NTQ1NDIsMzg1NjExMTExLC03NjU5NTk4MTUsLTEw
+MzE3OTM0NjNdfQ==
 -->
