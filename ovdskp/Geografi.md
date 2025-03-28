@@ -93,7 +93,10 @@ Kusten i väster kallas Västkusten.<br>
 Den är kortare. Göteborg ligger vid Västkusten.
 ## Öar
 Sverige har många små öar, men också några stora öar.<br>
-De största är Öland och Gotland. De l
+De största är Öland och Gotland. De ligger i Östersjön.
+
+Till Gotland kan man åka båt eller flyga, men inte köra bil.<br>
+Till Öland kan man köra bil. Varför kan man köra bil 
 
 
 # Var ligger Sverige?
@@ -116,7 +119,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY5NTQ2MjIsLTIwNjU0NDUzOTIsLT
+eyJoaXN0b3J5IjpbLTEzNjkwOTExMTksLTIwNjU0NDUzOTIsLT
 M4Nzg1NzIyOCwtMTMwMjQwNTI2NSwxODMzMDM1MDc4LC0yMTA3
 MjU3NTc5LDIyODE4NTgzOCw1MTI4Nzc0NDUsMTA1MDkyOTQ4NS
 wtMTU0MjIyODc0NywtOTk0NjMxNjM3LDYyOTUxMzg3NSwtMjAw
