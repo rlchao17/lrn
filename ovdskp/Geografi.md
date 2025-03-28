@@ -2,7 +2,7 @@
 #### Stilla havet<br>Atlanten<br>Indiska oceanen
 #### Nordamerika<br>Sydamerika<br>Europa<br>Asien<br>Afrika<br>Oceanien<br>Antarktis
 # Jorden och kartan
-#### en jordglob<br>en världskarta<br>Jorden är rund.<br>
+#### en jordglob<br>en världskarta<br>Jorden är rund.
 #### vatten<br>land
 Jorden är rund. Den bästa kartan över världen är också rund.<br>
 Det är en jordglob.
@@ -142,11 +142,11 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI1ODg2MjQsMTk5MDg0NzYwNSwtNz
-QzMzU2NDI4LDIwMDE4NTAzMzUsLTEzNTM3ODYzMiwtNzkyNzI0
-Mjk1LC0yMDY1NDQ1MzkyLC0zODc4NTcyMjgsLTEzMDI0MDUyNj
-UsMTgzMzAzNTA3OCwtMjEwNzI1NzU3OSwyMjgxODU4MzgsNTEy
-ODc3NDQ1LDEwNTA5Mjk0ODUsLTE1NDIyMjg3NDcsLTk5NDYzMT
-YzNyw2Mjk1MTM4NzUsLTIwMDA0NTQ1NDIsMzg1NjExMTExLC03
-NjU5NTk4MTVdfQ==
+eyJoaXN0b3J5IjpbMTIyNzkxNTgxMCwxOTkwODQ3NjA1LC03ND
+MzNTY0MjgsMjAwMTg1MDMzNSwtMTM1Mzc4NjMyLC03OTI3MjQy
+OTUsLTIwNjU0NDUzOTIsLTM4Nzg1NzIyOCwtMTMwMjQwNTI2NS
+wxODMzMDM1MDc4LC0yMTA3MjU3NTc5LDIyODE4NTgzOCw1MTI4
+Nzc0NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0NywtOTk0NjMxNj
+M3LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2MTExMTEsLTc2
+NTk1OTgxNV19
 -->
