@@ -118,7 +118,7 @@ Det finns berg och fjäll i Sverige. Fjäll är höga berg som ligger i norra Sv
 
 Uppe på fjällen växer det inga träd. Det finns ofta snö uppe på fjällen, också på sommaren.
 
-Kebnekaise är Sveriges högsta fjäll. 
+Kebnekaise är Sveriges högsta fjäll. Det ligger nära en stad som heter Kiruna.
 
 # Var ligger Sverige?
 
@@ -140,7 +140,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTU4NTYyMCwxOTkwODQ3NjA1LC03ND
+eyJoaXN0b3J5IjpbMjExMjM3MTIxMiwxOTkwODQ3NjA1LC03ND
 MzNTY0MjgsMjAwMTg1MDMzNSwtMTM1Mzc4NjMyLC03OTI3MjQy
 OTUsLTIwNjU0NDUzOTIsLTM4Nzg1NzIyOCwtMTMwMjQwNTI2NS
 wxODMzMDM1MDc4LC0yMTA3MjU3NTc5LDIyODE4NTgzOCw1MTI4
