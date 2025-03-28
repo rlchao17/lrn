@@ -104,7 +104,8 @@ Jo, därför att det finns en bro till Öland, men inte till Gotland.
 
 > Titta på kartan på sidan 36. Peka på Västkusten.<br>
 > Peka på Östersjön, Öland och Gotland.
-
+## Sjöar
+Sve
 
 # Var ligger Sverige?
 
@@ -126,11 +127,11 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTM3ODYzMiwtNzkyNzI0Mjk1LC0yMD
-Y1NDQ1MzkyLC0zODc4NTcyMjgsLTEzMDI0MDUyNjUsMTgzMzAz
-NTA3OCwtMjEwNzI1NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LD
-EwNTA5Mjk0ODUsLTE1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1
-MTM4NzUsLTIwMDA0NTQ1NDIsMzg1NjExMTExLC03NjU5NTk4MT
-UsLTEwMzE3OTM0NjMsLTI1NDkyOTk3NywtMTQwNzU5MDY2NF19
-
+eyJoaXN0b3J5IjpbLTE2ODc1Mzc3NiwtMTM1Mzc4NjMyLC03OT
+I3MjQyOTUsLTIwNjU0NDUzOTIsLTM4Nzg1NzIyOCwtMTMwMjQw
+NTI2NSwxODMzMDM1MDc4LC0yMTA3MjU3NTc5LDIyODE4NTgzOC
+w1MTI4Nzc0NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0NywtOTk0
+NjMxNjM3LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2MTExMT
+EsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5OTc3LC0x
+NDA3NTkwNjY0XX0=
 -->
