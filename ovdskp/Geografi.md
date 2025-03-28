@@ -2,7 +2,8 @@
 #### Stilla havet<br>Atlanten<br>Indiska oceanen
 #### Nordamerika<br>Sydamerika<br>Europa<br>Asien<br>Afrika<br>Oceanien<br>Antarktis
 # Jorden och kartan
-#### en jordglob<br>en världskarta<br>Jorden är rund.<br>vatten<br>land
+#### en jordglob<br>en världskarta<br>Jorden är rund.<br>
+#### vatten<br>land
 Jorden är rund. Den bästa kartan över världen är också rund.<br>
 Det är en jordglob.
 
@@ -111,7 +112,7 @@ Några är stora, men de flesta är små.
 Vänern och Vättern är de största sjöarna i Sverige. Stockholm ligger vid en stor sjö som heter Mälaren. I Mälaren finns det många små öar.
 
 ## Älvar
-Det finns många floder i Sverige. De kallas för älvar. Göta älv är Sveriges största älv. Den börjar i sjön vänern och rinner ut i havet vid Göteborg.
+Det finns många floder i Sverige. De kallas för älvar. Göta älv är Sveriges största älv. Den börjar i sjön Vänern och rinner ut i havet vid Göteborg.
 
 ## Berg och fjäll
 Det finns berg och fjäll i Sverige. Fjäll är höga berg som ligger i norra Sverige, nära Norge.
@@ -141,7 +142,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTkxOTYzMjIsMTk5MDg0NzYwNSwtNz
+eyJoaXN0b3J5IjpbLTE0MjI1ODg2MjQsMTk5MDg0NzYwNSwtNz
 QzMzU2NDI4LDIwMDE4NTAzMzUsLTEzNTM3ODYzMiwtNzkyNzI0
 Mjk1LC0yMDY1NDQ1MzkyLC0zODc4NTcyMjgsLTEzMDI0MDUyNj
 UsMTgzMzAzNTA3OCwtMjEwNzI1NzU3OSwyMjgxODU4MzgsNTEy
