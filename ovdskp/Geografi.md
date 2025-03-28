@@ -116,7 +116,9 @@ Det finns många floder i Sverige. De kallas för älvar. Göta älv är Sverige
 ## Berg och fjäll
 Det finns berg och fjäll i Sverige. Fjäll är höga berg som ligger i norra Sverige, nära Norge.
 
-Uppe på fjällen växer det inga träd.
+Uppe på fjällen växer det inga träd. Det finns ofta snö uppe på fjällen, också på sommaren.
+
+Kebnekaise är Sveriges högsta fjäll. 
 
 # Var ligger Sverige?
 
@@ -138,11 +140,11 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDg0NzYwNSwtNzQzMzU2NDI4LDIwMD
-E4NTAzMzUsLTEzNTM3ODYzMiwtNzkyNzI0Mjk1LC0yMDY1NDQ1
-MzkyLC0zODc4NTcyMjgsLTEzMDI0MDUyNjUsMTgzMzAzNTA3OC
-wtMjEwNzI1NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LDEwNTA5
-Mjk0ODUsLTE1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4Nz
-UsLTIwMDA0NTQ1NDIsMzg1NjExMTExLC03NjU5NTk4MTUsLTEw
-MzE3OTM0NjNdfQ==
+eyJoaXN0b3J5IjpbMTQzNTU4NTYyMCwxOTkwODQ3NjA1LC03ND
+MzNTY0MjgsMjAwMTg1MDMzNSwtMTM1Mzc4NjMyLC03OTI3MjQy
+OTUsLTIwNjU0NDUzOTIsLTM4Nzg1NzIyOCwtMTMwMjQwNTI2NS
+wxODMzMDM1MDc4LC0yMTA3MjU3NTc5LDIyODE4NTgzOCw1MTI4
+Nzc0NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0NywtOTk0NjMxNj
+M3LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2MTExMTEsLTc2
+NTk1OTgxNV19
 -->
