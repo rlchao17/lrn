@@ -80,7 +80,10 @@ Sverige är ett avlångt land. Det tar ett dygn (24 timmar) att köra bil genom 
 Stockholm, Göteborg och Malmö är stora städer i Sverige.<br>
 Stockholm är Sveriges huvudstad.
 
-Kiruna ligger i norr.
+Kiruna ligger i norr. Malmö ligger i söder. Stockholm li
+> **Kiruna** ligger i den allra nordligaste delen av Sverige, i **Lappland**. Det är en stad känd för sin vackra natur, midnattssol på sommaren och polarnätter på vintern. Kiruna är också känd för sin gruva, som är en av de största underjordsgruvorna i världen.
+
+
 # Var ligger Sverige?
 
 |Svenska  |Kinesiska  |
@@ -101,10 +104,10 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU0NDUzOTIsLTM4Nzg1NzIyOCwtMT
-MwMjQwNTI2NSwxODMzMDM1MDc4LC0yMTA3MjU3NTc5LDIyODE4
-NTgzOCw1MTI4Nzc0NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0Ny
-wtOTk0NjMxNjM3LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2
-MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5MzQ2MywtMjU0OTI5OT
-c3LC0xNDA3NTkwNjY0XX0=
+eyJoaXN0b3J5IjpbLTIwNjIyODM1NjQsLTIwNjU0NDUzOTIsLT
+M4Nzg1NzIyOCwtMTMwMjQwNTI2NSwxODMzMDM1MDc4LC0yMTA3
+MjU3NTc5LDIyODE4NTgzOCw1MTI4Nzc0NDUsMTA1MDkyOTQ4NS
+wtMTU0MjIyODc0NywtOTk0NjMxNjM3LDYyOTUxMzg3NSwtMjAw
+MDQ1NDU0MiwzODU2MTExMTEsLTc2NTk1OTgxNSwtMTAzMTc5Mz
+Q2MywtMjU0OTI5OTc3LC0xNDA3NTkwNjY0XX0=
 -->
