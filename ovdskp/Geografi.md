@@ -101,7 +101,7 @@ Jo, därför att det finns en bro till Öland, men inte till Gotland.
 #### Ölandsbron
 > **Ölandsbron** är en imponerande bro som förbinder **Öland** med **fastlandet** i Sverige.<br>
 > Ölandsbron är en av de mest kända landmärkena för både lokalbefolkningen och turister som besöker Öland, särskilt under sommaren när ön är en populär destination för semestrar.
-> 
+
 > Titta på kartan på sidan 36. Peka på Västkusten.<br>
 > Peka på Östersjön, Öland och Gotland.
 
@@ -126,11 +126,11 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIyODY2OTgsLTc5MjcyNDI5NSwtMj
-A2NTQ0NTM5MiwtMzg3ODU3MjI4LC0xMzAyNDA1MjY1LDE4MzMw
-MzUwNzgsLTIxMDcyNTc1NzksMjI4MTg1ODM4LDUxMjg3NzQ0NS
-wxMDUwOTI5NDg1LC0xNTQyMjI4NzQ3LC05OTQ2MzE2MzcsNjI5
-NTEzODc1LC0yMDAwNDU0NTQyLDM4NTYxMTExMSwtNzY1OTU5OD
-E1LC0xMDMxNzkzNDYzLC0yNTQ5Mjk5NzcsLTE0MDc1OTA2NjRd
-fQ==
+eyJoaXN0b3J5IjpbLTEzNTM3ODYzMiwtNzkyNzI0Mjk1LC0yMD
+Y1NDQ1MzkyLC0zODc4NTcyMjgsLTEzMDI0MDUyNjUsMTgzMzAz
+NTA3OCwtMjEwNzI1NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LD
+EwNTA5Mjk0ODUsLTE1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1
+MTM4NzUsLTIwMDA0NTQ1NDIsMzg1NjExMTExLC03NjU5NTk4MT
+UsLTEwMzE3OTM0NjMsLTI1NDkyOTk3NywtMTQwNzU5MDY2NF19
+
 -->
