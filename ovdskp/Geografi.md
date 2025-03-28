@@ -82,7 +82,8 @@ Stockholm är Sveriges huvudstad.
 
 Kiruna ligger i norr. Malmö ligger i söder. Stockholm ligger i öster. Göteborg ligger i väster.
 > **Kiruna** ligger i den allra nordligaste delen av Sverige, i **Lappland**. Det är en stad känd för sin vackra natur, midnattssol på sommaren och polarnätter på vintern. Kiruna är också känd för sin gruva, som är en av de största underjordsgruvorna i världen.
-> Bor du i en stad i Sverige?
+
+> Bor du i en stad i Sverige?<br>
 > Var i Sverige bor du? Bor du i norr, söder, öster eller väster?
 
 
@@ -107,7 +108,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY3NDY5NywtMjA2NTQ0NTM5MiwtMz
+eyJoaXN0b3J5IjpbLTk5MzU2NTA5NywtMjA2NTQ0NTM5MiwtMz
 g3ODU3MjI4LC0xMzAyNDA1MjY1LDE4MzMwMzUwNzgsLTIxMDcy
 NTc1NzksMjI4MTg1ODM4LDUxMjg3NzQ0NSwxMDUwOTI5NDg1LC
 0xNTQyMjI4NzQ3LC05OTQ2MzE2MzcsNjI5NTEzODc1LC0yMDAw
