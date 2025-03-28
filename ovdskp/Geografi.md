@@ -111,7 +111,10 @@ Några är stora, men de flesta är små.
 Vänern och Vättern är de största sjöarna i Sverige. Stockholm ligger vid en stor sjö som heter Mälaren. I Mälaren finns det många små öar.
 
 ## Älvar
-Det finns många floder i Sverige. De kallas för älvar. Göta älv är Sveriges största älv. D
+Det finns många floder i Sverige. De kallas för älvar. Göta älv är Sveriges största älv. Den börjar i sjön vänern och rinner ut i havet vid Göteborg.
+
+## Berg och fjäll
+
 
 # Var ligger Sverige?
 
@@ -133,11 +136,11 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3OTk1MTE0LDIwMDE4NTAzMzUsLTEzNT
-M3ODYzMiwtNzkyNzI0Mjk1LC0yMDY1NDQ1MzkyLC0zODc4NTcy
-MjgsLTEzMDI0MDUyNjUsMTgzMzAzNTA3OCwtMjEwNzI1NzU3OS
-wyMjgxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0ODUsLTE1NDIy
-Mjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLTIwMDA0NTQ1ND
-IsMzg1NjExMTExLC03NjU5NTk4MTUsLTEwMzE3OTM0NjMsLTI1
-NDkyOTk3N119
+eyJoaXN0b3J5IjpbLTc0MzM1NjQyOCwyMDAxODUwMzM1LC0xMz
+UzNzg2MzIsLTc5MjcyNDI5NSwtMjA2NTQ0NTM5MiwtMzg3ODU3
+MjI4LC0xMzAyNDA1MjY1LDE4MzMwMzUwNzgsLTIxMDcyNTc1Nz
+ksMjI4MTg1ODM4LDUxMjg3NzQ0NSwxMDUwOTI5NDg1LC0xNTQy
+MjI4NzQ3LC05OTQ2MzE2MzcsNjI5NTEzODc1LC0yMDAwNDU0NT
+QyLDM4NTYxMTExMSwtNzY1OTU5ODE1LC0xMDMxNzkzNDYzLC0y
+NTQ5Mjk5NzddfQ==
 -->
