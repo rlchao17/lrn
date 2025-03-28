@@ -90,7 +90,9 @@ I öster har Sverige en lång kust.<br>
 Havet utanför kusten heter Östersjön.
 
 Kusten i väster kallas Västkusten.<br>
-Den är ko
+Den är kortare. Göteborg ligger vid Västkusten.
+## Öar
+Sverige har många
 
 
 # Var ligger Sverige?
@@ -113,7 +115,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyMTM3NDAwLC0yMDY1NDQ1MzkyLC0zOD
+eyJoaXN0b3J5IjpbNDE1MDc2ODczLC0yMDY1NDQ1MzkyLC0zOD
 c4NTcyMjgsLTEzMDI0MDUyNjUsMTgzMzAzNTA3OCwtMjEwNzI1
 NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0ODUsLT
 E1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLTIwMDA0
