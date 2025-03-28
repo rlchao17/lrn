@@ -105,7 +105,10 @@ Jo, därför att det finns en bro till Öland, men inte till Gotland.
 > Titta på kartan på sidan 36. Peka på Västkusten.<br>
 > Peka på Östersjön, Öland och Gotland.
 ## Sjöar
-Sve
+Sverige har cirka 100 000 sjöar.<br>
+Några är stora, men de flesta är små.
+
+Vänern och Vättern är de största
 
 # Var ligger Sverige?
 
@@ -127,7 +130,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc1Mzc3NiwtMTM1Mzc4NjMyLC03OT
+eyJoaXN0b3J5IjpbLTg2NzU3ODQ4NCwtMTM1Mzc4NjMyLC03OT
 I3MjQyOTUsLTIwNjU0NDUzOTIsLTM4Nzg1NzIyOCwtMTMwMjQw
 NTI2NSwxODMzMDM1MDc4LC0yMTA3MjU3NTc5LDIyODE4NTgzOC
 w1MTI4Nzc0NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0NywtOTk0
