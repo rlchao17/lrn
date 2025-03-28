@@ -86,7 +86,8 @@ Kiruna ligger i norr. Malmö ligger i söder. Stockholm ligger i öster. Götebo
 > Bor du i en stad i Sverige?<br>
 > Var i Sverige bor du? Bor du i norr, söder, öster eller väster?
 ## Kust och hav
-
+I öster har Sverige en lång kust.<br>
+Havet utanför kusten heter Östersjön.
 
 
 # Var ligger Sverige?
@@ -109,7 +110,7 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyOTI3NjE5LC0yMDY1NDQ1MzkyLC0zOD
+eyJoaXN0b3J5IjpbOTc2MTYzOTMxLC0yMDY1NDQ1MzkyLC0zOD
 c4NTcyMjgsLTEzMDI0MDUyNjUsMTgzMzAzNTA3OCwtMjEwNzI1
 NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0ODUsLT
 E1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLTIwMDA0
