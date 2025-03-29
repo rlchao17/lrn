@@ -42,8 +42,11 @@ Lövträd tappar sina löv på hösten.
 #### en [palm](https://sv.wikipedia.org/wiki/Palmer)
 
 # Mat i skogen
-I skogen finns det mycket som människor kan äta.
+I skogen finns det mycket som människor kan äta.<br>
+Många bär kan man plocka och äta.
 
+> **Skriv på rätt plats:**
+> lingon, blåbär, hallon, hjortron
 ## Bär
 På sommaren finns det bär i skogen.
 # Allemansrätten
@@ -120,7 +123,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg5NDgwMTMsNjYxOTI4ODYwLDE1Nj
+eyJoaXN0b3J5IjpbLTEzNjQxNTA2NTgsNjYxOTI4ODYwLDE1Nj
 MyMjQwNzksMTI3NjIwODc3OCwxODM1MzcwNDQzLDE5NzE4MTk4
 NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5NjczODUyNTMsLT
 g4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIyOTEsLTg5Mjgy
