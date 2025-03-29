@@ -78,7 +78,8 @@ Alla får vara ute i naturen i Sverige, men vi får inte göra vad vi vill. Vi f
 # Djur
 Det finns många djur i världen. Man brukar dela in dem i olika grupper. Några djur, till exempel fåglar, lägger ägg som sedan blir ungar.
 
-Andra djur föder levande ungar som diar. Det betyder att de dricker mjölk från mamman.
+Andra djur föder levande ungar som diar. Det betyder att de dricker mjölk från mamman. Den gruppen kallas för däggdjur.
+
 # Älgen
 
 # På landet
@@ -149,7 +150,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk5MjczOSwtMTE0NDc0NTA5NywxMD
+eyJoaXN0b3J5IjpbMTE1NDYxNTUwOCwtMTE0NDc0NTA5NywxMD
 kyNjUxMzI5LDE1MzgyNzAzNDYsLTIwOTQ0NzEzOTEsMTA0MTk0
 NTk1NCw5ODY1ODkzMzgsNjYxOTI4ODYwLDE1NjMyMjQwNzksMT
 I3NjIwODc3OCwxODM1MzcwNDQzLDE5NzE4MTk4NTUsLTIyMDU1
