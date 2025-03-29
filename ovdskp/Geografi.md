@@ -129,6 +129,7 @@ Sverige ligger i norra Europa.
 Sverige gränser till Norge, Finland och Danmark.
 #### en gräns
 Det finns en lång bro mellan Sverige och Danmark.
+
 |Svenska  |Kinesiska  |
 |--|--|
 |norr  |北  |
@@ -139,19 +140,21 @@ Det finns en lång bro mellan Sverige och Danmark.
 |en gräns  |边界  |
 
 Skriv på rätt plats.
-+ Sveriges huvudstad: *Stockholm*
-+ Två stora städer: *Göteborg, Malmö*
-+ Två stora öar: *Öland, Gotland*
-+ Två stora sjöar: *Vänern, Vättern*
-+ Sveriges största älv: *Göta älv*
-+ Sveriges högsta fjäll: *Kebnekaise*
+
+ 1. List item
+ 2. Sveriges huvudstad: *Stockholm*
+ 3. Två stora städer: *Göteborg, Malmö*
+ 4. Två stora öar: *Öland, Gotland*
+ 5. Två stora sjöar: *Vänern, Vättern*
+ 6. Sveriges största älv: *Göta älv*
+ 7. Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU0OTExNjUsMTUzMzgyNTQ5LDEyMj
-c5MTU4MTAsMTk5MDg0NzYwNSwtNzQzMzU2NDI4LDIwMDE4NTAz
-MzUsLTEzNTM3ODYzMiwtNzkyNzI0Mjk1LC0yMDY1NDQ1MzkyLC
-0zODc4NTcyMjgsLTEzMDI0MDUyNjUsMTgzMzAzNTA3OCwtMjEw
-NzI1NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0OD
-UsLTE1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLTIw
-MDA0NTQ1NDJdfQ==
+eyJoaXN0b3J5IjpbMjA1MzI5NzMyNiwxNTMzODI1NDksMTIyNz
+kxNTgxMCwxOTkwODQ3NjA1LC03NDMzNTY0MjgsMjAwMTg1MDMz
+NSwtMTM1Mzc4NjMyLC03OTI3MjQyOTUsLTIwNjU0NDUzOTIsLT
+M4Nzg1NzIyOCwtMTMwMjQwNTI2NSwxODMzMDM1MDc4LC0yMTA3
+MjU3NTc5LDIyODE4NTgzOCw1MTI4Nzc0NDUsMTA1MDkyOTQ4NS
+wtMTU0MjIyODc0NywtOTk0NjMxNjM3LDYyOTUxMzg3NSwtMjAw
+MDQ1NDU0Ml19
 -->
