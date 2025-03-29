@@ -27,6 +27,10 @@ Kottarna är runda.
 #### en tall, långa barr, en tallkotte
 
 Barrträden tappar inte sina barr på hösten.
+## Lövskog
+I södra Sverige finns det skogar där det bara växter lövträd.
+
+Många löv
 # Mat i skogen
 
 # Allemansrätten
@@ -103,8 +107,9 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjIwODc3OCwxODM1MzcwNDQzLDE5Nz
-E4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5NjczODUy
-NTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIyOTEsLT
-g5MjgyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
+eyJoaXN0b3J5IjpbMTU1MDg1MDMzMCwxMjc2MjA4Nzc4LDE4Mz
+UzNzA0NDMsMTk3MTgxOTg1NSwtMjIwNTU0NDE4LDEzMTU4NTQz
+OTIsMTk2NzM4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQxOTgsMT
+g4MDA0MjI5MSwtODkyODIwNTkzLDEyNDAzMjkyOSwxMDU3NjY5
+NDQ3XX0=
 -->
