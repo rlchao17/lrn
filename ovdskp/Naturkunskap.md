@@ -63,7 +63,7 @@ Om du äter giftig svamp kan du dö.
 
 ## Djur
 Det finns många olika djur i skogen. Några djur får man jaga, till exempel älg och rådjur. Många tycker att deras kött är gott.
-#### en [älg](https://sv.wikipedia.org/wiki/%C3%84lgar), rådjur
+#### en [älg](https://sv.wikipedia.org/wiki/%C3%84lgar), [rådjur](https://sv.wikipedia.org/wiki/R%C3%A5djur)
 
 # Allemansrätten
 
@@ -139,7 +139,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTc2NTMwNSwxMDQxOTQ1OTU0LDk4Nj
+eyJoaXN0b3J5IjpbLTUyNjQ4MzY5NiwxMDQxOTQ1OTU0LDk4Nj
 U4OTMzOCw2NjE5Mjg4NjAsMTU2MzIyNDA3OSwxMjc2MjA4Nzc4
 LDE4MzUzNzA0NDMsMTk3MTgxOTg1NSwtMjIwNTU0NDE4LDEzMT
 U4NTQzOTIsMTk2NzM4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQx
