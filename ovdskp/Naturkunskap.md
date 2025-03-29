@@ -2,7 +2,8 @@
 I Sverige finns det mycket skog, särskilt i norra Sverige.<br>
 Mer än hälften av Sverige är skog. Skogen är viktig för Sverige.
 
-V
+Vi bygger hus av trä och vi eldar med trä så att det blir varmt i husen.<br>
+Vi gör också möbler av tr
 # Olika skogar
 
 # Mat i skogen
@@ -81,7 +82,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODM0NTEzLDEzMTU4NTQzOTIsMTk2Nz
-M4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5
-MSwtODkyODIwNTkzLDEyNDAzMjkyOSwxMDU3NjY5NDQ3XX0=
+eyJoaXN0b3J5IjpbMjA2MDM0MTQwNywxMzE1ODU0MzkyLDE5Nj
+czODUyNTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIy
+OTEsLTg5MjgyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
 -->
