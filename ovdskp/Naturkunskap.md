@@ -66,7 +66,7 @@ Det finns många olika djur i skogen. Några djur får man jaga, till exempel ä
 #### en [älg](https://sv.wikipedia.org/wiki/%C3%84lgar), [rådjur](https://sv.wikipedia.org/wiki/R%C3%A5djur)
 
 # Allemansrätten
-Många människor tycker om att vara ute i naturen. Arne arbetar som lärare, men på sin fritid är han ofta ute i naturen. Han är intresserad av växter och djur. Aren fotograferar och målar tavlor av fåglar. Han älskar att titta på fåglar.
+Många människor tycker om att vara ute i naturen. Arne arbetar som lärare, men på sin fritid är han ofta ute i naturen. Han är intresserad av växter och djur. Arne fotograferar och målar tavlor av fåglar. Han älskar att titta på fåglar.
 
 Det finns många olika fåglar. I Sverige finns det 486 olika arter. Arne har sett ungefär 320 arter.
 #### en [sädesärla](https://sv.wikipedia.org/wiki/S%C3%A4des%C3%A4rla), en [bofink](https://sv.wikipedia.org/wiki/Bofink)
@@ -147,10 +147,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjY1MTMyOSwxNTM4MjcwMzQ2LC0yMD
-k0NDcxMzkxLDEwNDE5NDU5NTQsOTg2NTg5MzM4LDY2MTkyODg2
-MCwxNTYzMjI0MDc5LDEyNzYyMDg3NzgsMTgzNTM3MDQ0MywxOT
-cxODE5ODU1LC0yMjA1NTQ0MTgsMTMxNTg1NDM5MiwxOTY3Mzg1
-MjUzLC04ODIxMzI2MDMsMTU2ODc1NDE5OCwxODgwMDQyMjkxLC
-04OTI4MjA1OTMsMTI0MDMyOTI5LDEwNTc2Njk0NDddfQ==
+eyJoaXN0b3J5IjpbODQ4Nzk3MjYzLDEwOTI2NTEzMjksMTUzOD
+I3MDM0NiwtMjA5NDQ3MTM5MSwxMDQxOTQ1OTU0LDk4NjU4OTMz
+OCw2NjE5Mjg4NjAsMTU2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4Mz
+UzNzA0NDMsMTk3MTgxOTg1NSwtMjIwNTU0NDE4LDEzMTU4NTQz
+OTIsMTk2NzM4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQxOTgsMT
+g4MDA0MjI5MSwtODkyODIwNTkzLDEyNDAzMjkyOSwxMDU3NjY5
+NDQ3XX0=
 -->
