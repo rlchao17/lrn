@@ -11,12 +11,10 @@ Sverige exporterar mycket trä och papper.
 > Finns det något av trä i rummet där du är nu?
 # Olika skogar
 I skogen växter olika [slags](https://sv.m.wiktionary.org/wiki/slag#Substantivhttps://sv.m.wiktionary.org/wiki/slag#Substantiv) träd.<br>
-`<abbr title="discription">Text</abbr>`
-```
-# Introduction to tooltip or popups
+<abbr title="discription">Text</abbr>
 
 This is a <abbr title="Definition of word that pops up in a box upon hovering">word.</abbr> I would like to know its definition.
-```
+
 # Mat i skogen
 
 # Allemansrätten
@@ -93,8 +91,8 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTEyODIxMjUsMTk3MTgxOTg1NSwtMj
-IwNTU0NDE4LDEzMTU4NTQzOTIsMTk2NzM4NTI1MywtODgyMTMy
-NjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5MSwtODkyODIwNTkzLD
-EyNDAzMjkyOSwxMDU3NjY5NDQ3XX0=
+eyJoaXN0b3J5IjpbMTQ0NjY2OTIwNiwxOTcxODE5ODU1LC0yMj
+A1NTQ0MTgsMTMxNTg1NDM5MiwxOTY3Mzg1MjUzLC04ODIxMzI2
+MDMsMTU2ODc1NDE5OCwxODgwMDQyMjkxLC04OTI4MjA1OTMsMT
+I0MDMyOTI5LDEwNTc2Njk0NDddfQ==
 -->
