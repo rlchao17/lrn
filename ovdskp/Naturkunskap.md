@@ -55,7 +55,8 @@ Man kan göra sylt av bär.
 #### Lingonsylt
 
 ## Svamp
-Det finns svamp i skogen på sommaren och hösten.
+Det finns svamp i skogen på sommaren och hösten.<br>
+Två svampar som är goda att äta är champinjoner och kan
 # Allemansrätten
 
 # Djur
@@ -130,9 +131,9 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNjE1NDU2LDk4NjU4OTMzOCw2NjE5Mj
-g4NjAsMTU2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4MzUzNzA0NDMs
-MTk3MTgxOTg1NSwtMjIwNTU0NDE4LDEzMTU4NTQzOTIsMTk2Nz
-M4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5
-MSwtODkyODIwNTkzLDEyNDAzMjkyOSwxMDU3NjY5NDQ3XX0=
+eyJoaXN0b3J5IjpbLTEyMDgxMjIyMSw5ODY1ODkzMzgsNjYxOT
+I4ODYwLDE1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1MzcwNDQz
+LDE5NzE4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5Nj
+czODUyNTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIy
+OTEsLTg5MjgyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
 -->
