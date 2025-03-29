@@ -13,7 +13,10 @@ Sverige exporterar mycket trä och papper.
 I skogen växter olika [slags](https://sv.m.wiktionary.org/wiki/slag#Substantivhttps://sv.m.wiktionary.org/wiki/slag#Substantiv) träd.<br>
 En del är barrträd, en del är lövträd.
 ## Barrskog
-Det finns barrskog i nästan hela Sverige.
+Det finns barrskog i nästan hela Sverige.<br>
+Men det växter inga träd upp på fjällen.
+
+Graen
 
 # Mat i skogen
 
@@ -91,8 +94,8 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjU0MTk5MywxOTcxODE5ODU1LC0yMj
-A1NTQ0MTgsMTMxNTg1NDM5MiwxOTY3Mzg1MjUzLC04ODIxMzI2
-MDMsMTU2ODc1NDE5OCwxODgwMDQyMjkxLC04OTI4MjA1OTMsMT
-I0MDMyOTI5LDEwNTc2Njk0NDddfQ==
+eyJoaXN0b3J5IjpbLTEzMjIxOTE1MjQsMTk3MTgxOTg1NSwtMj
+IwNTU0NDE4LDEzMTU4NTQzOTIsMTk2NzM4NTI1MywtODgyMTMy
+NjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5MSwtODkyODIwNTkzLD
+EyNDAzMjkyOSwxMDU3NjY5NDQ3XX0=
 -->
