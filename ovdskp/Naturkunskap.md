@@ -97,6 +97,7 @@ Många djur lever tillsammans i grupp, men älgen lever ofta ensam.
 Älgen är grå och brun. Älgtjuren har horn som den tappar på vintern. På våren får den nya horn. Älgkon har inga horn.
 
 Det finns älgar i norra Europa, Asien och Nordamerika.
+#### ett horn, en älgkalv, en älgtjur, en älgko
 # På landet
 
 # Väder och temperatur
@@ -165,11 +166,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0NTUwMDQzLDE5MDczNTQ3NzcsLTE1Mj
-c4NDQ1ODQsLTI4NDIxODM3OSwxMTU0NjE1NTA4LC0xMTQ0NzQ1
-MDk3LDEwOTI2NTEzMjksMTUzODI3MDM0NiwtMjA5NDQ3MTM5MS
-wxMDQxOTQ1OTU0LDk4NjU4OTMzOCw2NjE5Mjg4NjAsMTU2MzIy
-NDA3OSwxMjc2MjA4Nzc4LDE4MzUzNzA0NDMsMTk3MTgxOTg1NS
-wtMjIwNTU0NDE4LDEzMTU4NTQzOTIsMTk2NzM4NTI1MywtODgy
-MTMyNjAzXX0=
+eyJoaXN0b3J5IjpbMzU0Nzg0MTI2LDUyNDU1MDA0MywxOTA3Mz
+U0Nzc3LC0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMTE1NDYxNTUw
+OCwtMTE0NDc0NTA5NywxMDkyNjUxMzI5LDE1MzgyNzAzNDYsLT
+IwOTQ0NzEzOTEsMTA0MTk0NTk1NCw5ODY1ODkzMzgsNjYxOTI4
+ODYwLDE1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1MzcwNDQzLD
+E5NzE4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5Njcz
+ODUyNTNdfQ==
 -->
