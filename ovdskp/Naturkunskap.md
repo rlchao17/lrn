@@ -79,10 +79,10 @@ Alla får vara ute i naturen i Sverige, men vi får inte göra vad vi vill. Vi f
 Det finns många djur i världen. Man brukar dela in dem i olika grupper. Några djur, till exempel fåglar, lägger ägg som sedan blir ungar.
 
 Andra djur föder levande ungar som *diar*. Det betyder att de dricker mjölk från mamman. Den gruppen kallas för *däggdjur*.
-> Vilka av de här djuren är däggdjur?
-> en groda, en höna, en åsna, en björn, en igelkott, en get, en alg, en lejon, en orm, en myra
-> Vilka av de här djuren finns i Sverige? Vilka djur finns i ditt hemlang?
-> Kan du namnen på några fler däggdjur?
+> Vilka av de här djuren är däggdjur?<br>
+> en groda, en höna, en åsna, en björn, en igelkott, en get, en alg, en lejon, en orm, en myra<br>
+> Vilka av de här djuren finns i Sverige? Vilka djur finns i ditt hemlang?<br>
+> Kan du namnen på några fler däggdjur?<br>
 > Kan du namnen på några fler djur som inte är däggdjur?
 
 # Älgen
@@ -155,11 +155,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI3NDk5MSwxMTU0NjE1NTA4LC0xMT
-Q0NzQ1MDk3LDEwOTI2NTEzMjksMTUzODI3MDM0NiwtMjA5NDQ3
-MTM5MSwxMDQxOTQ1OTU0LDk4NjU4OTMzOCw2NjE5Mjg4NjAsMT
-U2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4MzUzNzA0NDMsMTk3MTgx
-OTg1NSwtMjIwNTU0NDE4LDEzMTU4NTQzOTIsMTk2NzM4NTI1My
-wtODgyMTMyNjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5MSwtODky
-ODIwNTkzXX0=
+eyJoaXN0b3J5IjpbLTE4MjcwODQ2MTksMTE1NDYxNTUwOCwtMT
+E0NDc0NTA5NywxMDkyNjUxMzI5LDE1MzgyNzAzNDYsLTIwOTQ0
+NzEzOTEsMTA0MTk0NTk1NCw5ODY1ODkzMzgsNjYxOTI4ODYwLD
+E1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1MzcwNDQzLDE5NzE4
+MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5NjczODUyNT
+MsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIyOTEsLTg5
+MjgyMDU5M119
 -->
