@@ -94,7 +94,9 @@ Många djur lever tillsammans i grupp, men älgen lever ofta ensam.
 
 Älgen kallas för skogens kung. Den kan bli två meter hög och två och en halv meter lång. En älg kan väga ungefär 500 kilo.
 
-Älgen är grå och brun. Älgtjuren har horn som den 
+Älgen är grå och brun. Älgtjuren har horn som den tappar på vintern. På våren får den nya horn. Älgkon har inga horn.
+
+Det finns älgar i norra Europa, Asien och Nordamerika.
 # På landet
 
 # Väder och temperatur
@@ -163,11 +165,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE3NTE5MzUsMTkwNzM1NDc3NywtMT
-UyNzg0NDU4NCwtMjg0MjE4Mzc5LDExNTQ2MTU1MDgsLTExNDQ3
-NDUwOTcsMTA5MjY1MTMyOSwxNTM4MjcwMzQ2LC0yMDk0NDcxMz
-kxLDEwNDE5NDU5NTQsOTg2NTg5MzM4LDY2MTkyODg2MCwxNTYz
-MjI0MDc5LDEyNzYyMDg3NzgsMTgzNTM3MDQ0MywxOTcxODE5OD
-U1LC0yMjA1NTQ0MTgsMTMxNTg1NDM5MiwxOTY3Mzg1MjUzLC04
-ODIxMzI2MDNdfQ==
+eyJoaXN0b3J5IjpbNTI0NTUwMDQzLDE5MDczNTQ3NzcsLTE1Mj
+c4NDQ1ODQsLTI4NDIxODM3OSwxMTU0NjE1NTA4LC0xMTQ0NzQ1
+MDk3LDEwOTI2NTEzMjksMTUzODI3MDM0NiwtMjA5NDQ3MTM5MS
+wxMDQxOTQ1OTU0LDk4NjU4OTMzOCw2NjE5Mjg4NjAsMTU2MzIy
+NDA3OSwxMjc2MjA4Nzc4LDE4MzUzNzA0NDMsMTk3MTgxOTg1NS
+wtMjIwNTU0NDE4LDEzMTU4NTQzOTIsMTk2NzM4NTI1MywtODgy
+MTMyNjAzXX0=
 -->
