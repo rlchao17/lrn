@@ -70,6 +70,7 @@ Många människor tycker om att vara ute i naturen. Arne arbetar som lärare, me
 
 Det finns många olika fåglar. I Sverige finns det 486 olika arter. Arne har sett ungefär 320 arter.
 #### en [sädesärla](https://sv.wikipedia.org/wiki/S%C3%A4des%C3%A4rla), en [bofink](https://sv.wikipedia.org/wiki/Bofink)
+Arne äger ingen skog, men han får ändå
 
 # Djur
 
@@ -143,10 +144,10 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODI3MDM0NiwtMjA5NDQ3MTM5MSwxMD
-QxOTQ1OTU0LDk4NjU4OTMzOCw2NjE5Mjg4NjAsMTU2MzIyNDA3
-OSwxMjc2MjA4Nzc4LDE4MzUzNzA0NDMsMTk3MTgxOTg1NSwtMj
-IwNTU0NDE4LDEzMTU4NTQzOTIsMTk2NzM4NTI1MywtODgyMTMy
-NjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5MSwtODkyODIwNTkzLD
-EyNDAzMjkyOSwxMDU3NjY5NDQ3XX0=
+eyJoaXN0b3J5IjpbNjkyOTc2Nzk0LDE1MzgyNzAzNDYsLTIwOT
+Q0NzEzOTEsMTA0MTk0NTk1NCw5ODY1ODkzMzgsNjYxOTI4ODYw
+LDE1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1MzcwNDQzLDE5Nz
+E4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5NjczODUy
+NTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIyOTEsLT
+g5MjgyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
 -->
