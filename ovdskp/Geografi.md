@@ -127,8 +127,8 @@ Sverige ligger i norra Europa.
 > Kan du namnen på några fler länder som ligger i Europa?
 
 Sverige gränser till Norge, Finland och Danmark.
-
-Det finns en lång
+#### en gräns
+Det finns en lång bro mellan Sverige och Danmark.
 
  
 
@@ -150,11 +150,11 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcxNDExNTEsMTUzMzgyNTQ5LDEyMj
-c5MTU4MTAsMTk5MDg0NzYwNSwtNzQzMzU2NDI4LDIwMDE4NTAz
-MzUsLTEzNTM3ODYzMiwtNzkyNzI0Mjk1LC0yMDY1NDQ1MzkyLC
-0zODc4NTcyMjgsLTEzMDI0MDUyNjUsMTgzMzAzNTA3OCwtMjEw
-NzI1NzU3OSwyMjgxODU4MzgsNTEyODc3NDQ1LDEwNTA5Mjk0OD
-UsLTE1NDIyMjg3NDcsLTk5NDYzMTYzNyw2Mjk1MTM4NzUsLTIw
-MDA0NTQ1NDJdfQ==
+eyJoaXN0b3J5IjpbNjQyMTMwNzU1LDE1MzM4MjU0OSwxMjI3OT
+E1ODEwLDE5OTA4NDc2MDUsLTc0MzM1NjQyOCwyMDAxODUwMzM1
+LC0xMzUzNzg2MzIsLTc5MjcyNDI5NSwtMjA2NTQ0NTM5MiwtMz
+g3ODU3MjI4LC0xMzAyNDA1MjY1LDE4MzMwMzUwNzgsLTIxMDcy
+NTc1NzksMjI4MTg1ODM4LDUxMjg3NzQ0NSwxMDUwOTI5NDg1LC
+0xNTQyMjI4NzQ3LC05OTQ2MzE2MzcsNjI5NTEzODc1LC0yMDAw
+NDU0NTQyXX0=
 -->
