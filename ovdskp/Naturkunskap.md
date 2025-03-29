@@ -34,7 +34,7 @@ Många lövträd, till exempel ek, trivs inte i norra Sverige. Det är för kall
 #### en [ek](https://sv.wikipedia.org/wiki/Ek)
 
 Björken är Sveriges vanligaste lövträd. Det finns björkar i nästan hela Sverige.
-#### en björk, ett björklöv
+#### en [björk](https://sv.wikipedia.org/wiki/Bj%C3%B6rkar), ett björklöv
 
 Lövträd tappar sina löv på hösten.
 # Mat i skogen
@@ -113,9 +113,9 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxOTI4ODYwLDE1NjMyMjQwNzksMTI3Nj
-IwODc3OCwxODM1MzcwNDQzLDE5NzE4MTk4NTUsLTIyMDU1NDQx
-OCwxMzE1ODU0MzkyLDE5NjczODUyNTMsLTg4MjEzMjYwMywxNT
-Y4NzU0MTk4LDE4ODAwNDIyOTEsLTg5MjgyMDU5MywxMjQwMzI5
-MjksMTA1NzY2OTQ0N119
+eyJoaXN0b3J5IjpbLTIyNTMyOTU2MCw2NjE5Mjg4NjAsMTU2Mz
+IyNDA3OSwxMjc2MjA4Nzc4LDE4MzUzNzA0NDMsMTk3MTgxOTg1
+NSwtMjIwNTU0NDE4LDEzMTU4NTQzOTIsMTk2NzM4NTI1MywtOD
+gyMTMyNjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5MSwtODkyODIw
+NTkzLDEyNDAzMjkyOSwxMDU3NjY5NDQ3XX0=
 -->
