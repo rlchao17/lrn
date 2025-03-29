@@ -1,5 +1,8 @@
 # Skogen
+I Sverige finns det mycket skog, särskilt i norra Sverige.<br>
+Mer än hälften av Sverige är skog. Skogen är viktig för Sverige.
 
+V
 # Olika skogar
 
 # Mat i skogen
@@ -78,7 +81,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTg1NDM5MiwxOTY3Mzg1MjUzLC04OD
-IxMzI2MDMsMTU2ODc1NDE5OCwxODgwMDQyMjkxLC04OTI4MjA1
-OTMsMTI0MDMyOTI5LDEwNTc2Njk0NDddfQ==
+eyJoaXN0b3J5IjpbLTQ5ODM0NTEzLDEzMTU4NTQzOTIsMTk2Nz
+M4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5
+MSwtODkyODIwNTkzLDEyNDAzMjkyOSwxMDU3NjY5NDQ3XX0=
 -->
