@@ -8,8 +8,9 @@ Vi gör också möbler av trä.
 Av trä kan man också göra papper.<br>
 Sverige exporterar mycket trä och papper.
 > Vad ser du på bilderna?<br>
-> Finn
+> Finns det något av trä i rummet där du är nu?
 # Olika skogar
+I skogen växter olika slags träd.<br>
 
 # Mat i skogen
 
@@ -87,7 +88,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMDkxNzkxLDEzMTU4NTQzOTIsMTk2Nz
-M4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5
-MSwtODkyODIwNTkzLDEyNDAzMjkyOSwxMDU3NjY5NDQ3XX0=
+eyJoaXN0b3J5IjpbLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5Nj
+czODUyNTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIy
+OTEsLTg5MjgyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
 -->
