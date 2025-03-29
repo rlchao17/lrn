@@ -70,8 +70,8 @@ Många människor tycker om att vara ute i naturen. Arne arbetar som lärare, me
 
 Det finns många olika fåglar. I Sverige finns det 486 olika arter. Arne har sett ungefär 320 arter.
 #### en [sädesärla](https://sv.wikipedia.org/wiki/S%C3%A4des%C3%A4rla), en [bofink](https://sv.wikipedia.org/wiki/Bofink)
-Arne äger ingen skog, men han får *ändå* vara i skogen.Varför?<br>
-Jo, därför att vi har allemansrätt i Sverige. Vi får promenera och vi får plocka bär och svamp, *fastän* vi inte äger skogen eller marken.
+Arne äger ingen skog, men han får *ändå* vara i skogen.<br>
+Varför? Jo, därför att vi har allemansrätt i Sverige. Vi får promenera och vi får plocka bär och svamp, *fastän* vi inte äger skogen eller marken.
 
 Alla får vara ute i naturen i Sverige, men vi får inte göra vad vi vill. Vi får till exempel inte kasta skräp i skogen.
 > Får man fiska i havet och i alla älvar och sjöar i Sverige?
@@ -147,11 +147,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4Nzk3MjYzLDEwOTI2NTEzMjksMTUzOD
-I3MDM0NiwtMjA5NDQ3MTM5MSwxMDQxOTQ1OTU0LDk4NjU4OTMz
-OCw2NjE5Mjg4NjAsMTU2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4Mz
-UzNzA0NDMsMTk3MTgxOTg1NSwtMjIwNTU0NDE4LDEzMTU4NTQz
-OTIsMTk2NzM4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQxOTgsMT
-g4MDA0MjI5MSwtODkyODIwNTkzLDEyNDAzMjkyOSwxMDU3NjY5
-NDQ3XX0=
+eyJoaXN0b3J5IjpbLTExNDQ3NDUwOTcsMTA5MjY1MTMyOSwxNT
+M4MjcwMzQ2LC0yMDk0NDcxMzkxLDEwNDE5NDU5NTQsOTg2NTg5
+MzM4LDY2MTkyODg2MCwxNTYzMjI0MDc5LDEyNzYyMDg3NzgsMT
+gzNTM3MDQ0MywxOTcxODE5ODU1LC0yMjA1NTQ0MTgsMTMxNTg1
+NDM5MiwxOTY3Mzg1MjUzLC04ODIxMzI2MDMsMTU2ODc1NDE5OC
+wxODgwMDQyMjkxLC04OTI4MjA1OTMsMTI0MDMyOTI5LDEwNTc2
+Njk0NDddfQ==
 -->
