@@ -73,7 +73,8 @@ Det finns många olika fåglar. I Sverige finns det 486 olika arter. Arne har se
 Arne äger ingen skog, men han får *ändå* vara i skogen.Varför?<br>
 Jo, därför att vi har allemansrätt i Sverige. Vi får promenera och vi får plocka bär och svamp, *fastän* vi inte äger skogen eller marken.
 
-Alla får vara ute i naturen i Sverige, men vi får inte för
+Alla får vara ute i naturen i Sverige, men vi får inte göra vad vi vill. Vi får till exempel inte kasta skräp i skogen.
+
 # Djur
 
 # Älgen
@@ -146,7 +147,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTY5ODEyMiwxNTM4MjcwMzQ2LC0yMD
+eyJoaXN0b3J5IjpbLTUxODUxNDYwOCwxNTM4MjcwMzQ2LC0yMD
 k0NDcxMzkxLDEwNDE5NDU5NTQsOTg2NTg5MzM4LDY2MTkyODg2
 MCwxNTYzMjI0MDc5LDEyNzYyMDg3NzgsMTgzNTM3MDQ0MywxOT
 cxODE5ODU1LC0yMjA1NTQ0MTgsMTMxNTg1NDM5MiwxOTY3Mzg1
