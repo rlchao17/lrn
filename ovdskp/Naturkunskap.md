@@ -86,7 +86,7 @@ Andra djur föder levande ungar som *diar*. Det betyder att de dricker mjölk fr
 > Kan du namnen på några fler djur som inte är däggdjur?
 
 # Älgen
-
+I skogarna i Sverige lever älgar. De äter löv och kvistar.
 # På landet
 
 # Väder och temperatur
@@ -155,11 +155,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDIxODM3OSwxMTU0NjE1NTA4LC0xMT
-Q0NzQ1MDk3LDEwOTI2NTEzMjksMTUzODI3MDM0NiwtMjA5NDQ3
-MTM5MSwxMDQxOTQ1OTU0LDk4NjU4OTMzOCw2NjE5Mjg4NjAsMT
-U2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4MzUzNzA0NDMsMTk3MTgx
-OTg1NSwtMjIwNTU0NDE4LDEzMTU4NTQzOTIsMTk2NzM4NTI1My
-wtODgyMTMyNjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5MSwtODky
-ODIwNTkzXX0=
+eyJoaXN0b3J5IjpbMzU5MzI3MDU0LC0yODQyMTgzNzksMTE1ND
+YxNTUwOCwtMTE0NDc0NTA5NywxMDkyNjUxMzI5LDE1MzgyNzAz
+NDYsLTIwOTQ0NzEzOTEsMTA0MTk0NTk1NCw5ODY1ODkzMzgsNj
+YxOTI4ODYwLDE1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1Mzcw
+NDQzLDE5NzE4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLD
+E5NjczODUyNTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAw
+NDIyOTFdfQ==
 -->
