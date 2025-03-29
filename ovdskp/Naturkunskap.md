@@ -16,10 +16,10 @@ En del är barrträd, en del är lövträd.
 Det finns barrskog i nästan hela Sverige.<br>
 Men det växter inga träd upp på fjällen.
 
-Granen är ett barrträd.<br>
+[Granen](https://sv.wikipedia.org/wiki/Gran) är ett barrträd.<br>
 Den har korta barr.<br>
 Granens kottar är långa och smala.
-
+#### en gran, korta barr, en grankotte
 # Mat i skogen
 
 # Allemansrätten
@@ -96,8 +96,8 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTM3MDQ0MywxOTcxODE5ODU1LC0yMj
-A1NTQ0MTgsMTMxNTg1NDM5MiwxOTY3Mzg1MjUzLC04ODIxMzI2
-MDMsMTU2ODc1NDE5OCwxODgwMDQyMjkxLC04OTI4MjA1OTMsMT
-I0MDMyOTI5LDEwNTc2Njk0NDddfQ==
+eyJoaXN0b3J5IjpbLTU4MDQ5NDQxMCwxODM1MzcwNDQzLDE5Nz
+E4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5NjczODUy
+NTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIyOTEsLT
+g5MjgyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
 -->
