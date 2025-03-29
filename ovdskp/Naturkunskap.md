@@ -62,7 +62,9 @@ Om du äter giftig svamp kan du dö.
 #### [kantareller](https://sv.wikipedia.org/wiki/Kantarell), [champinjoner](https://sv.wikipedia.org/wiki/Champinjoner), [röda flugsvampar](https://sv.wikipedia.org/wiki/R%C3%B6d_flugsvamp), [vita flugsvampar](https://sv.wikipedia.org/wiki/Vit_flugsvamp)
 
 ## Djur
-Det finns många olika djur i skogen. Några djur får man jaga, till exempel 
+Det finns många olika djur i skogen. Några djur får man jaga, till exempel älg och rådjur. Många tycker att deras kött är gott.
+#### en älg, rådjur
+
 # Allemansrätten
 
 # Djur
@@ -137,10 +139,10 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDg1ODA2MywxMDQxOTQ1OTU0LDk4Nj
-U4OTMzOCw2NjE5Mjg4NjAsMTU2MzIyNDA3OSwxMjc2MjA4Nzc4
-LDE4MzUzNzA0NDMsMTk3MTgxOTg1NSwtMjIwNTU0NDE4LDEzMT
-U4NTQzOTIsMTk2NzM4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQx
-OTgsMTg4MDA0MjI5MSwtODkyODIwNTkzLDEyNDAzMjkyOSwxMD
-U3NjY5NDQ3XX0=
+eyJoaXN0b3J5IjpbLTIwMzM3OTgwMzksMTA0MTk0NTk1NCw5OD
+Y1ODkzMzgsNjYxOTI4ODYwLDE1NjMyMjQwNzksMTI3NjIwODc3
+OCwxODM1MzcwNDQzLDE5NzE4MTk4NTUsLTIyMDU1NDQxOCwxMz
+E1ODU0MzkyLDE5NjczODUyNTMsLTg4MjEzMjYwMywxNTY4NzU0
+MTk4LDE4ODAwNDIyOTEsLTg5MjgyMDU5MywxMjQwMzI5MjksMT
+A1NzY2OTQ0N119
 -->
