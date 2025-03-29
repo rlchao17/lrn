@@ -147,9 +147,8 @@ Det finns en lång bro mellan Sverige och Danmark.
  5. Sveriges största älv: *Göta älv*
  6. Sveriges högsta fjäll: *Kebnekaise*
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTQ2MzcwNiwxNTMzODI1NDksMTIyNz
+eyJoaXN0b3J5IjpbLTY1NTA0NzExMiwxNTMzODI1NDksMTIyNz
 kxNTgxMCwxOTkwODQ3NjA1LC03NDMzNTY0MjgsMjAwMTg1MDMz
 NSwtMTM1Mzc4NjMyLC03OTI3MjQyOTUsLTIwNjU0NDUzOTIsLT
 M4Nzg1NzIyOCwtMTMwMjQwNTI2NSwxODMzMDM1MDc4LC0yMTA3
