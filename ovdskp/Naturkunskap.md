@@ -47,6 +47,10 @@ Många bär kan man plocka och äta.
 
 > **Skriv på rätt plats:**
 > lingon, blåbär, hallon, hjortron
+
+Man kan göra sylt av bär.
+#### Lingonsylt
+
 ## Bär
 På sommaren finns det bär i skogen.
 # Allemansrätten
@@ -123,9 +127,9 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQxNTA2NTgsNjYxOTI4ODYwLDE1Nj
-MyMjQwNzksMTI3NjIwODc3OCwxODM1MzcwNDQzLDE5NzE4MTk4
-NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5NjczODUyNTMsLT
-g4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIyOTEsLTg5Mjgy
-MDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
+eyJoaXN0b3J5IjpbOTg2NTg5MzM4LDY2MTkyODg2MCwxNTYzMj
+I0MDc5LDEyNzYyMDg3NzgsMTgzNTM3MDQ0MywxOTcxODE5ODU1
+LC0yMjA1NTQ0MTgsMTMxNTg1NDM5MiwxOTY3Mzg1MjUzLC04OD
+IxMzI2MDMsMTU2ODc1NDE5OCwxODgwMDQyMjkxLC04OTI4MjA1
+OTMsMTI0MDMyOTI5LDEwNTc2Njk0NDddfQ==
 -->
