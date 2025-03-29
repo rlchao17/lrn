@@ -90,6 +90,9 @@ I skogarna i Sverige lever älgar. De äter löv och kvistar.
 
 Älgen är ett däggdjur. Hanen kallas för älgtjur. Honan kallas för älgko. Ungarna kallas för älgkalvar. Älgkon föder en eller två kalvar i maj eller juni.
 
+Många djur lever tillsammans i grupp, men älgen lever ofta ensam.
+
+Älgen kallas för skogens kung. 
 # På landet
 
 # Väder och temperatur
@@ -158,11 +161,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzM1NDc3NywtMTUyNzg0NDU4NCwtMj
-g0MjE4Mzc5LDExNTQ2MTU1MDgsLTExNDQ3NDUwOTcsMTA5MjY1
-MTMyOSwxNTM4MjcwMzQ2LC0yMDk0NDcxMzkxLDEwNDE5NDU5NT
-QsOTg2NTg5MzM4LDY2MTkyODg2MCwxNTYzMjI0MDc5LDEyNzYy
-MDg3NzgsMTgzNTM3MDQ0MywxOTcxODE5ODU1LC0yMjA1NTQ0MT
-gsMTMxNTg1NDM5MiwxOTY3Mzg1MjUzLC04ODIxMzI2MDMsMTU2
-ODc1NDE5OF19
+eyJoaXN0b3J5IjpbMTQ3MDU5NzcwNywxOTA3MzU0Nzc3LC0xNT
+I3ODQ0NTg0LC0yODQyMTgzNzksMTE1NDYxNTUwOCwtMTE0NDc0
+NTA5NywxMDkyNjUxMzI5LDE1MzgyNzAzNDYsLTIwOTQ0NzEzOT
+EsMTA0MTk0NTk1NCw5ODY1ODkzMzgsNjYxOTI4ODYwLDE1NjMy
+MjQwNzksMTI3NjIwODc3OCwxODM1MzcwNDQzLDE5NzE4MTk4NT
+UsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5NjczODUyNTMsLTg4
+MjEzMjYwM119
 -->
