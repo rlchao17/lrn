@@ -30,7 +30,9 @@ Barrträden tappar inte sina barr på hösten.
 ## Lövskog
 I södra Sverige finns det skogar där det bara växter lövträd.
 
-Många löv
+Många lövträd, till exempel ek, trivs inte i norra Sverige. Det är för kallt där.
+#### en ek
+
 # Mat i skogen
 
 # Allemansrätten
@@ -107,7 +109,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDg1MDMzMCwxMjc2MjA4Nzc4LDE4Mz
+eyJoaXN0b3J5IjpbMTU2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4Mz
 UzNzA0NDMsMTk3MTgxOTg1NSwtMjIwNTU0NDE4LDEzMTU4NTQz
 OTIsMTk2NzM4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQxOTgsMT
 g4MDA0MjI5MSwtODkyODIwNTkzLDEyNDAzMjkyOSwxMDU3NjY5
