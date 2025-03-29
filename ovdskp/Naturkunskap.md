@@ -92,7 +92,9 @@ I skogarna i Sverige lever älgar. De äter löv och kvistar.
 
 Många djur lever tillsammans i grupp, men älgen lever ofta ensam.
 
-Älgen kallas för skogens kung. 
+Älgen kallas för skogens kung. Den kan bli två meter hög och två och en halv meter lång. En älg kan väga ungefär 500 kilo.
+
+Älgen är grå och brun. Älgtjuren har horn som den 
 # På landet
 
 # Väder och temperatur
@@ -161,11 +163,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDU5NzcwNywxOTA3MzU0Nzc3LC0xNT
-I3ODQ0NTg0LC0yODQyMTgzNzksMTE1NDYxNTUwOCwtMTE0NDc0
-NTA5NywxMDkyNjUxMzI5LDE1MzgyNzAzNDYsLTIwOTQ0NzEzOT
-EsMTA0MTk0NTk1NCw5ODY1ODkzMzgsNjYxOTI4ODYwLDE1NjMy
-MjQwNzksMTI3NjIwODc3OCwxODM1MzcwNDQzLDE5NzE4MTk4NT
-UsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5NjczODUyNTMsLTg4
-MjEzMjYwM119
+eyJoaXN0b3J5IjpbLTEzMTE3NTE5MzUsMTkwNzM1NDc3NywtMT
+UyNzg0NDU4NCwtMjg0MjE4Mzc5LDExNTQ2MTU1MDgsLTExNDQ3
+NDUwOTcsMTA5MjY1MTMyOSwxNTM4MjcwMzQ2LC0yMDk0NDcxMz
+kxLDEwNDE5NDU5NTQsOTg2NTg5MzM4LDY2MTkyODg2MCwxNTYz
+MjI0MDc5LDEyNzYyMDg3NzgsMTgzNTM3MDQ0MywxOTcxODE5OD
+U1LC0yMjA1NTQ0MTgsMTMxNTg1NDM5MiwxOTY3Mzg1MjUzLC04
+ODIxMzI2MDNdfQ==
 -->
