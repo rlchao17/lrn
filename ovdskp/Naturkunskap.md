@@ -76,7 +76,7 @@ Varför? Jo, därför att vi har allemansrätt i Sverige. Vi får promenera och 
 Alla får vara ute i naturen i Sverige, men vi får inte göra vad vi vill. Vi får till exempel inte kasta skräp i skogen.
 > Får man fiska i havet och i alla älvar och sjöar i Sverige?
 # Djur
-
+Det finns många djur i världen. Man brukar dela in dem i olika grupper.
 # Älgen
 
 # På landet
@@ -147,11 +147,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ3NDUwOTcsMTA5MjY1MTMyOSwxNT
-M4MjcwMzQ2LC0yMDk0NDcxMzkxLDEwNDE5NDU5NTQsOTg2NTg5
-MzM4LDY2MTkyODg2MCwxNTYzMjI0MDc5LDEyNzYyMDg3NzgsMT
-gzNTM3MDQ0MywxOTcxODE5ODU1LC0yMjA1NTQ0MTgsMTMxNTg1
-NDM5MiwxOTY3Mzg1MjUzLC04ODIxMzI2MDMsMTU2ODc1NDE5OC
-wxODgwMDQyMjkxLC04OTI4MjA1OTMsMTI0MDMyOTI5LDEwNTc2
-Njk0NDddfQ==
+eyJoaXN0b3J5IjpbODU5MjU5NTgxLC0xMTQ0NzQ1MDk3LDEwOT
+I2NTEzMjksMTUzODI3MDM0NiwtMjA5NDQ3MTM5MSwxMDQxOTQ1
+OTU0LDk4NjU4OTMzOCw2NjE5Mjg4NjAsMTU2MzIyNDA3OSwxMj
+c2MjA4Nzc4LDE4MzUzNzA0NDMsMTk3MTgxOTg1NSwtMjIwNTU0
+NDE4LDEzMTU4NTQzOTIsMTk2NzM4NTI1MywtODgyMTMyNjAzLD
+E1Njg3NTQxOTgsMTg4MDA0MjI5MSwtODkyODIwNTkzLDEyNDAz
+MjkyOV19
 -->
