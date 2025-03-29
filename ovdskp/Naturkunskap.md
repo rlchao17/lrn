@@ -46,7 +46,7 @@ I skogen finns det mycket som människor kan äta.<br>
 Många bär kan man plocka och äta.
 
 > **Skriv på rätt plats:**
-> [lingon](https://sv.wikipedia.org/wiki/Lingon), [blåbär](https://sv.wikipedia.org/wiki/Bl%C3%A5b%C3%A4r), [hallon](https://sv.wikipedia.org/wiki/Hallon), hjortron
+> [lingon](https://sv.wikipedia.org/wiki/Lingon), [blåbär](https://sv.wikipedia.org/wiki/Bl%C3%A5b%C3%A4r), [hallon](https://sv.wikipedia.org/wiki/Hallon), [hjortron](https://sv.wikipedia.org/wiki/Hjortron)
 
 Man kan göra sylt av bär.
 #### Lingonsylt
@@ -127,7 +127,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDQxMzU4MCw5ODY1ODkzMzgsNjYxOT
+eyJoaXN0b3J5IjpbLTUxNDk1NjQ5Niw5ODY1ODkzMzgsNjYxOT
 I4ODYwLDE1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1MzcwNDQz
 LDE5NzE4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5Nj
 czODUyNTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIy
