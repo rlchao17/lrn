@@ -59,7 +59,8 @@ Det finns svamp i skogen på sommaren och hösten.<br>
 Två svampar som är goda att äta är champinjoner och kantareller.<br>
 Men några svampar är giftiga, till exempel flugsvamp.<br>
 Om du äter giftig svamp kan du dö.
-#### kantareller, cham
+#### kantareller, champinjoner, röda flugsvampar, vita flugsvampar
+
 # Allemansrätten
 
 # Djur
@@ -134,7 +135,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTYyMDAxOCw5ODY1ODkzMzgsNjYxOT
+eyJoaXN0b3J5IjpbMTA0MTk0NTk1NCw5ODY1ODkzMzgsNjYxOT
 I4ODYwLDE1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1MzcwNDQz
 LDE5NzE4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5Nj
 czODUyNTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIy
