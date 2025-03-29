@@ -22,7 +22,10 @@ Granens kottar är långa och smala.
 #### en gran, korta barr, en grankotte
 
 Tallen är också ett barrträd.<br>
-Tallens barr är längre än granens
+Tallens barr är längre än granens.<br>
+Kottarna är runda.
+
+Barrträden tappar inte sina barr på hösten.
 # Mat i skogen
 
 # Allemansrätten
@@ -99,8 +102,8 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY2NzQ5OTksMTgzNTM3MDQ0MywxOT
-cxODE5ODU1LC0yMjA1NTQ0MTgsMTMxNTg1NDM5MiwxOTY3Mzg1
-MjUzLC04ODIxMzI2MDMsMTU2ODc1NDE5OCwxODgwMDQyMjkxLC
-04OTI4MjA1OTMsMTI0MDMyOTI5LDEwNTc2Njk0NDddfQ==
+eyJoaXN0b3J5IjpbMzc2NTI4MjAwLDE4MzUzNzA0NDMsMTk3MT
+gxOTg1NSwtMjIwNTU0NDE4LDEzMTU4NTQzOTIsMTk2NzM4NTI1
+MywtODgyMTMyNjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5MSwtOD
+kyODIwNTkzLDEyNDAzMjkyOSwxMDU3NjY5NDQ3XX0=
 -->
