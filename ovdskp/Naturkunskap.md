@@ -31,8 +31,11 @@ Barrträden tappar inte sina barr på hösten.
 I södra Sverige finns det skogar där det bara växter lövträd.
 
 Många lövträd, till exempel ek, trivs inte i norra Sverige. Det är för kallt där.
-#### en ek
+#### en [ek](https://sv.wikipedia.org/wiki/Ek)
 
+Björken är Sveriges vanligaste lövträd. Det finns björkar i nästan hela Sverige.
+#### en björk, ett 
+Lövträd tappar sina löv på hösten.
 # Mat i skogen
 
 # Allemansrätten
@@ -109,9 +112,9 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4Mz
-UzNzA0NDMsMTk3MTgxOTg1NSwtMjIwNTU0NDE4LDEzMTU4NTQz
-OTIsMTk2NzM4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQxOTgsMT
-g4MDA0MjI5MSwtODkyODIwNTkzLDEyNDAzMjkyOSwxMDU3NjY5
-NDQ3XX0=
+eyJoaXN0b3J5IjpbMzQyODU4NDE5LDE1NjMyMjQwNzksMTI3Nj
+IwODc3OCwxODM1MzcwNDQzLDE5NzE4MTk4NTUsLTIyMDU1NDQx
+OCwxMzE1ODU0MzkyLDE5NjczODUyNTMsLTg4MjEzMjYwMywxNT
+Y4NzU0MTk4LDE4ODAwNDIyOTEsLTg5MjgyMDU5MywxMjQwMzI5
+MjksMTA1NzY2OTQ0N119
 -->
