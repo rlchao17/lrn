@@ -139,22 +139,21 @@ Det finns en lång bro mellan Sverige och Danmark.
 |gränsar till  |接壤  |
 |en gräns  |边界  |
 
-Skriv på rätt plats.
+**Skriv på rätt plats.
+ 1. Sveriges huvudstad: *Stockholm*
+ 2. Två stora städer: *Göteborg, Malmö*
+ 3. Två stora öar: *Öland, Gotland*
+ 4. Två stora sjöar: *Vänern, Vättern*
+ 5. Sveriges största älv: *Göta älv*
+ 6. Sveriges högsta fjäll: *Kebnekaise*
 
- 1. List item
- 2. Sveriges huvudstad: *Stockholm*
- 3. Två stora städer: *Göteborg, Malmö*
- 4. Två stora öar: *Öland, Gotland*
- 5. Två stora sjöar: *Vänern, Vättern*
- 6. Sveriges största älv: *Göta älv*
- 7. Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzI5NzMyNiwxNTMzODI1NDksMTIyNz
-kxNTgxMCwxOTkwODQ3NjA1LC03NDMzNTY0MjgsMjAwMTg1MDMz
-NSwtMTM1Mzc4NjMyLC03OTI3MjQyOTUsLTIwNjU0NDUzOTIsLT
-M4Nzg1NzIyOCwtMTMwMjQwNTI2NSwxODMzMDM1MDc4LC0yMTA3
-MjU3NTc5LDIyODE4NTgzOCw1MTI4Nzc0NDUsMTA1MDkyOTQ4NS
-wtMTU0MjIyODc0NywtOTk0NjMxNjM3LDYyOTUxMzg3NSwtMjAw
-MDQ1NDU0Ml19
+eyJoaXN0b3J5IjpbMTc2MjMwMjQ2LDE1MzM4MjU0OSwxMjI3OT
+E1ODEwLDE5OTA4NDc2MDUsLTc0MzM1NjQyOCwyMDAxODUwMzM1
+LC0xMzUzNzg2MzIsLTc5MjcyNDI5NSwtMjA2NTQ0NTM5MiwtMz
+g3ODU3MjI4LC0xMzAyNDA1MjY1LDE4MzMwMzUwNzgsLTIxMDcy
+NTc1NzksMjI4MTg1ODM4LDUxMjg3NzQ0NSwxMDUwOTI5NDg1LC
+0xNTQyMjI4NzQ3LC05OTQ2MzE2MzcsNjI5NTEzODc1LC0yMDAw
+NDU0NTQyXX0=
 -->
