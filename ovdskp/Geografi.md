@@ -123,7 +123,8 @@ Kebnekaise är Sveriges högsta fjäll. Det ligger nära en stad som heter Kirun
 > Titta på kartan på sidan 36.<br>
 > Peka på vänern, Vättern, Mälaren och Göta älv.
 # Var ligger Sverige?
-
+Sverige ligger i norra Europa.
+> Kan du namnen på några fler länder som ligger i Europa?
 |Svenska  |Kinesiska  |
 |--|--|
 |norr  |北  |
@@ -142,11 +143,11 @@ Skriv på rätt plats.
 + Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzkxNTgxMCwxOTkwODQ3NjA1LC03ND
-MzNTY0MjgsMjAwMTg1MDMzNSwtMTM1Mzc4NjMyLC03OTI3MjQy
-OTUsLTIwNjU0NDUzOTIsLTM4Nzg1NzIyOCwtMTMwMjQwNTI2NS
-wxODMzMDM1MDc4LC0yMTA3MjU3NTc5LDIyODE4NTgzOCw1MTI4
-Nzc0NDUsMTA1MDkyOTQ4NSwtMTU0MjIyODc0NywtOTk0NjMxNj
-M3LDYyOTUxMzg3NSwtMjAwMDQ1NDU0MiwzODU2MTExMTEsLTc2
-NTk1OTgxNV19
+eyJoaXN0b3J5IjpbLTc1NDYwNDUwNSwxMjI3OTE1ODEwLDE5OT
+A4NDc2MDUsLTc0MzM1NjQyOCwyMDAxODUwMzM1LC0xMzUzNzg2
+MzIsLTc5MjcyNDI5NSwtMjA2NTQ0NTM5MiwtMzg3ODU3MjI4LC
+0xMzAyNDA1MjY1LDE4MzMwMzUwNzgsLTIxMDcyNTc1NzksMjI4
+MTg1ODM4LDUxMjg3NzQ0NSwxMDUwOTI5NDg1LC0xNTQyMjI4Nz
+Q3LC05OTQ2MzE2MzcsNjI5NTEzODc1LC0yMDAwNDU0NTQyLDM4
+NTYxMTExMV19
 -->
