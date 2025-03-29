@@ -12,7 +12,7 @@ Sverige exporterar mycket trä och papper.
 # Olika skogar
 I skogen växter olika [slags](https://sv.m.wiktionary.org/wiki/slag#Substantivhttps://sv.m.wiktionary.org/wiki/slag#Substantiv) träd.<br>
 `<abbr title="discription">Text</abbr>`
-```php
+```
 # Introduction to tooltip or popups
 
 This is a <abbr title="Definition of word that pops up in a box upon hovering">word.</abbr> I would like to know its definition.
@@ -93,8 +93,8 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0NjExMjgzLDE5NzE4MTk4NTUsLTIyMD
-U1NDQxOCwxMzE1ODU0MzkyLDE5NjczODUyNTMsLTg4MjEzMjYw
-MywxNTY4NzU0MTk4LDE4ODAwNDIyOTEsLTg5MjgyMDU5MywxMj
-QwMzI5MjksMTA1NzY2OTQ0N119
+eyJoaXN0b3J5IjpbLTEyNTEyODIxMjUsMTk3MTgxOTg1NSwtMj
+IwNTU0NDE4LDEzMTU4NTQzOTIsMTk2NzM4NTI1MywtODgyMTMy
+NjAzLDE1Njg3NTQxOTgsMTg4MDA0MjI5MSwtODkyODIwNTkzLD
+EyNDAzMjkyOSwxMDU3NjY5NDQ3XX0=
 -->
