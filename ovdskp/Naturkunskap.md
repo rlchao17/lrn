@@ -21,7 +21,7 @@ Den har korta barr.<br>
 Granens kottar är långa och smala.
 #### en gran, korta barr, en grankotte
 
-Tallen är också ett barrträd.<br>
+[Tallen](https://sv.wikipedia.org/wiki/Tall) är också ett barrträd.<br>
 Tallens barr är längre än granens.<br>
 Kottarna är runda.
 #### en tall, långa barr, en tallkotte
@@ -103,8 +103,8 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU1NjU4MzcsMTgzNTM3MDQ0MywxOT
-cxODE5ODU1LC0yMjA1NTQ0MTgsMTMxNTg1NDM5MiwxOTY3Mzg1
-MjUzLC04ODIxMzI2MDMsMTU2ODc1NDE5OCwxODgwMDQyMjkxLC
-04OTI4MjA1OTMsMTI0MDMyOTI5LDEwNTc2Njk0NDddfQ==
+eyJoaXN0b3J5IjpbMTI3NjIwODc3OCwxODM1MzcwNDQzLDE5Nz
+E4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5NjczODUy
+NTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIyOTEsLT
+g5MjgyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
 -->
