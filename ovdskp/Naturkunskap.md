@@ -20,6 +20,9 @@ Men det växter inga träd upp på fjällen.
 Den har korta barr.<br>
 Granens kottar är långa och smala.
 #### en gran, korta barr, en grankotte
+
+Tallen är också ett barrträd.<br>
+Tallens barr är längre än granens
 # Mat i skogen
 
 # Allemansrätten
@@ -96,8 +99,8 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQ5NDQxMCwxODM1MzcwNDQzLDE5Nz
-E4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5NjczODUy
-NTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAwNDIyOTEsLT
-g5MjgyMDU5MywxMjQwMzI5MjksMTA1NzY2OTQ0N119
+eyJoaXN0b3J5IjpbLTEyOTY2NzQ5OTksMTgzNTM3MDQ0MywxOT
+cxODE5ODU1LC0yMjA1NTQ0MTgsMTMxNTg1NDM5MiwxOTY3Mzg1
+MjUzLC04ODIxMzI2MDMsMTU2ODc1NDE5OCwxODgwMDQyMjkxLC
+04OTI4MjA1OTMsMTI0MDMyOTI5LDEwNTc2Njk0NDddfQ==
 -->
