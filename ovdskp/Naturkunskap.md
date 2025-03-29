@@ -87,6 +87,8 @@ Andra djur föder levande ungar som *diar*. Det betyder att de dricker mjölk fr
 
 # Älgen
 I skogarna i Sverige lever älgar. De äter löv och kvistar.
+
+Älgen är ett däggdjur. Hanen
 # På landet
 
 # Väder och temperatur
@@ -155,11 +157,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MzI3MDU0LC0yODQyMTgzNzksMTE1ND
-YxNTUwOCwtMTE0NDc0NTA5NywxMDkyNjUxMzI5LDE1MzgyNzAz
-NDYsLTIwOTQ0NzEzOTEsMTA0MTk0NTk1NCw5ODY1ODkzMzgsNj
-YxOTI4ODYwLDE1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1Mzcw
-NDQzLDE5NzE4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLD
-E5NjczODUyNTMsLTg4MjEzMjYwMywxNTY4NzU0MTk4LDE4ODAw
-NDIyOTFdfQ==
+eyJoaXN0b3J5IjpbLTIzMTY0MDA5MCwtMjg0MjE4Mzc5LDExNT
+Q2MTU1MDgsLTExNDQ3NDUwOTcsMTA5MjY1MTMyOSwxNTM4Mjcw
+MzQ2LC0yMDk0NDcxMzkxLDEwNDE5NDU5NTQsOTg2NTg5MzM4LD
+Y2MTkyODg2MCwxNTYzMjI0MDc5LDEyNzYyMDg3NzgsMTgzNTM3
+MDQ0MywxOTcxODE5ODU1LC0yMjA1NTQ0MTgsMTMxNTg1NDM5Mi
+wxOTY3Mzg1MjUzLC04ODIxMzI2MDMsMTU2ODc1NDE5OCwxODgw
+MDQyMjkxXX0=
 -->
