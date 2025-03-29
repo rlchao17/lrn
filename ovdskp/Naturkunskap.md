@@ -80,7 +80,7 @@ Det finns många djur i världen. Man brukar dela in dem i olika grupper. Några
 
 Andra djur föder levande ungar som *diar*. Det betyder att de dricker mjölk från mamman. Den gruppen kallas för *däggdjur*.
 > Vilka av de här djuren är däggdjur?
-> en
+> en groda, en höna, en åsna, en björn, en igelkott, en get, en alg, en lejon, en orm, en myra
 # Älgen
 
 # På landet
@@ -151,7 +151,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzA4NDk4MCwxMTU0NjE1NTA4LC0xMT
+eyJoaXN0b3J5IjpbLTg4NDc3NTU1OCwxMTU0NjE1NTA4LC0xMT
 Q0NzQ1MDk3LDEwOTI2NTEzMjksMTUzODI3MDM0NiwtMjA5NDQ3
 MTM5MSwxMDQxOTQ1OTU0LDk4NjU4OTMzOCw2NjE5Mjg4NjAsMT
 U2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4MzUzNzA0NDMsMTk3MTgx
