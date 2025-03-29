@@ -140,17 +140,15 @@ Det finns en lång bro mellan Sverige och Danmark.
 |en gräns  |边界  |
 
 Skriv på rätt plats.
-
- 1. List item
- 2. Sveriges huvudstad: *Stockholm*
- 3. Två stora städer: *Göteborg, Malmö*
- 4. Två stora öar: *Öland, Gotland*
- 5. Två stora sjöar: *Vänern, Vättern*
- 6. Sveriges största älv: *Göta älv*
- 7. Sveriges högsta fjäll: *Kebnekaise*
++ Sveriges huvudstad: *Stockholm*
++ Två stora städer: *Göteborg, Malmö*
++ Två stora öar: *Öland, Gotland*
++ Två stora sjöar: *Vänern, Vättern*
++ Sveriges största älv: *Göta älv*
++ Sveriges högsta fjäll: *Kebnekaise*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzI5NzMyNiwxNTMzODI1NDksMTIyNz
+eyJoaXN0b3J5IjpbMTg3NjkxNjI0MSwxNTMzODI1NDksMTIyNz
 kxNTgxMCwxOTkwODQ3NjA1LC03NDMzNTY0MjgsMjAwMTg1MDMz
 NSwtMTM1Mzc4NjMyLC03OTI3MjQyOTUsLTIwNjU0NDUzOTIsLT
 M4Nzg1NzIyOCwtMTMwMjQwNTI2NSwxODMzMDM1MDc4LC0yMTA3
