@@ -88,7 +88,7 @@ Andra djur föder levande ungar som *diar*. Det betyder att de dricker mjölk fr
 # Älgen
 I skogarna i Sverige lever älgar. De äter löv och kvistar.
 
-Älgen är ett däggdjur. Hanen kallas för älgtjur.
+Älgen är ett däggdjur. Hanen kallas för älgtjur. Honan kallas för älgko.
 # På landet
 
 # Väder och temperatur
@@ -157,11 +157,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjc4NDQ1ODQsLTI4NDIxODM3OSwxMT
-U0NjE1NTA4LC0xMTQ0NzQ1MDk3LDEwOTI2NTEzMjksMTUzODI3
-MDM0NiwtMjA5NDQ3MTM5MSwxMDQxOTQ1OTU0LDk4NjU4OTMzOC
-w2NjE5Mjg4NjAsMTU2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4MzUz
-NzA0NDMsMTk3MTgxOTg1NSwtMjIwNTU0NDE4LDEzMTU4NTQzOT
-IsMTk2NzM4NTI1MywtODgyMTMyNjAzLDE1Njg3NTQxOTgsMTg4
-MDA0MjI5MV19
+eyJoaXN0b3J5IjpbLTkxNTgyNDg4MywtMTUyNzg0NDU4NCwtMj
+g0MjE4Mzc5LDExNTQ2MTU1MDgsLTExNDQ3NDUwOTcsMTA5MjY1
+MTMyOSwxNTM4MjcwMzQ2LC0yMDk0NDcxMzkxLDEwNDE5NDU5NT
+QsOTg2NTg5MzM4LDY2MTkyODg2MCwxNTYzMjI0MDc5LDEyNzYy
+MDg3NzgsMTgzNTM3MDQ0MywxOTcxODE5ODU1LC0yMjA1NTQ0MT
+gsMTMxNTg1NDM5MiwxOTY3Mzg1MjUzLC04ODIxMzI2MDMsMTU2
+ODc1NDE5OF19
 -->
