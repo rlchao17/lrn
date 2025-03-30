@@ -199,7 +199,7 @@ På sommaren ser vi många djur som vi inte ser på vintern. Vi ser till exempel
 ## Vädret på hösten
 På hösten blir vädret kallare. Det regnar och blåser ofta. Dagarna blir kortare och det blir mörkare ute. Solen går upp sent på morgonen och den går ner tidigt på eftermiddagen.
 ## Växterna på hösten
-På hösten slutar blommor och andra växter att växa. Blommorna vissnar. Varför vissnar de? Jo, därför att växter behöver ljus. På hösten 
+På hösten slutar blommor och andra växter att växa. Blommorna vissnar. Varför vissnar de? Jo, därför att växter behöver ljus. På hösten får de inte så mycket ljus eftersom dagarna då är korta. Växterna behöver också värme, men på hösten är det kallt.
 # Vinter
 
 # Vår
@@ -258,7 +258,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDAxMjAyOSwxMTU0NDAwMTg1LC0xMT
+eyJoaXN0b3J5IjpbLTU1MzE0NTc5MiwxMTU0NDAwMTg1LC0xMT
 AyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0MjU1
 OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OC
 wtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2
