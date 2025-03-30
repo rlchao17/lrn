@@ -104,11 +104,13 @@ Det finns älgar i norra Europa, Asien och Nordamerika.
 ```text
 This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
 ```
+
 ```text
 $$
 \frac{n1}{d1} = \frac{n2}{d2}
 $$
 ```
+
 ```text
 This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
 ```
@@ -181,11 +183,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MTExOTg5LDEyMTIwMjk4NjgsLTE0MD
-U3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNTI0NTUwMDQz
-LDE5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4NDIxODM3OSwxMT
-U0NjE1NTA4LC0xMTQ0NzQ1MDk3LDEwOTI2NTEzMjksMTUzODI3
-MDM0NiwtMjA5NDQ3MTM5MSwxMDQxOTQ1OTU0LDk4NjU4OTMzOC
-w2NjE5Mjg4NjAsMTU2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4MzUz
-NzA0NDNdfQ==
+eyJoaXN0b3J5IjpbLTQxNTA5MzE5NSwxMjEyMDI5ODY4LC0xND
+A1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0
+MywxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMT
+E1NDYxNTUwOCwtMTE0NDc0NTA5NywxMDkyNjUxMzI5LDE1Mzgy
+NzAzNDYsLTIwOTQ0NzEzOTEsMTA0MTk0NTk1NCw5ODY1ODkzMz
+gsNjYxOTI4ODYwLDE1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1
+MzcwNDQzXX0=
 -->
