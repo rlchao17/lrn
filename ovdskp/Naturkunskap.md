@@ -98,6 +98,7 @@ Många djur lever tillsammans i grupp, men älgen lever ofta ensam.
 
 Det finns älgar i norra Europa, Asien och Nordamerika.
 #### ett horn, en älgkalv, en älgtjur, en älgko
+> **Skriv**
 # På landet
 
 # Väder och temperatur
@@ -166,11 +167,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0Nzg0MTI2LDUyNDU1MDA0MywxOTA3Mz
-U0Nzc3LC0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMTE1NDYxNTUw
-OCwtMTE0NDc0NTA5NywxMDkyNjUxMzI5LDE1MzgyNzAzNDYsLT
-IwOTQ0NzEzOTEsMTA0MTk0NTk1NCw5ODY1ODkzMzgsNjYxOTI4
-ODYwLDE1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1MzcwNDQzLD
-E5NzE4MTk4NTUsLTIyMDU1NDQxOCwxMzE1ODU0MzkyLDE5Njcz
-ODUyNTNdfQ==
+eyJoaXN0b3J5IjpbLTU1MDc5NjMyOSwzNTQ3ODQxMjYsNTI0NT
+UwMDQzLDE5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4NDIxODM3
+OSwxMTU0NjE1NTA4LC0xMTQ0NzQ1MDk3LDEwOTI2NTEzMjksMT
+UzODI3MDM0NiwtMjA5NDQ3MTM5MSwxMDQxOTQ1OTU0LDk4NjU4
+OTMzOCw2NjE5Mjg4NjAsMTU2MzIyNDA3OSwxMjc2MjA4Nzc4LD
+E4MzUzNzA0NDMsMTk3MTgxOTg1NSwtMjIwNTU0NDE4LDEzMTU4
+NTQzOTJdfQ==
 -->
