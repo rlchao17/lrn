@@ -222,7 +222,8 @@ I Svealand ligger det snö på marken cirka 100 dagar varje år, men i Götaland
 ## Djuren på vintern
 Några djur sover hela vintern, till exempel igelkottar, björnar och ormar.
 
-Djur som inte sover hela vintern gömmer sig ibland under snön. Det gör till exempel möss. De kommer upp ibland. 
+Djur som inte sover hela vintern gömmer sig ibland under snön. Det gör till exempel möss. De kommer upp ibland. Då kan man se *spår* i snön.
+## en mus, spår i snön
 
 # Vår
 > Vilka månader är det vår dår du bor?
@@ -280,11 +281,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTg2MDA0MywxNDIyNzgwMjQxLDExNT
-Q0MDAxODUsLTExMDI4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjEx
-MjgyLC01OTQyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC
-0xMzY1NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0
-NTM5OTIyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4OD
-QsMTIxMjAyOTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1
-NDc4NDEyNl19
+eyJoaXN0b3J5IjpbLTE2MDM0OTExMzAsMTQyMjc4MDI0MSwxMT
+U0NDAwMTg1LC0xMTAyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIx
+MTI4MiwtNTk0MjU1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMi
+wtMTM2NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4
+NDUzOTkyMiwxODM2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3OD
+g0LDEyMTIwMjk4NjgsLTE0MDU3MjUzMjEsLTEyMzc4NTAzMSwz
+NTQ3ODQxMjZdfQ==
 -->
