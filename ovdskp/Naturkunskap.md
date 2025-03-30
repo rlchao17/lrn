@@ -99,10 +99,8 @@ Många djur lever tillsammans i grupp, men älgen lever ofta ensam.
 Det finns älgar i norra Europa, Asien och Nordamerika.
 #### ett horn, en älgkalv, en älgtjur, en älgko
 > **Skriv på rätt plats**
-> 2 $$
-> \frac{1}{2}
-> $$meter, 
-> $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+> 2 $$\frac{1}{2}$$meter, 
+> 
 
 # På landet
 
@@ -172,7 +170,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MDYwOTU3LDEyMTIwMjk4NjgsLTE0MD
+eyJoaXN0b3J5IjpbNzgzMjk4NzUwLDEyMTIwMjk4NjgsLTE0MD
 U3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNTI0NTUwMDQz
 LDE5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4NDIxODM3OSwxMT
 U0NjE1NTA4LC0xMTQ0NzQ1MDk3LDEwOTI2NTEzMjksMTUzODI3
