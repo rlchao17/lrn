@@ -224,7 +224,7 @@ Några djur sover hela vintern, till exempel igelkottar, björnar och ormar.
 
 Djur som inte sover hela vintern gömmer sig ibland under snön. Det gör till exempel möss. De kommer upp ibland. Då kan man se *spår* i snön.
 ## en mus, spår i snön
-
+> Haren får vit och tjock päls på vintern.
 # Vår
 > Vilka månader är det vår dår du bor?
 ## Vädret på våren
@@ -281,7 +281,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM0OTExMzAsMTQyMjc4MDI0MSwxMT
+eyJoaXN0b3J5IjpbLTE1OTMzNjc4NjksMTQyMjc4MDI0MSwxMT
 U0NDAwMTg1LC0xMTAyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIx
 MTI4MiwtNTk0MjU1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMi
 wtMTM2NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4
