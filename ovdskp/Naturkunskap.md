@@ -190,7 +190,9 @@ Ibland skiner solen. Ibland regnar det och ibland regnar och åskar det.
 ## Växterna på sommaren
 På sommaren är dagarna långa och nätterna korta. Därför växer allt i naturen fort.
 
-I Norrland är det ljust nästan hela
+I Norrland är det ljust nästan hela natten.
+## Djuren på sommaren
+På 
 # Höst
 
 # Vinter
@@ -251,11 +253,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTY0ODcyNiwtMjIxOTIxNzIwLDEyND
-cyMTEyODIsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5
-MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LD
-EzODQ1Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcx
-Nzg4NCwxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMz
-EsMzU0Nzg0MTI2LDUyNDU1MDA0MywxOTA3MzU0Nzc3LC0xNTI3
-ODQ0NTg0XX0=
+eyJoaXN0b3J5IjpbLTExMDI4NDMyMzgsLTIyMTkyMTcyMCwxMj
+Q3MjExMjgyLC01OTQyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1
+OTEyLC0xMzY1NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OS
+wxMzg0NTM5OTIyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3
+MTc4ODQsMTIxMjAyOTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MD
+MxLDM1NDc4NDEyNiw1MjQ1NTAwNDMsMTkwNzM1NDc3NywtMTUy
+Nzg0NDU4NF19
 -->
