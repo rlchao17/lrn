@@ -140,7 +140,10 @@ Förut fanns det många bönder i Sverige. Då hade de inga maskiner till hjälp
 
 Nu finns det inga så många bönder, men bönderna har hjälp av många maskiner.
 
-Förut hade bönderna ofta bara några kor.
+Förut hade bönderna ofta bara några kor. I dag kan en bonde ha fler än 100 kor.
+#### Hon mjölkar för hand.
+#### en mjölkmaskin
+
 # Väder och temperatur
 
 # Årstider
@@ -207,11 +210,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ0NDk5MDksLTYxNjQwNTYyOCwtNT
-M4OTY1OTEyLC0xMzY1NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEz
-MzQ1OSwxMzg0NTM5OTIyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLD
-ExODQ3MTc4ODQsMTIxMjAyOTg2OCwtMTQwNTcyNTMyMSwtMTIz
-Nzg1MDMxLDM1NDc4NDEyNiw1MjQ1NTAwNDMsMTkwNzM1NDc3Ny
-wtMTUyNzg0NDU4NCwtMjg0MjE4Mzc5LDExNTQ2MTU1MDgsLTEx
-NDQ3NDUwOTddfQ==
+eyJoaXN0b3J5IjpbMjA4NDk3NDMzMSwtNjE2NDA1NjI4LC01Mz
+g5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMz
+NDU5LDEzODQ1Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMT
+E4NDcxNzg4NCwxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3
+ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0MywxOTA3MzU0Nzc3LC
+0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMTE1NDYxNTUwOCwtMTE0
+NDc0NTA5N119
 -->
