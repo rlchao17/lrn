@@ -182,7 +182,8 @@ Vi har fyra årstider i Sverige: sommar, höst, vinter och vår. Men årstiderna
 I många varma länder har man inte fyra årstider. I några länder har man bara två årstider: regnperiod och torrperiod.
 > **Skriv på rätt plats:** höst, vinter, vär, sommar
 # Sommar
-
+> Vilka månader är det sommar där du bor?
+## Vädret på 
 # Höst
 
 # Vinter
@@ -243,11 +244,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC01OT
-QyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1Njcx
-Mjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLD
-E4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAy
-OTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNi
-w1MjQ1NTAwNDMsMTkwNzM1NDc3NywtMTUyNzg0NDU4NCwtMjg0
-MjE4Mzc5XX0=
+eyJoaXN0b3J5IjpbLTE3MDYzNjY3NTQsLTIyMTkyMTcyMCwxMj
+Q3MjExMjgyLC01OTQyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1
+OTEyLC0xMzY1NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OS
+wxMzg0NTM5OTIyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3
+MTc4ODQsMTIxMjAyOTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MD
+MxLDM1NDc4NDEyNiw1MjQ1NTAwNDMsMTkwNzM1NDc3NywtMTUy
+Nzg0NDU4NF19
 -->
