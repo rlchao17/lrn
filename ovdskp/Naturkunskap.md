@@ -204,7 +204,8 @@ På hösten slutar blommor och andra växter att växa. Blommorna vissnar. Varf�
 De flesta lövträd tappar löven på hösten. Barrträdren tappar inte sina bar på hösten.
 
 På hösten plockar man äpplen och andra frukter. Man tar upp potatis och skördar grönsaker.
-## Djuren 
+## Djuren på hösten
+
 # Vinter
 
 # Vår
@@ -263,11 +264,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyMjU1NzU3LDExNTQ0MDAxODUsLTExMD
-I4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC01OTQyNTU5
-MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1NjcxMjc4LC
-0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLDE4MzY1
-MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAyOTg2OC
-wtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNiw1MjQ1
-NTAwNDNdfQ==
+eyJoaXN0b3J5IjpbLTE0NjUzMDUzMjgsMTE1NDQwMDE4NSwtMT
+EwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1
+NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNz
+gsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgz
+NjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5OD
+Y4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUy
+NDU1MDA0M119
 -->
