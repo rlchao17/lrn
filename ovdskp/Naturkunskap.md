@@ -197,7 +197,9 @@ På sommaren ser vi många djur som vi inte ser på vintern. Vi ser till exempel
 # Höst
 > Vilka månader är det höst där du bor?
 ## Vädret på hösten
-På hösten blir vädret kallare. Det regnar och blåser ofta. Dagarna blir kortare och det blir mörkare ute. Solen går upp sent på morgonen och den 
+På hösten blir vädret kallare. Det regnar och blåser ofta. Dagarna blir kortare och det blir mörkare ute. Solen går upp sent på morgonen och den går ner tidigt på eftermiddagen.
+## Växterna på hösten
+
 # Vinter
 
 # Vår
@@ -256,11 +258,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQyODQ5NTMsMTE1NDQwMDE4NSwtMT
-EwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1
-NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNz
-gsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgz
-NjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5OD
-Y4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUy
-NDU1MDA0M119
+eyJoaXN0b3J5IjpbNTg2NTc1NDAsMTE1NDQwMDE4NSwtMTEwMj
+g0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1NTkx
+OCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLT
+E3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgzNjUw
+OTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5ODY4LC
+0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyNDU1
+MDA0M119
 -->
