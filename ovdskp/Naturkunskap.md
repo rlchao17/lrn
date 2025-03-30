@@ -210,6 +210,7 @@ Många fåglar flyttar från Sverige på hösten. De kallas för flyttfåglar. F
 Många djur samlar och gömmer mat på hösten. På vintern hämtar de sin mat. Varför? Jo, på vintern är det snö och svårt att hitta mat. Ekorren är ett djur som gömmer sin mat på hösten.
 #### en ekorre
 Några djur äter mycket på hösten. Varför? Jo, de ska sova hela vintern. Då äter de ingenting, men det är inga problem för de har allt de behöver i kroppen. Björnar sover hela vintern.
+#### en björn
 # Vinter
 
 # Vår
@@ -268,11 +269,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDkxMzkzMSwxNDIyNzgwMjQxLDExNT
-Q0MDAxODUsLTExMDI4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjEx
-MjgyLC01OTQyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC
-0xMzY1NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0
-NTM5OTIyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4OD
-QsMTIxMjAyOTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1
-NDc4NDEyNl19
+eyJoaXN0b3J5IjpbMjA3NzcyMzU4LDE0MjI3ODAyNDEsMTE1ND
+QwMDE4NSwtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEy
+ODIsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLT
+EzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1
+Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NC
+wxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0
+Nzg0MTI2XX0=
 -->
