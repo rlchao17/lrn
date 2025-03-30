@@ -163,7 +163,8 @@ I Norrland har vintern lång och kall, med mycket snö. I Svealand och Götaland
 ## Är det kallt eller varmt?
 En termometer visar temperaturen. Den visar hur varmt eller kallt det är.
 
-När termometer visa över noll grader är det plusgrader.
+När termometern visa över noll grader är det plusgrader. När temometern visar under noll grader är det minusgrader. Det är ofta minusgrader på vintern.
+
 # Årstider
 
 # Sommar
@@ -228,11 +229,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjQwMDM5NCwtNTk0MjU1OTE4LC02MT
-Y0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0
-NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2NTA5MTYzLD
-YyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIwMjk4NjgsLTE0MDU3
-MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNTI0NTUwMDQzLD
-E5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4NDIxODM3OSwxMTU0
-NjE1NTA4XX0=
+eyJoaXN0b3J5IjpbLTE5NDg2MTcwOTYsLTU5NDI1NTkxOCwtNj
+E2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAy
+NDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgzNjUwOTE2My
+w2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5ODY4LC0xNDA1
+NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0My
+wxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMTE1
+NDYxNTUwOF19
 -->
