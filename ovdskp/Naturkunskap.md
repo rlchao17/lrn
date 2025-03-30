@@ -102,9 +102,8 @@ Det finns älgar i norra Europa, Asien och Nordamerika.
 > 2 $$
 > \frac{1}{2}
 > $$meter, 
-> ```text
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-```
+> $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
 # På landet
 
 # Väder och temperatur
@@ -173,11 +172,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjAyOTg2OCwtMTQwNTcyNTMyMSwtMT
-IzNzg1MDMxLDM1NDc4NDEyNiw1MjQ1NTAwNDMsMTkwNzM1NDc3
-NywtMTUyNzg0NDU4NCwtMjg0MjE4Mzc5LDExNTQ2MTU1MDgsLT
-ExNDQ3NDUwOTcsMTA5MjY1MTMyOSwxNTM4MjcwMzQ2LC0yMDk0
-NDcxMzkxLDEwNDE5NDU5NTQsOTg2NTg5MzM4LDY2MTkyODg2MC
-wxNTYzMjI0MDc5LDEyNzYyMDg3NzgsMTgzNTM3MDQ0MywxOTcx
-ODE5ODU1XX0=
+eyJoaXN0b3J5IjpbNTQ5MDYwOTU3LDEyMTIwMjk4NjgsLTE0MD
+U3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNTI0NTUwMDQz
+LDE5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4NDIxODM3OSwxMT
+U0NjE1NTA4LC0xMTQ0NzQ1MDk3LDEwOTI2NTEzMjksMTUzODI3
+MDM0NiwtMjA5NDQ3MTM5MSwxMDQxOTQ1OTU0LDk4NjU4OTMzOC
+w2NjE5Mjg4NjAsMTU2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4MzUz
+NzA0NDNdfQ==
 -->
