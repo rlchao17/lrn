@@ -195,6 +195,8 @@ I Norrland är det ljust nästan hela natten.
 På sommaren ser vi många djur som vi inte ser på vintern. Vi ser till exempel igelkottar, maskar, flugor och myggor.
 #### en igelkott, en mask, en fluga, en mygga
 # Höst
+> Vilka månader är det höst där du bor?
+## Vädret på hösten
 
 # Vinter
 
@@ -254,11 +256,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDQwMDE4NSwtMTEwMjg0MzIzOCwtMj
-IxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1NTkxOCwtNjE2NDA1
-NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NT
-ksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgzNjUwOTE2Myw2MjU3
-NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5ODY4LC0xNDA1NzI1Mz
-IxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0MywxOTA3
-MzU0Nzc3XX0=
+eyJoaXN0b3J5IjpbMTQyOTY0MjQ3MSwxMTU0NDAwMTg1LC0xMT
+AyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0MjU1
+OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OC
+wtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2
+NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIwMjk4Nj
+gsLTE0MDU3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNTI0
+NTUwMDQzXX0=
 -->
