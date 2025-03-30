@@ -133,6 +133,7 @@ Man odlar också [raps](https://sv.wikipedia.org/wiki/Raps). Av raps kan man gö
 #### Rapsen har gula blommor.
 > I andra länder odlar man andra saker, till exempel ris och bomull.<br>
 > Vad odlar man i ditt hemland?
+## På bondgården
 
 # Väder och temperatur
 
@@ -200,11 +201,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMT
-c0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2NTA5
-MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIwMjk4NjgsLT
-E0MDU3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNTI0NTUw
-MDQzLDE5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4NDIxODM3OS
-wxMTU0NjE1NTA4LC0xMTQ0NzQ1MDk3LDEwOTI2NTEzMjksMTUz
-ODI3MDM0Nl19
+eyJoaXN0b3J5IjpbNTU4MTc5NTM1LC01Mzg5NjU5MTIsLTEzNj
+U2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5
+MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMj
+EyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0
+MTI2LDUyNDU1MDA0MywxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC
+0yODQyMTgzNzksMTE1NDYxNTUwOCwtMTE0NDc0NTA5NywxMDky
+NjUxMzI5XX0=
 -->
