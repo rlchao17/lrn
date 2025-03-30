@@ -103,7 +103,9 @@ Det finns älgar i norra Europa, Asien och Nordamerika.
 > 1. Djur: älg
 > 2. Vilka färger har den? grå och brun
 > 3. Hur mycket väger den? ungefär 500 kg
-> 4. Hur lånng
+> 4. Hur lång är den? $`2\frac{1}{2}`$meter
+> 5. Hur hög är den? 2 meter
+> 6. Vad äter den
 
 
 
@@ -176,11 +178,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMTcyOTUwLDEyMTIwMjk4NjgsLTE0MD
-U3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNTI0NTUwMDQz
-LDE5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4NDIxODM3OSwxMT
-U0NjE1NTA4LC0xMTQ0NzQ1MDk3LDEwOTI2NTEzMjksMTUzODI3
-MDM0NiwtMjA5NDQ3MTM5MSwxMDQxOTQ1OTU0LDk4NjU4OTMzOC
-w2NjE5Mjg4NjAsMTU2MzIyNDA3OSwxMjc2MjA4Nzc4LDE4MzUz
-NzA0NDNdfQ==
+eyJoaXN0b3J5IjpbLTM2NzQxNTE0MywxMjEyMDI5ODY4LC0xND
+A1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0
+MywxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMT
+E1NDYxNTUwOCwtMTE0NDc0NTA5NywxMDkyNjUxMzI5LDE1Mzgy
+NzAzNDYsLTIwOTQ0NzEzOTEsMTA0MTk0NTk1NCw5ODY1ODkzMz
+gsNjYxOTI4ODYwLDE1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1
+MzcwNDQzXX0=
 -->
