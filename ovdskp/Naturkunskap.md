@@ -243,9 +243,9 @@ Lövträden får nya löv på våren.<br>
 Man planterar växter och sår frön.
 > Brukar du plantera och så på våren?
 ## Djuren på våren
-
 På våren vaknar alla djur som har sovit under vintern.<br>
 De är hungriga och letar efter mat.
+> en svan med sina ungar
 
 De flesta djur letar också efter någonstans att bo eftersom deras ungar föds på våren eller sommaren.
 
@@ -284,7 +284,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTY2MDMyMCwzNTQwMDYzNDIsMTQyMj
+eyJoaXN0b3J5IjpbMTA2MzM1MTI1OSwzNTQwMDYzNDIsMTQyMj
 c4MDI0MSwxMTU0NDAwMTg1LC0xMTAyODQzMjM4LC0yMjE5MjE3
 MjAsMTI0NzIxMTI4MiwtNTk0MjU1OTE4LC02MTY0MDU2MjgsLT
 UzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUx
