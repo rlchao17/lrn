@@ -160,7 +160,10 @@ Förut hade bönderna ofta bara några kor. I dag kan en bonde ha fler än 100 k
 Sverige är ett avlångt land. Därför har inte hela landet samma väder och temperatur.
 
 I Norrland har vintern lång och kall, med mycket snö. I Svealand och Götaland är vädret warmare.
-## 
+## Är det kallt eller varmt?
+En termometer visar temperaturen. Den visar hur varmt eller kallt det är.
+
+
 # Årstider
 
 # Sommar
@@ -225,11 +228,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyNDA0MDgwLC01OTQyNTU5MTgsLTYxNj
-QwNTYyOCwtNTM4OTY1OTEyLC0xMzY1NjcxMjc4LC0xNzQwMjQ0
-NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLDE4MzY1MDkxNjMsNj
-I1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAyOTg2OCwtMTQwNTcy
-NTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNiw1MjQ1NTAwNDMsMT
-kwNzM1NDc3NywtMTUyNzg0NDU4NCwtMjg0MjE4Mzc5LDExNTQ2
-MTU1MDhdfQ==
+eyJoaXN0b3J5IjpbLTM2NDcxNDIwMCwtNTk0MjU1OTE4LC02MT
+Y0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0
+NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2NTA5MTYzLD
+YyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIwMjk4NjgsLTE0MDU3
+MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNTI0NTUwMDQzLD
+E5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4NDIxODM3OSwxMTU0
+NjE1NTA4XX0=
 -->
