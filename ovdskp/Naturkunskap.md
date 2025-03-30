@@ -188,7 +188,9 @@ På sommaren är det varmt.
 
 Ibland skiner solen. Ibland regnar det och ibland regnar och åskar det.
 ## Växterna på sommaren
+På sommaren är dagarna långa och nätterna korta. Därför växer allt i naturen fort.
 
+I Norrland är det ljust nästan hela
 # Höst
 
 # Vinter
@@ -249,7 +251,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODQ0OTg1OCwtMjIxOTIxNzIwLDEyND
+eyJoaXN0b3J5IjpbLTIyOTY0ODcyNiwtMjIxOTIxNzIwLDEyND
 cyMTEyODIsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5
 MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LD
 EzODQ1Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcx
