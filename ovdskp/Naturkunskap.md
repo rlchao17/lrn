@@ -179,7 +179,8 @@ Siffrorna på väderkartan visar vilken temperatur det är ute. Pilarna visar å
 # Årstider
 Vi har fyra årstider i Sverige: sommar, höst, vinter och vår. Men årstiderna är inte like långa i hela Sverige. När det fortfarande är vinter i norra Sverige är det redan vår i södra Sverige.
 
-I många varma länder har man inte fyra årstider. I några länder har man bara två årstider: regnperiod och torrpe
+I många varma länder har man inte fyra årstider. I några länder har man bara två årstider: regnperiod och torrperiod.
+> **Skriv på rätt plats:** höst, vinter, vär, sommar
 # Sommar
 
 # Höst
@@ -242,11 +243,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM2MDI4NTAsMTI0NzIxMTI4MiwtNT
-k0MjU1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3
-MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMi
-wxODM2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIw
-Mjk4NjgsLTE0MDU3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMj
-YsNTI0NTUwMDQzLDE5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4
-NDIxODM3OV19
+eyJoaXN0b3J5IjpbLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC01OT
+QyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1Njcx
+Mjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLD
+E4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAy
+OTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNi
+w1MjQ1NTAwNDMsMTkwNzM1NDc3NywtMTUyNzg0NDU4NCwtMjg0
+MjE4Mzc5XX0=
 -->
