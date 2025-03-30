@@ -227,6 +227,7 @@ Djur som inte sover hela vintern gömmer sig ibland under snön. Det gör till e
 > Haren får vit och tjock päls på vintern. Varför tror du att det är så?
 >
 > Vad äter älgar och andra djur som inte sover hela vintern? Vad tror du?
+#### en hare
 
 # Vår
 > Vilka månader är det vår dår du bor?
@@ -284,7 +285,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyMzQ5Mjc1LDE0MjI3ODAyNDEsMTE1ND
+eyJoaXN0b3J5IjpbMzU0MDA2MzQyLDE0MjI3ODAyNDEsMTE1ND
 QwMDE4NSwtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEy
 ODIsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLT
 EzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1
