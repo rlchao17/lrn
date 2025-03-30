@@ -147,8 +147,8 @@ Förut hade bönderna ofta bara några kor. I dag kan en bonde ha fler än 100 k
 |--|--|
 | på landet | 在乡村 |
 | en bondgård | 农场 |
-| en åker |  |
-| odlar |  |
+| en åker | 地，耕地 |
+| odlar | 种植 |
 | säd |  |
 | vete |  |
 | råg |  |
@@ -222,11 +222,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTYxMjg4MzksLTYxNjQwNTYyOCwtNT
-M4OTY1OTEyLC0xMzY1NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEz
-MzQ1OSwxMzg0NTM5OTIyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLD
-ExODQ3MTc4ODQsMTIxMjAyOTg2OCwtMTQwNTcyNTMyMSwtMTIz
-Nzg1MDMxLDM1NDc4NDEyNiw1MjQ1NTAwNDMsMTkwNzM1NDc3Ny
-wtMTUyNzg0NDU4NCwtMjg0MjE4Mzc5LDExNTQ2MTU1MDgsLTEx
-NDQ3NDUwOTddfQ==
+eyJoaXN0b3J5IjpbMjY3MzA4ODQ4LC02MTY0MDU2MjgsLTUzOD
+k2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0
+NTksMTM4NDUzOTkyMiwxODM2NTA5MTYzLDYyNTc0Mzk4MywxMT
+g0NzE3ODg0LDEyMTIwMjk4NjgsLTE0MDU3MjUzMjEsLTEyMzc4
+NTAzMSwzNTQ3ODQxMjYsNTI0NTUwMDQzLDE5MDczNTQ3NzcsLT
+E1Mjc4NDQ1ODQsLTI4NDIxODM3OSwxMTU0NjE1NTA4LC0xMTQ0
+NzQ1MDk3XX0=
 -->
