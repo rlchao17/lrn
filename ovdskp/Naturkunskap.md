@@ -238,7 +238,7 @@ När solen skiner smälter snön.
 Våren börjar inte samtidigt i hela Sverige. I april finns det vårblommor i Svealand och Götaland, men i Norrland är det fortfarande snö på marken.
 ## Växterna på våren
 #### en vitsippa<br>en blåsippa
-På våren blir det grönt ut i naturen och vårblommorna kommer. Alla blommor finns inte i hela Sverige. I Svealand och Götaland finns det blåsippor och vitsippor. I norra Norrland växer det inga vitsippor och blåsippor.
+På våren blir det grönt ute i naturen och vårblommorna kommer. Alla blommor finns inte i hela Sverige. I Svealand och Götaland finns det blåsippor och vitsippor. I norra Norrland växer det inga vitsippor och blåsippor.
 
 Lövträden får nya löv på våren.<br>
 Man planterar växter och sår frön.
@@ -285,11 +285,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0MDA2MzQyLDE0MjI3ODAyNDEsMTE1ND
-QwMDE4NSwtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEy
-ODIsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLT
-EzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1
-Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NC
-wxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0
-Nzg0MTI2XX0=
+eyJoaXN0b3J5IjpbLTE5MjUzNDI4NjksMzU0MDA2MzQyLDE0Mj
+I3ODAyNDEsMTE1NDQwMDE4NSwtMTEwMjg0MzIzOCwtMjIxOTIx
+NzIwLDEyNDcyMTEyODIsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC
+01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1
+MTMzNDU5LDEzODQ1Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5OD
+MsMTE4NDcxNzg4NCwxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0x
+MjM3ODUwMzFdfQ==
 -->
