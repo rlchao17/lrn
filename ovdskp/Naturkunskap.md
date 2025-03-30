@@ -175,7 +175,7 @@ Siffrorna på väderkartan visar vilken temperatur det är ute. Pilarna visar å
 > Var blåser det? Var regnar det? Var skiner solen? Var åskar det?
 >
 > Vad ska du ha för kläder på dig i dag om du bor i Norrland? I Svealand? I Götaland?
-#### 
+#### blåsigt, mulet och snö, mulet och regn, mulet och regn med åska, mulet, soligt
 # Årstider
 
 # Sommar
@@ -240,11 +240,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc4MTU2MDgsMTI0NzIxMTI4MiwtNT
-k0MjU1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3
-MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMi
-wxODM2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIw
-Mjk4NjgsLTE0MDU3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMj
-YsNTI0NTUwMDQzLDE5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4
-NDIxODM3OV19
+eyJoaXN0b3J5IjpbLTY3MDU1ODg3MSwxMjQ3MjExMjgyLC01OT
+QyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1Njcx
+Mjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLD
+E4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAy
+OTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNi
+w1MjQ1NTAwNDMsMTkwNzM1NDc3NywtMTUyNzg0NDU4NCwtMjg0
+MjE4Mzc5XX0=
 -->
