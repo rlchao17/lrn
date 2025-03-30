@@ -127,6 +127,8 @@ På landet finns det bondgårdar, åkrar och skogar.
 En åker är mark som man odlar på.<br>
 Man odlar mat till både människor och djur. Vete, råg, korn och havre är säd som man odlar i Sverige. Av säden kan man göra mjöl att baka bröd av.
 #### Moderna maskiner på åker.
+#### vete, råg, korn, havre
+
 # Väder och temperatur
 
 # Årstider
@@ -193,11 +195,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODQxODA3MSwxMzg0NTM5OTIyLDE4Mz
-Y1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAyOTg2
-OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNiw1Mj
-Q1NTAwNDMsMTkwNzM1NDc3NywtMTUyNzg0NDU4NCwtMjg0MjE4
-Mzc5LDExNTQ2MTU1MDgsLTExNDQ3NDUwOTcsMTA5MjY1MTMyOS
-wxNTM4MjcwMzQ2LC0yMDk0NDcxMzkxLDEwNDE5NDU5NTQsOTg2
-NTg5MzM4XX0=
+eyJoaXN0b3J5IjpbNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgzNj
+UwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5ODY4
+LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyND
+U1MDA0MywxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC0yODQyMTgz
+NzksMTE1NDYxNTUwOCwtMTE0NDc0NTA5NywxMDkyNjUxMzI5LD
+E1MzgyNzAzNDYsLTIwOTQ0NzEzOTEsMTA0MTk0NTk1NCw5ODY1
+ODkzMzhdfQ==
 -->
