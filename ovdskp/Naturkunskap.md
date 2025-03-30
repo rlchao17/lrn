@@ -116,7 +116,7 @@ Det finns älgar i norra Europa, Asien och Nordamerika.
 |en unge  |幼崽  |
 |föder  |生育  |
 |hög  |高  |
-|väger  |  |
+|väger  |重  |
 |tappar  |  |
 
 # På landet
@@ -187,11 +187,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDcxNzg4NCwxMjEyMDI5ODY4LC0xND
-A1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0
-MywxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMT
-E1NDYxNTUwOCwtMTE0NDc0NTA5NywxMDkyNjUxMzI5LDE1Mzgy
-NzAzNDYsLTIwOTQ0NzEzOTEsMTA0MTk0NTk1NCw5ODY1ODkzMz
-gsNjYxOTI4ODYwLDE1NjMyMjQwNzksMTI3NjIwODc3OCwxODM1
-MzcwNDQzXX0=
+eyJoaXN0b3J5IjpbNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMj
+AyOTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEy
+Niw1MjQ1NTAwNDMsMTkwNzM1NDc3NywtMTUyNzg0NDU4NCwtMj
+g0MjE4Mzc5LDExNTQ2MTU1MDgsLTExNDQ3NDUwOTcsMTA5MjY1
+MTMyOSwxNTM4MjcwMzQ2LC0yMDk0NDcxMzkxLDEwNDE5NDU5NT
+QsOTg2NTg5MzM4LDY2MTkyODg2MCwxNTYzMjI0MDc5LDEyNzYy
+MDg3NzhdfQ==
 -->
