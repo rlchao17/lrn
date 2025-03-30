@@ -124,7 +124,8 @@ De flesta människor i Sverige bor i städer eller tätorter. Men en del männis
 
 På landet finns det bondgårdar, åkrar och skogar.
 ## På åkern
-En åker är mark som man odlar på.
+En åker är mark som man odlar på.<br>
+Man odlar mat till både människor och djur. Vete, råg, korn och havre är säd som man odlar i Sverige. Av s
 # Väder och temperatur
 
 # Årstider
@@ -191,11 +192,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxODYxMDM3LDEzODQ1Mzk5MjIsMTgzNj
-UwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5ODY4
-LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyND
-U1MDA0MywxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC0yODQyMTgz
-NzksMTE1NDYxNTUwOCwtMTE0NDc0NTA5NywxMDkyNjUxMzI5LD
-E1MzgyNzAzNDYsLTIwOTQ0NzEzOTEsMTA0MTk0NTk1NCw5ODY1
-ODkzMzhdfQ==
+eyJoaXN0b3J5IjpbLTE5ODAyNjY2NzIsMTM4NDUzOTkyMiwxOD
+M2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIwMjk4
+NjgsLTE0MDU3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNT
+I0NTUwMDQzLDE5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4NDIx
+ODM3OSwxMTU0NjE1NTA4LC0xMTQ0NzQ1MDk3LDEwOTI2NTEzMj
+ksMTUzODI3MDM0NiwtMjA5NDQ3MTM5MSwxMDQxOTQ1OTU0LDk4
+NjU4OTMzOF19
 -->
