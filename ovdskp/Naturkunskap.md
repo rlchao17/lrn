@@ -212,6 +212,8 @@ Många djur samlar och gömmer mat på hösten. På vintern hämtar de sin mat. 
 Några djur äter mycket på hösten. Varför? Jo, de ska sova hela vintern. Då äter de ingenting, men det är inga problem för de har allt de behöver i kroppen. Björnar sover hela vintern.
 #### en björn
 # Vinter
+> Vilka månader är det vinter där du bor?
+## Vädret på vintern
 
 # Vår
 > Vilka månader är det vår dår du bor?
@@ -269,11 +271,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzcyMzU4LDE0MjI3ODAyNDEsMTE1ND
-QwMDE4NSwtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEy
-ODIsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLT
-EzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1
-Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NC
-wxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0
-Nzg0MTI2XX0=
+eyJoaXN0b3J5IjpbLTE4OTQ5MTE1MDMsMTQyMjc4MDI0MSwxMT
+U0NDAwMTg1LC0xMTAyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIx
+MTI4MiwtNTk0MjU1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMi
+wtMTM2NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4
+NDUzOTkyMiwxODM2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3OD
+g0LDEyMTIwMjk4NjgsLTE0MDU3MjUzMjEsLTEyMzc4NTAzMSwz
+NTQ3ODQxMjZdfQ==
 -->
