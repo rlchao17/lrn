@@ -262,8 +262,6 @@ I gamla batterier och glödlampor finns gifter. Därför får vi inte lägga dem
 Vi måste spara på det som kommer från naturen. Det är därför vi sorterar våra sopor. Mycket av det som vi kastar kan man använda en gång till. Det kallas att återvinna. Gamla tidningar kan bli nytt papper. Glas, plast och metall kan man smälta ner och göra nya saker av.
 #### Man återvinner i andra länder också.
 ## Gamla mediciner
-> Utg. dat 10-2019
-
 Anna städar skåpet i badrummet. Hon har många brukar med mediciner. Hon tittar på utgångsdatumen.<br>
 Några mediciner är gamla. Hon vill kasta dem i soporna.<br>
 Nej, *stopp* Anna! Ropar hennes syster. Kasta inte medicinerna!
@@ -271,6 +269,8 @@ Nej, *stopp* Anna! Ropar hennes syster. Kasta inte medicinerna!
 Varför inte? De är gamla, säger Anna. Vad ska jag göra då?
 
 Lämna dem till apoteket, svarar hennes syster.
+> Utg. dat 10-2019
+
 ## Vi behöver ren luft
 > Röken förorenar luften.
 
@@ -282,7 +282,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTAxNjA1NSwtMTAzMjA2MDExOSwzNT
+eyJoaXN0b3J5IjpbLTU3MjgxNDQ0MSwtMTAzMjA2MDExOSwzNT
 QwMDYzNDIsMTQyMjc4MDI0MSwxMTU0NDAwMTg1LC0xMTAyODQz
 MjM4LC0yMjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0MjU1OTE4LC
 02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0
