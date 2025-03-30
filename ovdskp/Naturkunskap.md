@@ -205,7 +205,9 @@ De flesta lövträd tappar löven på hösten. Barrträdren tappar inte sina bar
 
 På hösten plockar man äpplen och andra frukter. Man tar upp potatis och skördar grönsaker.
 ## Djuren på hösten
-Många fåglar flyttar från Sverige på hösten. De kallas för flytt
+Många fåglar flyttar från Sverige på hösten. De kallas för flyttfåglar. Flyttfåglarna flyttar för att det är kallt här och för att de inte hittar mat. De flyttar till varma länder. Där stannar de några månader.
+
+
 # Vinter
 
 # Vår
@@ -264,11 +266,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1Nzk2NjIwLDExNTQ0MDAxODUsLTExMD
-I4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC01OTQyNTU5
-MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1NjcxMjc4LC
-0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLDE4MzY1
-MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAyOTg2OC
-wtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNiw1MjQ1
-NTAwNDNdfQ==
+eyJoaXN0b3J5IjpbLTE0Nzg1OTA2NTMsMTE1NDQwMDE4NSwtMT
+EwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1
+NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNz
+gsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgz
+NjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5OD
+Y4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUy
+NDU1MDA0M119
 -->
