@@ -207,7 +207,9 @@ På hösten plockar man äpplen och andra frukter. Man tar upp potatis och skör
 ## Djuren på hösten
 Många fåglar flyttar från Sverige på hösten. De kallas för flyttfåglar. Flyttfåglarna flyttar för att det är kallt här och för att de inte hittar mat. De flyttar till varma länder. Där stannar de några månader.
 
-Många djur samlar och gömmer mat på hösten. På vintern hämtar de sin mat.
+Många djur samlar och gömmer mat på hösten. På vintern hämtar de sin mat. Varför? Jo, på vintern är det snö och svårt att hitta mat. Ekorren är ett djur som gömmer sin mat på hösten.
+#### en ekorre
+
 # Vinter
 
 # Vår
@@ -266,7 +268,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTMzMTcyMywxMTU0NDAwMTg1LC0xMT
+eyJoaXN0b3J5IjpbMTQyMjc4MDI0MSwxMTU0NDAwMTg1LC0xMT
 AyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0MjU1
 OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OC
 wtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2
