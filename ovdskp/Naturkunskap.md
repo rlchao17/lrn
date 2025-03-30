@@ -121,6 +121,8 @@ Det finns älgar i norra Europa, Asien och Nordamerika.
 
 # På landet
 De flesta människor i Sverige bor i städer eller tätorter. Men en del människor bor långt ifrån en stad eller tätort. Vi säger att de bor på landsbygden eller på landet.
+
+På landet finns det bondgår
 # Väder och temperatur
 
 # Årstider
@@ -187,7 +189,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjIxMzAwMiwxMzg0NTM5OTIyLDE4Mz
+eyJoaXN0b3J5IjpbLTM3Nzg3ODU4NSwxMzg0NTM5OTIyLDE4Mz
 Y1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAyOTg2
 OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNiw1Mj
 Q1NTAwNDMsMTkwNzM1NDc3NywtMTUyNzg0NDU4NCwtMjg0MjE4
