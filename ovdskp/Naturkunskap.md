@@ -102,10 +102,8 @@ Det finns älgar i norra Europa, Asien och Nordamerika.
 > 2 $$\frac{1}{2}$$meter, 
 > 
 ```text
-This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
 ```
-
-
 
 # På landet
 
@@ -175,7 +173,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzc4ODEwMiwxMjEyMDI5ODY4LC0xND
+eyJoaXN0b3J5IjpbMTc3MzIyOTcyMiwxMjEyMDI5ODY4LC0xND
 A1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0
 MywxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMT
 E1NDYxNTUwOCwtMTE0NDc0NTA5NywxMDkyNjUxMzI5LDE1Mzgy
