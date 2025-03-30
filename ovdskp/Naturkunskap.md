@@ -157,7 +157,7 @@ Förut hade bönderna ofta bara några kor. I dag kan en bonde ha fler än 100 k
 | en bonde | 农民 |
 
 # Väder och temperatur
-
+Sverige är ett avlångt land. Därför har inte hela land
 # Årstider
 
 # Sommar
@@ -222,11 +222,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mz
-g5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMz
-NDU5LDEzODQ1Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMT
-E4NDcxNzg4NCwxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3
-ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0MywxOTA3MzU0Nzc3LC
-0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMTE1NDYxNTUwOCwtMTE0
-NDc0NTA5N119
+eyJoaXN0b3J5IjpbLTExMTc2OTYwMzIsLTU5NDI1NTkxOCwtNj
+E2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAy
+NDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgzNjUwOTE2My
+w2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5ODY4LC0xNDA1
+NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0My
+wxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMTE1
+NDYxNTUwOF19
 -->
