@@ -157,7 +157,10 @@ Förut hade bönderna ofta bara några kor. I dag kan en bonde ha fler än 100 k
 | en bonde | 农民 |
 
 # Väder och temperatur
-Sverige är ett avlångt land. Därför har inte hela land
+Sverige är ett avlångt land. Därför har inte hela landet samma väder och temperatur.
+
+I Norrland har vintern lång och kall, med mycket snö. I Svealand och Götaland är vädret warmare.
+## 
 # Årstider
 
 # Sommar
@@ -222,11 +225,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc2OTYwMzIsLTU5NDI1NTkxOCwtNj
-E2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAy
-NDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgzNjUwOTE2My
-w2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5ODY4LC0xNDA1
-NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0My
-wxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMTE1
-NDYxNTUwOF19
+eyJoaXN0b3J5IjpbNzEyNDA0MDgwLC01OTQyNTU5MTgsLTYxNj
+QwNTYyOCwtNTM4OTY1OTEyLC0xMzY1NjcxMjc4LC0xNzQwMjQ0
+NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLDE4MzY1MDkxNjMsNj
+I1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAyOTg2OCwtMTQwNTcy
+NTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNiw1MjQ1NTAwNDMsMT
+kwNzM1NDc3NywtMTUyNzg0NDU4NCwtMjg0MjE4Mzc5LDExNTQ2
+MTU1MDhdfQ==
 -->
