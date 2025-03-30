@@ -170,11 +170,11 @@ När termometern visa över noll grader är det plusgrader. När temometern visa
 ## En väderkarta
 Siffrorna på väderkartan visar vilken temperatur det är ute. Pilarna visar åt vilket håll det blåser.
 > Titta på väderkartan.  
-> Var är det varmast?  
-> Var är det kallast?  
+> Var är det varmast?
+> Var är det kallast?
 > I Norrland, Svealand eller Götaland?
 >
-> Var blåser det? Var regnar det? Var skiner solen? Var åskar det?
+> Var blåser det? Var regnar det? Var skiner solen? Var å
 # Årstider
 
 # Sommar
@@ -239,7 +239,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MjE3MTE5LDEyNDcyMTEyODIsLTU5ND
+eyJoaXN0b3J5IjpbMTk3OTQyOTgyLDEyNDcyMTEyODIsLTU5ND
 I1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEy
 NzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMT
 gzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5
