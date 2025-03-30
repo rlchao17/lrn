@@ -207,7 +207,7 @@ På hösten plockar man äpplen och andra frukter. Man tar upp potatis och skör
 ## Djuren på hösten
 Många fåglar flyttar från Sverige på hösten. De kallas för flyttfåglar. Flyttfåglarna flyttar för att det är kallt här och för att de inte hittar mat. De flyttar till varma länder. Där stannar de några månader.
 
-
+Många djur samlar och gömmer mat på hösten. På vintern hämtar de sin mat.
 # Vinter
 
 # Vår
@@ -266,11 +266,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg1OTA2NTMsMTE1NDQwMDE4NSwtMT
-EwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1
-NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNz
-gsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgz
-NjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5OD
-Y4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUy
-NDU1MDA0M119
+eyJoaXN0b3J5IjpbLTIxNTMzMTcyMywxMTU0NDAwMTg1LC0xMT
+AyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0MjU1
+OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OC
+wtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2
+NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIwMjk4Nj
+gsLTE0MDU3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNTI0
+NTUwMDQzXX0=
 -->
