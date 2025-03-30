@@ -168,7 +168,7 @@ När termometern visa över noll grader är det plusgrader. När temometern visa
 #### Vatten kokar vid 100 grader.
 #### Vatten fryser till is när det är 0 grader.
 ## En väderkarta
-Siffrorna på väderkartan visar vilen temperatur det är ute. Piarna visar åt vilket håll det blåser.
+Siffrorna på väderkartan visar vilken temperatur det är ute. Pilarna visar åt vilket håll det blåser.
 
 # Årstider
 
@@ -234,11 +234,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU1NDk0LDEyNDcyMTEyODIsLTU5ND
-I1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEy
-NzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMT
-gzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5
-ODY4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LD
-UyNDU1MDA0MywxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC0yODQy
-MTgzNzldfQ==
+eyJoaXN0b3J5IjpbMjA4NTU5MzcxNSwxMjQ3MjExMjgyLC01OT
+QyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1Njcx
+Mjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLD
+E4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAy
+OTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNi
+w1MjQ1NTAwNDMsMTkwNzM1NDc3NywtMTUyNzg0NDU4NCwtMjg0
+MjE4Mzc5XX0=
 -->
