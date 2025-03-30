@@ -136,7 +136,9 @@ Man odlar också [raps](https://sv.wikipedia.org/wiki/Raps). Av raps kan man gö
 ## På bondgården
 En bonde kan ha djur, till exempel kor, höns och får. Bönder kan också ha åkrar. De odlar till exempel säd, potatis och grönsaker. Många bönder äger skog.
 
+Förut fanns det många bönder i Sverige. Då hade de inga maskiner till hjälp.
 
+Nu finns det inga så många bönder, men bönd
 # Väder och temperatur
 
 # Årstider
@@ -203,11 +205,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMz
-Y1NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5
-OTIyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMT
-IxMjAyOTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4
-NDEyNiw1MjQ1NTAwNDMsMTkwNzM1NDc3NywtMTUyNzg0NDU4NC
-wtMjg0MjE4Mzc5LDExNTQ2MTU1MDgsLTExNDQ3NDUwOTcsMTA5
-MjY1MTMyOV19
+eyJoaXN0b3J5IjpbLTI0MjI5NDUyMSwtNjE2NDA1NjI4LC01Mz
+g5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMz
+NDU5LDEzODQ1Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMT
+E4NDcxNzg4NCwxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3
+ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0MywxOTA3MzU0Nzc3LC
+0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMTE1NDYxNTUwOCwtMTE0
+NDc0NTA5N119
 -->
