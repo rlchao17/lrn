@@ -192,7 +192,7 @@ På sommaren är dagarna långa och nätterna korta. Därför växer allt i natu
 
 I Norrland är det ljust nästan hela natten.
 ## Djuren på sommaren
-På sommaren ser vi m
+På sommaren ser vi många djur som vi inte ser på vintern. Vi ser till exempel igelkottar, maskar, flugor och myggor.
 # Höst
 
 # Vinter
@@ -253,11 +253,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mzk0MDMzOCwtMTEwMjg0MzIzOCwtMj
-IxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1NTkxOCwtNjE2NDA1
-NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NT
-ksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgzNjUwOTE2Myw2MjU3
-NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5ODY4LC0xNDA1NzI1Mz
-IxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0MywxOTA3
-MzU0Nzc3XX0=
+eyJoaXN0b3J5IjpbLTE2MjM3Njg3OTYsLTExMDI4NDMyMzgsLT
+IyMTkyMTcyMCwxMjQ3MjExMjgyLC01OTQyNTU5MTgsLTYxNjQw
+NTYyOCwtNTM4OTY1OTEyLC0xMzY1NjcxMjc4LC0xNzQwMjQ0NT
+U5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLDE4MzY1MDkxNjMsNjI1
+NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAyOTg2OCwtMTQwNTcyNT
+MyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNiw1MjQ1NTAwNDMsMTkw
+NzM1NDc3N119
 -->
