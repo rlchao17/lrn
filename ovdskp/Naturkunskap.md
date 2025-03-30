@@ -149,12 +149,12 @@ Förut hade bönderna ofta bara några kor. I dag kan en bonde ha fler än 100 k
 | en bondgård | 农场 |
 | en åker | 地，耕地 |
 | odlar | 种植 |
-| säd |  |
-| vete |  |
-| råg |  |
-| korn |  |
-| havre |  |
-| en bonde |  |
+| säd | 谷物 |
+| vete | 小麦 |
+| råg | 黒麦 |
+| korn | 大麦 |
+| havre | 燕麦 |
+| en bonde | 农民 |
 
 # Väder och temperatur
 
@@ -222,11 +222,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3MzA4ODQ4LC02MTY0MDU2MjgsLTUzOD
-k2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0
-NTksMTM4NDUzOTkyMiwxODM2NTA5MTYzLDYyNTc0Mzk4MywxMT
-g0NzE3ODg0LDEyMTIwMjk4NjgsLTE0MDU3MjUzMjEsLTEyMzc4
-NTAzMSwzNTQ3ODQxMjYsNTI0NTUwMDQzLDE5MDczNTQ3NzcsLT
-E1Mjc4NDQ1ODQsLTI4NDIxODM3OSwxMTU0NjE1NTA4LC0xMTQ0
-NzQ1MDk3XX0=
+eyJoaXN0b3J5IjpbLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mz
+g5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMz
+NDU5LDEzODQ1Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMT
+E4NDcxNzg4NCwxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3
+ODUwMzEsMzU0Nzg0MTI2LDUyNDU1MDA0MywxOTA3MzU0Nzc3LC
+0xNTI3ODQ0NTg0LC0yODQyMTgzNzksMTE1NDYxNTUwOCwtMTE0
+NDc0NTA5N119
 -->
