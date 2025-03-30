@@ -216,7 +216,9 @@ Några djur äter mycket på hösten. Varför? Jo, de ska sova hela vintern. Då
 ## Vädret på vintern
 På vintern är det kallt. Det snöar ofta. På sjöar och älvar ligger is.
 
-I Norrland är vintern lång. Det snöar mycket och snön ligger kvar länge. Norrland har snö på marken cirka 230 dagar var
+I Norrland är vintern lång. Det snöar mycket och snön ligger kvar länge. Norrland har snö på marken cirka 230 dagar varje år.
+
+I Svealand ligger det snö på marken cirka 100 dagar varje år
 # Vår
 > Vilka månader är det vår dår du bor?
 ## Vädret på våren
@@ -273,11 +275,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI1MzI5MjAsMTQyMjc4MDI0MSwxMT
-U0NDAwMTg1LC0xMTAyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIx
-MTI4MiwtNTk0MjU1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMi
-wtMTM2NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4
-NDUzOTkyMiwxODM2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3OD
-g0LDEyMTIwMjk4NjgsLTE0MDU3MjUzMjEsLTEyMzc4NTAzMSwz
-NTQ3ODQxMjZdfQ==
+eyJoaXN0b3J5IjpbNTI2MzQ4MjU5LDE0MjI3ODAyNDEsMTE1ND
+QwMDE4NSwtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEy
+ODIsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLT
+EzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1
+Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NC
+wxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0
+Nzg0MTI2XX0=
 -->
