@@ -134,7 +134,9 @@ Man odlar också [raps](https://sv.wikipedia.org/wiki/Raps). Av raps kan man gö
 > I andra länder odlar man andra saker, till exempel ris och bomull.<br>
 > Vad odlar man i ditt hemland?
 ## På bondgården
-En bonde kan ha djur, till exempel kor, höns och får. Bönder kan också ha åk
+En bonde kan ha djur, till exempel kor, höns och får. Bönder kan också ha åkrar. De odlar till exempel säd, potatis och grönsaker. Många bönder äger skog.
+
+
 # Väder och temperatur
 
 # Årstider
@@ -201,11 +203,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzIyNDgxNTAsLTUzODk2NTkxMiwtMT
-M2NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUz
-OTkyMiwxODM2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LD
-EyMTIwMjk4NjgsLTE0MDU3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3
-ODQxMjYsNTI0NTUwMDQzLDE5MDczNTQ3NzcsLTE1Mjc4NDQ1OD
-QsLTI4NDIxODM3OSwxMTU0NjE1NTA4LC0xMTQ0NzQ1MDk3LDEw
-OTI2NTEzMjldfQ==
+eyJoaXN0b3J5IjpbLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMz
+Y1NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5
+OTIyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMT
+IxMjAyOTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4
+NDEyNiw1MjQ1NTAwNDMsMTkwNzM1NDc3NywtMTUyNzg0NDU4NC
+wtMjg0MjE4Mzc5LDExNTQ2MTU1MDgsLTExNDQ3NDUwOTcsMTA5
+MjY1MTMyOV19
 -->
