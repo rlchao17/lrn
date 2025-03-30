@@ -129,8 +129,8 @@ Man odlar mat till både människor och djur. Vete, råg, korn och havre är sä
 #### Moderna maskiner på åker.
 #### [vete](https://sv.wikipedia.org/wiki/Vete), [råg](https://sv.wikipedia.org/wiki/R%C3%A5g), [korn](https://sv.wikipedia.org/wiki/Korn), [havre](https://sv.wikipedia.org/wiki/Havre)
 
-Man odlar också raps. Av raps kan man göra olja.
-#### Rapsen har gula bommor.
+Man odlar också [raps](https://sv.wikipedia.org/wiki/Raps). Av raps kan man göra olja.
+#### Rapsen har gula blommor.
 
 # Väder och temperatur
 
@@ -198,7 +198,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjE4ODcxNywtMTM2NTY3MTI3OCwtMT
+eyJoaXN0b3J5IjpbMjA3MDkwMTE5MywtMTM2NTY3MTI3OCwtMT
 c0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2NTA5
 MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIwMjk4NjgsLT
 E0MDU3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNTI0NTUw
