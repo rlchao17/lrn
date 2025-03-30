@@ -220,7 +220,9 @@ I Norrland är vintern lång. Det snöar mycket och snön ligger kvar länge. No
 
 I Svealand ligger det snö på marken cirka 100 dagar varje år, men i Götaland ligger det bara snö på marken cirka 50 dagar.
 ## Djuren på vintern
-Några
+Några djur sover hela vintern, till exempel igelkottar, björnar och ormar.
+
+Djur som inte sover hela vintern gömmer sig ibland under snön. Det gör till exempel möss. De kommer upp ibland. 
 
 # Vår
 > Vilka månader är det vår dår du bor?
@@ -278,11 +280,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNDc4MDg0LDE0MjI3ODAyNDEsMTE1ND
-QwMDE4NSwtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEy
-ODIsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLT
-EzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1
-Mzk5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NC
-wxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0
-Nzg0MTI2XX0=
+eyJoaXN0b3J5IjpbMTk4OTg2MDA0MywxNDIyNzgwMjQxLDExNT
+Q0MDAxODUsLTExMDI4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjEx
+MjgyLC01OTQyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC
+0xMzY1NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0
+NTM5OTIyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4OD
+QsMTIxMjAyOTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1
+NDc4NDEyNl19
 -->
