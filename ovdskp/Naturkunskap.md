@@ -167,6 +167,7 @@ När termometern visa över noll grader är det plusgrader. När temometern visa
 > Vilken temperatur är det i dag?
 #### Vatten kokar vid 100 grader.
 #### Vatten fryser till is när det är 0 grader.
+## En väderkarta
 
 # Årstider
 
@@ -232,11 +233,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzIxMTI4MiwtNTk0MjU1OTE4LC02MT
-Y0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0
-NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2NTA5MTYzLD
-YyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIwMjk4NjgsLTE0MDU3
-MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNTI0NTUwMDQzLD
-E5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4NDIxODM3OSwxMTU0
-NjE1NTA4XX0=
+eyJoaXN0b3J5IjpbLTYxNjUwNTE4MSwxMjQ3MjExMjgyLC01OT
+QyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1Njcx
+Mjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLD
+E4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAy
+OTg2OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNi
+w1MjQ1NTAwNDMsMTkwNzM1NDc3NywtMTUyNzg0NDU4NCwtMjg0
+MjE4Mzc5XX0=
 -->
