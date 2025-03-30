@@ -169,7 +169,10 @@ När termometern visa över noll grader är det plusgrader. När temometern visa
 #### Vatten fryser till is när det är 0 grader.
 ## En väderkarta
 Siffrorna på väderkartan visar vilken temperatur det är ute. Pilarna visar åt vilket håll det blåser.
-
+> Titta på väderkartan.  
+> Var är det varmast?  
+> Var är det kallast?  
+> I Norrland, 
 # Årstider
 
 # Sommar
@@ -234,7 +237,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTU5MzcxNSwxMjQ3MjExMjgyLC01OT
+eyJoaXN0b3J5IjpbMTUwMzI3MDIwNywxMjQ3MjExMjgyLC01OT
 QyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1Njcx
 Mjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLD
 E4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAy
