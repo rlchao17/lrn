@@ -120,7 +120,7 @@ Det finns älgar i norra Europa, Asien och Nordamerika.
 |tappar  |掉落  |
 
 # På landet
-De flesta människor i Sverige bor i städer eller tätorter. Men eb del människor bor långt ifrån en stad eller tätort. Vi säger att de bor på landsbygden eller 
+De flesta människor i Sverige bor i städer eller tätorter. Men eb del människor bor långt ifrån en stad eller tätort. Vi säger att de bor på landsbygden eller på landet.
 # Väder och temperatur
 
 # Årstider
@@ -187,11 +187,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE0ODEyMDUsMTM4NDUzOTkyMiwxOD
-M2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIwMjk4
-NjgsLTE0MDU3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMjYsNT
-I0NTUwMDQzLDE5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4NDIx
-ODM3OSwxMTU0NjE1NTA4LC0xMTQ0NzQ1MDk3LDEwOTI2NTEzMj
-ksMTUzODI3MDM0NiwtMjA5NDQ3MTM5MSwxMDQxOTQ1OTU0LDk4
-NjU4OTMzOF19
+eyJoaXN0b3J5IjpbMTEzNTY3MTY4MiwxMzg0NTM5OTIyLDE4Mz
+Y1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIxMjAyOTg2
+OCwtMTQwNTcyNTMyMSwtMTIzNzg1MDMxLDM1NDc4NDEyNiw1Mj
+Q1NTAwNDMsMTkwNzM1NDc3NywtMTUyNzg0NDU4NCwtMjg0MjE4
+Mzc5LDExNTQ2MTU1MDgsLTExNDQ3NDUwOTcsMTA5MjY1MTMyOS
+wxNTM4MjcwMzQ2LC0yMDk0NDcxMzkxLDEwNDE5NDU5NTQsOTg2
+NTg5MzM4XX0=
 -->
