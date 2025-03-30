@@ -163,7 +163,7 @@ I Norrland har vintern lång och kall, med mycket snö. I Svealand och Götaland
 ## Är det kallt eller varmt?
 En termometer visar temperaturen. Den visar hur varmt eller kallt det är.
 
-
+När termometer visa över noll grader är det plusgrader.
 # Årstider
 
 # Sommar
@@ -228,7 +228,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDcxNDIwMCwtNTk0MjU1OTE4LC02MT
+eyJoaXN0b3J5IjpbLTc2MjQwMDM5NCwtNTk0MjU1OTE4LC02MT
 Y0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0
 NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2NTA5MTYzLD
 YyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIwMjk4NjgsLTE0MDU3
