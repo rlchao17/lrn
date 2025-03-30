@@ -272,21 +272,20 @@ Lämna dem till apoteket, svarar hennes syster.
 > Utg. dat 10-2019
 
 ## Vi behöver ren luft
-> Röken förorenar luften.
-
 Det finns många bilar i stora städer. Röken som kommer ut från bilarna kallas för avgaser. Det finns gifter i avgaser. Därför blir luften smutsig. Man säger att luften blir förorenad. Det är inte bra att andas in förorenad luft.
 
 Rök från fabriker kan också förorena luften.
+#### Röken förorenar luften.
 # Vad behöver människor, djur och växter?
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjgxNDQ0MSwtMTAzMjA2MDExOSwzNT
-QwMDYzNDIsMTQyMjc4MDI0MSwxMTU0NDAwMTg1LC0xMTAyODQz
-MjM4LC0yMjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0MjU1OTE4LC
-02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0
-MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2NTA5MT
-YzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIwMjk4NjgsLTE0
-MDU3MjUzMjFdfQ==
+eyJoaXN0b3J5IjpbLTIwNjg5Mzc5MTksLTEwMzIwNjAxMTksMz
+U0MDA2MzQyLDE0MjI3ODAyNDEsMTE1NDQwMDE4NSwtMTEwMjg0
+MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1NTkxOC
+wtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLTE3
+NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgzNjUwOT
+E2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5ODY4LC0x
+NDA1NzI1MzIxXX0=
 -->
