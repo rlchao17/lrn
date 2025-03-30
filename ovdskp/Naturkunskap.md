@@ -252,7 +252,7 @@ Flyttfåglarna kommer tillbaka till Sverige. Nu ska många fåglar bygga bon och
 #### ett fågelbo
 
 # Tänk på miljön!
-Platsen där vi bo och allt runt omkring oss är vår miljö. Luften och vattnet är också vår miljö. Hela världen är alla människors miljö. Vi måste vara rädda om miljön. Vi får inte förstöra den.
+Platsen där vi bo och allt runt omkring oss är vår miljö. Luften och vattnet är också vår miljö. Hela världen är alla människors miljö. Vi måste vara *rädda om* miljön. Vi får inte förstöra den.
 ## Sopor
 Att kasta sopor och annat skräp i naturen är inte bra. Det kan skada växter och djur.
 
@@ -283,7 +283,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMyMzQ5NjksMzU0MDA2MzQyLDE0Mj
+eyJoaXN0b3J5IjpbLTEwMzIwNjAxMTksMzU0MDA2MzQyLDE0Mj
 I3ODAyNDEsMTE1NDQwMDE4NSwtMTEwMjg0MzIzOCwtMjIxOTIx
 NzIwLDEyNDcyMTEyODIsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC
 01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1
