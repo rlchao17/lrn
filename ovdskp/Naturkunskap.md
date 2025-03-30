@@ -115,9 +115,9 @@ Det finns älgar i norra Europa, Asien och Nordamerika.
 |ett däggdjur  |哺乳动物  |
 |en unge  |幼崽  |
 |föder  |生育  |
-|hög  |高  |
-|väger  |重  |
-|tappar  |掉  |
+|hög  |高，身高  |
+|väger  |重，称重  |
+|tappar  |掉落  |
 
 # På landet
 
@@ -187,7 +187,7 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDAzOTk5NCw2MjU3NDM5ODMsMTE4ND
+eyJoaXN0b3J5IjpbMTgzNjUwOTE2Myw2MjU3NDM5ODMsMTE4ND
 cxNzg4NCwxMjEyMDI5ODY4LC0xNDA1NzI1MzIxLC0xMjM3ODUw
 MzEsMzU0Nzg0MTI2LDUyNDU1MDA0MywxOTA3MzU0Nzc3LC0xNT
 I3ODQ0NTg0LC0yODQyMTgzNzksMTE1NDYxNTUwOCwtMTE0NDc0
