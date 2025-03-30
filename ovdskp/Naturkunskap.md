@@ -177,7 +177,9 @@ Siffrorna på väderkartan visar vilken temperatur det är ute. Pilarna visar å
 > Vad ska du ha för kläder på dig i dag om du bor i Norrland? I Svealand? I Götaland?
 #### blåsigt, mulet och snö, mulet och regn, mulet och regn med åska, mulet, soligt
 # Årstider
-Vi har fyra årstider i Sverige: sommar, höst, vinter och vår. Men årstiderna är inte like långa i hela Sverige. När det fortfarande är vinter i norra Sverige är det re
+Vi har fyra årstider i Sverige: sommar, höst, vinter och vår. Men årstiderna är inte like långa i hela Sverige. När det fortfarande är vinter i norra Sverige är det redan vår i södra Sverige.
+
+I många varma länder har man inte fyra årstider. I några länder har man bara två årstider: regnperiod och torrpe
 # Sommar
 
 # Höst
@@ -240,11 +242,11 @@ Rök från fabriker kan också förorena luften.
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODczMzM4LDEyNDcyMTEyODIsLTU5ND
-I1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEy
-NzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMT
-gzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5
-ODY4LC0xNDA1NzI1MzIxLC0xMjM3ODUwMzEsMzU0Nzg0MTI2LD
-UyNDU1MDA0MywxOTA3MzU0Nzc3LC0xNTI3ODQ0NTg0LC0yODQy
-MTgzNzldfQ==
+eyJoaXN0b3J5IjpbLTIwNDM2MDI4NTAsMTI0NzIxMTI4MiwtNT
+k0MjU1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3
+MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOTkyMi
+wxODM2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEyMTIw
+Mjk4NjgsLTE0MDU3MjUzMjEsLTEyMzc4NTAzMSwzNTQ3ODQxMj
+YsNTI0NTUwMDQzLDE5MDczNTQ3NzcsLTE1Mjc4NDQ1ODQsLTI4
+NDIxODM3OV19
 -->
