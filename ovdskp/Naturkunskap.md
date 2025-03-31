@@ -299,21 +299,17 @@ Människor behöver näring för att orka arbeta, studera och göra allt annat s
 Sara och nennes farfar sitter och pratar. Hon är törstig och får ett glas vatten.
 | <!-- --> | <!-- --> |
 | --- | --- |
-| **Läkaren** | Hej! Hur är det med dig? |
-| **Lena** | Jag har ont i axlarna.<br>Det värker hela tiden. |
-| **Läkaren** | Jaha. Var gör det ont? Får jag känna? |
-| **Lena** | Ja. |
-| **Läkaren** | Gör det ont när jag trycker här? |
-| **Lena** | Aj! |
-| **Läkaren** | Har du ont någon annanstans? |
-| **Lena** | Ja, jag har ont i lederna också. |
-| **Läkaren** | Jag förstår. Då ska vi börja med att ta ett blodprov. |
+| **Sara** | Om jag dricker jättemycket vatten, tar vattnet på jorden slut då? |
+| **Farfar** | Jag har ont i axlarna.<br>Det värker hela tiden. |
+| **Sara** | Jaha. Var gör det ont? Får jag känna? |
+| **Farfar** | Ja. |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTUxMTQ5NywtMTM3OTQ1Mzg4MSwtMj
-A4MDc3NDQ4NSwtMzg3NTgyNDIsLTIwNjg5Mzc5MTksLTEwMzIw
-NjAxMTksMzU0MDA2MzQyLDE0MjI3ODAyNDEsMTE1NDQwMDE4NS
-wtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5
-NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2Nz
-EyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIs
-MTgzNjUwOTE2M119
+eyJoaXN0b3J5IjpbLTE0NDY0Mzk4NDAsLTEzNzk0NTM4ODEsLT
+IwODA3NzQ0ODUsLTM4NzU4MjQyLC0yMDY4OTM3OTE5LC0xMDMy
+MDYwMTE5LDM1NDAwNjM0MiwxNDIyNzgwMjQxLDExNTQ0MDAxOD
+UsLTExMDI4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC01
+OTQyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1Nj
+cxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIy
+LDE4MzY1MDkxNjNdfQ==
 -->
