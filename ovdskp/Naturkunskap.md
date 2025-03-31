@@ -300,16 +300,16 @@ Sara och nennes farfar sitter och pratar. Hon är törstig och får ett glas vat
 | <!-- --> | <!-- --> |
 | --- | --- |
 | **Sara** | Om jag dricker jättemycket vatten, tar vattnet på jorden slut då? |
-| **Farfar** | Jag har ont i axlarna.<br>Det värker hela tiden. |
-| **Sara** | Jaha. Var gör det ont? Får jag känna? |
-| **Farfar** | Ja. |
+| **Farfar** | Nej, vattnet på jorden tar aldrig slut. |
+| **Sara** | Varför inte? Kommer det mer vatten till jorden när det regnar? |
+| **Farfar** | Nej, det kommer i |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY0Mzk4NDAsLTEzNzk0NTM4ODEsLT
-IwODA3NzQ0ODUsLTM4NzU4MjQyLC0yMDY4OTM3OTE5LC0xMDMy
-MDYwMTE5LDM1NDAwNjM0MiwxNDIyNzgwMjQxLDExNTQ0MDAxOD
-UsLTExMDI4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC01
-OTQyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1Nj
-cxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIy
-LDE4MzY1MDkxNjNdfQ==
+eyJoaXN0b3J5IjpbMTIzMDA0Nzk4NywtMTM3OTQ1Mzg4MSwtMj
+A4MDc3NDQ4NSwtMzg3NTgyNDIsLTIwNjg5Mzc5MTksLTEwMzIw
+NjAxMTksMzU0MDA2MzQyLDE0MjI3ODAyNDEsMTE1NDQwMDE4NS
+wtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5
+NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2Nz
+EyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIs
+MTgzNjUwOTE2M119
 -->
