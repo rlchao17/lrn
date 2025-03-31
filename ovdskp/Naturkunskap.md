@@ -277,15 +277,17 @@ Det finns många bilar i stora städer. Röken som kommer ut från bilarna kalla
 Rök från fabriker kan också förorena luften.
 #### Röken förorenar luften.
 # Vad behöver människor, djur och växter?
+Alla människor, djur och växter behöver ljus, värme, luft, vatten och näring.
+
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg5Mzc5MTksLTEwMzIwNjAxMTksMz
-U0MDA2MzQyLDE0MjI3ODAyNDEsMTE1NDQwMDE4NSwtMTEwMjg0
-MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1NTkxOC
-wtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLTE3
-NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIsMTgzNjUwOT
-E2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwxMjEyMDI5ODY4LC0x
-NDA1NzI1MzIxXX0=
+eyJoaXN0b3J5IjpbLTU2MjQ0NjkzLC0yMDY4OTM3OTE5LC0xMD
+MyMDYwMTE5LDM1NDAwNjM0MiwxNDIyNzgwMjQxLDExNTQ0MDAx
+ODUsLTExMDI4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC
+01OTQyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1
+NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OT
+IyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIx
+MjAyOTg2OF19
 -->
