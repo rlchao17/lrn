@@ -284,14 +284,16 @@ Syre är en gas som finns i luften. Syre är mycket viktigt för människor och 
 I luft finns också en annan gas som heter koldioxid. Koldioxid är viktig för växter. Den kommer bland annat från människor och djur. Hur? Jo, vi andas ut koldioxid. Växterna ger oss syre och vi ger dem koldioxid. Människor, djur och växter samarbetar.
 ## Vatten
 Vatten är viktigt för människor, djur och växter. Vatten finns i hav, sjöar och floder. Människor och djur innehåller också mycket vatten. I några grönsaker och frukter finns också mycket vatten, till exempel i gurka och melon.
+## Näring
+Människor behöver näring för att
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU1NTI2MjMsLTIwNjg5Mzc5MTksLT
-EwMzIwNjAxMTksMzU0MDA2MzQyLDE0MjI3ODAyNDEsMTE1NDQw
-MDE4NSwtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyOD
-IsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEz
-NjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mz
-k5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwx
-MjEyMDI5ODY4XX0=
+eyJoaXN0b3J5IjpbMjA3NzE3MDEwNywtMjA2ODkzNzkxOSwtMT
+AzMjA2MDExOSwzNTQwMDYzNDIsMTQyMjc4MDI0MSwxMTU0NDAw
+MTg1LC0xMTAyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIxMTI4Mi
+wtNTk0MjU1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2
+NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOT
+kyMiwxODM2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEy
+MTIwMjk4NjhdfQ==
 -->
