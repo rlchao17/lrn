@@ -285,15 +285,17 @@ I luft finns också en annan gas som heter koldioxid. Koldioxid är viktig för 
 ## Vatten
 Vatten är viktigt för människor, djur och växter. Vatten finns i hav, sjöar och floder. Människor och djur innehåller också mycket vatten. I några grönsaker och frukter finns också mycket vatten, till exempel i gurka och melon.
 ## Näring
-Människor behöver näring för att
+Människor behöver näring för att orka arbeta, studera och göra allt annat som vi måste göra. Vi får vår näring från maten. Djur får också näring från sin mat. Växter får näring från jorden.
+
+
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzE3MDEwNywtMjA2ODkzNzkxOSwtMT
-AzMjA2MDExOSwzNTQwMDYzNDIsMTQyMjc4MDI0MSwxMTU0NDAw
-MTg1LC0xMTAyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIxMTI4Mi
-wtNTk0MjU1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2
-NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOT
-kyMiwxODM2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEy
-MTIwMjk4NjhdfQ==
+eyJoaXN0b3J5IjpbLTM4NzU4MjQyLC0yMDY4OTM3OTE5LC0xMD
+MyMDYwMTE5LDM1NDAwNjM0MiwxNDIyNzgwMjQxLDExNTQ0MDAx
+ODUsLTExMDI4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC
+01OTQyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1
+NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OT
+IyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIx
+MjAyOTg2OF19
 -->
