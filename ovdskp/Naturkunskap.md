@@ -291,15 +291,18 @@ Människor behöver näring för att orka arbeta, studera och göra allt annat s
  1. Växterna får ljus och värme från solen.
  2. De får vatten och näring från jorden.
  3. Växterna hämtar koldioxid från luften.
+ 4. Syre bildas i växternas blad och kommer sedan ut i luften.
+ 5. I luften som vi andas in finns syre.
+ 6. I luften som vi andas ut finns koldioxid.
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1MTE5MzI1LC0yMDgwNzc0NDg1LC0zOD
-c1ODI0MiwtMjA2ODkzNzkxOSwtMTAzMjA2MDExOSwzNTQwMDYz
-NDIsMTQyMjc4MDI0MSwxMTU0NDAwMTg1LC0xMTAyODQzMjM4LC
-0yMjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0MjU1OTE4LC02MTY0
-MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0ND
-U1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2NTA5MTYzLDYy
-NTc0Mzk4M119
+eyJoaXN0b3J5IjpbLTEzNzk0NTM4ODEsLTIwODA3NzQ0ODUsLT
+M4NzU4MjQyLC0yMDY4OTM3OTE5LC0xMDMyMDYwMTE5LDM1NDAw
+NjM0MiwxNDIyNzgwMjQxLDExNTQ0MDAxODUsLTExMDI4NDMyMz
+gsLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC01OTQyNTU5MTgsLTYx
+NjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1NjcxMjc4LC0xNzQwMj
+Q0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLDE4MzY1MDkxNjMs
+NjI1NzQzOTgzXX0=
 -->
