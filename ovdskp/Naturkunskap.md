@@ -302,10 +302,10 @@ Sara och nennes farfar sitter och pratar. Hon är törstig och får ett glas vat
 | **Sara** | Om jag dricker jättemycket vatten, tar vattnet på jorden slut då? |
 | **Farfar** | Nej, vattnet på jorden tar aldrig slut. |
 | **Sara** | Varför inte? Kommer det mer vatten till jorden när det regnar? |
-| **Farfar** | Nej, det kommer i |
+| **Farfar** | Nej, det kommer inte mer vatten till jorden när det regnar. Det finns alltid lika mycket vatten på jorden. |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDA0Nzk4NywtMTM3OTQ1Mzg4MSwtMj
+eyJoaXN0b3J5IjpbMTk0MzI5MDM1NSwtMTM3OTQ1Mzg4MSwtMj
 A4MDc3NDQ4NSwtMzg3NTgyNDIsLTIwNjg5Mzc5MTksLTEwMzIw
 NjAxMTksMzU0MDA2MzQyLDE0MjI3ODAyNDEsMTE1NDQwMDE4NS
 wtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5
