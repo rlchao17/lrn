@@ -281,16 +281,16 @@ Alla människor, djur och växter behöver ljus, värme, luft, vatten och närin
 ## Luft
 Syre är en gas som finns i luften. Syre är mycket viktigt för människor och djur. Människor och djur andas in syre från luften. Syret kommer från växternas blad.
 
-
+I luft finns också en annan gas som heter koldioxid. Koldioxid är viktig för växter. Den kommer bland annat från människor och 
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTk0MzU4OCwtMjA2ODkzNzkxOSwtMT
-AzMjA2MDExOSwzNTQwMDYzNDIsMTQyMjc4MDI0MSwxMTU0NDAw
-MTg1LC0xMTAyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIxMTI4Mi
-wtNTk0MjU1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2
-NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOT
-kyMiwxODM2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEy
-MTIwMjk4NjhdfQ==
+eyJoaXN0b3J5IjpbLTEyODA1ODEzMjIsLTIwNjg5Mzc5MTksLT
+EwMzIwNjAxMTksMzU0MDA2MzQyLDE0MjI3ODAyNDEsMTE1NDQw
+MDE4NSwtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyOD
+IsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEz
+NjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mz
+k5MjIsMTgzNjUwOTE2Myw2MjU3NDM5ODMsMTE4NDcxNzg4NCwx
+MjEyMDI5ODY4XX0=
 -->
