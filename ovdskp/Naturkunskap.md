@@ -296,13 +296,24 @@ Människor behöver näring för att orka arbeta, studera och göra allt annat s
  6. I luften som vi andas ut finns koldioxid.
 
 # Vattnet tar inte slut
-
+Sara och nennes farfar sitter och pratar. Hon är törstig och får ett glas vatten.
+| <!-- --> | <!-- --> |
+| --- | --- |
+| **Läkaren** | Hej! Hur är det med dig? |
+| **Lena** | Jag har ont i axlarna.<br>Det värker hela tiden. |
+| **Läkaren** | Jaha. Var gör det ont? Får jag känna? |
+| **Lena** | Ja. |
+| **Läkaren** | Gör det ont när jag trycker här? |
+| **Lena** | Aj! |
+| **Läkaren** | Har du ont någon annanstans? |
+| **Lena** | Ja, jag har ont i lederna också. |
+| **Läkaren** | Jag förstår. Då ska vi börja med att ta ett blodprov. |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk0NTM4ODEsLTIwODA3NzQ0ODUsLT
-M4NzU4MjQyLC0yMDY4OTM3OTE5LC0xMDMyMDYwMTE5LDM1NDAw
-NjM0MiwxNDIyNzgwMjQxLDExNTQ0MDAxODUsLTExMDI4NDMyMz
-gsLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC01OTQyNTU5MTgsLTYx
-NjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1NjcxMjc4LC0xNzQwMj
-Q0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OTIyLDE4MzY1MDkxNjMs
-NjI1NzQzOTgzXX0=
+eyJoaXN0b3J5IjpbMTUzMTUxMTQ5NywtMTM3OTQ1Mzg4MSwtMj
+A4MDc3NDQ4NSwtMzg3NTgyNDIsLTIwNjg5Mzc5MTksLTEwMzIw
+NjAxMTksMzU0MDA2MzQyLDE0MjI3ODAyNDEsMTE1NDQwMDE4NS
+wtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5
+NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2Nz
+EyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIs
+MTgzNjUwOTE2M119
 -->
