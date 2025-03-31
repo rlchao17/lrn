@@ -288,14 +288,18 @@ Vatten är viktigt för människor, djur och växter. Vatten finns i hav, sjöar
 Människor behöver näring för att orka arbeta, studera och göra allt annat som vi måste göra. Vi får vår näring från maten. Djur får också näring från sin mat. Växter får näring från jorden.
 #### Ljur, Vatten, Koldioxid, Syre, Syre, Koldioxid
 
+ 1. Växterna får ljus och värme från solen.
+ 2. De får vatten och näring från jorden.
+ 3. Växterna hämtar koldioxid från luften.
+
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA3NzQ0ODUsLTM4NzU4MjQyLC0yMD
-Y4OTM3OTE5LC0xMDMyMDYwMTE5LDM1NDAwNjM0MiwxNDIyNzgw
-MjQxLDExNTQ0MDAxODUsLTExMDI4NDMyMzgsLTIyMTkyMTcyMC
-wxMjQ3MjExMjgyLC01OTQyNTU5MTgsLTYxNjQwNTYyOCwtNTM4
-OTY1OTEyLC0xMzY1NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMz
-Q1OSwxMzg0NTM5OTIyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLDEx
-ODQ3MTc4ODRdfQ==
+eyJoaXN0b3J5IjpbMzM1MTE5MzI1LC0yMDgwNzc0NDg1LC0zOD
+c1ODI0MiwtMjA2ODkzNzkxOSwtMTAzMjA2MDExOSwzNTQwMDYz
+NDIsMTQyMjc4MDI0MSwxMTU0NDAwMTg1LC0xMTAyODQzMjM4LC
+0yMjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0MjU1OTE4LC02MTY0
+MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0ND
+U1OSw1NjUxMzM0NTksMTM4NDUzOTkyMiwxODM2NTA5MTYzLDYy
+NTc0Mzk4M119
 -->
