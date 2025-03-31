@@ -278,16 +278,17 @@ Rök från fabriker kan också förorena luften.
 #### Röken förorenar luften.
 # Vad behöver människor, djur och växter?
 Alla människor, djur och växter behöver ljus, värme, luft, vatten och näring.
-
+## Luft
+Syre är en gas som finns i luften. Syre är mycket viktigt för människor och djur. Människor och djur andas in syre från 
 
 # Vattnet tar inte slut
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjQ0NjkzLC0yMDY4OTM3OTE5LC0xMD
-MyMDYwMTE5LDM1NDAwNjM0MiwxNDIyNzgwMjQxLDExNTQ0MDAx
-ODUsLTExMDI4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC
-01OTQyNTU5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1
-NjcxMjc4LC0xNzQwMjQ0NTU5LDU2NTEzMzQ1OSwxMzg0NTM5OT
-IyLDE4MzY1MDkxNjMsNjI1NzQzOTgzLDExODQ3MTc4ODQsMTIx
-MjAyOTg2OF19
+eyJoaXN0b3J5IjpbMTk1MTY1Mjc5MSwtMjA2ODkzNzkxOSwtMT
+AzMjA2MDExOSwzNTQwMDYzNDIsMTQyMjc4MDI0MSwxMTU0NDAw
+MTg1LC0xMTAyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIxMTI4Mi
+wtNTk0MjU1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2
+NTY3MTI3OCwtMTc0MDI0NDU1OSw1NjUxMzM0NTksMTM4NDUzOT
+kyMiwxODM2NTA5MTYzLDYyNTc0Mzk4MywxMTg0NzE3ODg0LDEy
+MTIwMjk4NjhdfQ==
 -->
