@@ -306,10 +306,10 @@ Sara och nennes farfar sitter och pratar. Hon är törstig och får ett glas vat
 Farfar hämtar en bok. Han pekar på en bild i boken och berättar.
 
  1. Solen lyser på vattnet. Vattnet blir varmt. Då bildas vattenånga. Vattenångan följer med luften uppåt.
- 2. Högt uppe i luften är det kallare. 
+ 2. Högt uppe i luften är det kallare. När vattenångan blir kall blir den till små vattendroppar. M
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDkzMTIwMiwtMTA2MDYyNzc4OSwxOT
+eyJoaXN0b3J5IjpbMTI0MDAxNzgxNSwtMTA2MDYyNzc4OSwxOT
 QzMjkwMzU1LC0xMzc5NDUzODgxLC0yMDgwNzc0NDg1LC0zODc1
 ODI0MiwtMjA2ODkzNzkxOSwtMTAzMjA2MDExOSwzNTQwMDYzND
 IsMTQyMjc4MDI0MSwxMTU0NDAwMTg1LC0xMTAyODQzMjM4LC0y
