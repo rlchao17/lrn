@@ -305,14 +305,15 @@ Sara och nennes farfar sitter och pratar. Hon är törstig och får ett glas vat
 | **Farfar** | Nej, det kommer inte mer vatten till jorden när det regnar. Det finns alltid lika mycket vatten på jorden. |
 Farfar hämtar en bok. Han pekar på en bild i boken och berättar.
 
- 1. Solen lyser på vattnet. Vattnet blir varmt. Då bildas vattenånga.
+ 1. Solen lyser på vattnet. Vattnet blir varmt. Då bildas vattenånga. Vattenångan följer med luften uppåt.
+ 2. Högt uppe i luften är det kallare. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE3NzQ1NjMsLTEwNjA2Mjc3ODksMT
-k0MzI5MDM1NSwtMTM3OTQ1Mzg4MSwtMjA4MDc3NDQ4NSwtMzg3
-NTgyNDIsLTIwNjg5Mzc5MTksLTEwMzIwNjAxMTksMzU0MDA2Mz
-QyLDE0MjI3ODAyNDEsMTE1NDQwMDE4NSwtMTEwMjg0MzIzOCwt
-MjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1NTkxOCwtNjE2ND
-A1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1
-NTksNTY1MTMzNDU5XX0=
+eyJoaXN0b3J5IjpbLTk4NDkzMTIwMiwtMTA2MDYyNzc4OSwxOT
+QzMjkwMzU1LC0xMzc5NDUzODgxLC0yMDgwNzc0NDg1LC0zODc1
+ODI0MiwtMjA2ODkzNzkxOSwtMTAzMjA2MDExOSwzNTQwMDYzND
+IsMTQyMjc4MDI0MSwxMTU0NDAwMTg1LC0xMTAyODQzMjM4LC0y
+MjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0MjU1OTE4LC02MTY0MD
+U2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0NDU1
+OSw1NjUxMzM0NTldfQ==
 -->
