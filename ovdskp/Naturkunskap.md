@@ -312,16 +312,16 @@ Farfar hämtar en bok. Han pekar på en bild i boken och berättar.
  5. Sedan rinner vattnet till havet, floden eller sjön.
 | <!-- --> | <!-- --> |
 | --- | --- |
-| **Sara** | Jaha, jag förstår. För mycket länge sedan fanns det dinosaurier på jorden. Fanns det lika mycket vatten på jorden då som idag |
-| **Farfar** | Nej, vattnet på jorden tar aldrig slut. |
-| **Sara** | Varför inte? Kommer det mer vatten till jorden när det regnar? |
+| **Sara** | Jaha, jag förstår. För mycket länge sedan fanns det dinosaurier på jorden. Fanns det lika mycket vatten på jorden då som idag? |
+| **Farfar** | Javisst, så är det. |
+| **Sara** | Då kanske jag dricker samma vatten som dinosaurierna gjorde! Vad konstigt! |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjkxNDcwNywxNjcwMjk0NzA5LC0xMD
-YwNjI3Nzg5LDE5NDMyOTAzNTUsLTEzNzk0NTM4ODEsLTIwODA3
-NzQ0ODUsLTM4NzU4MjQyLC0yMDY4OTM3OTE5LC0xMDMyMDYwMT
-E5LDM1NDAwNjM0MiwxNDIyNzgwMjQxLDExNTQ0MDAxODUsLTEx
-MDI4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC01OTQyNT
-U5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1NjcxMjc4
-LC0xNzQwMjQ0NTU5XX0=
+eyJoaXN0b3J5IjpbNDcyMjc0NDYyLDE2NzAyOTQ3MDksLTEwNj
+A2Mjc3ODksMTk0MzI5MDM1NSwtMTM3OTQ1Mzg4MSwtMjA4MDc3
+NDQ4NSwtMzg3NTgyNDIsLTIwNjg5Mzc5MTksLTEwMzIwNjAxMT
+ksMzU0MDA2MzQyLDE0MjI3ODAyNDEsMTE1NDQwMDE4NSwtMTEw
+Mjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1NT
+kxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgs
+LTE3NDAyNDQ1NTldfQ==
 -->
