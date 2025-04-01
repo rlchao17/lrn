@@ -310,14 +310,18 @@ Farfar hämtar en bok. Han pekar på en bild i boken och berättar.
  3. Vattnet faller ner som regn, snö eller hagel.
  4. När vattnet kommer ner på marken rinner det ner i jorden.
  5. Sedan rinner vattnet till havet, floden eller sjön.
-
+| <!-- --> | <!-- --> |
+| --- | --- |
+| **Sara** | Jaha, jag förstår. För mycket länge sedan fanns det dinosaurier på jorden. Fanns det lika mycket vatten på jorden då som idag |
+| **Farfar** | Nej, vattnet på jorden tar aldrig slut. |
+| **Sara** | Varför inte? Kommer det mer vatten till jorden när det regnar? |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDI5NDcwOSwtMTA2MDYyNzc4OSwxOT
-QzMjkwMzU1LC0xMzc5NDUzODgxLC0yMDgwNzc0NDg1LC0zODc1
-ODI0MiwtMjA2ODkzNzkxOSwtMTAzMjA2MDExOSwzNTQwMDYzND
-IsMTQyMjc4MDI0MSwxMTU0NDAwMTg1LC0xMTAyODQzMjM4LC0y
-MjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0MjU1OTE4LC02MTY0MD
-U2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0NDU1
-OSw1NjUxMzM0NTldfQ==
+eyJoaXN0b3J5IjpbMTU2MjkxNDcwNywxNjcwMjk0NzA5LC0xMD
+YwNjI3Nzg5LDE5NDMyOTAzNTUsLTEzNzk0NTM4ODEsLTIwODA3
+NzQ0ODUsLTM4NzU4MjQyLC0yMDY4OTM3OTE5LC0xMDMyMDYwMT
+E5LDM1NDAwNjM0MiwxNDIyNzgwMjQxLDExNTQ0MDAxODUsLTEx
+MDI4NDMyMzgsLTIyMTkyMTcyMCwxMjQ3MjExMjgyLC01OTQyNT
+U5MTgsLTYxNjQwNTYyOCwtNTM4OTY1OTEyLC0xMzY1NjcxMjc4
+LC0xNzQwMjQ0NTU5XX0=
 -->
