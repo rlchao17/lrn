@@ -303,13 +303,13 @@ Sara och nennes farfar sitter och pratar. Hon är törstig och får ett glas vat
 | **Farfar** | Nej, vattnet på jorden tar aldrig slut. |
 | **Sara** | Varför inte? Kommer det mer vatten till jorden när det regnar? |
 | **Farfar** | Nej, det kommer inte mer vatten till jorden när det regnar. Det finns alltid lika mycket vatten på jorden. |
-
+Farfar hämtar en bok. Han pekar på en bild i boken och berättar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzI5MDM1NSwtMTM3OTQ1Mzg4MSwtMj
-A4MDc3NDQ4NSwtMzg3NTgyNDIsLTIwNjg5Mzc5MTksLTEwMzIw
-NjAxMTksMzU0MDA2MzQyLDE0MjI3ODAyNDEsMTE1NDQwMDE4NS
-wtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5
-NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2Nz
-EyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5LDEzODQ1Mzk5MjIs
-MTgzNjUwOTE2M119
+eyJoaXN0b3J5IjpbLTEwNjA2Mjc3ODksMTk0MzI5MDM1NSwtMT
+M3OTQ1Mzg4MSwtMjA4MDc3NDQ4NSwtMzg3NTgyNDIsLTIwNjg5
+Mzc5MTksLTEwMzIwNjAxMTksMzU0MDA2MzQyLDE0MjI3ODAyND
+EsMTE1NDQwMDE4NSwtMTEwMjg0MzIzOCwtMjIxOTIxNzIwLDEy
+NDcyMTEyODIsLTU5NDI1NTkxOCwtNjE2NDA1NjI4LC01Mzg5Nj
+U5MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NTksNTY1MTMzNDU5
+LDEzODQ1Mzk5MjJdfQ==
 -->
