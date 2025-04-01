@@ -315,13 +315,14 @@ Farfar hämtar en bok. Han pekar på en bild i boken och berättar.
 | **Sara** | Jaha, jag förstår. För mycket länge sedan fanns det dinosaurier på jorden. Fanns det lika mycket vatten på jorden då som idag? |
 | **Farfar** | Javisst, så är det. |
 | **Sara** | Då kanske jag dricker samma vatten som dinosaurierna gjorde! Vad konstigt! |
+#### en dinosaurie
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMjc0NDYyLDE2NzAyOTQ3MDksLTEwNj
-A2Mjc3ODksMTk0MzI5MDM1NSwtMTM3OTQ1Mzg4MSwtMjA4MDc3
-NDQ4NSwtMzg3NTgyNDIsLTIwNjg5Mzc5MTksLTEwMzIwNjAxMT
-ksMzU0MDA2MzQyLDE0MjI3ODAyNDEsMTE1NDQwMDE4NSwtMTEw
-Mjg0MzIzOCwtMjIxOTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1NT
-kxOCwtNjE2NDA1NjI4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgs
-LTE3NDAyNDQ1NTldfQ==
+eyJoaXN0b3J5IjpbLTEwMjI0MzE2MDgsMTY3MDI5NDcwOSwtMT
+A2MDYyNzc4OSwxOTQzMjkwMzU1LC0xMzc5NDUzODgxLC0yMDgw
+Nzc0NDg1LC0zODc1ODI0MiwtMjA2ODkzNzkxOSwtMTAzMjA2MD
+ExOSwzNTQwMDYzNDIsMTQyMjc4MDI0MSwxMTU0NDAwMTg1LC0x
+MTAyODQzMjM4LC0yMjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0Mj
+U1OTE4LC02MTY0MDU2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3
+OCwtMTc0MDI0NDU1OV19
 -->
