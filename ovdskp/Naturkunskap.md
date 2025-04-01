@@ -307,14 +307,17 @@ Farfar hämtar en bok. Han pekar på en bild i boken och berättar.
 
  1. Solen lyser på vattnet. Vattnet blir varmt. Då bildas vattenånga. Vattenångan följer med luften uppåt.
  2. Högt uppe i luften är det kallare. När vattenångan blir kall blir den till små vattendroppar. Många vattendroppar tillsammans blir moln.
- 3. Vattnet 
+ 3. Vattnet faller ner som regn, snö eller hagel.
+ 4. När vattnet kommer ner på marken rinner det ner i jorden.
+ 5. Sedan rinner vattnet till havet, floden eller sjön.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDQ5MjMsLTEwNjA2Mjc3ODksMTk0Mz
-I5MDM1NSwtMTM3OTQ1Mzg4MSwtMjA4MDc3NDQ4NSwtMzg3NTgy
-NDIsLTIwNjg5Mzc5MTksLTEwMzIwNjAxMTksMzU0MDA2MzQyLD
-E0MjI3ODAyNDEsMTE1NDQwMDE4NSwtMTEwMjg0MzIzOCwtMjIx
-OTIxNzIwLDEyNDcyMTEyODIsLTU5NDI1NTkxOCwtNjE2NDA1Nj
-I4LC01Mzg5NjU5MTIsLTEzNjU2NzEyNzgsLTE3NDAyNDQ1NTks
-NTY1MTMzNDU5XX0=
+eyJoaXN0b3J5IjpbMTY3MDI5NDcwOSwtMTA2MDYyNzc4OSwxOT
+QzMjkwMzU1LC0xMzc5NDUzODgxLC0yMDgwNzc0NDg1LC0zODc1
+ODI0MiwtMjA2ODkzNzkxOSwtMTAzMjA2MDExOSwzNTQwMDYzND
+IsMTQyMjc4MDI0MSwxMTU0NDAwMTg1LC0xMTAyODQzMjM4LC0y
+MjE5MjE3MjAsMTI0NzIxMTI4MiwtNTk0MjU1OTE4LC02MTY0MD
+U2MjgsLTUzODk2NTkxMiwtMTM2NTY3MTI3OCwtMTc0MDI0NDU1
+OSw1NjUxMzM0NTldfQ==
 -->
