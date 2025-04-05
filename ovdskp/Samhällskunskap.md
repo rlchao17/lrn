@@ -13,6 +13,8 @@ Grundskolan är obligatorisk. Det betyder att alla barn måste gå i grundskola.
 
 Grundskolan kostar ingenting för föräldrarna. I skolan får barnen till exempel böcker, papper och pennor. Barnen får också lunch i skolan.
 
+Skolåret delas in i två terminer, höstterminen och vårterminen. Höstterminen börjar i augusti och vårterminen börjar i januari.
+
 
 
 # Vem betalar?
@@ -33,7 +35,7 @@ Grundskolan kostar ingenting för föräldrarna. I skolan får barnen till exemp
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0ODY1OTQzLDcwNTkxMjU4MSwxMzAyNz
-g0MjcxLDE4NTg4NTYwNzEsMjA0MDI5NzYyMiw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTM0MTQ0Mjc0Niw3MDU5MTI1ODEsMTMwMj
+c4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNzMwOTk4MTE2
+XX0=
 -->
