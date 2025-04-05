@@ -6,7 +6,10 @@ I Sverige måste alla barn gå i skolan. För ungefär hundra år sedan gick de 
 |--|--|--|--|
 | Förskola | Grundskola | Gymnasieskola | Universitet |
 | Ålder 0-5 år | Ålder 6-16 år | Vuxenutbildning | Högskola |
+
 Det är gratis att studera i grundskolan, på gymnasiet, på universitetet och på högskolan. Flera vuxenutbildningar är också gratis.
+## Obligatorisk grundskola
+
 
 # Vem betalar?
 
@@ -26,7 +29,7 @@ Det är gratis att studera i grundskolan, på gymnasiet, på universitetet och p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5NTI1ODAwLDcwNTkxMjU4MSwxMzAyNz
-g0MjcxLDE4NTg4NTYwNzEsMjA0MDI5NzYyMiw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbMTg2NjIyNzc3MCw3MDU5MTI1ODEsMTMwMj
+c4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNzMwOTk4MTE2
+XX0=
 -->
