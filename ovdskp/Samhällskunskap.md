@@ -19,8 +19,8 @@ Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matemat
 > NO står för naturorienterande ämnen som fysik, kemi, biologi och teknik, medan SO är samhällsorienterande ämnen som historia, geografi, religion och samhällskunskap.
 
 > Det här är ett schema för elever i årskurs 7.
-|  |  |
-|--|--|
+| TID | MÅNDAG | TISDAG | ONSDAG | TORSDAG | FREDAG |
+|--|--|--|--|--| 
 |  |  |
 
 
@@ -42,7 +42,7 @@ Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matemat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgzMzY5NjAsMTgyMDIxNjUxMSwxMj
+eyJoaXN0b3J5IjpbLTEzMDU1Mzg2MDgsMTgyMDIxNjUxMSwxMj
 cyMTQ1NTg3LDcwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYw
 NzEsMjA0MDI5NzYyMiw3MzA5OTgxMTZdfQ==
 -->
