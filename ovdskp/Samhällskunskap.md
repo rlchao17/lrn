@@ -19,9 +19,19 @@ Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matemat
 > NO står för naturorienterande ämnen som fysik, kemi, biologi och teknik, medan SO är samhällsorienterande ämnen som historia, geografi, religion och samhällskunskap.
 
 > Det här är ett schema för elever i årskurs 7.
+
 | TID | MÅNDAG | TISDAG | ONSDAG | TORSDAG | FREDAG |
-|--|--|--|--|--| 
-|  |  |
+|--|--|--|--|--|--| 
+| 08.10-08.50 | EN | SO | NO |  |  |
+| 09.00-09.40 | SV | SPRÅKVAL | NO | MA | SO |
+| 09.40-10.00 | RAST | RAST | RAST | RAST | RAST |
+| 10.00-10.40 | MA | BL | MU | NO | BL |
+| 10.50-11.30 | SO | SV | EN | SPRÅKVAL | MENTORSTID |
+| 11.30-12.30 | LUNCH | LUNCH | LUNCH | LUNCH | LUNCH |
+| 12.30-13.10 | MU | MA | SPRÅKVAL | EN | SV |
+| 13.20-14.30 | IDH |  | HOK | IDH | SV |
+| 14.30-15.30 | IDH |  | HOK | IDH |  |
+
 
 
 # Vem betalar?
@@ -42,7 +52,7 @@ Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matemat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU1Mzg2MDgsMTgyMDIxNjUxMSwxMj
-cyMTQ1NTg3LDcwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYw
-NzEsMjA0MDI5NzYyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTAxODQyNDM4MiwxODIwMjE2NTExLDEyNz
+IxNDU1ODcsNzA1OTEyNTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3
+MSwyMDQwMjk3NjIyLDczMDk5ODExNl19
 -->
