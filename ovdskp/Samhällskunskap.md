@@ -15,7 +15,7 @@ Grundskolan kostar ingenting för föräldrarna. I skolan får barnen till exemp
 
 Skolåret delas in i två terminer, höstterminen och vårterminen. Höstterminen börjar i augusti och vårterminen börjar i januari.
 
-
+Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matematik, engelska, NO och SO.
 
 # Vem betalar?
 
@@ -35,7 +35,7 @@ Skolåret delas in i två terminer, höstterminen och vårterminen. Hösttermine
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTQ0Mjc0Niw3MDU5MTI1ODEsMTMwMj
+eyJoaXN0b3J5IjpbMTI3MjE0NTU4Nyw3MDU5MTI1ODEsMTMwMj
 c4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNzMwOTk4MTE2
 XX0=
 -->
