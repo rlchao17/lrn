@@ -18,8 +18,6 @@ Skolåret delas in i två terminer, höstterminen och vårterminen. Hösttermine
 Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matematik, engelska, NO och SO. I skolan har eleverna ett schema. På schemat kan man se vilken tid eleverna börjar och slutar, vilken tid de har raster och vilka ämnen de studerar de olika dagarna.
 > NO står för naturorienterande ämnen som fysik, kemi, biologi och teknik, medan SO är samhällsorienterande ämnen som historia, geografi, religion och samhällskunskap.
 
-> Det här är ett schema för elever i årskurs 7.
-
 | TID | MÅNDAG | TISDAG | ONSDAG | TORSDAG | FREDAG |
 |--|--|--|--|--|--| 
 | 08.10-08.50 | EN | SO | NO |  |  |
@@ -31,6 +29,7 @@ Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matemat
 | 12.30-13.10 | MU | MA | SPRÅKVAL | EN | SV |
 | 13.20-14.30 | IDH |  | HOK | IDH | SV |
 | 14.30-15.30 | IDH |  | HOK | IDH |  |
+> Det här är ett schema för elever i årskurs 7.
 
 
 
@@ -52,7 +51,7 @@ Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matemat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODQyNDM4MiwxODIwMjE2NTExLDEyNz
-IxNDU1ODcsNzA1OTEyNTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3
-MSwyMDQwMjk3NjIyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE4NDIzODMzNjAsMTAxODQyNDM4MiwxOD
+IwMjE2NTExLDEyNzIxNDU1ODcsNzA1OTEyNTgxLDEzMDI3ODQy
+NzEsMTg1ODg1NjA3MSwyMDQwMjk3NjIyLDczMDk5ODExNl19
 -->
