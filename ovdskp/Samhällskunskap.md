@@ -1,5 +1,7 @@
 # Skolan
 I Sverige måste alla barn gå i skolan. För ungefär hundra år sedan gick de flesta barn bara sex år i skolan. Sedan började de flesta arbeta.
+> Vad tror du, varför började många barn arbeta när de hade studerat i sex år?
+## Utbildning i Sverige
 
 # Vem betalar?
 
@@ -19,6 +21,6 @@ I Sverige måste alla barn gå i skolan. För ungefär hundra år sedan gick de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjc4NDI3MSwxODU4ODU2MDcxLDIwND
-AyOTc2MjIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNzA1OTEyNTgxLDEzMDI3ODQyNzEsMTg1OD
+g1NjA3MSwyMDQwMjk3NjIyLDczMDk5ODExNl19
 -->
