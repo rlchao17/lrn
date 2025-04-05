@@ -9,7 +9,7 @@ I Sverige måste alla barn gå i skolan. För ungefär hundra år sedan gick de 
 
 Det är gratis att studera i grundskolan, på gymnasiet, på universitetet och på högskolan. Flera vuxenutbildningar är också gratis.
 ## Obligatorisk grundskola
-
+Grundskolan är obligatorisk. Det betyder att alla barn
 
 # Vem betalar?
 
@@ -29,7 +29,7 @@ Det är gratis att studera i grundskolan, på gymnasiet, på universitetet och p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjIyNzc3MCw3MDU5MTI1ODEsMTMwMj
+eyJoaXN0b3J5IjpbLTc4NTk2MTQ3Niw3MDU5MTI1ODEsMTMwMj
 c4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNzMwOTk4MTE2
 XX0=
 -->
