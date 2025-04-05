@@ -31,7 +31,8 @@ Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matemat
 | 14.30-15.30 | IDH |  | HOK | IDH |  |
 > Det här är ett schema för elever i årskurs 7.
 
-
+## Skolan och hemmet
+Varje termin träffas läraren, föräldrarna och eleven till utvecklingssamtal.
 
 # Vem betalar?
 
@@ -51,7 +52,8 @@ Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matemat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDIzODMzNjAsMTAxODQyNDM4MiwxOD
-IwMjE2NTExLDEyNzIxNDU1ODcsNzA1OTEyNTgxLDEzMDI3ODQy
-NzEsMTg1ODg1NjA3MSwyMDQwMjk3NjIyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMD
+E4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0NTU4Nyw3MDU5MTI1
+ODEsMTMwMjc4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNz
+MwOTk4MTE2XX0=
 -->
