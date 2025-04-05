@@ -6,7 +6,7 @@ I Sverige måste alla barn gå i skolan. För ungefär hundra år sedan gick de 
 |--|--|--|--|
 | Förskola | Grundskola | Gymnasieskola | Universitet |
 | Ålder 0-5 år | Ålder 6-16 år | Vuxenutbildning | Högskola |
-
+Det är gratis at
 
 # Vem betalar?
 
@@ -26,7 +26,7 @@ I Sverige måste alla barn gå i skolan. För ungefär hundra år sedan gick de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTc4MTA5OSw3MDU5MTI1ODEsMTMwMj
+eyJoaXN0b3J5IjpbLTg2MDE0OTg3Myw3MDU5MTI1ODEsMTMwMj
 c4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNzMwOTk4MTE2
 XX0=
 -->
