@@ -1,5 +1,5 @@
 # Skolan
-
+I Sverige måste alla barn gå i skolan.
 # Vem betalar?
 
 # Lagar i Sverige
@@ -18,6 +18,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODg1NjA3MSwyMDQwMjk3NjIyLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMzg2MzgwMywxODU4ODU2MDcxLDIwNDAyOT
+c2MjIsNzMwOTk4MTE2XX0=
 -->
