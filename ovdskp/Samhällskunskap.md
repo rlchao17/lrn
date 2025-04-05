@@ -16,6 +16,8 @@ Grundskolan kostar ingenting för föräldrarna. I skolan får barnen till exemp
 Skolåret delas in i två terminer, höstterminen och vårterminen. Höstterminen börjar i augusti och vårterminen börjar i januari.
 
 Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matematik, engelska, NO och SO.
+> NO står för naturorienterande ämnen som fysik, kemi, biologi och teknik, medan SO är samhällsorienterande ämnen som historia, geografi, religion och samhällskunskap.
+
 
 # Vem betalar?
 
@@ -35,7 +37,7 @@ Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matemat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjE0NTU4Nyw3MDU5MTI1ODEsMTMwMj
-c4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbNDcyMDIxMDA1LDEyNzIxNDU1ODcsNzA1OT
+EyNTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMDQwMjk3NjIy
+LDczMDk5ODExNl19
 -->
