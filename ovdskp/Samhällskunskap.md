@@ -54,16 +54,16 @@ Vuxna kan studera på olika skolor inom vuenutbildningen, till exempel en folkh�
 | en utbilding |  |
 | obligatorisk |  |
 | frivillig |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| en grundskola |  |
+| ett gymnasium |  |
+| ett universitet |  |
+| en högskola |  |
+| en termin |  |
+| ett ämne |  |
+| ett samtal |  |
+| ett möte |  |
+| information |  |
+| ett yrke |  |
 
 
 # Vem betalar?
@@ -84,8 +84,8 @@ Vuxna kan studera på olika skolor inom vuenutbildningen, till exempel en folkh�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5NzMyMjIwLDEwMjk1MjM1NDksLTEyNz
-M0NDI1MCwtMTg0MjM4MzM2MCwxMDE4NDI0MzgyLDE4MjAyMTY1
-MTEsMTI3MjE0NTU4Nyw3MDU5MTI1ODEsMTMwMjc4NDI3MSwxOD
-U4ODU2MDcxLDIwNDAyOTc2MjIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTY4MjgwNDEyMiwxMDI5NTIzNTQ5LC0xMj
+czNDQyNTAsLTE4NDIzODMzNjAsMTAxODQyNDM4MiwxODIwMjE2
+NTExLDEyNzIxNDU1ODcsNzA1OTEyNTgxLDEzMDI3ODQyNzEsMT
+g1ODg1NjA3MSwyMDQwMjk3NjIyLDczMDk5ODExNl19
 -->
