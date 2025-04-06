@@ -42,6 +42,8 @@ Det är obligatoriskt att studera i grundskolan. Efter grundskolan kan man stude
 På gymnasiet finns det många olika program att välja mellan, till exempel yrkesprogram. Om man väljer ett yrkesprogram kan man söka jobb och börja arbeta direkt efter gymnasiet.
 
 Det kostar ingenting att gå på gymnasiet. Eleverna får bland annat böcker. De får också ofta låna en dator. Alla elever på gymnasiet får lunch.
+## Universitet eller högskola
+Om du vill bli till exempel lärare, ingenjör, sjuksköterska
 
 # Vem betalar?
 
@@ -61,8 +63,8 @@ Det kostar ingenting att gå på gymnasiet. Eleverna får bland annat böcker. D
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODc1MzEwLC0xMjczNDQyNTAsLTE4ND
-IzODMzNjAsMTAxODQyNDM4MiwxODIwMjE2NTExLDEyNzIxNDU1
-ODcsNzA1OTEyNTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMD
-QwMjk3NjIyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTYzOTYxNzIwOSwtMTI3MzQ0MjUwLC0xOD
+QyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1
+NTg3LDcwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMj
+A0MDI5NzYyMiw3MzA5OTgxMTZdfQ==
 -->
