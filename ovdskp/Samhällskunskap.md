@@ -39,7 +39,9 @@ Skolan har också föräldramöten. På ett föräldramöte får föräldrarna i
 ## Gymnasieskolan
 Det är obligatoriskt att studera i grundskolan. Efter grundskolan kan man studera tre år på gymnasiet. Det är frivilligt, men nästan alla ungdomar väljer att gå på gymnasiet.
 
-På gymnasiet finns det många olika program att välja mellan, till exempel yrkesprogram. Om man mäljer ett yrkesprogram kan man söka jobb och börja arbeta direkt efter gymnasiet.
+På gymnasiet finns det många olika program att välja mellan, till exempel yrkesprogram. Om man väljer ett yrkesprogram kan man söka jobb och börja arbeta direkt efter gymnasiet.
+
+Det kostar ingenting att gå på gymnasiet. Eleverna får bland annat böcker. De får också ofta låna en dator. Alla elever på gymnasiet får lunch.
 
 # Vem betalar?
 
@@ -59,7 +61,7 @@ På gymnasiet finns det många olika program att välja mellan, till exempel yrk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NDM4NDk3LC0xMjczNDQyNTAsLTE4ND
+eyJoaXN0b3J5IjpbMTM5ODc1MzEwLC0xMjczNDQyNTAsLTE4ND
 IzODMzNjAsMTAxODQyNDM4MiwxODIwMjE2NTExLDEyNzIxNDU1
 ODcsNzA1OTEyNTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMD
 QwMjk3NjIyLDczMDk5ODExNl19
