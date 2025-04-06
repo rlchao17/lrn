@@ -49,6 +49,21 @@ Du måste inte studera på gymnasiet eller universitet för att få ett yrke. De
 
 Vuxna kan studera på olika skolor inom vuenutbildningen, till exempel en folkhögskola. Det är också gratis.
 
+|  |  |
+|--|--|
+| en utbilding |  |
+| obligatorisk |  |
+| frivillig |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 # Vem betalar?
@@ -69,8 +84,8 @@ Vuxna kan studera på olika skolor inom vuenutbildningen, till exempel en folkh�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xOD
-QyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1
-NTg3LDcwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMj
-A0MDI5NzYyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTY5NzMyMjIwLDEwMjk1MjM1NDksLTEyNz
+M0NDI1MCwtMTg0MjM4MzM2MCwxMDE4NDI0MzgyLDE4MjAyMTY1
+MTEsMTI3MjE0NTU4Nyw3MDU5MTI1ODEsMTMwMjc4NDI3MSwxOD
+U4ODU2MDcxLDIwNDAyOTc2MjIsNzMwOTk4MTE2XX0=
 -->
