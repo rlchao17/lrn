@@ -57,10 +57,10 @@ Vuxna kan studera på olika skolor inom vuenutbildningen, till exempel en folkh�
 | en grundskola | 基础学校 |
 | ett gymnasium | 高中 |
 | ett universitet | 大学 |
-| en högskola |  |
-| en termin |  |
-| ett ämne |  |
-| ett samtal |  |
+| en högskola | 学院 |
+| en termin | 学期 |
+| ett ämne | 科目 |
+| ett samtal | 对话 |
 | ett möte |  |
 | information |  |
 | ett yrke |  |
@@ -84,9 +84,9 @@ Vuxna kan studera på olika skolor inom vuenutbildningen, till exempel en folkh�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
-I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
-MzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LD
-cwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMjA0MDI5
-NzYyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTE2MjA4ODcyNCwxMDExODYyMjU2LDEwNz
+IxODA0NTIsLTY4MjgwNDEyMiwxMDI5NTIzNTQ5LC0xMjczNDQy
+NTAsLTE4NDIzODMzNjAsMTAxODQyNDM4MiwxODIwMjE2NTExLD
+EyNzIxNDU1ODcsNzA1OTEyNTgxLDEzMDI3ODQyNzEsMTg1ODg1
+NjA3MSwyMDQwMjk3NjIyLDczMDk5ODExNl19
 -->
