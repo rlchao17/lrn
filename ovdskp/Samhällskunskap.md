@@ -55,8 +55,8 @@ Vuxna kan studera på olika skolor inom vuenutbildningen, till exempel en folkh�
 | obligatorisk | 强制的 |
 | frivillig | 义务的 |
 | en grundskola | 基础学校 |
-| ett gymnasium |  |
-| ett universitet |  |
+| ett gymnasium | 高中 |
+| ett universitet | 大学 |
 | en högskola |  |
 | en termin |  |
 | ett ämne |  |
@@ -84,9 +84,9 @@ Vuxna kan studera på olika skolor inom vuenutbildningen, till exempel en folkh�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjE4MDQ1MiwtNjgyODA0MTIyLDEwMj
-k1MjM1NDksLTEyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMDE4NDI0
-MzgyLDE4MjAyMTY1MTEsMTI3MjE0NTU4Nyw3MDU5MTI1ODEsMT
-MwMjc4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
+I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
+MzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LD
+cwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMjA0MDI5
+NzYyMiw3MzA5OTgxMTZdfQ==
 -->
