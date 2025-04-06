@@ -43,7 +43,7 @@ På gymnasiet finns det många olika program att välja mellan, till exempel yrk
 
 Det kostar ingenting att gå på gymnasiet. Eleverna får bland annat böcker. De får också ofta låna en dator. Alla elever på gymnasiet får lunch.
 ## Universitet eller högskola
-Om du vill bli till exempel lärare, ingenjör, sjuksköterska
+Om du vill bli till exempel lärare, ingenjör, sjuksköterska eller läkare måste du studera på universitet eller högskola. Att studera på universitet eller 
 
 # Vem betalar?
 
@@ -63,8 +63,8 @@ Om du vill bli till exempel lärare, ingenjör, sjuksköterska
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTYxNzIwOSwtMTI3MzQ0MjUwLC0xOD
-QyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1
-NTg3LDcwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMj
-A0MDI5NzYyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MTUxMjAwMzcsLTEyNzM0NDI1MCwtMT
+g0MjM4MzM2MCwxMDE4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0
+NTU4Nyw3MDU5MTI1ODEsMTMwMjc4NDI3MSwxODU4ODU2MDcxLD
+IwNDAyOTc2MjIsNzMwOTk4MTE2XX0=
 -->
