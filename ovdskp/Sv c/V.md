@@ -7,7 +7,11 @@ Du arbetar på samma sätt med varje kapitel. Utgångspunkten är alltid en län
 
 Alla texter i Språkvägen C är tagna ur verkligheten och de handlar om allt från kärlek till klädbibliotek. Vi hoppas att du tycker de är intressanta och att de ger dig glädje på vägen till ditt nya språk.
 
-Du kan lyssna på texterna i mobilen eller läsplatta, s
+Du kan lyssna på texterna i mobilen eller läsplatta, sprakvagen.se/c/ eller på mp3-filer på ävningsmästaren.se.
+
+Lycka till!
+Caroline och Ulrika
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2NDY0NjcsLTE2MTI0MTU3OTBdfQ==
+eyJoaXN0b3J5IjpbMjcxODkwNDEwLC0xNjEyNDE1NzkwXX0=
 -->
