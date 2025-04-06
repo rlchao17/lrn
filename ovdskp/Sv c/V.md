@@ -5,8 +5,9 @@ När du lär dig ett nytt språk är det bra att lyssna på språket först. Sed
 
 Du arbetar på samma sätt med varje kapitel. Utgångspunkten är alltid en längre text med tillhörande övningar där du ska lyssna, tala, skriva och läsa. Det finns också kompletterande skriv - och grammatikövningar i lärarhandledningen till varje kapitel.
 
-Alla texter i Språkvägen C är tagna ur verkligheten och de handlar om allt från kärlek till klädbibliotek. Vi hopppas att du tycker de är intresssanta och att de ger dig glädje på vägen till ditt nya språk.
+Alla texter i Språkvägen C är tagna ur verkligheten och de handlar om allt från kärlek till klädbibliotek. Vi hoppas att du tycker de är intressanta och att de ger dig glädje på vägen till ditt nya språk.
 
+Du kan lyssna på texterna i mobilen eller läsplatta, s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODQ3MTE2MiwtMTYxMjQxNTc5MF19
+eyJoaXN0b3J5IjpbOTg2NDY0NjcsLTE2MTI0MTU3OTBdfQ==
 -->
