@@ -1,5 +1,6 @@
 Till eleven
-Vålkommen till 
+Välkommen till Språkvägen C!
+När du lär dig ett nytt språk är det bra att lyssna på språket först. Sedan talar du, för att till sist skriva och läsa.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3Mzk0NjQ1XX0=
+eyJoaXN0b3J5IjpbMTY1NTYwMDc5M119
 -->
