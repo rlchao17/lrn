@@ -32,7 +32,9 @@ Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matemat
 > Det här är ett schema för elever i årskurs 7.
 
 ## Skolan och hemmet
-Varje termin träffas läraren, föräldrarna och eleven till utvecklingssamtal.
+Varje termin träffas läraren, föräldrarna och eleven till utvecklingssamtal. De samtalar om hur det går eleven i skolan.
+
+Skolan ha
 
 # Vem betalar?
 
@@ -52,8 +54,8 @@ Varje termin träffas läraren, föräldrarna och eleven till utvecklingssamtal.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMD
-E4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0NTU4Nyw3MDU5MTI1
-ODEsMTMwMjc4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQzNzkxMzY1MywtMTI3MzQ0MjUwLC0xOD
+QyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1
+NTg3LDcwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMj
+A0MDI5NzYyMiw3MzA5OTgxMTZdfQ==
 -->
