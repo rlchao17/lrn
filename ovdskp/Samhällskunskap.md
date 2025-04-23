@@ -94,7 +94,7 @@ Varje gång du köper något betalar du skatt. Den skatten kallas moms.
 
 
 # Lagar i Sverige
-
+De flesta länder har lagar. Alla invånare måste följa landets lagar. Sverige har många lagar.
 # Vem styr Sverige?
 
 # Val i Sverige
@@ -109,10 +109,11 @@ Varje gång du köper något betalar du skatt. Den skatten kallas moms.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDYwMjAyMSwxODE3NTE5NTY4LDE2MT
-IyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4MzEsMTAxMTg2MjI1
-NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMTAyOTUyMzU0OSwtMT
-I3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIx
-NjUxMSwxMjcyMTQ1NTg3LDcwNTkxMjU4MSwxMzAyNzg0MjcxLD
-E4NTg4NTYwNzEsMjA0MDI5NzYyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTY1ODIxOTAyLDE3NDQ2MDIwMjEsMTgxNz
+UxOTU2OCwxNjEyMjUzOTY4LDU1MzA1NTc3NSwxNTA5MTQ0ODMx
+LDEwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIyLDEwMj
+k1MjM1NDksLTEyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMDE4NDI0
+MzgyLDE4MjAyMTY1MTEsMTI3MjE0NTU4Nyw3MDU5MTI1ODEsMT
+MwMjc4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNzMwOTk4
+MTE2XX0=
 -->
