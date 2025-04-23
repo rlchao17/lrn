@@ -80,7 +80,9 @@ Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sveri
 
 Vem betalar? Jo, pengarna kommer från skatt.
 ## Elsa betalar skatt
-Alla som arbetar och tjänar pengar i Sverige måste betala skatt. Elsa arbetar 
+Alla som arbetar och tjänar pengar i Sverige måste betala skatt. Elsa arbetar som säljare i en affär. Hon tjärnar 24 000 kronor i månaden. Elsa betalar ungefär 7 000 kronor i skatt.
+
+> Blockquote
 
 # Lagar i Sverige
 
@@ -98,10 +100,10 @@ Alla som arbetar och tjänar pengar i Sverige måste betala skatt. Elsa arbetar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5MzkwOTI3LDU1MzA1NTc3NSwxNTA5MT
-Q0ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIy
-LDEwMjk1MjM1NDksLTEyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMD
-E4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0NTU4Nyw3MDU5MTI1
-ODEsMTMwMjc4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1Mzg3MzQzNTgsNTUzMDU1Nzc1LDE1MD
+kxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02ODI4MDQx
+MjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgzMzYwLD
+EwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LDcwNTkx
+MjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMjA0MDI5NzYyMi
+w3MzA5OTgxMTZdfQ==
 -->
