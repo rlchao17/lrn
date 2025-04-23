@@ -83,6 +83,9 @@ Vem betalar? Jo, pengarna kommer från skatt.
 Alla som arbetar och tjänar pengar i Sverige måste betala skatt. Elsa arbetar som säljare i en affär. Hon tjärnar 24 000 kronor i månaden. Elsa betalar ungefär 7 000 kronor i skatt.
 > Hur mycket har Elsa kvar varje månad? Vad ska pengarna räcka till?
 
+## Moms
+Ett land behöver mycket pengar. Det behöver bland annat pe
+
 # Lagar i Sverige
 
 # Vem styr Sverige?
@@ -99,10 +102,10 @@ Alla som arbetar och tjänar pengar i Sverige måste betala skatt. Elsa arbetar 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjI1Mzk2OCw1NTMwNTU3NzUsMTUwOT
-E0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0NTIsLTY4MjgwNDEy
-MiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLTE4NDIzODMzNjAsMT
-AxODQyNDM4MiwxODIwMjE2NTExLDEyNzIxNDU1ODcsNzA1OTEy
-NTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMDQwMjk3NjIyLD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTI0NzExNDMxMywxNjEyMjUzOTY4LDU1Mz
+A1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1
+MiwtNjgyODA0MTIyLDEwMjk1MjM1NDksLTEyNzM0NDI1MCwtMT
+g0MjM4MzM2MCwxMDE4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0
+NTU4Nyw3MDU5MTI1ODEsMTMwMjc4NDI3MSwxODU4ODU2MDcxLD
+IwNDAyOTc2MjIsNzMwOTk4MTE2XX0=
 -->
