@@ -84,7 +84,11 @@ Alla som arbetar och tjänar pengar i Sverige måste betala skatt. Elsa arbetar 
 > Hur mycket har Elsa kvar varje månad? Vad ska pengarna räcka till?
 
 ## Moms
-Ett land behöver mycket pengar. Det behöver bland annat pe
+Ett land behöver mycket pengar. Det behöver bland annat pengar till vägar, järnvägar och poliser. Därför finns det andra skatter också.
+
+Varje gång du köper något betalar du skatt. Den skatten kallas moms.
+
+> Hur betalar man skatt i ditt hemland?
 
 # Lagar i Sverige
 
@@ -102,7 +106,7 @@ Ett land behöver mycket pengar. Det behöver bland annat pe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzExNDMxMywxNjEyMjUzOTY4LDU1Mz
+eyJoaXN0b3J5IjpbMTgxNzUxOTU2OCwxNjEyMjUzOTY4LDU1Mz
 A1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1
 MiwtNjgyODA0MTIyLDEwMjk1MjM1NDksLTEyNzM0NDI1MCwtMT
 g0MjM4MzM2MCwxMDE4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0
