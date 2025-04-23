@@ -75,7 +75,8 @@ Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sveri
  - Du betalar inte mycket när du går till doktorn. Vem betalar resten?
  - På många platser i Sverige är det gratis att gå till doktorn om du är under 20 år. Vem betalar? Varifrån kommer pengarna?
  - Gravida kvinnor som går till mödravårdscentralen (MVC) behöver inte betala. Vem betalar?
- - Alla som ha
+ - Alla som har små barn går med dem till barnavårdscentralen (BVC). Det är gratis. Vem betalar?
+ - Vatten som vi dricker måste oftast renas. V
 
 # Lagar i Sverige
 
@@ -93,10 +94,10 @@ Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sveri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU1NjQ2OTUsNTUzMDU1Nzc1LDE1MD
-kxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02ODI4MDQx
-MjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgzMzYwLD
-EwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LDcwNTkx
-MjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMjA0MDI5NzYyMi
-w3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTUzNTE1MDY2OCw1NTMwNTU3NzUsMTUwOT
+E0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0NTIsLTY4MjgwNDEy
+MiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLTE4NDIzODMzNjAsMT
+AxODQyNDM4MiwxODIwMjE2NTExLDEyNzIxNDU1ODcsNzA1OTEy
+NTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMDQwMjk3NjIyLD
+czMDk5ODExNl19
 -->
