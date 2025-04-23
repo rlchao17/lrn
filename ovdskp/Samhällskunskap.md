@@ -77,6 +77,7 @@ Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sveri
  - Gravida kvinnor som går till mödravårdscentralen (MVC) behöver inte betala. Vem betalar?
  - Alla som har små barn går med dem till barnavårdscentralen (BVC). Det är gratis. Vem betalar?
  - Vatten som vi dricker måste oftast renas. Vem betalar?
+
 Vem betalar? Jo, pengarna kommer från skatt.
 
 
@@ -96,10 +97,10 @@ Vem betalar? Jo, pengarna kommer från skatt.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDU1NTE4Niw1NTMwNTU3NzUsMTUwOT
-E0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0NTIsLTY4MjgwNDEy
-MiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLTE4NDIzODMzNjAsMT
-AxODQyNDM4MiwxODIwMjE2NTExLDEyNzIxNDU1ODcsNzA1OTEy
-NTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMDQwMjk3NjIyLD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDA1NzY1NjkyLDU1MzA1NTc3NSwxNTA5MT
+Q0ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIy
+LDEwMjk1MjM1NDksLTEyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMD
+E4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0NTU4Nyw3MDU5MTI1
+ODEsMTMwMjc4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNz
+MwOTk4MTE2XX0=
 -->
