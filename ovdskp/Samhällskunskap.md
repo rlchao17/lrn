@@ -89,6 +89,7 @@ Ett land behöver mycket pengar. Det behöver bland annat pengar till vägar, j�
 Varje gång du köper något betalar du skatt. Den skatten kallas moms.
 
 > Hur betalar man skatt i ditt hemland?
+**** 
 
 # Lagar i Sverige
 
@@ -106,10 +107,10 @@ Varje gång du köper något betalar du skatt. Den skatten kallas moms.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzUxOTU2OCwxNjEyMjUzOTY4LDU1Mz
-A1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1
-MiwtNjgyODA0MTIyLDEwMjk1MjM1NDksLTEyNzM0NDI1MCwtMT
-g0MjM4MzM2MCwxMDE4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0
-NTU4Nyw3MDU5MTI1ODEsMTMwMjc4NDI3MSwxODU4ODU2MDcxLD
-IwNDAyOTc2MjIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTMzODI4NzE4MCwxODE3NTE5NTY4LDE2MT
+IyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4MzEsMTAxMTg2MjI1
+NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMTAyOTUyMzU0OSwtMT
+I3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIx
+NjUxMSwxMjcyMTQ1NTg3LDcwNTkxMjU4MSwxMzAyNzg0MjcxLD
+E4NTg4NTYwNzEsMjA0MDI5NzYyMiw3MzA5OTgxMTZdfQ==
 -->
