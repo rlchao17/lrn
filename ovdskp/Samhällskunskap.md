@@ -69,7 +69,9 @@ Vuxna kan studera på olika skolor inom vuxenutbildningen, till exempel en folkh
 # Vem betalar?
 Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sverige.
 
- - Det är gratis för alla barn 
+ - Det är gratis för alla barn att gå i skola. De får mat i skolan varje dag. Vem betalar?
+ - Det är gratis för dig att studera. Vem betalar?
+ - Det är gratis att gå till tandläkaren för alla s
 
 # Lagar i Sverige
 
@@ -87,10 +89,10 @@ Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sveri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4Mzc2MjgsNTUzMDU1Nzc1LDE1MDkxND
-Q4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIs
-MTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMT
-g0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LDcwNTkxMjU4
-MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMjA0MDI5NzYyMiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTA5MTg5MDk1LDU1MzA1NTc3NSwxNTA5MT
+Q0ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIy
+LDEwMjk1MjM1NDksLTEyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMD
+E4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0NTU4Nyw3MDU5MTI1
+ODEsMTMwMjc4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNz
+MwOTk4MTE2XX0=
 -->
