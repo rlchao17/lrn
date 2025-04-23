@@ -71,7 +71,9 @@ Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sveri
 
  - Det är gratis för alla barn att gå i skola. De får mat i skolan varje dag. Vem betalar?
  - Det är gratis för dig att studera. Vem betalar?
- - Det är gratis att gå till tandläkaren för alla s
+ - Det är gratis att gå till tandläkaren för alla som är under 24 år. Vem betalar?
+ - Du betalar inte mycket när du går till doktorn. Vem betalar resten?
+ - På många platser i Sverige är det gratis att gå till doktorn om du är under 20 år.
 
 # Lagar i Sverige
 
@@ -89,10 +91,10 @@ Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sveri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTg5MDk1LDU1MzA1NTc3NSwxNTA5MT
-Q0ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIy
-LDEwMjk1MjM1NDksLTEyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMD
-E4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0NTU4Nyw3MDU5MTI1
-ODEsMTMwMjc4NDI3MSwxODU4ODU2MDcxLDIwNDAyOTc2MjIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTU1MTQzNDQ4Myw1NTMwNTU3NzUsMTUwOT
+E0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0NTIsLTY4MjgwNDEy
+MiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLTE4NDIzODMzNjAsMT
+AxODQyNDM4MiwxODIwMjE2NTExLDEyNzIxNDU1ODcsNzA1OTEy
+NTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMDQwMjk3NjIyLD
+czMDk5ODExNl19
 -->
