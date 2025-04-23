@@ -89,7 +89,8 @@ Ett land behöver mycket pengar. Det behöver bland annat pengar till vägar, j�
 Varje gång du köper något betalar du skatt. Den skatten kallas moms.
 
 > Hur betalar man skatt i ditt hemland?
-**** 
+**** ett kvitto, ATT BETALA 379 Kr, MOMS 25%, BELOPP 75,78
+
 
 # Lagar i Sverige
 
@@ -107,7 +108,7 @@ Varje gång du köper något betalar du skatt. Den skatten kallas moms.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODI4NzE4MCwxODE3NTE5NTY4LDE2MT
+eyJoaXN0b3J5IjpbLTcyNjg1NDUzNywxODE3NTE5NTY4LDE2MT
 IyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4MzEsMTAxMTg2MjI1
 NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMTAyOTUyMzU0OSwtMT
 I3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIx
