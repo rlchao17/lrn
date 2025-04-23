@@ -67,7 +67,10 @@ Vuxna kan studera på olika skolor inom vuxenutbildningen, till exempel en folkh
 
 
 # Vem betalar?
-Mycket som kostar pengar i andra länder
+Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sverige.
+
+ - Det är gratis för alla barn 
+
 # Lagar i Sverige
 
 # Vem styr Sverige?
@@ -84,10 +87,10 @@ Mycket som kostar pengar i andra länder
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDIzMTExMiw1NTMwNTU3NzUsMTUwOT
-E0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0NTIsLTY4MjgwNDEy
-MiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLTE4NDIzODMzNjAsMT
-AxODQyNDM4MiwxODIwMjE2NTExLDEyNzIxNDU1ODcsNzA1OTEy
-NTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMDQwMjk3NjIyLD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbODc4Mzc2MjgsNTUzMDU1Nzc1LDE1MDkxND
+Q4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIs
+MTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMT
+g0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LDcwNTkxMjU4
+MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMjA0MDI5NzYyMiw3Mz
+A5OTgxMTZdfQ==
 -->
