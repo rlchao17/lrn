@@ -79,7 +79,8 @@ Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sveri
  - Vatten som vi dricker måste oftast renas. Vem betalar?
 
 Vem betalar? Jo, pengarna kommer från skatt.
-
+## Elsa betalar skatt
+Alla som arbetar och tjänar pengar i Sverige måste betala skatt. Elsa arbetar 
 
 # Lagar i Sverige
 
@@ -97,7 +98,7 @@ Vem betalar? Jo, pengarna kommer från skatt.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1NzY1NjkyLDU1MzA1NTc3NSwxNTA5MT
+eyJoaXN0b3J5IjpbOTU5MzkwOTI3LDU1MzA1NTc3NSwxNTA5MT
 Q0ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIy
 LDEwMjk1MjM1NDksLTEyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMD
 E4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0NTU4Nyw3MDU5MTI1
