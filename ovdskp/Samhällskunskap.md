@@ -90,7 +90,7 @@ Varje gång du köper något betalar du skatt. Den skatten kallas moms.
 
 > Hur betalar man skatt i ditt hemland?
 
-**** ett kvitto, ATT BETALA 379 Kr, MOMS 25%, BELOPP 75,78
+#### ett kvitto, ATT BETALA 379 Kr, MOMS 25%, BELOPP 75,78
 
 
 # Lagar i Sverige
@@ -109,7 +109,7 @@ Varje gång du köper något betalar du skatt. Den skatten kallas moms.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTE2MzYyMSwxODE3NTE5NTY4LDE2MT
+eyJoaXN0b3J5IjpbMTc0NDYwMjAyMSwxODE3NTE5NTY4LDE2MT
 IyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4MzEsMTAxMTg2MjI1
 NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMTAyOTUyMzU0OSwtMT
 I3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIx
