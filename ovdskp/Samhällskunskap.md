@@ -47,7 +47,7 @@ Om du vill bli till exempel lärare, ingenjör, sjuksköterska eller läkare må
 ## Andra skolor
 Du måste inte studera på gymnasiet eller universitet för att få ett yrke. Det finns andra skolor där du kan lära dig ett yrke.
 
-Vuxna kan studera på olika skolor inom vuenutbildningen, till exempel en folkhögskola. Det är också gratis.
+Vuxna kan studera på olika skolor inom vuxenutbildningen, till exempel en folkhögskola. Det är också gratis.
 
 |  |  |
 |--|--|
@@ -84,9 +84,10 @@ Vuxna kan studera på olika skolor inom vuenutbildningen, till exempel en folkh�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNz
-IxODA0NTIsLTY4MjgwNDEyMiwxMDI5NTIzNTQ5LC0xMjczNDQy
-NTAsLTE4NDIzODMzNjAsMTAxODQyNDM4MiwxODIwMjE2NTExLD
-EyNzIxNDU1ODcsNzA1OTEyNTgxLDEzMDI3ODQyNzEsMTg1ODg1
-NjA3MSwyMDQwMjk3NjIyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTUzMDU1Nzc1LDE1MDkxNDQ4MzEsMTAxMT
+g2MjI1NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMTAyOTUyMzU0
+OSwtMTI3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0MjQzODIsMT
+gyMDIxNjUxMSwxMjcyMTQ1NTg3LDcwNTkxMjU4MSwxMzAyNzg0
+MjcxLDE4NTg4NTYwNzEsMjA0MDI5NzYyMiw3MzA5OTgxMTZdfQ
+==
 -->
