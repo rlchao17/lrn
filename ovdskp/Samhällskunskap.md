@@ -104,7 +104,9 @@ Här är några exempel på lagar i Sverige:
  - Man måste vara 18 år för att få gifta sig.
  - En man och en kvinna har samma rättigheter.
  - Det är förbjudet att slå barn.
- - Det är förbjudet att ha kniv med sig på bussar, tåg, restauranger, i skolan och på många 
+ - Det är förbjudet att ha kniv med sig på bussar, tåg, restauranger, i skolan och på många andra platser.
+ - Alla som är svenska medborgare kan få ett svenskt pass.
+
 
 # Vem styr Sverige?
 
@@ -120,11 +122,11 @@ Här är några exempel på lagar i Sverige:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODE1Mzk3NDcsNTY1ODIxOTAyLDE3ND
-Q2MDIwMjEsMTgxNzUxOTU2OCwxNjEyMjUzOTY4LDU1MzA1NTc3
-NSwxNTA5MTQ0ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNj
-gyODA0MTIyLDEwMjk1MjM1NDksLTEyNzM0NDI1MCwtMTg0MjM4
-MzM2MCwxMDE4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0NTU4Ny
-w3MDU5MTI1ODEsMTMwMjc4NDI3MSwxODU4ODU2MDcxLDIwNDAy
-OTc2MjJdfQ==
+eyJoaXN0b3J5IjpbNzQ3MDQ1Mzk0LDU2NTgyMTkwMiwxNzQ0Nj
+AyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OCw1NTMwNTU3NzUs
+MTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0NTIsLTY4Mj
+gwNDEyMiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLTE4NDIzODMz
+NjAsMTAxODQyNDM4MiwxODIwMjE2NTExLDEyNzIxNDU1ODcsNz
+A1OTEyNTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMDQwMjk3
+NjIyXX0=
 -->
