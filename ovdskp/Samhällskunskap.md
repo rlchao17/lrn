@@ -101,7 +101,7 @@ Här är några exempel på lagar i Sverige:
  - Alla som arbetar och tjänar pengar måste betala skatt.
  - Alla som är 16 år får övningsköra. Det betyder att de får börja öva på att köra bil.
  - Alla som är 18 år får ta körkort.
- - Mman måste vara 18 år för att få 
+ - Man måste vara 18 år för att få gifta sig.
 
 # Vem styr Sverige?
 
@@ -117,7 +117,7 @@ Här är några exempel på lagar i Sverige:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTQxMTY1MSw1NjU4MjE5MDIsMTc0ND
+eyJoaXN0b3J5IjpbLTM0MjgxNzM0NCw1NjU4MjE5MDIsMTc0ND
 YwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1
 LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
 I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
