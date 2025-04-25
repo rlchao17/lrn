@@ -115,6 +115,15 @@ Här är några exempel på lagar i Sverige:
 | Svenska | Kinesiska |
 |--|--|
 | en lag |  |
+| en invånare |  |
+| tjänar |  |
+| skatt |  |
+| ett körkort |  |
+| förbjudet |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 # Vem styr Sverige?
 
@@ -130,7 +139,7 @@ Här är några exempel på lagar i Sverige:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk1OTg2MCw1NjU4MjE5MDIsMTc0ND
+eyJoaXN0b3J5IjpbLTI4NzQ3MDQxMSw1NjU4MjE5MDIsMTc0ND
 YwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1
 LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
 I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
