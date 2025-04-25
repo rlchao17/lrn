@@ -107,6 +107,8 @@ Här är några exempel på lagar i Sverige:
  - Det är förbjudet att ha kniv med sig på bussar, tåg, restauranger, i skolan och på många andra platser.
  - Alla som är svenska medborgare kan få ett svenskt pass.
 
+Titta på sidorna 28 och 29. Vilka lagar har Sverige om cigaretter, narkotika och alkohol?
+
 
 # Vem styr Sverige?
 
@@ -122,11 +124,11 @@ Här är några exempel på lagar i Sverige:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3MDQ1Mzk0LDU2NTgyMTkwMiwxNzQ0Nj
-AyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OCw1NTMwNTU3NzUs
-MTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0NTIsLTY4Mj
-gwNDEyMiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLTE4NDIzODMz
-NjAsMTAxODQyNDM4MiwxODIwMjE2NTExLDEyNzIxNDU1ODcsNz
-A1OTEyNTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMDQwMjk3
-NjIyXX0=
+eyJoaXN0b3J5IjpbMTc5NTUwMzk4Myw1NjU4MjE5MDIsMTc0ND
+YwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1
+LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
+I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
+MzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LD
+cwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMjA0MDI5
+NzYyMl19
 -->
