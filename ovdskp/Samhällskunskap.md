@@ -114,7 +114,7 @@ Här är några exempel på lagar i Sverige:
 
 | Svenska | Kinesiska |
 |--|--|
-| en lag |  |
+| en lag | 法律，队 |
 | en invånare | 居民 |
 | tjänar | 赚钱，服务，作为 |
 | skatt | 税，宝藏，宝贝 |
@@ -126,7 +126,7 @@ Här är några exempel på lagar i Sverige:
 | ett pass | 护照 |
 
 # Vem styr Sverige?
-
+Sverige är en monarki. 
 # Val i Sverige
 
 # Norden
@@ -139,11 +139,11 @@ Här är några exempel på lagar i Sverige:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4MjQ1NTc0LDU2NTgyMTkwMiwxNzQ0Nj
-AyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OCw1NTMwNTU3NzUs
-MTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0NTIsLTY4Mj
-gwNDEyMiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLTE4NDIzODMz
-NjAsMTAxODQyNDM4MiwxODIwMjE2NTExLDEyNzIxNDU1ODcsNz
-A1OTEyNTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMDQwMjk3
-NjIyXX0=
+eyJoaXN0b3J5IjpbMTkwNTEyMDUyNCw1NjU4MjE5MDIsMTc0ND
+YwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1
+LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
+I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
+MzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LD
+cwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMjA0MDI5
+NzYyMl19
 -->
