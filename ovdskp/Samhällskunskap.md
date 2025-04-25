@@ -112,7 +112,9 @@ Här är några exempel på lagar i Sverige:
 > Har ni samma lagar som Sverige i ditt hemland?
 > Varför behöver ett land lagar?
 
-
+| Svenska | Kinesiska |
+|--|--|
+| en lag |  |
 
 # Vem styr Sverige?
 
@@ -128,11 +130,11 @@ Här är några exempel på lagar i Sverige:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg3MDc5NzgsNTY1ODIxOTAyLDE3ND
-Q2MDIwMjEsMTgxNzUxOTU2OCwxNjEyMjUzOTY4LDU1MzA1NTc3
-NSwxNTA5MTQ0ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNj
-gyODA0MTIyLDEwMjk1MjM1NDksLTEyNzM0NDI1MCwtMTg0MjM4
-MzM2MCwxMDE4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0NTU4Ny
-w3MDU5MTI1ODEsMTMwMjc4NDI3MSwxODU4ODU2MDcxLDIwNDAy
-OTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE2OTk1OTg2MCw1NjU4MjE5MDIsMTc0ND
+YwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1
+LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
+I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
+MzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LD
+cwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMjA0MDI5
+NzYyMl19
 -->
