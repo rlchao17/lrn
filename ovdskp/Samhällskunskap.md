@@ -129,7 +129,7 @@ Här är några exempel på lagar i Sverige:
 Sverige är en monarki. Sverige är också en demokrati.
 
 ## Monarki
-
+En monarki är ett land som har en kung eller en drottning som statschef. Vår kung heter Carl Gustaf. Han ät stats
 # Val i Sverige
 
 # Norden
@@ -142,7 +142,7 @@ Sverige är en monarki. Sverige är också en demokrati.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDgwMzc3NCw1NjU4MjE5MDIsMTc0ND
+eyJoaXN0b3J5IjpbLTcwODU2NDc5NCw1NjU4MjE5MDIsMTc0ND
 YwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1
 LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
 I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
