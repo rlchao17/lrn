@@ -126,7 +126,9 @@ Här är några exempel på lagar i Sverige:
 | ett pass | 护照 |
 
 # Vem styr Sverige?
-Sverige är en monarki. 
+Sverige är en monarki. Sverige är också en demokrati.
+
+
 # Val i Sverige
 
 # Norden
@@ -139,7 +141,7 @@ Sverige är en monarki.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTEyMDUyNCw1NjU4MjE5MDIsMTc0ND
+eyJoaXN0b3J5IjpbMTU4OTE1OTM0Myw1NjU4MjE5MDIsMTc0ND
 YwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1
 LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
 I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
