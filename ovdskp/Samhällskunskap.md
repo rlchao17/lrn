@@ -121,8 +121,8 @@ Här är några exempel på lagar i Sverige:
 | ett körkort |  |
 | förbjudet |  |
 | en rättighet |  |
-| slå |  |
-| en medborgare |  |
+| slå | 打，击打，敲 |
+| en medborgare | 公民 |
 | ett pass | 护照 |
 
 # Vem styr Sverige?
@@ -139,7 +139,7 @@ Här är några exempel på lagar i Sverige:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTYwMzc4Myw1NjU4MjE5MDIsMTc0ND
+eyJoaXN0b3J5IjpbMTMwMDE3MjU3Myw1NjU4MjE5MDIsMTc0ND
 YwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1
 LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
 I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
