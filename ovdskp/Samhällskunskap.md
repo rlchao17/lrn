@@ -130,8 +130,9 @@ Sverige är en monarki. Sverige är också en demokrati.
 
 ## Monarki
 En monarki är ett land som har en kung eller en drottning som statschef. Vår kung heter Carl Gustaf. Han ät statschef. Men statschefen har ingen politisk makt. Det är inte kungen som bestämmer. Kungen och hans familj representerar Sverige. De träffar statschefer och viktiga personer från andra länder.
+## Demokrati
+Demokrati betyder folkstyre. 
 
-##
 # Val i Sverige
 
 # Norden
@@ -144,11 +145,11 @@ En monarki är ett land som har en kung eller en drottning som statschef. Vår k
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTQwODE2LDU2NTgyMTkwMiwxNzQ0Nj
-AyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OCw1NTMwNTU3NzUs
-MTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0NTIsLTY4Mj
-gwNDEyMiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLTE4NDIzODMz
-NjAsMTAxODQyNDM4MiwxODIwMjE2NTExLDEyNzIxNDU1ODcsNz
-A1OTEyNTgxLDEzMDI3ODQyNzEsMTg1ODg1NjA3MSwyMDQwMjk3
-NjIyXX0=
+eyJoaXN0b3J5IjpbLTMxOTUzMDc3Niw1NjU4MjE5MDIsMTc0ND
+YwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1
+LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
+I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
+MzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LD
+cwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMjA0MDI5
+NzYyMl19
 -->
