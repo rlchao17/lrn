@@ -116,8 +116,8 @@ Här är några exempel på lagar i Sverige:
 |--|--|
 | en lag |  |
 | en invånare |  |
-| tjänar |  |
-| skatt |  |
+| tjänar | 赚钱 |
+| skatt | 税 |
 | ett körkort | 驾照 |
 | förbjudet | 禁止的 |
 | en rättighet | 权利 |
@@ -139,7 +139,7 @@ Här är några exempel på lagar i Sverige:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDQ5MDk2Myw1NjU4MjE5MDIsMTc0ND
+eyJoaXN0b3J5IjpbLTU4OTEyMzE3OCw1NjU4MjE5MDIsMTc0ND
 YwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1
 LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
 I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
