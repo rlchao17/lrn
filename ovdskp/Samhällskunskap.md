@@ -141,7 +141,8 @@ Riksdagens uppgifter är
  - att kontrollera regeringens arbete
  - att välja statsminister.
 
-
+## Partier
+Vi har många politiska partier i Sverige. I riksdagen finns politiker från de stårsta 
 
 # Val i Sverige
 
@@ -155,11 +156,11 @@ Riksdagens uppgifter är
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1NjE2MzcxLC0zMTk1MzA3NzYsNTY1OD
-IxOTAyLDE3NDQ2MDIwMjEsMTgxNzUxOTU2OCwxNjEyMjUzOTY4
-LDU1MzA1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4NjIyNTYsMTA3Mj
-E4MDQ1MiwtNjgyODA0MTIyLDEwMjk1MjM1NDksLTEyNzM0NDI1
-MCwtMTg0MjM4MzM2MCwxMDE4NDI0MzgyLDE4MjAyMTY1MTEsMT
-I3MjE0NTU4Nyw3MDU5MTI1ODEsMTMwMjc4NDI3MSwxODU4ODU2
-MDcxXX0=
+eyJoaXN0b3J5IjpbNzUyNjM3ODYzLDU4NTYxNjM3MSwtMzE5NT
+MwNzc2LDU2NTgyMTkwMiwxNzQ0NjAyMDIxLDE4MTc1MTk1Njgs
+MTYxMjI1Mzk2OCw1NTMwNTU3NzUsMTUwOTE0NDgzMSwxMDExOD
+YyMjU2LDEwNzIxODA0NTIsLTY4MjgwNDEyMiwxMDI5NTIzNTQ5
+LC0xMjczNDQyNTAsLTE4NDIzODMzNjAsMTAxODQyNDM4MiwxOD
+IwMjE2NTExLDEyNzIxNDU1ODcsNzA1OTEyNTgxLDEzMDI3ODQy
+NzFdfQ==
 -->
