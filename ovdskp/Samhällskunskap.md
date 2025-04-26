@@ -131,7 +131,17 @@ Sverige är en monarki. Sverige är också en demokrati.
 ## Monarki
 En monarki är ett land som har en kung eller en drottning som statschef. Vår kung heter Carl Gustaf. Han ät statschef. Men statschefen har ingen politisk makt. Det är inte kungen som bestämmer. Kungen och hans familj representerar Sverige. De träffar statschefer och viktiga personer från andra länder.
 ## Demokrati
-Demokrati betyder folkstyre. 
+Demokrati betyder folkstyre. Folket väljer vilka politiker som ska bestämma i Sverige. Vi väljer politiker när vi röstar.
+## Riskdag
+Riskdagen är Sveriges parlament. I riksdagen sitter 349 politiker från flera partier.<br>
+Riksdagens uppgifter är
+
+ - att bestämma Sveriges lagar
+ - att bestämma om Sveriges ekonomi
+ - att kontrollera regeringens arbete
+ - att välja statsminister.
+
+
 
 # Val i Sverige
 
@@ -145,11 +155,11 @@ Demokrati betyder folkstyre.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTUzMDc3Niw1NjU4MjE5MDIsMTc0ND
-YwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1
-LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02OD
-I4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgz
-MzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LD
-cwNTkxMjU4MSwxMzAyNzg0MjcxLDE4NTg4NTYwNzEsMjA0MDI5
-NzYyMl19
+eyJoaXN0b3J5IjpbNTg1NjE2MzcxLC0zMTk1MzA3NzYsNTY1OD
+IxOTAyLDE3NDQ2MDIwMjEsMTgxNzUxOTU2OCwxNjEyMjUzOTY4
+LDU1MzA1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4NjIyNTYsMTA3Mj
+E4MDQ1MiwtNjgyODA0MTIyLDEwMjk1MjM1NDksLTEyNzM0NDI1
+MCwtMTg0MjM4MzM2MCwxMDE4NDI0MzgyLDE4MjAyMTY1MTEsMT
+I3MjE0NTU4Nyw3MDU5MTI1ODEsMTMwMjc4NDI3MSwxODU4ODU2
+MDcxXX0=
 -->
