@@ -142,7 +142,9 @@ Riksdagens uppgifter är
  - att välja statsminister.
 
 ## Partier
-Vi har många politiska partier i Sverige. I riksdagen finns politiker från de stårsta 
+Vi har många politiska partier i Sverige. I riksdagen finns politiker från de största partierna.
+
+Vi röstar på det parti vi vill ska sitta i riksdagen.
 
 # Val i Sverige
 
@@ -156,11 +158,11 @@ Vi har många politiska partier i Sverige. I riksdagen finns politiker från de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNjM3ODYzLDU4NTYxNjM3MSwtMzE5NT
-MwNzc2LDU2NTgyMTkwMiwxNzQ0NjAyMDIxLDE4MTc1MTk1Njgs
-MTYxMjI1Mzk2OCw1NTMwNTU3NzUsMTUwOTE0NDgzMSwxMDExOD
-YyMjU2LDEwNzIxODA0NTIsLTY4MjgwNDEyMiwxMDI5NTIzNTQ5
-LC0xMjczNDQyNTAsLTE4NDIzODMzNjAsMTAxODQyNDM4MiwxOD
-IwMjE2NTExLDEyNzIxNDU1ODcsNzA1OTEyNTgxLDEzMDI3ODQy
-NzFdfQ==
+eyJoaXN0b3J5IjpbLTg1MDk0Nzg2Niw1ODU2MTYzNzEsLTMxOT
+UzMDc3Niw1NjU4MjE5MDIsMTc0NDYwMjAyMSwxODE3NTE5NTY4
+LDE2MTIyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4MzEsMTAxMT
+g2MjI1NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMTAyOTUyMzU0
+OSwtMTI3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0MjQzODIsMT
+gyMDIxNjUxMSwxMjcyMTQ1NTg3LDcwNTkxMjU4MSwxMzAyNzg0
+MjcxXX0=
 -->
