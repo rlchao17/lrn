@@ -144,7 +144,7 @@ Riksdagens uppgifter är
 ## Partier
 Vi har många politiska partier i Sverige. I riksdagen finns politiker från de största partierna.
 
-Vi röstar på det parti vi vill ska sitta i riksdagen.
+Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest röster får oftast styra landet
 
 # Val i Sverige
 
@@ -158,11 +158,11 @@ Vi röstar på det parti vi vill ska sitta i riksdagen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDk0Nzg2Niw1ODU2MTYzNzEsLTMxOT
-UzMDc3Niw1NjU4MjE5MDIsMTc0NDYwMjAyMSwxODE3NTE5NTY4
-LDE2MTIyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4MzEsMTAxMT
-g2MjI1NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMTAyOTUyMzU0
-OSwtMTI3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0MjQzODIsMT
-gyMDIxNjUxMSwxMjcyMTQ1NTg3LDcwNTkxMjU4MSwxMzAyNzg0
-MjcxXX0=
+eyJoaXN0b3J5IjpbLTE2NDUyNTgwNTYsLTg1MDk0Nzg2Niw1OD
+U2MTYzNzEsLTMxOTUzMDc3Niw1NjU4MjE5MDIsMTc0NDYwMjAy
+MSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1LDE1MD
+kxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02ODI4MDQx
+MjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgzMzYwLD
+EwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcyMTQ1NTg3LDcwNTkx
+MjU4MV19
 -->
