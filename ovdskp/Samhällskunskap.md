@@ -148,7 +148,7 @@ Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest
 
 > Vad heter vår statsminister? Vilket parti tillhör vår statsminister?
 
-#### Riksdaga
+#### Riksdagen träffas i riksdagshuset i Stockholm.
 
 # Val i Sverige
 
@@ -162,11 +162,11 @@ Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTk4NTMxMiwtMTY0NTI1ODA1NiwtOD
-UwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMwNzc2LDU2NTgyMTkw
-MiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OCw1NT
-MwNTU3NzUsMTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0
-NTIsLTY4MjgwNDEyMiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLT
-E4NDIzODMzNjAsMTAxODQyNDM4MiwxODIwMjE2NTExLDEyNzIx
-NDU1ODddfQ==
+eyJoaXN0b3J5IjpbMjE5MzYzMzQ1LC0xNjQ1MjU4MDU2LC04NT
+A5NDc4NjYsNTg1NjE2MzcxLC0zMTk1MzA3NzYsNTY1ODIxOTAy
+LDE3NDQ2MDIwMjEsMTgxNzUxOTU2OCwxNjEyMjUzOTY4LDU1Mz
+A1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1
+MiwtNjgyODA0MTIyLDEwMjk1MjM1NDksLTEyNzM0NDI1MCwtMT
+g0MjM4MzM2MCwxMDE4NDI0MzgyLDE4MjAyMTY1MTEsMTI3MjE0
+NTU4N119
 -->
