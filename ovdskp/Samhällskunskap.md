@@ -187,7 +187,12 @@ Regionerna bestämmer bland annat om
 Sverige är indelat i 290 kommuner. Vi väljer också politiker till kommunerna. Den som till exempel bor i Uppsala väljer politiker till Uppsala kommun. Kommunerna bestämmer bland annat om
 
  - skolor
- - försk
+ - förskolor
+ - sporthallar
+ - bibliotek.
+
+> I vilken kommun bor du?
+
 
 # Val i Sverige
 
@@ -201,7 +206,7 @@ Sverige är indelat i 290 kommuner. Vi väljer också politiker till kommunerna.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTg4MjA5NSwxOTI2Njk4MzA1LDE2OD
+eyJoaXN0b3J5IjpbMTg1MjE4MzQxNCwxOTI2Njk4MzA1LDE2OD
 g4MTc2NTAsLTE2NDUyNTgwNTYsLTg1MDk0Nzg2Niw1ODU2MTYz
 NzEsLTMxOTUzMDc3Niw1NjU4MjE5MDIsMTc0NDYwMjAyMSwxOD
 E3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4
