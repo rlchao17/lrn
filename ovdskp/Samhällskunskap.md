@@ -152,11 +152,11 @@ Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest
 |  |  |
 |--|--|
 | Centerpartiet | C |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Kristdemokraterna | KD |
+| Liberalerna | L |
+| Miljöpartiet | MP |
+| Moderaterna | M |
+| Social |  |
 |  |  |
 |  |  |
 
@@ -173,11 +173,11 @@ Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ4Mzc3ODIsLTE2NDUyNTgwNTYsLT
-g1MDk0Nzg2Niw1ODU2MTYzNzEsLTMxOTUzMDc3Niw1NjU4MjE5
-MDIsMTc0NDYwMjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNT
-UzMDU1Nzc1LDE1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgw
-NDUyLC02ODI4MDQxMjIsMTAyOTUyMzU0OSwtMTI3MzQ0MjUwLC
-0xODQyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIxNjUxMSwxMjcy
-MTQ1NTg3XX0=
+eyJoaXN0b3J5IjpbLTQ3MDc2OTEyOCwtMTY0NTI1ODA1NiwtOD
+UwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMwNzc2LDU2NTgyMTkw
+MiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OCw1NT
+MwNTU3NzUsMTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0
+NTIsLTY4MjgwNDEyMiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLT
+E4NDIzODMzNjAsMTAxODQyNDM4MiwxODIwMjE2NTExLDEyNzIx
+NDU1ODddfQ==
 -->
