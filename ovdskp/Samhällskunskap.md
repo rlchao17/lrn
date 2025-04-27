@@ -196,7 +196,7 @@ Sverige är indelat i 290 kommuner. Vi väljer också politiker till kommunerna.
 # Val i Sverige
 Vart fjärde år (2018, 2022 och så vidare) är det val i Sverige.
 ## Tre olika val
-
+Vi väljer personer som ska bestämma i riksdagen, regionen och kommunen.
 # Norden
 
 # Sverige i världen
@@ -207,11 +207,11 @@ Vart fjärde år (2018, 2022 och så vidare) är det val i Sverige.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTQ3OTIxNiwxOTI2Njk4MzA1LDE2OD
-g4MTc2NTAsLTE2NDUyNTgwNTYsLTg1MDk0Nzg2Niw1ODU2MTYz
-NzEsLTMxOTUzMDc3Niw1NjU4MjE5MDIsMTc0NDYwMjAyMSwxOD
-E3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4
-MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMT
-AyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0
-MjQzODJdfQ==
+eyJoaXN0b3J5IjpbLTIwNDMyNjkwMTksMTkyNjY5ODMwNSwxNj
+g4ODE3NjUwLC0xNjQ1MjU4MDU2LC04NTA5NDc4NjYsNTg1NjE2
+MzcxLC0zMTk1MzA3NzYsNTY1ODIxOTAyLDE3NDQ2MDIwMjEsMT
+gxNzUxOTU2OCwxNjEyMjUzOTY4LDU1MzA1NTc3NSwxNTA5MTQ0
+ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIyLD
+EwMjk1MjM1NDksLTEyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMDE4
+NDI0MzgyXX0=
 -->
