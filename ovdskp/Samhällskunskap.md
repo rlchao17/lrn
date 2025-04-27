@@ -160,6 +160,8 @@ Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest
 | Sverigedemokraterna | SD |
 | Vänsterpartiet | V |
 
+## Regering
+Regeringen styr Sverige. Regeringen bildas av det eller de part
 
 # Val i Sverige
 
@@ -173,11 +175,11 @@ Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODgxNzY1MCwtMTY0NTI1ODA1NiwtOD
-UwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMwNzc2LDU2NTgyMTkw
-MiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OCw1NT
-MwNTU3NzUsMTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0
-NTIsLTY4MjgwNDEyMiwxMDI5NTIzNTQ5LC0xMjczNDQyNTAsLT
-E4NDIzODMzNjAsMTAxODQyNDM4MiwxODIwMjE2NTExLDEyNzIx
-NDU1ODddfQ==
+eyJoaXN0b3J5IjpbLTIwMDYyNzcyNTksMTY4ODgxNzY1MCwtMT
+Y0NTI1ODA1NiwtODUwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMw
+Nzc2LDU2NTgyMTkwMiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMT
+YxMjI1Mzk2OCw1NTMwNTU3NzUsMTUwOTE0NDgzMSwxMDExODYy
+MjU2LDEwNzIxODA0NTIsLTY4MjgwNDEyMiwxMDI5NTIzNTQ5LC
+0xMjczNDQyNTAsLTE4NDIzODMzNjAsMTAxODQyNDM4MiwxODIw
+MjE2NTExXX0=
 -->
