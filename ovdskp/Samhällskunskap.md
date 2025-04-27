@@ -211,7 +211,6 @@ Alla som är svenska medborgare och som är över 18 år får rösta i riksdagsv
 Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till regionen och kommunen.
 
 > Har du röstat i Sverige?
->
 > Har du röstat i ditt hemland?
 
 # Norden
@@ -225,7 +224,7 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAzNzIyMSwtNjU0Mjk0ODY2LDE5Mj
+eyJoaXN0b3J5IjpbLTIyMjEyMTY5NSwtNjU0Mjk0ODY2LDE5Mj
 Y2OTgzMDUsMTY4ODgxNzY1MCwtMTY0NTI1ODA1NiwtODUwOTQ3
 ODY2LDU4NTYxNjM3MSwtMzE5NTMwNzc2LDU2NTgyMTkwMiwxNz
 Q0NjAyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OCw1NTMwNTU3
