@@ -169,7 +169,9 @@ Regeringen styr Sverige. Regeringen bildas av det eller de partier som får fles
 
 Regeringen ger förslag till riksdagen. Politikerna i riksdagen diskuterar förslaget. Är det ett bra eller ett dåligt förslag? Riksdagen säger ja eller nej till förslaget. Regeringen måste göra som riksdagen har beslutat.
 
-Riksdagen och regering bes
+Riksdagen och regering bestämmer om saker som gäller för alla i hela Sverige.
+
+## Regioner
 
 # Val i Sverige
 
@@ -183,11 +185,11 @@ Riksdagen och regering bes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3Njc3NjgyLDE2ODg4MTc2NTAsLTE2ND
-UyNTgwNTYsLTg1MDk0Nzg2Niw1ODU2MTYzNzEsLTMxOTUzMDc3
-Niw1NjU4MjE5MDIsMTc0NDYwMjAyMSwxODE3NTE5NTY4LDE2MT
-IyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4MzEsMTAxMTg2MjI1
-NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMTAyOTUyMzU0OSwtMT
-I3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIx
-NjUxMV19
+eyJoaXN0b3J5IjpbLTE3MjYxMzM3NDEsMTY4ODgxNzY1MCwtMT
+Y0NTI1ODA1NiwtODUwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMw
+Nzc2LDU2NTgyMTkwMiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMT
+YxMjI1Mzk2OCw1NTMwNTU3NzUsMTUwOTE0NDgzMSwxMDExODYy
+MjU2LDEwNzIxODA0NTIsLTY4MjgwNDEyMiwxMDI5NTIzNTQ5LC
+0xMjczNDQyNTAsLTE4NDIzODMzNjAsMTAxODQyNDM4MiwxODIw
+MjE2NTExXX0=
 -->
