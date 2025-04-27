@@ -193,8 +193,9 @@ Sverige är indelat i 290 kommuner. Vi väljer också politiker till kommunerna.
 
 > I vilken kommun bor du?
 
-
 # Val i Sverige
+Vart fjärde år (2018, 2022 och så vidare) är det val i Sverige.
+## Tre olika val
 
 # Norden
 
@@ -206,7 +207,7 @@ Sverige är indelat i 290 kommuner. Vi väljer också politiker till kommunerna.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjE4MzQxNCwxOTI2Njk4MzA1LDE2OD
+eyJoaXN0b3J5IjpbLTYzNTQ3OTIxNiwxOTI2Njk4MzA1LDE2OD
 g4MTc2NTAsLTE2NDUyNTgwNTYsLTg1MDk0Nzg2Niw1ODU2MTYz
 NzEsLTMxOTUzMDc3Niw1NjU4MjE5MDIsMTc0NDYwMjAyMSwxOD
 E3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4
