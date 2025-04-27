@@ -167,7 +167,7 @@ Regeringen styr Sverige. Regeringen bildas av det eller de partier som får fles
  2. Riksdagen väljer statsminister.
  3. Statsministern väljer ministrar till regeringen (cirka 20 personer).
 
-
+Regeringen ger förslag till riksdagen. Politikerna i riksdagen diskuterar förslaget. 
 
 # Val i Sverige
 
@@ -181,11 +181,11 @@ Regeringen styr Sverige. Regeringen bildas av det eller de partier som får fles
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzcwNDA5MTEsMTY4ODgxNzY1MCwtMT
-Y0NTI1ODA1NiwtODUwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMw
-Nzc2LDU2NTgyMTkwMiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMT
-YxMjI1Mzk2OCw1NTMwNTU3NzUsMTUwOTE0NDgzMSwxMDExODYy
-MjU2LDEwNzIxODA0NTIsLTY4MjgwNDEyMiwxMDI5NTIzNTQ5LC
-0xMjczNDQyNTAsLTE4NDIzODMzNjAsMTAxODQyNDM4MiwxODIw
-MjE2NTExXX0=
+eyJoaXN0b3J5IjpbMTAyNTc5MTgyNiwxNjg4ODE3NjUwLC0xNj
+Q1MjU4MDU2LC04NTA5NDc4NjYsNTg1NjE2MzcxLC0zMTk1MzA3
+NzYsNTY1ODIxOTAyLDE3NDQ2MDIwMjEsMTgxNzUxOTU2OCwxNj
+EyMjUzOTY4LDU1MzA1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4NjIy
+NTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIyLDEwMjk1MjM1NDksLT
+EyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMDE4NDI0MzgyLDE4MjAy
+MTY1MTFdfQ==
 -->
