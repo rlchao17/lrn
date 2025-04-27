@@ -156,9 +156,9 @@ Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest
 | Liberalerna | L |
 | Miljöpartiet | MP |
 | Moderaterna | M |
-| Social |  |
-|  |  |
-|  |  |
+| Socialdemokraterna | S |
+| Sverigedemokraterna | SD |
+| Vänsterpartiet | V |
 
 
 # Val i Sverige
@@ -173,7 +173,7 @@ Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDc2OTEyOCwtMTY0NTI1ODA1NiwtOD
+eyJoaXN0b3J5IjpbMTY4ODgxNzY1MCwtMTY0NTI1ODA1NiwtOD
 UwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMwNzc2LDU2NTgyMTkw
 MiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OCw1NT
 MwNTU3NzUsMTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0
