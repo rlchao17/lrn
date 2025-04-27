@@ -178,7 +178,14 @@ Det finns 20 regioner i Sverige. Vi väljer politiker som ska bestämma i region
 
 Regionerna bestämmer bland annat om
 
- - sjukvård (sjukhus, vårdcentraler, lön till läk
+ - sjukvård (sjukhus, vårdcentraler, lön till läkare och andra som arbetar med sjukvård)
+ - bussar och tåg i området.
+
+> I vilken region bor du?
+
+## Kommuner
+
+
 
 # Val i Sverige
 
@@ -192,7 +199,7 @@ Regionerna bestämmer bland annat om
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzcxMjM0OSwxNjg4ODE3NjUwLC0xNj
+eyJoaXN0b3J5IjpbMTkyNjY5ODMwNSwxNjg4ODE3NjUwLC0xNj
 Q1MjU4MDU2LC04NTA5NDc4NjYsNTg1NjE2MzcxLC0zMTk1MzA3
 NzYsNTY1ODIxOTAyLDE3NDQ2MDIwMjEsMTgxNzUxOTU2OCwxNj
 EyMjUzOTY4LDU1MzA1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4NjIy
