@@ -172,7 +172,9 @@ Regeringen ger förslag till riksdagen. Politikerna i riksdagen diskuterar förs
 Riksdagen och regering bestämmer om saker som gäller för alla i hela Sverige.
 
 ## Regioner
-Det är svårt för riksdagen och regeringen att bestämma allt från Stockholm, Därför är det bra att vi har regioner och ku
+Det är svårt för riksdagen och regeringen att bestämma allt från Stockholm, Därför är det bra att vi har regioner och kommuner också.
+
+Det finns 20 regioner i Sverige. Vi väljer politiker som ska bestämma i regionen där vi bor. Den som till exempel bor i 
 
 # Val i Sverige
 
@@ -186,11 +188,11 @@ Det är svårt för riksdagen och regeringen att bestämma allt från Stockholm,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMzIzMDU2LDE2ODg4MTc2NTAsLTE2ND
-UyNTgwNTYsLTg1MDk0Nzg2Niw1ODU2MTYzNzEsLTMxOTUzMDc3
-Niw1NjU4MjE5MDIsMTc0NDYwMjAyMSwxODE3NTE5NTY4LDE2MT
-IyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4MzEsMTAxMTg2MjI1
-NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMTAyOTUyMzU0OSwtMT
-I3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIx
-NjUxMV19
+eyJoaXN0b3J5IjpbMTQzNjkzNjM1NCwxNjg4ODE3NjUwLC0xNj
+Q1MjU4MDU2LC04NTA5NDc4NjYsNTg1NjE2MzcxLC0zMTk1MzA3
+NzYsNTY1ODIxOTAyLDE3NDQ2MDIwMjEsMTgxNzUxOTU2OCwxNj
+EyMjUzOTY4LDU1MzA1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4NjIy
+NTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIyLDEwMjk1MjM1NDksLT
+EyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMDE4NDI0MzgyLDE4MjAy
+MTY1MTFdfQ==
 -->
