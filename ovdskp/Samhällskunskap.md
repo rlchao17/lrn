@@ -146,6 +146,10 @@ Vi har många politiska partier i Sverige. I riksdagen finns politiker från de 
 
 Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest röster får oftast styra landet. Ibland är det flera partier som samarbetar och styr Sverige tillsammans.
 
+> Vad heter vår statsminister? Vilket parti tillhör vår statsminister?
+
+#### Riksdaga
+
 # Val i Sverige
 
 # Norden
@@ -158,7 +162,7 @@ Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzExMjY3NywtMTY0NTI1ODA1NiwtOD
+eyJoaXN0b3J5IjpbMjAyMTk4NTMxMiwtMTY0NTI1ODA1NiwtOD
 UwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMwNzc2LDU2NTgyMTkw
 MiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OCw1NT
 MwNTU3NzUsMTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNzIxODA0
