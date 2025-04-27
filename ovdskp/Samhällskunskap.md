@@ -174,7 +174,11 @@ Riksdagen och regering bestämmer om saker som gäller för alla i hela Sverige.
 ## Regioner
 Det är svårt för riksdagen och regeringen att bestämma allt från Stockholm, Därför är det bra att vi har regioner och kommuner också.
 
-Det finns 20 regioner i Sverige. Vi väljer politiker som ska bestämma i regionen där vi bor. Den som till exempel bor i 
+Det finns 20 regioner i Sverige. Vi väljer politiker som ska bestämma i regionen där vi bor. Den som till exempel bor i Malmö väljer politiker till Region Skåne.
+
+Regionerna bestämmer bland annat om
+
+ - sjukvård (sjukhus, vårdcentraler, lön till läk
 
 # Val i Sverige
 
@@ -188,7 +192,7 @@ Det finns 20 regioner i Sverige. Vi väljer politiker som ska bestämma i region
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjkzNjM1NCwxNjg4ODE3NjUwLC0xNj
+eyJoaXN0b3J5IjpbMTQzNzcxMjM0OSwxNjg4ODE3NjUwLC0xNj
 Q1MjU4MDU2LC04NTA5NDc4NjYsNTg1NjE2MzcxLC0zMTk1MzA3
 NzYsNTY1ODIxOTAyLDE3NDQ2MDIwMjEsMTgxNzUxOTU2OCwxNj
 EyMjUzOTY4LDU1MzA1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4NjIy
