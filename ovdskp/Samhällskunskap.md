@@ -206,7 +206,9 @@ Vi väljer personer som ska bestämma i riksdagen, regionen och kommunen.
 ## Vem får rösta?
 Om du ska rösta i Sverige måste ditt namn stå på en lista som kallas för röstlängd. Då får du ett röstkort.
 
-Alla som är svenska medborgare och som är över 18 år får rösta i riksdag
+Alla som är svenska medborgare och som är över 18 år får rösta i riksdagsvalet.
+
+Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till regionen och kommunen.
 
 # Norden
 
@@ -219,11 +221,11 @@ Alla som är svenska medborgare och som är över 18 år får rösta i riksdag
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA2Mzk2ODYsMTkyNjY5ODMwNSwxNj
-g4ODE3NjUwLC0xNjQ1MjU4MDU2LC04NTA5NDc4NjYsNTg1NjE2
-MzcxLC0zMTk1MzA3NzYsNTY1ODIxOTAyLDE3NDQ2MDIwMjEsMT
-gxNzUxOTU2OCwxNjEyMjUzOTY4LDU1MzA1NTc3NSwxNTA5MTQ0
-ODMxLDEwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIyLD
-EwMjk1MjM1NDksLTEyNzM0NDI1MCwtMTg0MjM4MzM2MCwxMDE4
-NDI0MzgyXX0=
+eyJoaXN0b3J5IjpbLTY1NDI5NDg2NiwxOTI2Njk4MzA1LDE2OD
+g4MTc2NTAsLTE2NDUyNTgwNTYsLTg1MDk0Nzg2Niw1ODU2MTYz
+NzEsLTMxOTUzMDc3Niw1NjU4MjE5MDIsMTc0NDYwMjAyMSwxOD
+E3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4
+MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMT
+AyOTUyMzU0OSwtMTI3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0
+MjQzODJdfQ==
 -->
