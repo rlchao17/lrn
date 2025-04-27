@@ -161,7 +161,7 @@ Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest
 | Vänsterpartiet | V |
 
 ## Regering
-Regeringen styr Sverige. Regeringen bildas av det eller de partier som får flest röster i valet. Statsministern är regeringens chef. Statsministern väljer ministrar
+Regeringen styr Sverige. Regeringen bildas av det eller de partier som får flest röster i valet. Statsministern är regeringens chef. Statsministern väljer ministrar.
 
 # Val i Sverige
 
@@ -175,11 +175,11 @@ Regeringen styr Sverige. Regeringen bildas av det eller de partier som får fles
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYxOTI0MTMsMTY4ODgxNzY1MCwtMT
-Y0NTI1ODA1NiwtODUwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMw
-Nzc2LDU2NTgyMTkwMiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMT
-YxMjI1Mzk2OCw1NTMwNTU3NzUsMTUwOTE0NDgzMSwxMDExODYy
-MjU2LDEwNzIxODA0NTIsLTY4MjgwNDEyMiwxMDI5NTIzNTQ5LC
-0xMjczNDQyNTAsLTE4NDIzODMzNjAsMTAxODQyNDM4MiwxODIw
-MjE2NTExXX0=
+eyJoaXN0b3J5IjpbODU5NjA1NDU5LDE2ODg4MTc2NTAsLTE2ND
+UyNTgwNTYsLTg1MDk0Nzg2Niw1ODU2MTYzNzEsLTMxOTUzMDc3
+Niw1NjU4MjE5MDIsMTc0NDYwMjAyMSwxODE3NTE5NTY4LDE2MT
+IyNTM5NjgsNTUzMDU1Nzc1LDE1MDkxNDQ4MzEsMTAxMTg2MjI1
+NiwxMDcyMTgwNDUyLC02ODI4MDQxMjIsMTAyOTUyMzU0OSwtMT
+I3MzQ0MjUwLC0xODQyMzgzMzYwLDEwMTg0MjQzODIsMTgyMDIx
+NjUxMV19
 -->
