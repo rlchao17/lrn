@@ -1,14 +1,14 @@
-# Skolan
+## Skolan
 I Sverige måste alla barn gå i skolan. För ungefär hundra år sedan gick de flesta barn bara sex år i skolan. Sedan började de flesta arbeta.
 > Vad tror du, varför började många barn arbeta när de hade studerat i sex år?
-## Utbildning i Sverige
+### Utbildning i Sverige
 | Frivillig | Obligatorisk | Frivillig | Frivillig |
 |--|--|--|--|
 | Förskola | Grundskola | Gymnasieskola | Universitet |
 | Ålder 0-5 år | Ålder 6-16 år | Vuxenutbildning | Högskola |
 
 Det är gratis att studera i grundskolan, på gymnasiet, på universitetet och på högskolan. Flera vuxenutbildningar är också gratis.
-## Obligatorisk grundskola
+### Obligatorisk grundskola
 Grundskolan är obligatorisk. Det betyder att alla barn måste gå i grundskola.
 
 Grundskolan kostar ingenting för föräldrarna. I skolan får barnen till exempel böcker, papper och pennor. Barnen får också lunch i skolan.
@@ -31,20 +31,20 @@ Eleverna läser många olika ämnen i grundskolan, till exempel svenska, matemat
 | 14.30-15.30 | IDH |  | HOK | IDH |  |
 > Det här är ett schema för elever i årskurs 7.
 
-## Skolan och hemmet
+### Skolan och hemmet
 Varje termin träffas läraren, föräldrarna och eleven till utvecklingssamtal. De samtalar om hur det går eleven i skolan.
 
 Skolan har också föräldramöten. På ett föräldramöte får föräldrarna information.
 
-## Gymnasieskolan
+### Gymnasieskolan
 Det är obligatoriskt att studera i grundskolan. Efter grundskolan kan man studera tre år på gymnasiet. Det är frivilligt, men nästan alla ungdomar väljer att gå på gymnasiet.
 
 På gymnasiet finns det många olika program att välja mellan, till exempel yrkesprogram. Om man väljer ett yrkesprogram kan man söka jobb och börja arbeta direkt efter gymnasiet.
 
 Det kostar ingenting att gå på gymnasiet. Eleverna får bland annat böcker. De får också ofta låna en dator. Alla elever på gymnasiet får lunch.
-## Universitet eller högskola
+### Universitet eller högskola
 Om du vill bli till exempel lärare, ingenjör, sjuksköterska eller läkare måste du studera på universitet eller högskola. Att studera på universitet eller högskola i Sverige är också gratis. Men där får man inte gratis böcker och mat.
-## Andra skolor
+### Andra skolor
 Du måste inte studera på gymnasiet eller universitet för att få ett yrke. Det finns andra skolor där du kan lära dig ett yrke.
 
 Vuxna kan studera på olika skolor inom vuxenutbildningen, till exempel en folkhögskola. Det är också gratis.
@@ -66,7 +66,7 @@ Vuxna kan studera på olika skolor inom vuxenutbildningen, till exempel en folkh
 | ett yrke | 职业 |
 
 
-# Vem betalar?
+## Vem betalar?
 Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sverige.
 
  - Det är gratis för alla barn att gå i skola. De får mat i skolan varje dag. Vem betalar?
@@ -79,11 +79,11 @@ Mycket som kostar pengar i andra länder betalar vi inte så mycket för i Sveri
  - Vatten som vi dricker måste oftast renas. Vem betalar?
 
 Vem betalar? Jo, pengarna kommer från skatt.
-## Elsa betalar skatt
+### Elsa betalar skatt
 Alla som arbetar och tjänar pengar i Sverige måste betala skatt. Elsa arbetar som säljare i en affär. Hon tjärnar 24 000 kronor i månaden. Elsa betalar ungefär 7 000 kronor i skatt.
 > Hur mycket har Elsa kvar varje månad? Vad ska pengarna räcka till?
 
-## Moms
+### Moms
 Ett land behöver mycket pengar. Det behöver bland annat pengar till vägar, järnvägar och poliser. Därför finns det andra skatter också.
 
 Varje gång du köper något betalar du skatt. Den skatten kallas moms.
@@ -93,7 +93,7 @@ Varje gång du köper något betalar du skatt. Den skatten kallas moms.
 #### ett kvitto, ATT BETALA 379 Kr, MOMS 25%, BELOPP 75,78
 
 
-# Lagar i Sverige
+## Lagar i Sverige
 De flesta länder har lagar. Alla invånare måste följa landets lagar. Sverige har många lagar.
 
 Här är några exempel på lagar i Sverige:
@@ -125,14 +125,14 @@ Här är några exempel på lagar i Sverige:
 | en medborgare | 公民 |
 | ett pass | 护照 |
 
-# Vem styr Sverige?
+## Vem styr Sverige?
 Sverige är en monarki. Sverige är också en demokrati.
 
-## Monarki
+### Monarki
 En monarki är ett land som har en kung eller en drottning som statschef. Vår kung heter Carl Gustaf. Han ät statschef. Men statschefen har ingen politisk makt. Det är inte kungen som bestämmer. Kungen och hans familj representerar Sverige. De träffar statschefer och viktiga personer från andra länder.
-## Demokrati
+### Demokrati
 Demokrati betyder folkstyre. Folket väljer vilka politiker som ska bestämma i Sverige. Vi väljer politiker när vi röstar.
-## Riksdag
+### Riksdag
 Riksdagen är Sveriges parlament. I riksdagen sitter 349 politiker från flera partier.<br>
 Riksdagens uppgifter är
 
@@ -141,7 +141,7 @@ Riksdagens uppgifter är
  - att kontrollera regeringens arbete
  - att välja statsminister.
 
-## Partier
+### Partier
 Vi har många politiska partier i Sverige. I riksdagen finns politiker från de största partierna.
 
 Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest röster får oftast styra landet. Ibland är det flera partier som samarbetar och styr Sverige tillsammans.
@@ -160,7 +160,7 @@ Vi röstar på det parti vi vill ska sitta i riksdagen. Det parti som får flest
 | Sverigedemokraterna | SD |
 | Vänsterpartiet | V |
 
-## Regering
+### Regering
 Regeringen styr Sverige. Regeringen bildas av det eller de partier som får flest röster i valet. Statsministern är regeringens chef. Statsministern väljer ministrar. Varje minister ansvarar för ett område, till exempel utbildning eller miljön. Det är ungefär 20 ministrar i regeringen.
 
  1. Folket väljer personer till riksdagen (349 personer).
@@ -171,7 +171,7 @@ Regeringen ger förslag till riksdagen. Politikerna i riksdagen diskuterar förs
 
 Riksdagen och regering bestämmer om saker som gäller för alla i hela Sverige.
 
-## Regioner
+### Regioner
 Det är svårt för riksdagen och regeringen att bestämma allt från Stockholm, Därför är det bra att vi har regioner och kommuner också.
 
 Det finns 20 regioner i Sverige. Vi väljer politiker som ska bestämma i regionen där vi bor. Den som till exempel bor i Malmö väljer politiker till Region Skåne.
@@ -183,7 +183,7 @@ Regionerna bestämmer bland annat om
 
 > I vilken region bor du?
 
-## Kommuner
+### Kommuner
 Sverige är indelat i 290 kommuner. Vi väljer också politiker till kommunerna. Den som till exempel bor i Uppsala väljer politiker till Uppsala kommun. Kommunerna bestämmer bland annat om
 
  - skolor
@@ -193,9 +193,9 @@ Sverige är indelat i 290 kommuner. Vi väljer också politiker till kommunerna.
 
 > I vilken kommun bor du?
 
-# Val i Sverige
+## Val i Sverige
 Vart fjärde år (2018, 2022 och så vidare) är det val i Sverige.
-## Tre olika val
+### Tre olika val
 Vi väljer personer som ska bestämma i riksdagen, regionen och kommunen.
 | Valsedlar |  |
 |--|--|
@@ -203,7 +203,7 @@ Vi väljer personer som ska bestämma i riksdagen, regionen och kommunen.
 | Val till regionen | 20 regioner |
 | Val till kommunen | 290 kommuner |
 
-## Vem får rösta?
+### Vem får rösta?
 Om du ska rösta i Sverige måste ditt namn stå på en lista som kallas för röstlängd. Då får du ett röstkort.
 
 Alla som är svenska medborgare och som är över 18 år får rösta i riksdagsvalet.
