@@ -40,9 +40,11 @@ Det har varit många krig mellan Sverige och Danmark, men nu är det fred i Nord
 
 Sverige har haft fred i över 200 år.
 ## Sverige i världen
+### EU
+Sverige är med i EU. EU betyder Europeiska Unionen. Ungefär hälften av alla länder i Europa är med i EU. De samarbetar till exempel om ekonomi, miljö och jordbruk.
 
 ## Fakta om Sverige
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjUzOTM2NSwtMTk3ODg3OTE0MywtMz
-M2NDM1Mjk0LDk5MDU5NDU4M119
+eyJoaXN0b3J5IjpbLTE1NTI1MDM5MjYsLTE5Nzg4NzkxNDMsLT
+MzNjQzNTI5NCw5OTA1OTQ1ODNdfQ==
 -->
