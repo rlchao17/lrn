@@ -69,7 +69,16 @@ I Sverige finns det mycket skog. Mer än hälften av Sverige är skog. Skogen ä
 
 Sverige exporterar också maskiner och fordon.<br>
 Vi importerar bland annat bensin, bilar, kaffe, kläder och frukt.
+
+> Varför importerar Sverige bensin, kaffe, kläder och frukt?
+> Varför exporterar Sverige trä och papper?
+
+|  |  |
+|--|--|
+|  |  |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTk5NzEzNywtMTk3ODg3OTE0MywtMz
+eyJoaXN0b3J5IjpbMTE5NTgxMzI0MCwtMTk3ODg3OTE0MywtMz
 M2NDM1Mjk0LDk5MDU5NDU4M119
 -->
