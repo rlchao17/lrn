@@ -214,7 +214,7 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 |--|--|--|
 | **Riksdagen** |  Bestämmer om lagar<br>Bestämmer om ekonomin<br>Kontrollerar regeringens arbete<br>Väljer statsminister | Den som är över 18 år och svensk medborgare |
 | **Regionen**<br>20 regioner | Bestämmer till exempel om<br>sjukvård<br>bussar och tåg i området | Den som är över 18 år och som har uppehållstillstånd |
-| **Kommunen**<br>290 kommuner | Bestämmer till exempel om<br>skolor<br> |  |
+| **Kommunen**<br>290 kommuner | Bestämmer till exempel om<br>skolor<br>förskolor<br>sporthallar<br>bibliotek | Den som är 18 år och som har upphållstillstånd |
 
 > Har du röstat i Sverige?<br>
 > Har du röstat i ditt hemland?
@@ -230,7 +230,7 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTE0MTMzNiwtNTY2NDI1MzE0LC0yMT
+eyJoaXN0b3J5IjpbMTMwODkxMjE2OSwtNTY2NDI1MzE0LC0yMT
 IyOTE5MjI4LDE3MDA0NDg5NDMsLTY1NDI5NDg2NiwxOTI2Njk4
 MzA1LDE2ODg4MTc2NTAsLTE2NDUyNTgwNTYsLTg1MDk0Nzg2Ni
 w1ODU2MTYzNzEsLTMxOTUzMDc3Niw1NjU4MjE5MDIsMTc0NDYw
