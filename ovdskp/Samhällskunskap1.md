@@ -73,12 +73,22 @@ Vi importerar bland annat bensin, bilar, kaffe, kläder och frukt.
 > Varför importerar Sverige bensin, kaffe, kläder och frukt?
 > Varför exporterar Sverige trä och papper?
 
+#### Fyll i vad du vet om Sverige nu.
 |  |  |
 |--|--|
+| Land | Sverige |
+| Världsdel |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTgxMzI0MCwtMTk3ODg3OTE0MywtMz
-M2NDM1Mjk0LDk5MDU5NDU4M119
+eyJoaXN0b3J5IjpbLTk2MzU4MzYxLC0xOTc4ODc5MTQzLC0zMz
+Y0MzUyOTQsOTkwNTk0NTgzXX0=
 -->
