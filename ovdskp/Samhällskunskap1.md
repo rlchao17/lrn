@@ -78,17 +78,17 @@ Vi importerar bland annat bensin, bilar, kaffe, kläder och frukt.
 |--|--|
 | Land | Sverige |
 | Världsdel |  |
-| Gränsar till | Norge, Finland och  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Gränsar till | Norge, Finland och Danmark |
+| Invånare | tio miljoner |
+| Språk | svenska |
+| Monarki eller republik | Monarki |
+| Demokr |  |
 |  |  |
 |  |  |
 |  |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODYzODk4MTYsLTE5Nzg4NzkxNDMsLT
-MzNjQzNTI5NCw5OTA1OTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbNTU1OTk3MzY0LC0xOTc4ODc5MTQzLC0zMz
+Y0MzUyOTQsOTkwNTk0NTgzXX0=
 -->
