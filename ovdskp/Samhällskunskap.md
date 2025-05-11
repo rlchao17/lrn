@@ -220,7 +220,7 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 > Har du röstat i ditt hemland?
 
 # Norden
-
+Fem länder i norra Europa kallas Norden
 # Sverige i världen
 
 # Fakta om Sverige
@@ -230,11 +230,11 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTM1MTEwMCwxMzA4OTEyMTY5LC01Nj
-Y0MjUzMTQsLTIxMjI5MTkyMjgsMTcwMDQ0ODk0MywtNjU0Mjk0
-ODY2LDE5MjY2OTgzMDUsMTY4ODgxNzY1MCwtMTY0NTI1ODA1Ni
-wtODUwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMwNzc2LDU2NTgy
-MTkwMiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OC
-w1NTMwNTU3NzUsMTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNzIx
-ODA0NTJdfQ==
+eyJoaXN0b3J5IjpbMTcyNDYxNzY2NiwxNjE5MzUxMTAwLDEzMD
+g5MTIxNjksLTU2NjQyNTMxNCwtMjEyMjkxOTIyOCwxNzAwNDQ4
+OTQzLC02NTQyOTQ4NjYsMTkyNjY5ODMwNSwxNjg4ODE3NjUwLC
+0xNjQ1MjU4MDU2LC04NTA5NDc4NjYsNTg1NjE2MzcxLC0zMTk1
+MzA3NzYsNTY1ODIxOTAyLDE3NDQ2MDIwMjEsMTgxNzUxOTU2OC
+wxNjEyMjUzOTY4LDU1MzA1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4
+NjIyNTZdfQ==
 -->
