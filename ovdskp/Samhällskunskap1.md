@@ -82,13 +82,13 @@ Vi importerar bland annat bensin, bilar, kaffe, kläder och frukt.
 | Invånare | tio miljoner |
 | Språk | svenska |
 | Monarki eller republik | Monarki |
-| Demokr |  |
-|  |  |
-|  |  |
-|  |  |
+| Demokrati eller diktatur | Demokrati |
+| Huvudstad | Stockholm |
+| Natur |  |
+| Exporterar | trä, papper, maskiner och fordon |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1OTk3MzY0LC0xOTc4ODc5MTQzLC0zMz
+eyJoaXN0b3J5IjpbMjk5MTA5NjA0LC0xOTc4ODc5MTQzLC0zMz
 Y0MzUyOTQsOTkwNTk0NTgzXX0=
 -->
