@@ -212,8 +212,8 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 
 |  | Arbetsuppgifter | Vem får rösta? |
 |--|--|--|
-| Riksdagen |  Bestämmer om lagar<br>Bestämmer om ekonomin<br>Kontrollerar regeringens arbete<br>Väljer statsminister | Den som är över 18 år och svensk medborgare |
-|  |  |  |
+| **Riksdagen** |  Bestämmer om lagar<br>Bestämmer om ekonomin<br>Kontrollerar regeringens arbete<br>Väljer statsminister | Den som är över 18 år och svensk medborgare |
+| **Regionen**<br>20 regioner | Bestämmer till exempel om<br>sjukvård<br>bussar och tåg i |  |
 |  |  |  |
 
 > Har du röstat i Sverige?<br>
@@ -230,11 +230,11 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjQyNTMxNCwtMjEyMjkxOTIyOCwxNz
-AwNDQ4OTQzLC02NTQyOTQ4NjYsMTkyNjY5ODMwNSwxNjg4ODE3
-NjUwLC0xNjQ1MjU4MDU2LC04NTA5NDc4NjYsNTg1NjE2MzcxLC
-0zMTk1MzA3NzYsNTY1ODIxOTAyLDE3NDQ2MDIwMjEsMTgxNzUx
-OTU2OCwxNjEyMjUzOTY4LDU1MzA1NTc3NSwxNTA5MTQ0ODMxLD
-EwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIyLDEwMjk1
-MjM1NDldfQ==
+eyJoaXN0b3J5IjpbMTcxMTUxMzAzNywtNTY2NDI1MzE0LC0yMT
+IyOTE5MjI4LDE3MDA0NDg5NDMsLTY1NDI5NDg2NiwxOTI2Njk4
+MzA1LDE2ODg4MTc2NTAsLTE2NDUyNTgwNTYsLTg1MDk0Nzg2Ni
+w1ODU2MTYzNzEsLTMxOTUzMDc3Niw1NjU4MjE5MDIsMTc0NDYw
+MjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1LD
+E1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02ODI4
+MDQxMjJdfQ==
 -->
