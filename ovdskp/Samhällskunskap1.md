@@ -67,8 +67,9 @@ I norra Sverige finns det höga berg och fjäll. Det finns också många sjöar 
 
 I Sverige finns det mycket skog. Mer än hälften av Sverige är skog. Skogen är mycket viktig för Sverige. Vi exporterar trä och papper.
 
-
+Sverige exporterar också maskiner och fordon.<br>
+Vi importerar bland annat bensin, bilar, kaffe, kläder och frukt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDk5Nzg5NCwtMTk3ODg3OTE0MywtMz
+eyJoaXN0b3J5IjpbLTkyMTk5NzEzNywtMTk3ODg3OTE0MywtMz
 M2NDM1Mjk0LDk5MDU5NDU4M119
 -->
