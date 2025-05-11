@@ -62,7 +62,13 @@ Sverige har ungefär tio miljoner invånare. De flesta talar svenska.
 Sverige är en monarki. Vi har en kung. Sverige är också en demokrati.
 
 Stockholm är Sveriges huvudstad. Det finns ungefär en miljon invånare i Stockholm.
+
+I norra Sverige finns det höga berg och fjäll. Det finns också många sjöar och älvar i Sverige. I öster har vi en lång kust.
+
+I Sverige finns det mycket skog. Mer än hälften av Sverige är skog. Skogen är mycket viktig för Sverige. Vi exporterar trä och papper.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg0MTQwMDAsLTE5Nzg4NzkxNDMsLT
-MzNjQzNTI5NCw5OTA1OTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbLTc1NDk5Nzg5NCwtMTk3ODg3OTE0MywtMz
+M2NDM1Mjk0LDk5MDU5NDU4M119
 -->
