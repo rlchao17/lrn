@@ -43,8 +43,12 @@ Sverige har haft fred i över 200 år.
 ### EU
 Sverige är med i EU. EU betyder Europeiska Unionen. Ungefär hälften av alla länder i Europa är med i EU. De samarbetar till exempel om ekonomi, miljö och jordbruk.
 
+Några lagar är samma för alla länder inom EU. Många länder i EU, till exempel Finland och Tyskland, har en valuta som heter euro. Men i Sverige har vi kronor.
+### FN
+Sverige är också med i FN
+
 ## Fakta om Sverige
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI1MDM5MjYsLTE5Nzg4NzkxNDMsLT
-MzNjQzNTI5NCw5OTA1OTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbLTg5NDMxODk1MCwtMTk3ODg3OTE0MywtMz
+M2NDM1Mjk0LDk5MDU5NDU4M119
 -->
