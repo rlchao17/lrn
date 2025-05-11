@@ -86,9 +86,10 @@ Vi importerar bland annat bensin, bilar, kaffe, kläder och frukt.
 | Huvudstad | Stockholm |
 | Natur |  |
 | Exporterar | trä, papper, maskiner och fordon |
+| Importerar | bensin, bilar, kaffe, kläder ock frukt |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5MTA5NjA0LC0xOTc4ODc5MTQzLC0zMz
-Y0MzUyOTQsOTkwNTk0NTgzXX0=
+eyJoaXN0b3J5IjpbLTEwNjI3NzYxNiwtMTk3ODg3OTE0MywtMz
+M2NDM1Mjk0LDk5MDU5NDU4M119
 -->
