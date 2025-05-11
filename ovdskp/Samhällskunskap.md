@@ -213,10 +213,8 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 |  | Arbetsuppgifter | Vem får rösta? |
 |--|--|--|
 | Riksdagen | 
-
  - Bestämmer om lagar
  - Bestämmer om ekonomin
-
  | Den som är över 18 år och svensk medborgare |
 |  |  |  |
 |  |  |  |
@@ -235,7 +233,7 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI5ODQxMjQsMTcwMDQ0ODk0MywtNj
+eyJoaXN0b3J5IjpbLTIxMjI5MTkyMjgsMTcwMDQ0ODk0MywtNj
 U0Mjk0ODY2LDE5MjY2OTgzMDUsMTY4ODgxNzY1MCwtMTY0NTI1
 ODA1NiwtODUwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMwNzc2LD
 U2NTgyMTkwMiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMTYxMjI1
