@@ -35,10 +35,14 @@ Under flera hundra [r var Finland och Sverige ett land.
 I nästan 500 år styrde Danmarks kung över både Norge och Danmark.<br>
 Sedan hade Norge och Sverige samma kung i hundra år.<br>
 I dag år Norge ett land och Danmark ett land.
+
+Det har varit många krig mellan Sverige och Danmark, men nu är det fred i Norden.
+
+Sverige har haft fred i över 200 år.
 ## Sverige i världen
 
 ## Fakta om Sverige
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg4NzkxNDMsLTMzNjQzNTI5NCw5OT
-A1OTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbMTU4NjUzOTM2NSwtMTk3ODg3OTE0MywtMz
+M2NDM1Mjk0LDk5MDU5NDU4M119
 -->
