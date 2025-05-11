@@ -220,7 +220,7 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 > Har du röstat i ditt hemland?
 
 # Norden
-Fem länder i norra Europa kallas Norden
+Fem länder i norra Europa kallas Norden. Det ä
 # Sverige i världen
 
 # Fakta om Sverige
@@ -230,11 +230,11 @@ Fem länder i norra Europa kallas Norden
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDYxNzY2NiwxNjE5MzUxMTAwLDEzMD
-g5MTIxNjksLTU2NjQyNTMxNCwtMjEyMjkxOTIyOCwxNzAwNDQ4
-OTQzLC02NTQyOTQ4NjYsMTkyNjY5ODMwNSwxNjg4ODE3NjUwLC
-0xNjQ1MjU4MDU2LC04NTA5NDc4NjYsNTg1NjE2MzcxLC0zMTk1
-MzA3NzYsNTY1ODIxOTAyLDE3NDQ2MDIwMjEsMTgxNzUxOTU2OC
-wxNjEyMjUzOTY4LDU1MzA1NTc3NSwxNTA5MTQ0ODMxLDEwMTE4
-NjIyNTZdfQ==
+eyJoaXN0b3J5IjpbLTEzMjEyNzQxMzksMTcyNDYxNzY2NiwxNj
+E5MzUxMTAwLDEzMDg5MTIxNjksLTU2NjQyNTMxNCwtMjEyMjkx
+OTIyOCwxNzAwNDQ4OTQzLC02NTQyOTQ4NjYsMTkyNjY5ODMwNS
+wxNjg4ODE3NjUwLC0xNjQ1MjU4MDU2LC04NTA5NDc4NjYsNTg1
+NjE2MzcxLC0zMTk1MzA3NzYsNTY1ODIxOTAyLDE3NDQ2MDIwMj
+EsMTgxNzUxOTU2OCwxNjEyMjUzOTY4LDU1MzA1NTc3NSwxNTA5
+MTQ0ODMxXX0=
 -->
