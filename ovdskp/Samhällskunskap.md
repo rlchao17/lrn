@@ -212,10 +212,7 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 
 |  | Arbetsuppgifter | Vem får rösta? |
 |--|--|--|
-| Riksdagen | 
- Bestämmer om lagar<br>
- Bestämmer om ekonomin<br>
- | Den som är över 18 år och svensk medborgare |
+| Riksdagen |  Bestämmer om lagar<br>Bestämmer om ekonomin<br> | Den som är över 18 år och svensk medborgare |
 |  |  |  |
 |  |  |  |
 
@@ -233,11 +230,11 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc2NTE1MjAsLTIxMjI5MTkyMjgsMT
-cwMDQ0ODk0MywtNjU0Mjk0ODY2LDE5MjY2OTgzMDUsMTY4ODgx
-NzY1MCwtMTY0NTI1ODA1NiwtODUwOTQ3ODY2LDU4NTYxNjM3MS
-wtMzE5NTMwNzc2LDU2NTgyMTkwMiwxNzQ0NjAyMDIxLDE4MTc1
-MTk1NjgsMTYxMjI1Mzk2OCw1NTMwNTU3NzUsMTUwOTE0NDgzMS
-wxMDExODYyMjU2LDEwNzIxODA0NTIsLTY4MjgwNDEyMiwxMDI5
-NTIzNTQ5XX0=
+eyJoaXN0b3J5IjpbLTU4ODY2NzM4MCwtMjEyMjkxOTIyOCwxNz
+AwNDQ4OTQzLC02NTQyOTQ4NjYsMTkyNjY5ODMwNSwxNjg4ODE3
+NjUwLC0xNjQ1MjU4MDU2LC04NTA5NDc4NjYsNTg1NjE2MzcxLC
+0zMTk1MzA3NzYsNTY1ODIxOTAyLDE3NDQ2MDIwMjEsMTgxNzUx
+OTU2OCwxNjEyMjUzOTY4LDU1MzA1NTc3NSwxNTA5MTQ0ODMxLD
+EwMTE4NjIyNTYsMTA3MjE4MDQ1MiwtNjgyODA0MTIyLDEwMjk1
+MjM1NDldfQ==
 -->
