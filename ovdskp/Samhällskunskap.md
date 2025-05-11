@@ -214,7 +214,7 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 |--|--|--|
 | **Riksdagen** |  Bestämmer om lagar<br>Bestämmer om ekonomin<br>Kontrollerar regeringens arbete<br>Väljer statsminister | Den som är över 18 år och svensk medborgare |
 | **Regionen**<br>20 regioner | Bestämmer till exempel om<br>sjukvård<br>bussar och tåg i området | Den som är över 18 år och som har uppehållstillstånd |
-| **Kommunen**<br>290 kommuner | Bestämmer till exempel om<br>skolor<br>förskolor<br>sporthallar<br>bibliotek | Den som är 18 år och som har upphållstillstånd |
+| **Kommunen**<br>290 kommuner | Bestämmer till exempel om<br>skolor<br>förskolor<br>sporthallar<br>bibliotek | Den som är över 18 år och som har upphållstillstånd |
 
 > Har du röstat i Sverige?<br>
 > Har du röstat i ditt hemland?
@@ -230,11 +230,11 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODkxMjE2OSwtNTY2NDI1MzE0LC0yMT
-IyOTE5MjI4LDE3MDA0NDg5NDMsLTY1NDI5NDg2NiwxOTI2Njk4
-MzA1LDE2ODg4MTc2NTAsLTE2NDUyNTgwNTYsLTg1MDk0Nzg2Ni
-w1ODU2MTYzNzEsLTMxOTUzMDc3Niw1NjU4MjE5MDIsMTc0NDYw
-MjAyMSwxODE3NTE5NTY4LDE2MTIyNTM5NjgsNTUzMDU1Nzc1LD
-E1MDkxNDQ4MzEsMTAxMTg2MjI1NiwxMDcyMTgwNDUyLC02ODI4
-MDQxMjJdfQ==
+eyJoaXN0b3J5IjpbMTYxOTM1MTEwMCwxMzA4OTEyMTY5LC01Nj
+Y0MjUzMTQsLTIxMjI5MTkyMjgsMTcwMDQ0ODk0MywtNjU0Mjk0
+ODY2LDE5MjY2OTgzMDUsMTY4ODgxNzY1MCwtMTY0NTI1ODA1Ni
+wtODUwOTQ3ODY2LDU4NTYxNjM3MSwtMzE5NTMwNzc2LDU2NTgy
+MTkwMiwxNzQ0NjAyMDIxLDE4MTc1MTk1NjgsMTYxMjI1Mzk2OC
+w1NTMwNTU3NzUsMTUwOTE0NDgzMSwxMDExODYyMjU2LDEwNzIx
+ODA0NTJdfQ==
 -->
