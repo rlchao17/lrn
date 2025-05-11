@@ -77,7 +77,7 @@ Vi importerar bland annat bensin, bilar, kaffe, kläder och frukt.
 |  |  |
 |--|--|
 | Land | Sverige |
-| Världsdel |  |
+| Världsdel | Europa |
 | Gränsar till | Norge, Finland och Danmark |
 | Invånare | tio miljoner |
 | Språk | svenska |
@@ -90,6 +90,6 @@ Vi importerar bland annat bensin, bilar, kaffe, kläder och frukt.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI3NzYxNiwtMTk3ODg3OTE0MywtMz
-M2NDM1Mjk0LDk5MDU5NDU4M119
+eyJoaXN0b3J5IjpbLTE5MTc5MzMyMzAsLTE5Nzg4NzkxNDMsLT
+MzNjQzNTI5NCw5OTA1OTQ1ODNdfQ==
 -->
