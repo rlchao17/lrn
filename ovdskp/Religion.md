@@ -1,6 +1,6 @@
 ## Vad är religion?
 
-## Kirstendomen
+## Kristendomen
 
 ## Islam
 
@@ -11,6 +11,8 @@
 ## Buddismen
 
 ## Tre religioner
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxMDk1NTY3XX0=
+eyJoaXN0b3J5IjpbLTkyMzM1MTM5NV19
 -->
