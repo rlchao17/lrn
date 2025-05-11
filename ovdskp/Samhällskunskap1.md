@@ -28,9 +28,9 @@ Fem länder i norra Europa kallas Norden. Det är Sverige, Finland, Norge, Islan
 
 Sverige, Norge och Danmark är monarkier.
 
-Finland och Island 'r republiker. De har en president som statschef.
+Finland och Island är republiker. De har en president som statschef.
 
-Under flera hundra [r var Finland och Sverige ett land.
+Under flera hundra år var Finland och Sverige ett land.
 
 I nästan 500 år styrde Danmarks kung över både Norge och Danmark.<br>
 Sedan hade Norge och Sverige samma kung i hundra år.<br>
@@ -47,7 +47,7 @@ Några lagar är samma för alla länder inom EU. Många länder i EU, till exem
 ### FN
 Sverige är också med i FN. FN betyder Förenta Nationerna. Det finns ungefär 200 länder i världen. Nästan alla länder är med i FN.
 
-FN vill att det ska vara fred i v'rlden.
+FN vill att det ska vara fred i världen.
 
 FN säger att alla människor är lika mycket värda.<br>
 En flicka och en pojke har samma värde. En kvinna och en man har samma värde.
@@ -59,8 +59,10 @@ Sverige ligger i norra Europa. Sverige gränsar till Norge, Finland och Danmark.
 
 Sverige har ungefär tio miljoner invånare. De flesta talar svenska.
 
-Sverige är en monarki. Vi har en kung. Sverige ä
+Sverige är en monarki. Vi har en kung. Sverige är också en demokrati.
+
+Stockholm är Sveriges huvudstad. Det finns ungefär en miljon invånare i Stockholm.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc2MDg4MjcsLTE5Nzg4NzkxNDMsLT
+eyJoaXN0b3J5IjpbLTEzMzg0MTQwMDAsLTE5Nzg4NzkxNDMsLT
 MzNjQzNTI5NCw5OTA1OTQ1ODNdfQ==
 -->
