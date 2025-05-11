@@ -219,24 +219,3 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 > Har du röstat i Sverige?<br>
 > Har du röstat i ditt hemland?
 
-# Norden
-Fem länder i norra Europa kallas Norden. Det är Sverige, Finland, Norge, Island och Danmark. Alla är demokratier.
-
-Sverige,
-# Sverige i världen
-
-# Fakta om Sverige
-
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjY5MTA4LDE3MjQ2MTc2NjYsMTYxOT
-M1MTEwMCwxMzA4OTEyMTY5LC01NjY0MjUzMTQsLTIxMjI5MTky
-MjgsMTcwMDQ0ODk0MywtNjU0Mjk0ODY2LDE5MjY2OTgzMDUsMT
-Y4ODgxNzY1MCwtMTY0NTI1ODA1NiwtODUwOTQ3ODY2LDU4NTYx
-NjM3MSwtMzE5NTMwNzc2LDU2NTgyMTkwMiwxNzQ0NjAyMDIxLD
-E4MTc1MTk1NjgsMTYxMjI1Mzk2OCw1NTMwNTU3NzUsMTUwOTE0
-NDgzMV19
--->
