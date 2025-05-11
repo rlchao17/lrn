@@ -45,10 +45,14 @@ Sverige är med i EU. EU betyder Europeiska Unionen. Ungefär hälften av alla l
 
 Några lagar är samma för alla länder inom EU. Många länder i EU, till exempel Finland och Tyskland, har en valuta som heter euro. Men i Sverige har vi kronor.
 ### FN
-Sverige är också med i FN
+Sverige är också med i FN. FN betyder Förenta Nationerna. Det finns ungefär 200 länder i världen. Nästan alla länder är med i FN.
+
+FN vill att det ska vara fred i v'rlden.
+
+FN säger att alla människor är lika mycket värda.<br>
 
 ## Fakta om Sverige
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDMxODk1MCwtMTk3ODg3OTE0MywtMz
+eyJoaXN0b3J5IjpbLTU2MjUwNzM2MSwtMTk3ODg3OTE0MywtMz
 M2NDM1Mjk0LDk5MDU5NDU4M119
 -->
