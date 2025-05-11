@@ -55,7 +55,12 @@ En flicka och en pojke har samma värde. En kvinna och en man har samma värde.
 FN vill att alla människor i hela världen ska få samma rättigheter, till exempel att alla barn i hela världen ska få studera och lära sig att läsa och skriva.
 
 ## Fakta om Sverige
+Sverige ligger i norra Europa. Sverige gränsar till Norge, Finland och Danmark.
+
+Sverige har ungefär tio miljoner invånare. De flesta talar svenska.
+
+Sverige är en monarki. Vi har en kung. Sverige ä
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM4MDYyNzUsLTE5Nzg4NzkxNDMsLT
+eyJoaXN0b3J5IjpbLTE4NDc2MDg4MjcsLTE5Nzg4NzkxNDMsLT
 MzNjQzNTI5NCw5OTA1OTQ1ODNdfQ==
 -->
