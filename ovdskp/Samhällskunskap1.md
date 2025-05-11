@@ -78,7 +78,7 @@ Vi importerar bland annat bensin, bilar, kaffe, kläder och frukt.
 |--|--|
 | Land | Sverige |
 | Världsdel |  |
-|  |  |
+| Gränsar till | Norge, Finland och  |
 |  |  |
 |  |  |
 |  |  |
@@ -89,6 +89,6 @@ Vi importerar bland annat bensin, bilar, kaffe, kläder och frukt.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzU4MzYxLC0xOTc4ODc5MTQzLC0zMz
-Y0MzUyOTQsOTkwNTk0NTgzXX0=
+eyJoaXN0b3J5IjpbLTEzODYzODk4MTYsLTE5Nzg4NzkxNDMsLT
+MzNjQzNTI5NCw5OTA1OTQ1ODNdfQ==
 -->
