@@ -27,9 +27,16 @@ Om du har fyllt 18 år och har uppehållstillstånd får du rösta i val till re
 Fem länder i norra Europa kallas Norden. Det är Sverige, Finland, Norge, Island och Danmark. Alla är demokratier.
 
 Sverige, Norge och Danmark är monarkier.
+
+Finland och Island 'r republiker. De har en president som statschef.
+
+Under flera hundra [r var Finland och Sverige ett land.
+
+I nästan 500 år styrde Danmarks kung
 ## Sverige i världen
 
 ## Fakta om Sverige
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjQzNTI5NCw5OTA1OTQ1ODNdfQ==
+eyJoaXN0b3J5IjpbLTE3ODc1MzIzMzcsLTMzNjQzNTI5NCw5OT
+A1OTQ1ODNdfQ==
 -->
