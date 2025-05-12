@@ -53,11 +53,11 @@ Många svenskar var fattiga och arbetslösa. De kunde inte försörja sig. Det f
 
 De flesta som flyttade till Nordamerika kom aldrig tillbaka till Sverige.
 
-> Många människor flyttade från 
+> Många människor flyttade från Sverige. Här sitger några på båten i Göteborg.
 
 ## Sverige för hundra är sedan
-
+För 100 år sedan var livet i Sverige mycket annorlunda. De flesta svenskar bode på landet och arbetade med jordbruk.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjIxODc5MiwxNDgyMjUzMDYzLDYwMT
+eyJoaXN0b3J5IjpbLTc1NjkwOTAxNCwxNDgyMjUzMDYzLDYwMT
 k4NTE4NSwtMTk4MzM1NTc0Ml19
 -->
