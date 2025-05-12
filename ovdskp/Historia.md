@@ -67,8 +67,11 @@ Familjer var stora med många barn. Farmor och farfar eller mormor och morfar le
 
 Barnen gick bara sex år i skolan. Sedan fick de börja arbeta tillsammans med de vuxna.
 
-Bönderna började ta maskiner till hjälp. Då behövde de inte så mycket hjälp av m
+Bönderna började ta maskiner till hjälp. Då behövde de inte så mycket hjälp av människor längre. Därför blev många arbetslösa. Många flyttade till städerna för att få arbete där.
+
+### Arbetare i städerna
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM4NzYwNCwxNDgyMjUzMDYzLDYwMT
-k4NTE4NSwtMTk4MzM1NTc0Ml19
+eyJoaXN0b3J5IjpbOTg3NDY4NDUxLDE0ODIyNTMwNjMsNjAxOT
+g1MTg1LC0xOTgzMzU1NzQyXX0=
 -->
