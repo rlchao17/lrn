@@ -61,8 +61,11 @@ För 100 år sedan var livet i Sverige mycket annorlunda. De flesta svenskar bod
 ### Bönder på landet
 Bönderna hade inga maskiner. Därför behövde de många människor till hjälp.
 
-Familjer var stora med många barn. Farmor och farfar eller morm
+> Förut behövde bönderna mänga människor som hjälp i arbetet.
+
+Familjer var stora med många barn. Farmor och farfar eller mormor och morfar levde också ofta tillsammans med dem.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTY1NDY2LDE0ODIyNTMwNjMsNjAxOT
-g1MTg1LC0xOTgzMzU1NzQyXX0=
+eyJoaXN0b3J5IjpbMTIzMTE2NTU0NCwxNDgyMjUzMDYzLDYwMT
+k4NTE4NSwtMTk4MzM1NTc0Ml19
 -->
