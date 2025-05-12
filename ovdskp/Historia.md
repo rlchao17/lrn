@@ -49,10 +49,10 @@ Gustav Vasa var en viktig kung. Riksdagen valde honom till kung den 6 juni 1523.
 ### Utvandring för 150 år sedan
 För ungefär 150 år sedan bodde det cirka tre miljoner människor i Sverige. Men livet var svårt för många svenskar. Bönderna odlade, men det växte inte bra på deras åkrar. Därför fanns det inte mat till alla.
 
-Många svenskar var
+Många svenskar var fattiga och arbetslösa. De kunde inte försörja sig. Det fanns många sjukdomar. Därför lämnade över en miljon svenskar sitt 
 ## Sverige för hundra är sedan
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTE4MjUwMiwxNDgyMjUzMDYzLDYwMT
-k4NTE4NSwtMTk4MzM1NTc0Ml19
+eyJoaXN0b3J5IjpbLTIwMDg2NjA0MTIsMTQ4MjI1MzA2Myw2MD
+E5ODUxODUsLTE5ODMzNTU3NDJdfQ==
 -->
