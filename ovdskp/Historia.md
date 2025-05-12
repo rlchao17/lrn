@@ -13,12 +13,18 @@ Sedan åkte de till Sverige (4). I Sverige hittade de jobb. Edna och Matthias tr
 
 År 1999 flyttade de tillbaka till Tyskland (5). Båda två fick jobb som lärare.
 
-Edna blev 
+Edna blev pensionär 2019.
+
+Man kan rita Ednas livshistoria som en tidslinje:
+|  |  |  |  |  |  |
+|--|--|
+|  |  |
+
 
 ## Sveriges historia
 
 ## Sverige för hundra är sedan
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDQ4NDAwOSwtMTk4MzM1NTc0Ml19
+eyJoaXN0b3J5IjpbLTE1MTIyNjA1NSwtMTk4MzM1NTc0Ml19
 -->
