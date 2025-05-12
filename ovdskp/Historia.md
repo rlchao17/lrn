@@ -70,8 +70,10 @@ Barnen gick bara sex år i skolan. Sedan fick de börja arbeta tillsammans med d
 Bönderna började ta maskiner till hjälp. Då behövde de inte så mycket hjälp av människor längre. Därför blev många arbetslösa. Många flyttade till städerna för att få arbete där.
 
 ### Arbetare i städerna
-I städerna började man bygga fabriker. Förut gjorde man till exempel alla skor för hand, men nu gjorde man skor med maskiner. I fabrikerna arbetade människor som hade flyttat från landet till staden. Här fick de arbete och kunde tjäna pengar. Det hade de inte gjort förut. När de arbetade hos bönderna fick de mat och bostad, men nä
+I städerna började man bygga fabriker. Förut gjorde man till exempel alla skor för hand, men nu gjorde man skor med maskiner. I fabrikerna arbetade människor som hade flyttat från landet till staden. Här fick de arbete och kunde tjäna pengar. Det hade de inte gjort förut. När de arbetade hos bönderna fick de mat och bostad, men nästan inga pengar.
+
+Livet i staden var svårt för de flesta. Det fanns arbete, men det fanns inte bostäder åt alla. Människorna arbetade många timmar varje dag 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDc4Nzk3NSwxNDgyMjUzMDYzLDYwMT
+eyJoaXN0b3J5IjpbLTY2NTg1OTA5MywxNDgyMjUzMDYzLDYwMT
 k4NTE4NSwtMTk4MzM1NTc0Ml19
 -->
