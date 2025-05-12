@@ -56,8 +56,13 @@ De flesta som flyttade till Nordamerika kom aldrig tillbaka till Sverige.
 > Många människor flyttade från Sverige. Här sitger några på båten i Göteborg.
 
 ## Sverige för hundra är sedan
-För 100 år sedan var livet i Sverige mycket annorlunda. De flesta svenskar bode på landet och arbetade med jordbruk.
+För 100 år sedan var livet i Sverige mycket annorlunda. De flesta svenskar bodde på landet och arbetade med jordbruk.
+
+### Bönder på landet
+Bönderna hade inga maskiner. Därför behövde de många människor till hjälp.
+
+Familjer var stora med många barn. Farmor och farfar eller morm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjkwOTAxNCwxNDgyMjUzMDYzLDYwMT
-k4NTE4NSwtMTk4MzM1NTc0Ml19
+eyJoaXN0b3J5IjpbMTA2MTY1NDY2LDE0ODIyNTMwNjMsNjAxOT
+g1MTg1LC0xOTgzMzU1NzQyXX0=
 -->
