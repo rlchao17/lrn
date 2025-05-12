@@ -65,7 +65,10 @@ Bönderna hade inga maskiner. Därför behövde de många människor till hjälp
 
 Familjer var stora med många barn. Farmor och farfar eller mormor och morfar levde också ofta tillsammans med dem.
 
+Barnen gick bara sex år i skolan. Sedan fick de börja arbeta tillsammans med de vuxna.
+
+Bönderna började ta maskiner till hjälp. Då behövde de inte så mycket hjälp av m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTE2NTU0NCwxNDgyMjUzMDYzLDYwMT
+eyJoaXN0b3J5IjpbLTIwNjM4NzYwNCwxNDgyMjUzMDYzLDYwMT
 k4NTE4NSwtMTk4MzM1NTc0Ml19
 -->
