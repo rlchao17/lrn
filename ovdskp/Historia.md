@@ -21,13 +21,36 @@ Man kan rita Ednas livshistoria som en tidslinje:
 | född | Tyskland | Turkiet | Tyskland | Sverige | Tyskland | pensionär |
 | 1953 | 1980 | 1982 | 1987 | 1991 | 1999 | 2019 |
 
+Alla människor har en historia. Det är allt som har hänt förut i livet.
 
+> Vilken är din historia? Vad har hänt i ditt liv från den dagen då du föddes fram till i dag? Berätta. Rita din tidslinje.
 
+Alla familjer och släkter har också en historia. Den har kanske din farfar eller någon annan berättar för dig.
+
+> Vad ved du om din familjs eller släkts historia?
+
+### En stads historia
+Alla städer har en historia. Stockholm, som är Sveriges huvudstad, har sin historia. Stockholm har till exempel inte alltid varit huvudstad. Den har bara varit Sveriges huvudstad i cirka 400 år.
 
 ## Sveriges historia
+Alla länder har en historia. Ditt nya hemland, Sverige, har också en historia. Här får du veta lite om vad som har hänt i Sverige.
+
+### Invandring för 10 000 år sedan
+För många tusen år sedan fanns det bara is och snö i hela Norden. Då fanns det inga människor eller djur här.
+
+Men det blev varmare och isen smälte. Då kom de första människorna till Sverige. De kom hit för cirka 10 000 år sedan. De var fiskare och jägare.
+
+### Monarki i Sverige i över 1000 år
+Sverige har haft kungar i över 1000 år, men vi har också haft tre drottningar som statschefer.
+
+Gustav Vasa var en viktig kung. Riksdagen valde honom till kung den 6 juni 1523. Därför är den 6 juni Sveriges nationaldag.
+#### Gustav Vasa (kung 1523-1560)
+
+### Utvandring för 150 år sedan
 
 ## Sverige för hundra är sedan
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxOTg1MTg1LC0xOTgzMzU1NzQyXX0=
+eyJoaXN0b3J5IjpbMTQ4MjI1MzA2Myw2MDE5ODUxODUsLTE5OD
+MzNTU3NDJdfQ==
 -->
