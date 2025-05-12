@@ -72,8 +72,13 @@ Bönderna började ta maskiner till hjälp. Då behövde de inte så mycket hjä
 ### Arbetare i städerna
 I städerna började man bygga fabriker. Förut gjorde man till exempel alla skor för hand, men nu gjorde man skor med maskiner. I fabrikerna arbetade människor som hade flyttat från landet till staden. Här fick de arbete och kunde tjäna pengar. Det hade de inte gjort förut. När de arbetade hos bönderna fick de mat och bostad, men nästan inga pengar.
 
-Livet i staden var svårt för de flesta. Det fanns arbete, men det fanns inte bostäder åt alla. Människorna arbetade många timmar varje dag 
+Livet i staden var svårt för de flesta. Det fanns arbete, men det fanns inte bostäder åt alla. Människorna arbetade många timmar varje dag och de bodde många tillsammans i små lägenheter.
+
+> Vad vet du om ditt hemlands historia? Berätta.
+#### Arbetare på en fabrik, 1900
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTg1OTA5MywxNDgyMjUzMDYzLDYwMT
+eyJoaXN0b3J5IjpbMTA2MDQzMzM3NCwxNDgyMjUzMDYzLDYwMT
 k4NTE4NSwtMTk4MzM1NTc0Ml19
 -->
