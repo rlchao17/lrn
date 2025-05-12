@@ -18,8 +18,10 @@ Edna blev pensionär 2019.
 Man kan rita Ednas livshistoria som en tidslinje:
 |  |  | gift |  |  |  |  |
 |--|--|--|--|--|--|--|
-| född | Tyskland | Turkiet | Tyskland | Sverige |  |  |
-| 1953 | 1980 | 1982 | 1987 | 1991 |  |  |
+| född | Tyskland | Turkiet | Tyskland | Sverige | Tyskland | pensionär |
+| 1953 | 1980 | 1982 | 1987 | 1991 | 1999 | 2019 |
+
+
 
 
 ## Sveriges historia
@@ -27,5 +29,5 @@ Man kan rita Ednas livshistoria som en tidslinje:
 ## Sverige för hundra är sedan
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjU4NTk2NSwtMTk4MzM1NTc0Ml19
+eyJoaXN0b3J5IjpbNjAxOTg1MTg1LC0xOTgzMzU1NzQyXX0=
 -->
