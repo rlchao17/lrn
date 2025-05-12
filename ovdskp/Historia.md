@@ -9,11 +9,16 @@ Edna och Matthias flyttade till Turkiet (2). De studerade och arbetade i Turkiet
 
 Därefter flyttade de tillbaka till Tyskland (3). I Tyskland stannade de i fyra år.
 
-Sedan åkte de till Sverige (4). I Sverige hittade de jobb. Edna och Matthias trivdes
+Sedan åkte de till Sverige (4). I Sverige hittade de jobb. Edna och Matthias trivdes mycket bra i Sverige.
+
+År 1999 flyttade de tillbaka till Tyskland (5). Båda två fick jobb som lärare.
+
+Edna blev 
+
 ## Sveriges historia
 
 ## Sverige för hundra är sedan
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyODUwLC0xOTgzMzU1NzQyXX0=
+eyJoaXN0b3J5IjpbLTY0MDQ4NDAwOSwtMTk4MzM1NTc0Ml19
 -->
