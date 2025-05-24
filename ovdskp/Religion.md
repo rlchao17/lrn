@@ -37,7 +37,10 @@ Många kristna går till kyrkan på söndagar.
 ### Bibeln
 De kristnas heliga bok kallas för Bibeln. Bibeln har två delar: Gamla Testamentet och Nya Testamentet. I Gamla Testamentet läser vi om saker som hände före Jesus födelse. Nya Testamentet börjar med berättelsen som hur Jesus föddes i Betlehem.
 
-### Före Kristus (f.Kr.) och efter Kristus (e.Kr
+### Före Kristus (f.Kr.) och efter Kristus (e.Kr.)
+
+> Vad är det för år nu? 
+
 ## Islam
 
 ## Judendomen
@@ -50,5 +53,5 @@ De kristnas heliga bok kallas för Bibeln. Bibeln har två delar: Gamla Testamen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU1MjEzNDZdfQ==
+eyJoaXN0b3J5IjpbLTE5MTI5MDIxMjJdfQ==
 -->
