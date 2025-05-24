@@ -135,7 +135,9 @@ De som tror på hinduismen kallas för hinduer. Hinduer tror på många gudar. D
 Inom hinduismen finns det många heliga böcker. En av dem är Bhagavadgita.
 
 ### Vi föds igen
-Många hinduer tror att en människa lever manga gånger. De säger att en människa som gör rätt inte 
+Många hinduer tror att en människa lever manga gånger. De säger att en människa som gör rätt inte behöver födas igen.
+
+En flod i Indien heter Ganges. Hinduerna åker dit för att bada. De säger att man blir ren inuti om man badar där.
 
 ## Buddismen
 
@@ -143,7 +145,7 @@ Många hinduer tror att en människa lever manga gånger. De säger att en männ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjIwODE5ODMsLTMzODAzNjc0OSw5MD
+eyJoaXN0b3J5IjpbLTE5NzQ0MjA1OTIsLTMzODAzNjc0OSw5MD
 k5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIw
 NjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsOD
 AzMDYzNTA5XX0=
