@@ -105,7 +105,7 @@ Judar träffas i en byggnad som kallas för synagoga.
 #### judarnas symbol
 
 ### Tanakh
-Judarnas heliga bok kallas för Tanakh. Tanakh innehåller samma texter som Gamla Testamentet i Bibeln. Den viktigaste delen i Tana
+Judarnas heliga bok kallas för Tanakh. Tanakh innehåller samma texter som Gamla Testamentet i Bibeln. Den viktigaste delen i Tanakh kallas för Tora. I Tora kan man läsa om profeten Moses. Han är en viktig person inom judendomen.
 
 ## Hinduismen
 
@@ -115,8 +115,8 @@ Judarnas heliga bok kallas för Tanakh. Tanakh innehåller samma texter som Gaml
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUxNjQ1OSwtMzM4MDM2NzQ5LDkwOT
-kzMzg1MSwtMTAxNDcyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2
-MDcsNDUyNzIxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MD
-MwNjM1MDldfQ==
+eyJoaXN0b3J5IjpbNTc2NTk1NzgsLTMzODAzNjc0OSw5MDk5Mz
+M4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIwNjA3
+LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsODAzMD
+YzNTA5XX0=
 -->
