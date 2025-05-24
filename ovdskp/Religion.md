@@ -121,8 +121,10 @@ Påsken är också en viktig högtid för judarna. Då tänker de på när Moses
 > De tror på en `__________`<br>
 > Helig bok: `__________`<br>
 > Byggnad: `__________`<br>
-> Viktiga högtider: 
+> Viktiga högtider: `__________,__________`<br>
+> Viktig person: `__________`<br>
 
+#### en synagoga
 
 ## Hinduismen
 
@@ -132,8 +134,8 @@ Påsken är också en viktig högtid för judarna. Då tänker de på när Moses
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2MTA4NjQwLC0zMzgwMzY3NDksOTA5OT
-MzODUxLC0xMDE0NzI4MjI3LC0zMDcwMTI2NjcsLTE3MDMyMDYw
-Nyw0NTI3MjE5NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMz
-A2MzUwOV19
+eyJoaXN0b3J5IjpbLTczNjgwMTAyMSwtMzM4MDM2NzQ5LDkwOT
+kzMzg1MSwtMTAxNDcyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2
+MDcsNDUyNzIxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MD
+MwNjM1MDldfQ==
 -->
