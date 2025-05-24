@@ -6,6 +6,8 @@ Det finns många religioner. Några är stora, andra är små. Religionerna ger 
  - Vart är vi på väg?
  - Vad händer efter döden?
 
+### En Gud, många gudar eller ingen gud
+Världens fem stora religioner är kristendom, islam, judendom, hinduism och
 ## Kristendomen
 
 ## Islam
@@ -20,5 +22,5 @@ Det finns många religioner. Några är stora, andra är små. Religionerna ger 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDU4MTI1Ml19
+eyJoaXN0b3J5IjpbLTEyMjE3OTUxMDhdfQ==
 -->
