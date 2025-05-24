@@ -44,6 +44,9 @@ De kristnas heliga bok kallas för Bibeln. Bibeln har två delar: Gamla Testamen
 I de flesta länder börjar man räkna tiden från året då Jesus Kristus föddes, Vi säger att han föddes år noll. År 2019 betyder alltså 2019 år e.Kr. (efter Jesus födelse, cirka år 0)
 
 ### Jesus
+I Bibeln står det att Jesus var både Gud och människa. Det står att Jesus aldrig gjorde något fel. De kristna säger att Jesus kom till jorden för att visa hur kärleksfull Gud är. Jesus sa: Allt vad du vill att människor ska göra för dig, det ska du göra för dem.
+
+
 
 ## Islam
 
@@ -57,5 +60,5 @@ I de flesta länder börjar man räkna tiden från året då Jesus Kristus född
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzMDYzNTA5XX0=
+eyJoaXN0b3J5IjpbLTg3OTU1ODY1MSw4MDMwNjM1MDldfQ==
 -->
