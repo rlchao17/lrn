@@ -86,7 +86,7 @@ Det finns fem saker som alla muslimer måste göra:
  - De ska åka till Mecka minst en gång i livet.
 
 ### Viktiga högtider
-Efter ramadan kommer en högtid som kallas för eid al-fitr. En annan stor högtid är eid al+adha. Adha betyder offer. Ett offer är något värdefullt som man ger till en gud.
+Efter ramadan kommer en högtid som kallas för eid al-fitr. En annan stor högtid är eid al-adha. Adha betyder offer. Ett offer är något värdefullt som man ger till en gud. Muslimerna firar eid al-adha till minnet av profeten
 
 ## Judendomen
 
@@ -98,8 +98,8 @@ Efter ramadan kommer en högtid som kallas för eid al-fitr. En annan stor högt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODUxMDE5MSwtMzM4MDM2NzQ5LDkwOT
-kzMzg1MSwtMTAxNDcyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2
-MDcsNDUyNzIxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MD
-MwNjM1MDldfQ==
+eyJoaXN0b3J5IjpbLTUzMTQ3MDYwLC0zMzgwMzY3NDksOTA5OT
+MzODUxLC0xMDE0NzI4MjI3LC0zMDcwMTI2NjcsLTE3MDMyMDYw
+Nyw0NTI3MjE5NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMz
+A2MzUwOV19
 -->
