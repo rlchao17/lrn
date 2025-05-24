@@ -129,11 +129,13 @@ Påsken är också en viktig högtid för judarna. Då tänker de på när Moses
 ## Hinduismen
 De som tror på hinduismen kallas för hinduer. Hinduer tror på många gudar. De tre viktigaste gudarna heter Vishnu, Brahma och Shiva. De flesta hinduer finns i Indien. Hinduernas heliga byggnad kallas för tempel. Hinduerna går  till templen och ber till gudarna där. I templet offrar de ibland mat och blommor till sina gudar.
 
-##
+#### ett tempel
 
 ### Heliga böcker
 Inom hinduismen finns det många heliga böcker. En av dem är Bhagavadgita.
 
+### Vi föds igen
+Många hinduer tror att en människa lever manga gånger. De säger att en människa som gör rätt inte 
 
 ## Buddismen
 
@@ -141,8 +143,8 @@ Inom hinduismen finns det många heliga böcker. En av dem är Bhagavadgita.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0MjA5MzE5LC0zMzgwMzY3NDksOTA5OT
-MzODUxLC0xMDE0NzI4MjI3LC0zMDcwMTI2NjcsLTE3MDMyMDYw
-Nyw0NTI3MjE5NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMz
-A2MzUwOV19
+eyJoaXN0b3J5IjpbLTIwMjIwODE5ODMsLTMzODAzNjc0OSw5MD
+k5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIw
+NjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsOD
+AzMDYzNTA5XX0=
 -->
