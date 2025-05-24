@@ -76,7 +76,11 @@ Muhammed sa att han fick ord från ängeln Gabriel. Orden skrevs senare ner i en
 
 #### en moské
 
-### Fe
+### Fem viktiga saker
+Det finns fem saker som alla muslimer måste göra:
+
+ - De ska säga: Det finns ingen Gud utom Allah, och Muhammed är Allahs sändebud.
+ - 
 
 ## Judendomen
 
@@ -88,8 +92,8 @@ Muhammed sa att han fick ord från ängeln Gabriel. Orden skrevs senare ner i en
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU0NTE3OTcsLTMzODAzNjc0OSw5MD
-k5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIw
-NjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsOD
-AzMDYzNTA5XX0=
+eyJoaXN0b3J5IjpbMTE2NTM2NDY5NywtMzM4MDM2NzQ5LDkwOT
+kzMzg1MSwtMTAxNDcyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2
+MDcsNDUyNzIxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MD
+MwNjM1MDldfQ==
 -->
