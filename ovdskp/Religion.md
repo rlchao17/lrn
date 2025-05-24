@@ -13,7 +13,10 @@ I skolan i Sverige lär sig eleverna om alla de stora religionerna.
 
 Det finns människor som säger: Det finns ingen Gud. Vi tror inte på någon religion. Människor som inte har någon religion kallas för **ateister**.
 
-### Religionsfri
+### Religionsfrihet
+Kristendomen kom till Sverige för över 1000 år sedan. I dag finns det många lika religioner i Sverige.
+
+Vi har religionsfrihet i Sverige. Det betyder att alla människor får välja själva vilken religion de vill tillh
 
 ## Kristendomen
 
@@ -29,5 +32,5 @@ Det finns människor som säger: Det finns ingen Gud. Vi tror inte på någon re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDI3MjUwMV19
+eyJoaXN0b3J5IjpbLTQzNjI4ODU2XX0=
 -->
