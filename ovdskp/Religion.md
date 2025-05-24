@@ -30,7 +30,13 @@ Religionsfrihet betyder också att du får byta religion om du vill.
 | tillhör |  |
 
 ## Kristendomen
-Kristendomen är världens största religion. De kristna tror på en Gud. De säger att Gud är **skaparen**. Han skapade världen. De kristna tror också på Jesus. De tror att han är Guds son. Jesus har också andra namn:
+Kristendomen är världens största religion. De kristna tror på en Gud. De säger att Gud är **skaparen**. Han skapade världen. De kristna tror också på Jesus. De tror att han är Guds son. Jesus har också andra namn: Messias och Kristus.
+
+Många kristna går till kyrkan på söndagar.
+
+### Bibeln
+De kristnas heliga bok kallas för Bibeln. Bibeln har två delar: Gamla Testamentet och Nya Testamentet. I Gamla 
+
 ## Islam
 
 ## Judendomen
@@ -43,5 +49,5 @@ Kristendomen är världens största religion. De kristna tror på en Gud. De sä
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODU2NDYxMV19
+eyJoaXN0b3J5IjpbLTEwMDE3Nzc5OTddfQ==
 -->
