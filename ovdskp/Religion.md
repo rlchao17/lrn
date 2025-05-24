@@ -91,7 +91,12 @@ Efter ramadan kommer en högtid som kallas för eid al-fitr. En annan stor högt
 > **Skriv på rätt plats.<br>**
 > **Koranen, muslimer, moské, Muhammed, ei al-fitr, eid al-adha, Gud**
 > 
-> De som tillhör islam kallas för 
+> De som tillhör islam kallas för `__________`<br>
+> De tror på en `__________`<br>
+> Helig bok: `__________`<br>
+> Byggnad: `__________`<br>
+> Viktiga högtider: `__________,__________`<br>
+> Viktig person: `__________`<br>
 
 ## Judendomen
 
@@ -103,8 +108,8 @@ Efter ramadan kommer en högtid som kallas för eid al-fitr. En annan stor högt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODUzNjQyOCwtMzM4MDM2NzQ5LDkwOT
-kzMzg1MSwtMTAxNDcyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2
-MDcsNDUyNzIxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MD
-MwNjM1MDldfQ==
+eyJoaXN0b3J5IjpbLTEyOTAyNzUxMjIsLTMzODAzNjc0OSw5MD
+k5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIw
+NjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsOD
+AzMDYzNTA5XX0=
 -->
