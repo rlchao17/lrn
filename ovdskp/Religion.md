@@ -107,6 +107,10 @@ Judar träffas i en byggnad som kallas för synagoga.
 ### Tanakh
 Judarnas heliga bok kallas för Tanakh. Tanakh innehåller samma texter som Gamla Testamentet i Bibeln. Den viktigaste delen i Tanakh kallas för Tora. I Tora kan man läsa om profeten Moses. Han är en viktig person inom judendomen.
 
+### Viktiga högtider
+En viktig högtid för judarna är jom kippur. Då fastar judarna i 24 timmar. Man ber också sina medmänniskor om förlåtelse och ber Gud om hjälp att bli en bättre människa. Den dagen går man till synagogan och bar vita kläder på sig.
+
+
 ## Hinduismen
 
 ## Buddismen
@@ -115,8 +119,8 @@ Judarnas heliga bok kallas för Tanakh. Tanakh innehåller samma texter som Gaml
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NTk1NzgsLTMzODAzNjc0OSw5MDk5Mz
-M4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIwNjA3
-LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsODAzMD
-YzNTA5XX0=
+eyJoaXN0b3J5IjpbMTg0OTkzMzg1NSwtMzM4MDM2NzQ5LDkwOT
+kzMzg1MSwtMTAxNDcyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2
+MDcsNDUyNzIxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MD
+MwNjM1MDldfQ==
 -->
