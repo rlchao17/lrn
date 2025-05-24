@@ -39,7 +39,9 @@ De kristnas heliga bok kallas för Bibeln. Bibeln har två delar: Gamla Testamen
 
 ### Före Kristus (f.Kr.) och efter Kristus (e.Kr.)
 
-> Vad är det för år nu? ______________ Varför säger vi att det är år 
+> Vad är det för år nu? ______________ Varför säger vi att det är år _______________ nu?
+
+I de flesta länder börjar man räkna tiden från året då Jesus Kristus föddes, Vi säger att han föddes år noll. År 2019 betyder alltså 2019 år e.Kr. (efter Jesus födelse)
 
 ## Islam
 
@@ -53,5 +55,5 @@ De kristnas heliga bok kallas för Bibeln. Bibeln har två delar: Gamla Testamen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc4MjEzNjBdfQ==
+eyJoaXN0b3J5IjpbMTM5ODE3NzkxN119
 -->
