@@ -88,6 +88,10 @@ Det finns fem saker som alla muslimer måste göra:
 ### Viktiga högtider
 Efter ramadan kommer en högtid som kallas för eid al-fitr. En annan stor högtid är eid al-adha. Adha betyder offer. Ett offer är något värdefullt som man ger till en gud. Muslimerna firar eid al-adha till minnet av profeten Ibrahim och hans son. Gud sa till Ibrahim att han skulle offra sin son. Ibrahim ville lyda Gud. Gud gav Ibrahim i stället ett får att offra.
 
+> **Skriv på rätt plats.<br>**
+> **Koranen, muslimer, moske, Muhammed, ei al-fitr, eid al-adha, G**
+> 
+
 ## Judendomen
 
 ## Hinduismen
@@ -98,7 +102,7 @@ Efter ramadan kommer en högtid som kallas för eid al-fitr. En annan stor högt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDc4NzYzNywtMzM4MDM2NzQ5LDkwOT
+eyJoaXN0b3J5IjpbLTQ1MjUzNjYwOCwtMzM4MDM2NzQ5LDkwOT
 kzMzg1MSwtMTAxNDcyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2
 MDcsNDUyNzIxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MD
 MwNjM1MDldfQ==
