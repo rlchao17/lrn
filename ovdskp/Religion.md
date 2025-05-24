@@ -11,9 +11,9 @@ Världens fem stora religioner är kristendom, islam, judendom, hinduism och bud
 
 I skolan i Sverige lär sig eleverna om alla de stora religionerna.
 
-Det finns människor som säger: Det finns ingen Gud. Vi tror inte på någon religion. Människor som inte har någon religion kallas för ateister.
+Det finns människor som säger: Det finns ingen Gud. Vi tror inte på någon religion. Människor som inte har någon religion kallas för **ateister**.
 
-
+### Religionsfri
 
 ## Kristendomen
 
@@ -29,5 +29,5 @@ Det finns människor som säger: Det finns ingen Gud. Vi tror inte på någon re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzA0NDI1OV19
+eyJoaXN0b3J5IjpbLTk2NDI3MjUwMV19
 -->
