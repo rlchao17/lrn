@@ -65,7 +65,7 @@ På påsken firar de kristna att Jesus dog och blev levande igen efter tre dagar
 > Viktig person: `__________`<br>
 
 ## Islam
-Islam är den näst största religionen i världen i dag. Muhammed är den viktigaste profeten inom islam.
+Islam är den näst största religionen i världen i dag. Muhammed är den viktigaste profeten inom islam. Han föddes ungefär 
 
 ## Judendomen
 
@@ -77,7 +77,7 @@ Islam är den näst största religionen i världen i dag. Muhammed är den vikti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NjMxMTEsOTA5OTMzODUxLC0xMDE0Nz
-I4MjI3LC0zMDcwMTI2NjcsLTE3MDMyMDYwNyw0NTI3MjE5NTIs
-MTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMzA2MzUwOV19
+eyJoaXN0b3J5IjpbLTE5NDc3OTM3NTksOTA5OTMzODUxLC0xMD
+E0NzI4MjI3LC0zMDcwMTI2NjcsLTE3MDMyMDYwNyw0NTI3MjE5
+NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMzA2MzUwOV19
 -->
