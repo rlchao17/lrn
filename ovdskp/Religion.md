@@ -72,7 +72,7 @@ Islam är den näst största religionen i världen i dag. Muhammed är den vikti
 #### muslimernas symbol
 
 ### Koranen
-Muhammed sa att han fick ord från ängeln Ga
+Muhammed sa att han fick ord från ängeln Gabriel. Orden skrevs senare ner i en bok som kalas för Koranen. Han sa också att Koranen kom fån Gud (Allah). De som tror på Koranens Gud kallas för muslimer. Muslimer tror på en Gud, som är a
 
 ## Judendomen
 
@@ -84,7 +84,7 @@ Muhammed sa att han fick ord från ängeln Ga
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTcyODk4MDYsOTA5OTMzODUxLC0xMD
-E0NzI4MjI3LC0zMDcwMTI2NjcsLTE3MDMyMDYwNyw0NTI3MjE5
-NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMzA2MzUwOV19
+eyJoaXN0b3J5IjpbOTA1MjMwOTE4LDkwOTkzMzg1MSwtMTAxND
+cyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2MDcsNDUyNzIxOTUy
+LDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MDMwNjM1MDldfQ==
 -->
