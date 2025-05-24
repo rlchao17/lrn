@@ -74,6 +74,10 @@ Islam är den näst största religionen i världen i dag. Muhammed är den vikti
 ### Koranen
 Muhammed sa att han fick ord från ängeln Gabriel. Orden skrevs senare ner i en bok som kalas för Koranen. Han sa också att Koranen kom fån Gud (Allah). De som tror på Koranens Gud kallas för muslimer. Muslimer tror på en Gud, som är skaparen. Många muslimer går till moskén på fredagar.
 
+#### en moské
+
+### Fe
+
 ## Judendomen
 
 ## Hinduismen
@@ -84,7 +88,8 @@ Muhammed sa att han fick ord från ängeln Gabriel. Orden skrevs senare ner i en
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODAzNjc0OSw5MDk5MzM4NTEsLTEwMT
-Q3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIwNjA3LDQ1MjcyMTk1
-MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsODAzMDYzNTA5XX0=
+eyJoaXN0b3J5IjpbLTE1NTU0NTE3OTcsLTMzODAzNjc0OSw5MD
+k5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIw
+NjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsOD
+AzMDYzNTA5XX0=
 -->
