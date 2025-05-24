@@ -82,7 +82,11 @@ Det finns fem saker som alla muslimer måste göra:
  - De ska säga: Det finns ingen Gud utom Allah, och Muhammed är Allahs sändebud.
  - De ska be fem gånger varje dag.
  - De ska ge till de fattiga.
- - 
+ - De ska fasta under hela månaden ramadan.
+ - De ska åka till Mecka minst en gång i livet.
+
+### Viktiga högtider
+
 
 ## Judendomen
 
@@ -94,8 +98,8 @@ Det finns fem saker som alla muslimer måste göra:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NjE0NDgwLC0zMzgwMzY3NDksOTA5OT
-MzODUxLC0xMDE0NzI4MjI3LC0zMDcwMTI2NjcsLTE3MDMyMDYw
-Nyw0NTI3MjE5NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMz
-A2MzUwOV19
+eyJoaXN0b3J5IjpbLTExNzQ5OTIxMjYsLTMzODAzNjc0OSw5MD
+k5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIw
+NjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsOD
+AzMDYzNTA5XX0=
 -->
