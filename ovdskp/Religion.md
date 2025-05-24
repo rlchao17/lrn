@@ -139,14 +139,16 @@ Många hinduer tror att en människa lever manga gånger. De säger att en männ
 
 En flod i Indien heter Ganges. Hinduerna åker dit för att bada. De säger att man blir ren inuti om man badar där.
 
+#### De badar i Ganges.
+
 ## Buddismen
 
 ## Tre religioner
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ0MjA1OTIsLTMzODAzNjc0OSw5MD
-k5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIw
-NjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsOD
-AzMDYzNTA5XX0=
+eyJoaXN0b3J5IjpbLTEyNDExNDg0NTUsLTE5NzQ0MjA1OTIsLT
+MzODAzNjc0OSw5MDk5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAx
+MjY2NywtMTcwMzIwNjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC
+04Nzk1NTg2NTEsODAzMDYzNTA5XX0=
 -->
