@@ -114,6 +114,11 @@ En viktig högtid för judarna är jom kippur. Då fastar judarna i 24 timmar. M
 
 Påsken är också en viktig högtid för judarna. Då tänker de på när Moses och hans folk gick ut från Egypten mer än 1000 år f.Kr.
 
+> **Skriv på rätt plats.<br>**
+> **jom kippur, påsk, synagoga, **
+> 
+> De som tillhör islam kallas för `__________`<br>
+> 
 ## Hinduismen
 
 ## Buddismen
@@ -122,7 +127,7 @@ Påsken är också en viktig högtid för judarna. Då tänker de på när Moses
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDU0MTkyLC0zMzgwMzY3NDksOTA5OT
+eyJoaXN0b3J5IjpbMTY3MzQzODc4LC0zMzgwMzY3NDksOTA5OT
 MzODUxLC0xMDE0NzI4MjI3LC0zMDcwMTI2NjcsLTE3MDMyMDYw
 Nyw0NTI3MjE5NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMz
 A2MzUwOV19
