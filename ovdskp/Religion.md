@@ -46,7 +46,8 @@ I de flesta länder börjar man räkna tiden från året då Jesus Kristus född
 ### Jesus
 I Bibeln står det att Jesus var både Gud och människa. Det står att Jesus aldrig gjorde något fel. De kristna säger att Jesus kom till jorden för att visa hur kärleksfull Gud är. Jesus sa: Allt vad du vill att människor ska göra för dig, det ska du göra för dem.
 
-### De kris
+### De kristnas symbol
+Jesus dog på ett kors. Han blev levande igen efter tre dagar. Sedan for han upp till himlen. I Bibeln står det att när Jesus dog på korset 
 
 ## Islam
 
@@ -60,6 +61,6 @@ I Bibeln står det att Jesus var både Gud och människa. Det står att Jesus al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3MjEyMzE2LC04Nzk1NTg2NTEsODAzMD
+eyJoaXN0b3J5IjpbOTkyNDc2MDE1LC04Nzk1NTg2NTEsODAzMD
 YzNTA5XX0=
 -->
