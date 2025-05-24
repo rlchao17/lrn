@@ -48,7 +48,9 @@ I Bibeln står det att Jesus var både Gud och människa. Det står att Jesus al
 
 ### De kristnas symbol
 Jesus dog på ett kors. Han blev levande igen efter tre dagar. Sedan *for* han upp till himlen. I Bibeln står det att när Jesus dog på korset tog han straffet för alla våra fel. Det står också att alla som vill följa Jesus kan få förlåtelse och evigt liv hos Gud efter döden.
-#### 
+
+#### de kristnas symbol
+
 ### Viktiga högtider
 Julen (24-26 december) är en viktig högtid för de kristna. Då firar de Jesus födelse.
 
@@ -67,6 +69,11 @@ På påsken firar de kristna att Jesus dog och blev levande igen efter tre dagar
 ## Islam
 Islam är den näst största religionen i världen i dag. Muhammed är den viktigaste profeten inom islam. Han föddes ungefär 570 år efter Kristus (e.Kr.). Han bodde i Mecka och Medina som i dag ligger i Saudiarabien.
 
+#### muslimernas symbol
+
+### Koranen
+Muhammed sa att han fick ord från ängeln Ga
+
 ## Judendomen
 
 ## Hinduismen
@@ -77,7 +84,7 @@ Islam är den näst största religionen i världen i dag. Muhammed är den vikti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ4MjEwMiw5MDk5MzM4NTEsLTEwMT
-Q3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIwNjA3LDQ1MjcyMTk1
-MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsODAzMDYzNTA5XX0=
+eyJoaXN0b3J5IjpbLTExMTcyODk4MDYsOTA5OTMzODUxLC0xMD
+E0NzI4MjI3LC0zMDcwMTI2NjcsLTE3MDMyMDYwNyw0NTI3MjE5
+NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMzA2MzUwOV19
 -->
