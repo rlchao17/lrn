@@ -22,7 +22,7 @@ Religionsfrihet betyder också att du får byta religion om du vill.
 
 > Är det rligionsfrihet i ditt hemland?
 
-| Svenska | Kinesiska |
+| Svenska | Modersmål |
 |--|--|
 | en religion |  |
 | en ateist |  |
@@ -30,7 +30,7 @@ Religionsfrihet betyder också att du får byta religion om du vill.
 | tillhör |  |
 
 ## Kristendomen
-
+Kristendomen är världens största religion. De kristna tror på en Gud. De säger att Gud är skaparen.
 ## Islam
 
 ## Judendomen
@@ -43,5 +43,5 @@ Religionsfrihet betyder också att du får byta religion om du vill.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTY0MTc1NF19
+eyJoaXN0b3J5IjpbLTE5OTExMzEwM119
 -->
