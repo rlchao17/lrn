@@ -61,7 +61,7 @@ På påsken firar de kristna att Jesus dog och blev levande igen efter tre dagar
 > De tror på en __________<br>
 > Helig bok: __________<br>
 > Byggnad: __________<br>
-> Viktiga högtider: __________<br>
+> Viktiga högtider: __________,__________<br>
 > Viktig person: __________<br>
 
 ## Islam
@@ -76,7 +76,7 @@ På påsken firar de kristna att Jesus dog och blev levande igen efter tre dagar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2MDMyODg3LC0xNzAzMjA2MDcsNDUyNz
-IxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MDMwNjM1MDld
-fQ==
+eyJoaXN0b3J5IjpbLTMwNzAxMjY2NywtMTcwMzIwNjA3LDQ1Mj
+cyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsODAzMDYzNTA5
+XX0=
 -->
