@@ -99,6 +99,7 @@ Efter ramadan kommer en högtid som kallas för eid al-fitr. En annan stor högt
 > Viktig person: `__________`<br>
 
 ## Judendomen
+Judar tror också att det bara finns en Gud. Varje fredag kväll börjar judarnas heliga dag, 
 
 ## Hinduismen
 
@@ -108,7 +109,7 @@ Efter ramadan kommer en högtid som kallas för eid al-fitr. En annan stor högt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTAyNzUxMjIsLTMzODAzNjc0OSw5MD
+eyJoaXN0b3J5IjpbLTIwMTUyMTMxNzAsLTMzODAzNjc0OSw5MD
 k5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIw
 NjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsOD
 AzMDYzNTA5XX0=
