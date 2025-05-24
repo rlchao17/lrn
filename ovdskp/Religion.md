@@ -50,6 +50,7 @@ I Bibeln står det att Jesus var både Gud och människa. Det står att Jesus al
 Jesus dog på ett kors. Han blev levande igen efter tre dagar. Sedan *for* han upp till himlen. I Bibeln står det att när Jesus dog på korset tog han straffet för alla våra fel. Det står också att alla som vill följa Jesus kan få förlåtelse och evigt liv hos Gud efter döden.
 
 ### Viktiga högtider
+Julen (24-26 december) är en viktig högtid för de kristna. Då firar de Jesus födelse.
 
 ## Islam
 
@@ -63,6 +64,7 @@ Jesus dog på ett kors. Han blev levande igen efter tre dagar. Sedan *for* han u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMyMDYwNyw0NTI3MjE5NTIsMTk1OD
-UxNzg5MCwtODc5NTU4NjUxLDgwMzA2MzUwOV19
+eyJoaXN0b3J5IjpbLTE5NDk4NTQ3NjMsLTE3MDMyMDYwNyw0NT
+I3MjE5NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMzA2MzUw
+OV19
 -->
