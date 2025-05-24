@@ -104,6 +104,8 @@ Judar träffas i en byggnad som kallas för synagoga.
 
 #### judarnas symbol
 
+### Tanakh
+Judarnas heliga bok kallas för Tanakh. Tanakh innehåller samma texter som Gamla Testamentet i Bibeln. Den viktigaste delen i Tana
 
 ## Hinduismen
 
@@ -113,7 +115,7 @@ Judar träffas i en byggnad som kallas för synagoga.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDA3OTI1MywtMzM4MDM2NzQ5LDkwOT
+eyJoaXN0b3J5IjpbLTE3NjUxNjQ1OSwtMzM4MDM2NzQ5LDkwOT
 kzMzg1MSwtMTAxNDcyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2
 MDcsNDUyNzIxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MD
 MwNjM1MDldfQ==
