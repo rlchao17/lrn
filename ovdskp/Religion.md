@@ -57,12 +57,12 @@ På påsken firar de kristna att Jesus dog och blev levande igen efter tre dagar
 > **Skriv på rätt plats.<br>**
 > **kyrka, Bibeln, Jesus, jul, påsk, Gud, kristna**
 > 
-> De som tillhör kristendomen kallas för<br>
-> De tror på en<br>
-> Helig bok:<br>
-> Byggnad:<br>
-> Viktiga högtider:<br>
-> Viktig person:<br>
+> De som tillhör kristendomen kallas för __________<br>
+> De tror på en __________<br>
+> Helig bok: __________<br>
+> Byggnad: __________<br>
+> Viktiga högtider: __________<br>
+> Viktig person: __________<br>
 
 ## Islam
 
@@ -76,7 +76,7 @@ På påsken firar de kristna att Jesus dog och blev levande igen efter tre dagar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3MDYyMTM3LC0xNzAzMjA2MDcsNDUyNz
+eyJoaXN0b3J5IjpbMjQ2MDMyODg3LC0xNzAzMjA2MDcsNDUyNz
 IxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MDMwNjM1MDld
 fQ==
 -->
