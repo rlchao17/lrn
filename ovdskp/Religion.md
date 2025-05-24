@@ -127,6 +127,8 @@ Påsken är också en viktig högtid för judarna. Då tänker de på när Moses
 #### en synagoga
 
 ## Hinduismen
+De som tror på hinduismen kallas för hinduer.
+
 
 ## Buddismen
 
@@ -134,8 +136,8 @@ Påsken är också en viktig högtid för judarna. Då tänker de på när Moses
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjgwMTAyMSwtMzM4MDM2NzQ5LDkwOT
-kzMzg1MSwtMTAxNDcyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2
-MDcsNDUyNzIxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MD
-MwNjM1MDldfQ==
+eyJoaXN0b3J5IjpbLTE2MTkwMjE0MTAsLTMzODAzNjc0OSw5MD
+k5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIw
+NjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsOD
+AzMDYzNTA5XX0=
 -->
