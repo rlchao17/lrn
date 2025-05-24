@@ -52,6 +52,10 @@ Jesus dog på ett kors. Han blev levande igen efter tre dagar. Sedan *for* han u
 ### Viktiga högtider
 Julen (24-26 december) är en viktig högtid för de kristna. Då firar de Jesus födelse.
 
+På påsken firar de kristna att Jesus dog och blev levande igen efter tre dagar.
+
+> Blockquote
+
 ## Islam
 
 ## Judendomen
@@ -64,7 +68,7 @@ Julen (24-26 december) är en viktig högtid för de kristna. Då firar de Jesus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk4NTQ3NjMsLTE3MDMyMDYwNyw0NT
-I3MjE5NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMzA2MzUw
-OV19
+eyJoaXN0b3J5IjpbLTc2ODc3Nzg5NiwtMTcwMzIwNjA3LDQ1Mj
+cyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsODAzMDYzNTA5
+XX0=
 -->
