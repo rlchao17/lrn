@@ -110,7 +110,7 @@ Judarnas heliga bok kallas för Tanakh. Tanakh innehåller samma texter som Gaml
 ### Viktiga högtider
 En viktig högtid för judarna är jom kippur. Då fastar judarna i 24 timmar. Man ber också sina medmänniskor om förlåtelse och ber Gud om hjälp att bli en bättre människa. Den dagen går man till synagogan och bar vita kläder på sig.
 
-Påsken är också en viktig högtid för judarna. Då 
+Påsken är också en viktig högtid för judarna. Då tänker de på när Moses och hans folk gick ut från Egypten mer än 1000 år f.Kr.
 
 ## Hinduismen
 
@@ -120,8 +120,8 @@ Påsken är också en viktig högtid för judarna. Då
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NjYzMzMsLTMzODAzNjc0OSw5MDk5Mz
-M4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIwNjA3
-LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsODAzMD
-YzNTA5XX0=
+eyJoaXN0b3J5IjpbLTE2MDM3OTY0MTksLTMzODAzNjc0OSw5MD
+k5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIw
+NjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsOD
+AzMDYzNTA5XX0=
 -->
