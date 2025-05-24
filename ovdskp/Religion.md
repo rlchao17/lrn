@@ -16,7 +16,7 @@ Det finns människor som säger: Det finns ingen Gud. Vi tror inte på någon re
 ### Religionsfrihet
 Kristendomen kom till Sverige för över 1000 år sedan. I dag finns det många lika religioner i Sverige.
 
-Vi har religionsfrihet i Sverige. Det betyder att alla människor får välja själva vilken religion de vill tillhöra.
+Vi har religionsfrihet i Sverige. Det betyder att alla människor får välja själva vilken religion de vill **tillhöra**.
 
 Religionsfrihet betyder också att du får byta religion om du vill.
 
@@ -28,8 +28,6 @@ Religionsfrihet betyder också att du får byta religion om du vill.
 | en ateist |  |
 | frihet |  |
 | tillhör |  |
-|  |  |
-
 
 ## Kristendomen
 
@@ -45,5 +43,5 @@ Religionsfrihet betyder också att du får byta religion om du vill.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMTgxMzQ2XX0=
+eyJoaXN0b3J5IjpbLTgxMTY0MTc1NF19
 -->
