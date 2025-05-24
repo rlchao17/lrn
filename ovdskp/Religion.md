@@ -35,7 +35,8 @@ Kristendomen är världens största religion. De kristna tror på en Gud. De sä
 Många kristna går till kyrkan på söndagar.
 
 ### Bibeln
-De kristnas heliga bok kallas för Bibeln. Bibeln har två delar: Gamla Testamentet och Nya Testamentet. I Gamla 
+De kristnas heliga bok kallas för Bibeln. Bibeln har två delar: Gamla Testamentet och Nya Testamentet. I Gamla Testamentet läser vi om saker som hände före Jesus födelse. Nya Testamentet börjar med berättelsen som hur Jesus föddes i Betlehem.
+
 
 ## Islam
 
@@ -49,5 +50,5 @@ De kristnas heliga bok kallas för Bibeln. Bibeln har två delar: Gamla Testamen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE3Nzc5OTddfQ==
+eyJoaXN0b3J5IjpbMTcxNzM0NzU1MF19
 -->
