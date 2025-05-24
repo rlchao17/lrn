@@ -48,7 +48,7 @@ I Bibeln står det att Jesus var både Gud och människa. Det står att Jesus al
 
 ### De kristnas symbol
 Jesus dog på ett kors. Han blev levande igen efter tre dagar. Sedan *for* han upp till himlen. I Bibeln står det att när Jesus dog på korset tog han straffet för alla våra fel. Det står också att alla som vill följa Jesus kan få förlåtelse och evigt liv hos Gud efter döden.
-
+#### 
 ### Viktiga högtider
 Julen (24-26 december) är en viktig högtid för de kristna. Då firar de Jesus födelse.
 
@@ -77,7 +77,7 @@ Islam är den näst största religionen i världen i dag. Muhammed är den vikti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDUzMjI4NDAsOTA5OTMzODUxLC0xMD
-E0NzI4MjI3LC0zMDcwMTI2NjcsLTE3MDMyMDYwNyw0NTI3MjE5
-NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMzA2MzUwOV19
+eyJoaXN0b3J5IjpbLTEzOTQ4MjEwMiw5MDk5MzM4NTEsLTEwMT
+Q3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIwNjA3LDQ1MjcyMTk1
+MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsODAzMDYzNTA5XX0=
 -->
