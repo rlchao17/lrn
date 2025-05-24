@@ -99,7 +99,11 @@ Efter ramadan kommer en högtid som kallas för eid al-fitr. En annan stor högt
 > Viktig person: `__________`<br>
 
 ## Judendomen
-Judar tror också att det bara finns en Gud. Varje fredag kväll börjar judarnas heliga dag, 
+Judar tror också att det bara finns en Gud. Varje fredag kväll börjar judarnas heliga dag, sabbaten. Då äter man middag tillsammans i familjen. Sabbaten slutar på lördag kväll.<br>
+Judar träffas i en byggnad som kallas för synagoga.
+
+#### judarnas symbol
+
 
 ## Hinduismen
 
@@ -109,8 +113,8 @@ Judar tror också att det bara finns en Gud. Varje fredag kväll börjar judarna
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUyMTMxNzAsLTMzODAzNjc0OSw5MD
-k5MzM4NTEsLTEwMTQ3MjgyMjcsLTMwNzAxMjY2NywtMTcwMzIw
-NjA3LDQ1MjcyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsOD
-AzMDYzNTA5XX0=
+eyJoaXN0b3J5IjpbLTQ0MDA3OTI1MywtMzM4MDM2NzQ5LDkwOT
+kzMzg1MSwtMTAxNDcyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2
+MDcsNDUyNzIxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MD
+MwNjM1MDldfQ==
 -->
