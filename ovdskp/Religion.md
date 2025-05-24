@@ -39,7 +39,7 @@ De kristnas heliga bok kallas för Bibeln. Bibeln har två delar: Gamla Testamen
 
 ### Före Kristus (f.Kr.) och efter Kristus (e.Kr.)
 
-> Vad är det för år nu? 
+> Vad är det för år nu? ______________ Varför säger vi att det är år 
 
 ## Islam
 
@@ -53,5 +53,5 @@ De kristnas heliga bok kallas för Bibeln. Bibeln har två delar: Gamla Testamen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI5MDIxMjJdfQ==
+eyJoaXN0b3J5IjpbLTE1NTc4MjEzNjBdfQ==
 -->
