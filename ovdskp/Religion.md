@@ -49,6 +49,8 @@ I Bibeln står det att Jesus var både Gud och människa. Det står att Jesus al
 ### De kristnas symbol
 Jesus dog på ett kors. Han blev levande igen efter tre dagar. Sedan *for* han upp till himlen. I Bibeln står det att när Jesus dog på korset tog han straffet för alla våra fel. Det står också att alla som vill följa Jesus kan få förlåtelse och evigt liv hos Gud efter döden.
 
+### Viktiga högtider
+
 ## Islam
 
 ## Judendomen
@@ -61,6 +63,6 @@ Jesus dog på ett kors. Han blev levande igen efter tre dagar. Sedan *for* han u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NDg4OTAwLDQ1MjcyMTk1MiwxOTU4NT
-E3ODkwLC04Nzk1NTg2NTEsODAzMDYzNTA5XX0=
+eyJoaXN0b3J5IjpbLTE3MDMyMDYwNyw0NTI3MjE5NTIsMTk1OD
+UxNzg5MCwtODc5NTU4NjUxLDgwMzA2MzUwOV19
 -->
