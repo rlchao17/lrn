@@ -1,5 +1,6 @@
 ## Vad är religion?
-Det finns många religioner. Några är stora, andra är små. Religionerna ger människor svar på viktiga fr
+Det finns många religioner. Några är stora, andra är små. Religionerna ger människor svar på viktiga frågor:
+
 ## Kristendomen
 
 ## Islam
@@ -14,5 +15,5 @@ Det finns många religioner. Några är stora, andra är små. Religionerna ger 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE2MjE3MzNdfQ==
+eyJoaXN0b3J5IjpbOTMyNTcyNTRdfQ==
 -->
