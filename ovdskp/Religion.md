@@ -1,5 +1,5 @@
 ## Vad är religion?
-
+Det finns många religioner. Några är stora, andra är små. Religionerna ger människor svar på viktiga fr
 ## Kristendomen
 
 ## Islam
@@ -14,5 +14,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzM1MTM5NV19
+eyJoaXN0b3J5IjpbLTEyMzE2MjE3MzNdfQ==
 -->
