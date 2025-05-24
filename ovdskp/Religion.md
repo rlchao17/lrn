@@ -80,6 +80,8 @@ Muhammed sa att han fick ord från ängeln Gabriel. Orden skrevs senare ner i en
 Det finns fem saker som alla muslimer måste göra:
 
  - De ska säga: Det finns ingen Gud utom Allah, och Muhammed är Allahs sändebud.
+ - De ska be fem gånger varje dag.
+ - De ska ge till de fattiga.
  - 
 
 ## Judendomen
@@ -92,8 +94,8 @@ Det finns fem saker som alla muslimer måste göra:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTM2NDY5NywtMzM4MDM2NzQ5LDkwOT
-kzMzg1MSwtMTAxNDcyODIyNywtMzA3MDEyNjY3LC0xNzAzMjA2
-MDcsNDUyNzIxOTUyLDE5NTg1MTc4OTAsLTg3OTU1ODY1MSw4MD
-MwNjM1MDldfQ==
+eyJoaXN0b3J5IjpbMzE4NjE0NDgwLC0zMzgwMzY3NDksOTA5OT
+MzODUxLC0xMDE0NzI4MjI3LC0zMDcwMTI2NjcsLTE3MDMyMDYw
+Nyw0NTI3MjE5NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMz
+A2MzUwOV19
 -->
