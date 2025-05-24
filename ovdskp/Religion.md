@@ -54,14 +54,14 @@ Julen (24-26 december) är en viktig högtid för de kristna. Då firar de Jesus
 
 På påsken firar de kristna att Jesus dog och blev levande igen efter tre dagar.
 
-> **Skriv på rätt plats.**
-> kyrka, Bibeln, Jesus, jul, påsk, Gud, kristna
-> De som tillhör kristendomen kallas för
-> De tror på en
-> Helig bok:
-> Byggnad:
-> Viktiga högtider:
-> Viktig person:
+> **Skriv på rätt plats.<br>**
+> kyrka, Bibeln, Jesus, jul, påsk, Gud, kristna<br>
+> De som tillhör kristendomen kallas för<br>
+> De tror på en<br>
+> Helig bok:<br>
+> Byggnad:<br>
+> Viktiga högtider:<br>
+> Viktig person:<br>
 
 ## Islam
 
@@ -75,7 +75,7 @@ På påsken firar de kristna att Jesus dog och blev levande igen efter tre dagar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjMzNDgyMzMsLTE3MDMyMDYwNyw0NT
-I3MjE5NTIsMTk1ODUxNzg5MCwtODc5NTU4NjUxLDgwMzA2MzUw
-OV19
+eyJoaXN0b3J5IjpbMjEwMzY3NzY4NywtMTcwMzIwNjA3LDQ1Mj
+cyMTk1MiwxOTU4NTE3ODkwLC04Nzk1NTg2NTEsODAzMDYzNTA5
+XX0=
 -->
