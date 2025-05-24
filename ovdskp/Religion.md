@@ -22,6 +22,13 @@ Religionsfrihet betyder också att du får byta religion om du vill.
 
 > Är det rligionsfrihet i ditt hemland?
 
+| Svenska | Kinesiska |
+|--|--|
+| en religion |  |
+| en ateist |  |
+| frihet |  |
+| tillhör |  |
+|  |  |
 
 
 ## Kristendomen
@@ -38,5 +45,5 @@ Religionsfrihet betyder också att du får byta religion om du vill.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg4MzU1OTNdfQ==
+eyJoaXN0b3J5IjpbNzYzMTgxMzQ2XX0=
 -->
