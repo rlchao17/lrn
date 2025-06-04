@@ -4,10 +4,10 @@ I landet Ghana i västra Afrika finns det ett barnhem och en skola som heter Gre
 **Ghana**
 **Ghana**
 **Ghana**
-barnhem 
-barnhem 
-barnhem 
+barnhem  
+barnhem  
+barnhem  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU5ODE0MTgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE0NTg3NzU4NDAsNzMwOTk4MTE2XX0=
 -->
