@@ -26,7 +26,7 @@ samarbete samarbete samarbete
 Jackques kommer från **Elfenbenskusten** men kom till Ghana *eftersom* det blev krig i hans hemland. I Ghana kunde hans mamma inte **försörja** honom så Jacques växte upp på gatan och olika barnhem. Jackques tog **ansvar** för de **mindre** barnen på gatan. Den **omtanken** har han tagit med sig till sitt barnhem.
 
 Elfenbenskusten Elfenbenskusten Elfenbenskusten  
-försörja försörja försörja  
+[försörja](https://svenska.se/tre/?sok=f%C3%B6rs%C3%B6rja&pz=1#!) försörja försörja  
 ansvar ansvar ansvar  
 mindre mindre mindre  
 omtanken omtanken omtanken
@@ -54,8 +54,8 @@ trygghet trygghet trygghet
 Emelie kanter är i dag 25 år och hon är mamma till 75 barn.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NzUzMDA4LC0xNDk1NjIzODQ3LC05Mj
-AxNzI3OTQsLTI2Njc2MDQ4OCwtMTMxNzAyNjk2NywtMzQzNzE4
-NzgzLC0yMDIyOTM2NTY2LC0xNTA0MjUxMTcyLC0xNDU4Nzc1OD
-QwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE0MjM5OTcyNjMsNjc0NzUzMDA4LC0xND
+k1NjIzODQ3LC05MjAxNzI3OTQsLTI2Njc2MDQ4OCwtMTMxNzAy
+Njk2NywtMzQzNzE4NzgzLC0yMDIyOTM2NTY2LC0xNTA0MjUxMT
+cyLC0xNDU4Nzc1ODQwLDczMDk5ODExNl19
 -->
