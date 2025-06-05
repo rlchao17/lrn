@@ -41,10 +41,12 @@ rollen rollen rollen
 manliga manliga manliga  
 förebild förebild förebild
 
-På skolan finns det 16 vuxna som tar hand om barnen. Alla lärare har stor erfarenhet och de behandlar barnen med respekt och värme. De lysnnar på barnen och tröstar dem om de är ledsna. Skolans rektor heter Frank och han betyder mycket för skolan. Han är engagerad och vill att barnen 
+På skolan finns det 16 **vuxna** som tar hand om barnen. Alla lärare har stor erfarenhet och de behandlar barnen med respekt och **värme**. De lysnnar på barnen och tröstar dem om de är ledsna. Skolans rektor heter Frank och han betyder mycket för skolan. Han är engagerad och vill att barnen ska få bra undervisning och känna trygghet.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA1MTcwMTgsLTEzMTcwMjY5NjcsLT
-M0MzcxODc4MywtMjAyMjkzNjU2NiwtMTUwNDI1MTE3MiwtMTQ1
-ODc3NTg0MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTkyMTcxNzgyMSwtMTMxNzAyNjk2NywtMz
+QzNzE4NzgzLC0yMDIyOTM2NTY2LC0xNTA0MjUxMTcyLC0xNDU4
+Nzc1ODQwLDczMDk5ODExNl19
 -->
