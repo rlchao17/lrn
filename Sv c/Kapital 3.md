@@ -44,12 +44,12 @@ förebild förebild förebild
 På skolan finns det 16 **vuxna** som tar hand om barnen. Alla lärare har stor erfarenhet och de behandlar barnen med respekt och **värme**. De **lyssnar** på barnen och **tröstar** dem om de är ledsna. Skolans **rektor** heter Frank och han betyder mycket för skolan. Han är engagerad och vill att barnen ska få bra **undervisning** och känna **trygghet**.
 
 
-Emelie kanter är i dag 25 år och hon är mammma till 75 barn.
+Emelie kanter är i dag 25 år och hon är mamma till 75 barn.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDIyOTk5MCwtOTIwMTcyNzk0LC0yNj
-Y3NjA0ODgsLTEzMTcwMjY5NjcsLTM0MzcxODc4MywtMjAyMjkz
-NjU2NiwtMTUwNDI1MTE3MiwtMTQ1ODc3NTg0MCw3MzA5OTgxMT
-ZdfQ==
+eyJoaXN0b3J5IjpbLTE0OTU2MjM4NDcsLTkyMDE3Mjc5NCwtMj
+Y2NzYwNDg4LC0xMzE3MDI2OTY3LC0zNDM3MTg3ODMsLTIwMjI5
+MzY1NjYsLTE1MDQyNTExNzIsLTE0NTg3NzU4NDAsNzMwOTk4MT
+E2XX0=
 -->
