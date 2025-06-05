@@ -28,7 +28,7 @@ Jackques kommer från **Elfenbenskusten** men kom till Ghana *eftersom* det blev
 Elfenbenskusten Elfenbenskusten Elfenbenskusten  
 [försörja](https://svenska.se/tre/?sok=f%C3%B6rs%C3%B6rja&pz=1#!) försörja försörja  
 ansvar ansvar ansvar  
-mindre mindre mindre  
+[mindre](https://sv.wiktionary.org/wiki/liten#Adjektiv) mindre mindre  
 [omtanken](https://sv.wiktionary.org/wiki/omtanke#Substantiv) omtanken omtanken
 
 Jacques och Emelie **skapade** barnhemmet och skolan Great Andoh tillsammans. De **kompletterar** varandra bra med Emelies **drivkraft** och Jacques **livserfarenhet** och stora hjärta. Jacques har **rollen** som barnens pappa och **manliga** **förebild**. Jacques säger att ett barn måste skratta varje dag så skratten är många på Great Andoh.
@@ -54,7 +54,7 @@ trygghet trygghet trygghet
 Emelie kanter är i dag 25 år och hon är mamma till 75 barn.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzM4NDIzMCwtMTQyMzk5NzI2Myw2Nz
+eyJoaXN0b3J5IjpbMTE2NTAzNzMxMywtMTQyMzk5NzI2Myw2Nz
 Q3NTMwMDgsLTE0OTU2MjM4NDcsLTkyMDE3Mjc5NCwtMjY2NzYw
 NDg4LC0xMzE3MDI2OTY3LC0zNDM3MTg3ODMsLTIwMjI5MzY1Nj
 YsLTE1MDQyNTExNzIsLTE0NTg3NzU4NDAsNzMwOTk4MTE2XX0=
