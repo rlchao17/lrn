@@ -41,12 +41,13 @@ rollen rollen rollen
 manliga manliga manliga  
 förebild förebild förebild
 
-På skolan finns det 16 **vuxna** som tar hand om barnen. Alla lärare har stor erfarenhet och de behandlar barnen med respekt och **värme**. De **lyssnar** på barnen och **tröstar** dem om de är ledsna. Skolans rektor heter Frank och han betyder mycket för skolan. Han är engagerad och vill att barnen ska få bra undervisning och känna trygghet.
+På skolan finns det 16 **vuxna** som tar hand om barnen. Alla lärare har stor erfarenhet och de behandlar barnen med respekt och **värme**. De **lyssnar** på barnen och **tröstar** dem om de är ledsna. Skolans **rektor** heter Frank och han betyder mycket för skolan. Han är engagerad och vill att barnen ska få bra **undervisning** och känna **trygghet**.
 
 
+Emelie kanter är i dag 25 år och hon är mama till 75 barn.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0NTI1ODk2LC0xMzE3MDI2OTY3LC0zND
-M3MTg3ODMsLTIwMjI5MzY1NjYsLTE1MDQyNTExNzIsLTE0NTg3
-NzU4NDAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTI2Njc2MDQ4OCwtMTMxNzAyNjk2NywtMz
+QzNzE4NzgzLC0yMDIyOTM2NTY2LC0xNTA0MjUxMTcyLC0xNDU4
+Nzc1ODQwLDczMDk5ODExNl19
 -->
