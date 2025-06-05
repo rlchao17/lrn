@@ -14,8 +14,37 @@ Barnhemmet och skolan **startades** 2009 av en svensk tjej som heter Emelie Kant
 [reste](https://sv.wiktionary.org/wiki/resa#Verb) reste reste  
 [volontär](https://sv.wiktionary.org/wiki/volont%C3%A4r#Substantiv) volontär volontär
 
+En dag träffade hon Jacques när han **köpte** ris hos familjen som Emelie **bodde** hos. Han hade precis startat ett barnhem och han var mycket **engagerad**. Han ville att barnen skulle kännas sig **trygga** och **våga** hoppas på en framtid. Han **inspirerade** Emelie att också starta ett barnhem. Det var början på Jacques och Emelies **samarbete**.
+
+bodde  bodde bodde  
+engagerad engagerad engagerad  
+trygga trygga trygga  
+våga våga våga  
+inspirerade inspirerade inspirerade  
+samarbete samarbete samarbete
+
+Jackques kommer från **Elfenbenskusten** men kom till Ghana *eftersom* det blev krig i hans hemland. I Ghana kunde hans mamma inte **försörja** honom så Jacques växte upp på gatan och olika barnhem. Jackques tog **ansvar** för de **mindre** barnen på gatan. Den **omtanken** har han tagit med sig till sitt barnhem.
+
+Elfenbenskusten Elfenbenskusten Elfenbenskusten  
+försörja försörja försörja  
+ansvar ansvar ansvar  
+mindre mindre mindre  
+omtanken omtanken omtanken
+
+Jacques och Emelie **skapade** barnhemmet och skolan Great Andoh tillsammans. De **kompletterar** varandra bra med Emelies **drivkraft** och Jacques **livserfarenhet** och stora hjärta. Jacques har **rollen** som barnens pappa och **manliga** **förebild**. Jacques säger att ett barn måste skratta varje dag så skratten är många på Great Andoh.
+
+skapade skapade skapade  
+kompletterar kompletterar kompletterar  
+drivkraft drivdraft drivkraft  
+livserfarenhet livserfarenhet livserfarenhet  
+rollen rollen rollen  
+manliga manliga manliga  
+förebild förebild förebild
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTcwMjY5NjcsLTM0MzcxODc4MywtMj
-AyMjkzNjU2NiwtMTUwNDI1MTE3MiwtMTQ1ODc3NTg0MCw3MzA5
-OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIzMDE4NDY1OCwtMTMxNzAyNjk2NywtMz
+QzNzE4NzgzLC0yMDIyOTM2NTY2LC0xNTA0MjUxMTcyLC0xNDU4
+Nzc1ODQwLDczMDk5ODExNl19
 -->
