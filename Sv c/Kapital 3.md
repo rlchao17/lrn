@@ -3,8 +3,8 @@ I landet Ghana i västra Afrika finns det ett barnhem och en skola som heter Gre
 
 Ghana Ghana Ghana  
 barnhem barnhem barnhem
-
+Barnhemmet och skolan startades 2009 av en svensk tjej som heter Emelie Kanter. Hon kommer från 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQyNTExNzIsLTE0NTg3NzU4NDAsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwMjI5MzY1NjYsLTE1MDQyNTExNzIsLT
+E0NTg3NzU4NDAsNzMwOTk4MTE2XX0=
 -->
