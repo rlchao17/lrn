@@ -10,9 +10,12 @@ Barnhemmet och skolan **startades** 2009 av en svensk tjej som heter Emelie Kant
 [startades](https://sv.wiktionary.org/wiki/starta#Verb) startades startades  
 [växte](https://sv.wiktionary.org/wiki/v%C3%A4xa#Verb) växte växte  
 [ägde](https://sv.wiktionary.org/wiki/%C3%A4ga#Verb) ägde ägde  
+[gymnasiet](https://sv.wiktionary.org/wiki/gymnasium#Substantiv) gymnasiet gymnasiet  
+[reste](https://sv.wiktionary.org/wiki/resa#Verb) reste reste  
+volontär volontär volontär
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Njk3MjQ4OSwtMzQzNzE4NzgzLC0yMD
-IyOTM2NTY2LC0xNTA0MjUxMTcyLC0xNDU4Nzc1ODQwLDczMDk5
-ODExNl19
+eyJoaXN0b3J5IjpbLTE5Nzk0NzIzNTQsLTM0MzcxODc4MywtMj
+AyMjkzNjU2NiwtMTUwNDI1MTE3MiwtMTQ1ODc3NTg0MCw3MzA5
+OTgxMTZdfQ==
 -->
