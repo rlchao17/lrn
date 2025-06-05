@@ -41,10 +41,10 @@ rollen rollen rollen
 manliga manliga manliga  
 förebild förebild förebild
 
-
+På skolan finns det 16 vuxna som tar hand om barnen. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDE4NDY1OCwtMTMxNzAyNjk2NywtMz
-QzNzE4NzgzLC0yMDIyOTM2NTY2LC0xNTA0MjUxMTcyLC0xNDU4
-Nzc1ODQwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyODM1NTI2MjIsLTEzMTcwMjY5NjcsLT
+M0MzcxODc4MywtMjAyMjkzNjU2NiwtMTUwNDI1MTE3MiwtMTQ1
+ODc3NTg0MCw3MzA5OTgxMTZdfQ==
 -->
