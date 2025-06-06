@@ -8,8 +8,8 @@ Farföräldrarna var stränga mot Oprah. Hennes farfar jagade henne med sin käp
 
 Farmodern kliade Oprahs huvud och masserade hennes hårbotten med olja. Oprah tyckte att det var en underbar vana. Hon trivdes med sin farmor.
 
-farfars hårda regler och farmors
+farfars hårda regler och farmors ömma händer formade hennes personlighet för all framtid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzI3MTI4MywtMTgyMjc1OTc4NiwxNT
+eyJoaXN0b3J5IjpbLTE0Mjg3NjM1NiwtMTgyMjc1OTc4NiwxNT
 EzMjA3NjUwLC0xNDgwNjA5MTkwXX0=
 -->
