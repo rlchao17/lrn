@@ -2,6 +2,10 @@
 
 Oprah Winfrey **föddes** år 1954 i staten Mississippi i USA. Oprahs föräldrar heter Vernita Lee och Vernon Winfrey. De var aldrig gifta med varandra. *Båda* var unga och fattiga. De hade inte pengar att **uppfostra** ett barn.
 
+[föddes](https://svenska.se/saol/?sok=f%C3%B6ddes) föddes föddes  
+uppfostra uppfostra uppfostra  
+
+
 När Oprah föddes fick hon bo hos sin farmor och farfar på landet. *Farföräldrarna* bodde i ett enkelt hus. Det fanns *varken* **rinnande** vatten *eller* toalett **inomhus**. Ett av Oprahs **minnen** är när hon står vid familjens **brunn** och pumpar vatten. Sedan bär hon själv in **hinkarna** i köket.
 
 Farföräldrarna var **stränga** mot Oprah. Hennes farfar **jagade** henne med sin **käpp** för att slå henne när hon var **olydig**. Men hon fick också mycket kärlek. Hennes farmor älskade Oprah. Farmodern lagade god mat som Oprah älskade att äta. På kvällarna **satt** farmodern och Oprah ofta tillsammans på husets **veranda**.
@@ -18,6 +22,7 @@ Men alla tycker inte om Oprah Winfrey. En del tycker att hon är smart **affärs
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk3NjE5NTgsLTMxNDc5MzM3MiwtMT
-gyMjc1OTc4NiwxNTEzMjA3NjUwLC0xNDgwNjA5MTkwXX0=
+eyJoaXN0b3J5IjpbOTAyNTI5MjcxLC0xMDA5NzYxOTU4LC0zMT
+Q3OTMzNzIsLTE4MjI3NTk3ODYsMTUxMzIwNzY1MCwtMTQ4MDYw
+OTE5MF19
 -->
