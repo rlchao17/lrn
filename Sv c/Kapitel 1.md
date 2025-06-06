@@ -12,8 +12,8 @@ Farfars hårda regler och farmors **ömma** händer formade hennes personlighet 
 
 Oprah lärde sig fort att prata. När hon var tre år kunde hon läsa och skriva. Hon hade det **tråkigt** på **daghemmet**. En dag gav hon en av **dagisfröknarna** en lapp. På lappen stod det: Jag tror inte att jag passar in här.
 
-Idag är Oprah Winfrey en av världens mest berömda programledare. Miljoner människor över hela världen ser på hennes program. Oprah Winfreys program handlar om små och stora saker. Ingenting skrämmer henne. Oprah talar om homosexuell kärlek, om dödstraff och om kvinnomisshandel. Op 
+Idag är Oprah Winfrey en av världens mest berömda programledare. Miljoner människor över hela världen ser på hennes program. Oprah Winfreys program handlar om små och stora saker. Ingenting skrämmer henne. Oprah talar om homosexuell kärlek, om dödstraff och om kvinnomisshandel. Oprah säger vad hon tycker. Hon verkar aldrig rädd för att ställa besvärliga frågor. Oprah kan vara ro 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzUzNjgzNSwtMzE0NzkzMzcyLC0xOD
+eyJoaXN0b3J5IjpbMTk0MDkyMTExNCwtMzE0NzkzMzcyLC0xOD
 IyNzU5Nzg2LDE1MTMyMDc2NTAsLTE0ODA2MDkxOTBdfQ==
 -->
