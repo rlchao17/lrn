@@ -10,8 +10,8 @@ Farmodern **kliade** Oprahs huvud och masserade hennes *hårbotten* med olja. Op
 
 Farfars hårda regler och farmors **ömma** händer formade hennes personlighet för all framtid. Oprah har sagt att hennes farmor är den person som har **betytt** mest för henne i livet. Det var farmodern som gav henne **självförtroende**.
 
-Oprah lärde sig fort att prata. När hon var tre år kunde hon läsa och skriva. Hon hade det tråkigt på lappen
+Oprah lärde sig fort att prata. När hon var tre år kunde hon läsa och skriva. Hon hade det tråkigt på daghemmet. En dag gav hon en av dagisfröknarna en lapp. På lappen stod det: Jag tror inte
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg5ODY0MDMsLTMxNDc5MzM3MiwtMT
-gyMjc1OTc4NiwxNTEzMjA3NjUwLC0xNDgwNjA5MTkwXX0=
+eyJoaXN0b3J5IjpbMTY0Mjk5NTQwMywtMzE0NzkzMzcyLC0xOD
+IyNzU5Nzg2LDE1MTMyMDc2NTAsLTE0ODA2MDkxOTBdfQ==
 -->
