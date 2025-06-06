@@ -4,7 +4,7 @@ Oprah Winfrey **föddes** år 1954 i staten Mississippi i USA. Oprahs föräldra
 
 När Oprah föddes fick hon bo hos sin farmor och farfar på landet. *Farföräldrarna* bodde i ett enkelt hus. Det fanns *varken* **rinnande** vatten *eller* toalett **inomhus**. Ett av Oprahs **minnen** är när hon står vid familjens **brunn** och pumpar vatten. Sedan bär hon själv in **hinkarna** i köket.
 
-Farföräldrarna var stränga mot Oprah. Hennes farfar jagade henne med sin käpp för att slå henne när hon var olydig. Men hon fick också mycket kärlek. Hennes farmor älskade Oprah. Farmodern lagade god mat som Oprah älskade att äta. På kvällarna satt farmodern och Oprah ofta tillsammans på husets veranda.
+Farföräldrarna var **stränga** mot Oprah. Hennes farfar **jagade** henne med sin **käpp** för att slå henne när hon var **olydig**. Men hon fick också mycket kärlek. Hennes farmor älskade Oprah. Farmodern lagade god mat som Oprah älskade att äta. På kvällarna satt farmodern och Oprah ofta tillsammans på husets veranda.
 
 Farmodern kliade Oprahs huvud och masserade hennes hårbotten med olja. Oprah tyckte att det var en underbar vana. Hon trivdes med sin farmor.
 
@@ -12,6 +12,6 @@ farfars hårda regler och farmors ömma händer formade hennes personlighet för
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTk2MjE3NiwtMzE0NzkzMzcyLC0xOD
-IyNzU5Nzg2LDE1MTMyMDc2NTAsLTE0ODA2MDkxOTBdfQ==
+eyJoaXN0b3J5IjpbODE2OTEzMzQ0LC0zMTQ3OTMzNzIsLTE4Mj
+I3NTk3ODYsMTUxMzIwNzY1MCwtMTQ4MDYwOTE5MF19
 -->
