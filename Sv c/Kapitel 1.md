@@ -9,7 +9,9 @@ Farföräldrarna var stränga mot Oprah. Hennes farfar jagade henne med sin käp
 Farmodern kliade Oprahs huvud och masserade hennes hårbotten med olja. Oprah tyckte att det var en underbar vana. Hon trivdes med sin farmor.
 
 farfars hårda regler och farmors ömma händer formade hennes personlighet för all framtid. Oprah har sagt att hennes farmor är den person som har betytt mest för henne i livet. Det var farmodern som gav henne självförtroende.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDc5MzM3MiwtMTgyMjc1OTc4NiwxNT
-EzMjA3NjUwLC0xNDgwNjA5MTkwXX0=
+eyJoaXN0b3J5IjpbMTU1NTk2MjE3NiwtMzE0NzkzMzcyLC0xOD
+IyNzU5Nzg2LDE1MTMyMDc2NTAsLTE0ODA2MDkxOTBdfQ==
 -->
