@@ -6,8 +6,10 @@ När Oprah föddes fick hon bo hos sin farmor och farfar på landet. *Farföräl
 
 Farföräldrarna var stränga mot Oprah. Hennes farfar jagade henne med sin käpp för att slå henne när hon var olydig. Men hon fick också mycket kärlek. Hennes farmor älskade Oprah. Farmodern lagade god mat som Oprah älskade att äta. På kvällarna satt farmodern och Oprah ofta tillsammans på husets veranda.
 
-Farmodern kliade Oprahs huvud och masserade hennes hårbotten med olja. Oprah tyckte att det var en underbar vana. Hon trivdes
+Farmodern kliade Oprahs huvud och masserade hennes hårbotten med olja. Oprah tyckte att det var en underbar vana. Hon trivdes med sin farmor.
+
+farfars hårda regler och farmors
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzE5OTkxMiwtMTgyMjc1OTc4NiwxNT
+eyJoaXN0b3J5IjpbLTUzMzI3MTI4MywtMTgyMjc1OTc4NiwxNT
 EzMjA3NjUwLC0xNDgwNjA5MTkwXX0=
 -->
