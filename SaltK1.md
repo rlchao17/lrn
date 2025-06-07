@@ -12,8 +12,10 @@ En del tycker om när det regnar in genom taken.
 
 Jag tittar över nån dag.
 
+det tycker jag du ska låta bli.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5OTYxMDQxLC0xNzgwNTU2OTE3LDE5OT
-g3MDk0MDEsLTg4NTUxNjM3NF19
+eyJoaXN0b3J5IjpbLTE5MDY4MDUwNjksLTE3ODA1NTY5MTcsMT
+k5ODcwOTQwMSwtODg1NTE2Mzc0XX0=
 -->
