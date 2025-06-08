@@ -14,8 +14,10 @@ Jag tittar över nån dag.
 
 det tycker jag du ska **[låta bli](https://en.wiktionary.org/wiki/l%C3%A5ta_bli#Verb)**.
 
- 
+hej lärare , hur mår du ?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODk3NjYxNCwxNTYyNjM1MDk4LC0xNz
-gwNTU2OTE3LDE5OTg3MDk0MDEsLTg4NTUxNjM3NF19
+eyJoaXN0b3J5IjpbLTUzMzA5MjkxMiwtNjY4OTc2NjE0LDE1Nj
+I2MzUwOTgsLTE3ODA1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2
+Mzc0XX0=
 -->
