@@ -6,8 +6,8 @@ Känner du dig trött och utan energi på vintern? Då är du inte **ensam**. Un
 deprimerad deprimerad deprimerad  
 ställer fram klockan
 
-På vinter blir många människor trötta eftersom det är mörkt ute. När vi stiger upp på morgonen och när vi slutar jobbet eller skolan är det mörkt. Ibland ser man inte dagsljus på hela dagen. Man
+På vinter blir många människor trötta eftersom det är mörkt ute. När vi stiger upp på morgonen och när vi slutar jobbet eller skolan är det mörkt. Ibland ser man inte dagsljus på hela dagen. Man börjar gäspa tidigt på eftermiddagen och åker hem direkt efter jobbet.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNjI4NTk3LC0yMTI0MTcwMTU5LC0xMj
-IxMDE4MjQwLC01OTE5NDYwNjVdfQ==
+eyJoaXN0b3J5IjpbLTU0ODQyODMzMCwtMjEyNDE3MDE1OSwtMT
+IyMTAxODI0MCwtNTkxOTQ2MDY1XX0=
 -->
