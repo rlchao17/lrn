@@ -10,8 +10,8 @@ På vinter blir många människor trötta *eftersom* det är **mörkt** ute. Nä
 
 Många människor blir också **förkylda** på vintern. Man är mer **inomhus** och bakterierna **sprids** lättare. Dessutom får man ett sämre **immunförsvar** om är trött.
 
-Dagsljus är viktigt för att vi ska hålla oss friska och pigga
+Dagsljus är viktigt för att vi ska hålla oss friska och pigga. Om man inte
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODg4MjkzNTYsLTYyNjAxMzQ0MCwtMj
-EyNDE3MDE1OSwtMTIyMTAxODI0MCwtNTkxOTQ2MDY1XX0=
+eyJoaXN0b3J5IjpbMTg1MTA3NzMwMCwtNjI2MDEzNDQwLC0yMT
+I0MTcwMTU5LC0xMjIxMDE4MjQwLC01OTE5NDYwNjVdfQ==
 -->
