@@ -8,8 +8,8 @@ ställer fram klockan
 
 På vinter blir många människor trötta *eftersom* det är **mörkt** ute. När vi stiger upp på morgonen och när vi slutar jobbet eller skolan är det mörkt. Ibland ser man inte dagsljus *på* hela dagen. Man börjar **gäspa** tidigt på eftermiddagen och åker hem direkt efter jobbet. Ofta **orkar** man inte träffa *vänner* utan sitter hemma i *soffan* hela kvällen. Det är också vanligt att man vill äta mer socker och *kolhydrater*. Man går ofta upp i vikt på vintern.
 
-
+Mång
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODI2MTM3MSwtNjI2MDEzNDQwLC0yMT
-I0MTcwMTU5LC0xMjIxMDE4MjQwLC01OTE5NDYwNjVdfQ==
+eyJoaXN0b3J5IjpbMzI3MzIxMDAyLC02MjYwMTM0NDAsLTIxMj
+QxNzAxNTksLTEyMjEwMTgyNDAsLTU5MTk0NjA2NV19
 -->
