@@ -6,8 +6,8 @@ Känner du dig trött och utan energi på vintern? Då är du inte **ensam**. Un
 deprimerad deprimerad deprimerad  
 ställer fram klockan
 
-På vinter blir många människor trötta eftersom det är mörkt ute.
+På vinter blir många människor trötta eftersom det är mörkt ute. När vi stiger upp på
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQxNzAxNTksLTEyMjEwMTgyNDAsLT
-U5MTk0NjA2NV19
+eyJoaXN0b3J5IjpbLTE3MDcyNzI1NTIsLTIxMjQxNzAxNTksLT
+EyMjEwMTgyNDAsLTU5MTk0NjA2NV19
 -->
