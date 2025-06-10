@@ -12,6 +12,8 @@ Många människor blir också **förkylda** på vintern. Man är mer **inomhus**
 
 Dagsljus är viktigt för att vi ska hålla oss friska och pigga. Om man inte får *tillräckligt* med ljus producerar kroppen mer av *sömnhormonet melatonin*. Man kan också **få brist** på D-vitamin. D-vitamin **bildas** när solen **når** huden.
 
+tillräckligt tillräckligt tillräckligt  
+sömnhormonet sömnhormonet sömnhormonet  
 få brist få brist få brist  
 bildas bildas bildas  
 > Is bildas när det är kallt.
@@ -20,11 +22,11 @@ når når når
 nå når nådde nått  
 > Vi når staden om två timmar.
 
-
+Läkare reko
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc2NTc1NzYsLTMzNzQ0OTkyLC0xOT
-E1MzEyODI0LDEyMjEwODczMTQsMTg1MTA3NzMwMCwtNjI2MDEz
-NDQwLC0yMTI0MTcwMTU5LC0xMjIxMDE4MjQwLC01OTE5NDYwNj
-VdfQ==
+eyJoaXN0b3J5IjpbLTgzMTA4OTYxNSwtMzM3NDQ5OTIsLTE5MT
+UzMTI4MjQsMTIyMTA4NzMxNCwxODUxMDc3MzAwLC02MjYwMTM0
+NDAsLTIxMjQxNzAxNTksLTEyMjEwMTgyNDAsLTU5MTk0NjA2NV
+19
 -->
