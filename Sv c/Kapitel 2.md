@@ -23,15 +23,17 @@ når når når
 nå når nådde nått  
 > Vi når staden om två timmar.
 
-Läkare **rekommenderar** att man är *ute* 30 minuter om dagen när det är ljust. En promenad på lunchen är ett *bra sätt* för att hålla sig pigg och frisk. Det är också bra att äta extra mycket D-vitamin på vintern. D-vitamin finns i t.ex. fet fisk som lax och mejeriprodukter.
+Läkare **rekommenderar** att man är *ute* 30 minuter om dagen när det är ljust. En promenad på lunchen är ett *bra sätt* för att hålla sig pigg och frisk. Det är också bra att äta *extra mycket* D-vitamin på vintern. D-vitamin finns i *t.ex.* fet fisk som lax och **mejeriprodukter**.
 
 rekommenderar rekommenderar rekommenderar  
 trettio trettio trettio  
 bra sätt bra sätt bra sätt  
-
+extra mycket extra mycket extra mycket  
+t.ex. t.ex. t.ex. till exempel till exempel till exempel  
+mejeriprodukter mejeriprodukter me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTI3MTUyNiwtMzM3NDQ5OTIsLTE5MT
-UzMTI4MjQsMTIyMTA4NzMxNCwxODUxMDc3MzAwLC02MjYwMTM0
-NDAsLTIxMjQxNzAxNTksLTEyMjEwMTgyNDAsLTU5MTk0NjA2NV
-19
+eyJoaXN0b3J5IjpbLTIwNDQ4ODg2MjMsLTMzNzQ0OTkyLC0xOT
+E1MzEyODI0LDEyMjEwODczMTQsMTg1MTA3NzMwMCwtNjI2MDEz
+NDQwLC0yMTI0MTcwMTU5LC0xMjIxMDE4MjQwLC01OTE5NDYwNj
+VdfQ==
 -->
