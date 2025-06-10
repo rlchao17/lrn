@@ -29,8 +29,8 @@ rekommenderar rekommenderar rekommenderar
 trettio trettio trettio  
 bra sätt bra sätt bra sätt  
 hålla sig hålla sig hålla sig
-
-> Mjl
+> Mjölken häller sig färsk i kylen.
+> Jag försöker hålla mig borta från socker.
 
 extra mycket extra mycket extra mycket  
 t.ex. t.ex. t.ex. till exempel till exempel till exempel  
@@ -38,7 +38,7 @@ mejeriprodukter mejeriprodukter mejeriprodukter
 
 Om man inte kan vara *ut* på dagen, eller har möjlighet att resa till ett soligt land, kan man köpa en *ljusterapilampa*. Det är en **speciell** lampa som **liknar** solens ljus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM2NzE3MjUsLTE5NjUzODY0NzksLT
+eyJoaXN0b3J5IjpbLTIxMzI4OTY3OTEsLTE5NjUzODY0NzksLT
 MzNzQ0OTkyLC0xOTE1MzEyODI0LDEyMjEwODczMTQsMTg1MTA3
 NzMwMCwtNjI2MDEzNDQwLC0yMTI0MTcwMTU5LC0xMjIxMDE4Mj
 QwLC01OTE5NDYwNjVdfQ==
