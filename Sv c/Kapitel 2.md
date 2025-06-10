@@ -15,6 +15,7 @@ Dagsljus är viktigt för att vi ska hålla oss friska och pigga. Om man inte f�
 tillräckligt tillräckligt tillräckligt  
 sömnhormonet sömnhormonet sömnhormonet  
 få brist få brist få brist  
+vitamin vitamin vitamin  
 bildas bildas bildas  
 > Is bildas när det är kallt.
 
@@ -24,9 +25,12 @@ nå når nådde nått
 
 Läkare **rekommenderar** att man är *ute* 30 minuter om dagen när det är ljust. En promenad på lunchen är ett *bra sätt* för att hålla sig pigg och frisk. Det är också bra att äta extra mycket D-vitamin på vintern. D-vitamin finns i t.ex. fet fisk som lax och mejeriprodukter.
 
+rekommenderar rekommenderar rekommenderar  
 trettio trettio trettio  
+bra sätt bra sätt bra sätt  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjU5NjczNiwtMzM3NDQ5OTIsLTE5MT
+eyJoaXN0b3J5IjpbMjAyMTI3MTUyNiwtMzM3NDQ5OTIsLTE5MT
 UzMTI4MjQsMTIyMTA4NzMxNCwxODUxMDc3MzAwLC02MjYwMTM0
 NDAsLTIxMjQxNzAxNTksLTEyMjEwMTgyNDAsLTU5MTk0NjA2NV
 19
