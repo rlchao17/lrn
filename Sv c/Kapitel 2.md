@@ -36,11 +36,12 @@ extra mycket extra mycket extra mycket
 t.ex. t.ex. t.ex. till exempel till exempel till exempel  
 mejeriprodukter mejeriprodukter mejeriprodukter
 
-Om man inte kan vara *ut* på dagen, eller har möjlighet att resa till ett soligt land, kan man köpa en *ljusterapilampa*. Det är en **speciell** lampa som **liknar** solens ljus. I Umeå har man gjort ett försök med ljusterapilampor i busskurer. Där fick man gratis ljusterapi medan man våntade på bussen.
+Om man inte kan vara *ut* på dagen, eller har möjlighet att resa till ett soligt land, kan man köpa en *ljusterapilampa*. Det är en **speciell** lampa som **liknar** solens ljus. I *Umeå* har man gjort ett försök med ljusterapilampor i **busskurer**. Där fick man **gratis** ljusterapi medan man väntade på bussen.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE4NTkwMDgsLTE5NjUzODY0NzksLT
-MzNzQ0OTkyLC0xOTE1MzEyODI0LDEyMjEwODczMTQsMTg1MTA3
-NzMwMCwtNjI2MDEzNDQwLC0yMTI0MTcwMTU5LC0xMjIxMDE4Mj
-QwLC01OTE5NDYwNjVdfQ==
+eyJoaXN0b3J5IjpbMTc5MjkxNjQ0NywtMTk2NTM4NjQ3OSwtMz
+M3NDQ5OTIsLTE5MTUzMTI4MjQsMTIyMTA4NzMxNCwxODUxMDc3
+MzAwLC02MjYwMTM0NDAsLTIxMjQxNzAxNTksLTEyMjEwMTgyND
+AsLTU5MTk0NjA2NV19
 -->
