@@ -30,9 +30,11 @@ trettio trettio trettio
 bra sätt bra sätt bra sätt  
 extra mycket extra mycket extra mycket  
 t.ex. t.ex. t.ex. till exempel till exempel till exempel  
-mejeriprodukter mejeriprodukter me
+mejeriprodukter mejeriprodukter mejeriprodukter
+
+Om man inte kan vara ut på dagen, eller har möjlighet att resa till ett soligt land, kan man köpa en ljusterapilampa.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ4ODg2MjMsLTMzNzQ0OTkyLC0xOT
+eyJoaXN0b3J5IjpbLTE5NjUzODY0NzksLTMzNzQ0OTkyLC0xOT
 E1MzEyODI0LDEyMjEwODczMTQsMTg1MTA3NzMwMCwtNjI2MDEz
 NDQwLC0yMTI0MTcwMTU5LC0xMjIxMDE4MjQwLC01OTE5NDYwNj
 VdfQ==
