@@ -36,7 +36,7 @@ extra mycket extra mycket extra mycket
 t.ex. t.ex. t.ex. till exempel till exempel till exempel  
 mejeriprodukter mejeriprodukter mejeriprodukter
 
-Om man inte kan vara *ut* på dagen, eller har möjlighet att resa till ett soligt land, kan man köpa en *ljusterapilampa*. Det är en **speciell** lampa som **liknar** solens ljus. I *Umeå* har man *gjort ett försök* med ljusterapilampor i **busskurer**. Där fick man **gratis** ljusterapi medan man väntade på bussen.
+Om man inte kan vara *ut* på dagen, eller har möjlighet att resa till ett soligt land, kan man köpa en *ljusterapilampa*. Det är en **speciell** lampa som **liknar** solens ljus. I *Umeå* har man *gjort ett försök* med ljusterapilampor i **busskurer**. Där fick man **gratis** ljusterapi *medan* man **väntade** på bussen.
 
 ut ut ut  
 möjlighet möjlighet möjlighet  
@@ -44,10 +44,14 @@ ljusterapilampa ljusterapilampa ljusterapilampa
 speciell speciell speciell  
 liknar liknar liknar  
 gjort ett försök gjort ett försök gjort ett försök  
-busskurer 
+busskurer busskurer busskurer  
+gratis gratis gratis  
+väntade väntade väntade
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDgxNDc5NywtMTk2NTM4NjQ3OSwtMz
-M3NDQ5OTIsLTE5MTUzMTI4MjQsMTIyMTA4NzMxNCwxODUxMDc3
-MzAwLC02MjYwMTM0NDAsLTIxMjQxNzAxNTksLTEyMjEwMTgyND
-AsLTU5MTk0NjA2NV19
+eyJoaXN0b3J5IjpbNTg5MDU1MDYzLC0xOTY1Mzg2NDc5LC0zMz
+c0NDk5MiwtMTkxNTMxMjgyNCwxMjIxMDg3MzE0LDE4NTEwNzcz
+MDAsLTYyNjAxMzQ0MCwtMjEyNDE3MDE1OSwtMTIyMTAxODI0MC
+wtNTkxOTQ2MDY1XX0=
 -->
