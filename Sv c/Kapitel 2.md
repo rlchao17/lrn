@@ -48,10 +48,10 @@ busskurer busskurer busskurer
 gratis gratis gratis  
 väntade väntade väntade
 
-
+Det finns också speciella ljusrum på flera sjukhus och på gym. I en del städer finns det ljuskaféer. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MDU1MDYzLC0xOTY1Mzg2NDc5LC0zMz
-c0NDk5MiwtMTkxNTMxMjgyNCwxMjIxMDg3MzE0LDE4NTEwNzcz
-MDAsLTYyNjAxMzQ0MCwtMjEyNDE3MDE1OSwtMTIyMTAxODI0MC
-wtNTkxOTQ2MDY1XX0=
+eyJoaXN0b3J5IjpbMTA0OTA3NDgwOSw1ODkwNTUwNjMsLTE5Nj
+UzODY0NzksLTMzNzQ0OTkyLC0xOTE1MzEyODI0LDEyMjEwODcz
+MTQsMTg1MTA3NzMwMCwtNjI2MDEzNDQwLC0yMTI0MTcwMTU5LC
+0xMjIxMDE4MjQwLC01OTE5NDYwNjVdfQ==
 -->
