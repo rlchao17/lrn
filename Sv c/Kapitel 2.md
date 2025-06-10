@@ -14,14 +14,14 @@ Dagsljus är viktigt för att vi ska hålla oss friska och pigga. Om man inte f�
 
 få brist få brist få brist  
 bildas bildas bildas  
-> Is bildas när det är kallt.
+> Is bildas när det är kallt.  
 når når når
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1MzA4MjgzLC0zMzc0NDk5MiwtMTkxNT
-MxMjgyNCwxMjIxMDg3MzE0LDE4NTEwNzczMDAsLTYyNjAxMzQ0
-MCwtMjEyNDE3MDE1OSwtMTIyMTAxODI0MCwtNTkxOTQ2MDY1XX
-0=
+eyJoaXN0b3J5IjpbLTIwNjgyNzYxMDEsLTMzNzQ0OTkyLC0xOT
+E1MzEyODI0LDEyMjEwODczMTQsMTg1MTA3NzMwMCwtNjI2MDEz
+NDQwLC0yMTI0MTcwMTU5LC0xMjIxMDE4MjQwLC01OTE5NDYwNj
+VdfQ==
 -->
