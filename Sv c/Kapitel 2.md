@@ -23,19 +23,23 @@ når når når
 nå når nådde nått  
 > Vi når staden om två timmar.
 
-Läkare **rekommenderar** att man är *ute* 30 minuter om dagen när det är ljust. En promenad på lunchen är ett *bra sätt* för att hålla sig pigg och frisk. Det är också bra att äta *extra mycket* D-vitamin på vintern. D-vitamin finns i *t.ex.* fet fisk som lax och **mejeriprodukter**.
+Läkare **rekommenderar** att man är *ute* 30 minuter om dagen när det är ljust. En promenad på lunchen är ett *bra sätt* för att *hålla sig* pigg och frisk. Det är också bra att äta *extra mycket* D-vitamin på vintern. D-vitamin finns i *t.ex.* fet fisk som lax och **mejeriprodukter**.
 
 rekommenderar rekommenderar rekommenderar  
 trettio trettio trettio  
 bra sätt bra sätt bra sätt  
+hålla sig hålla sig hålla sig
+
+> Mjl
+
 extra mycket extra mycket extra mycket  
 t.ex. t.ex. t.ex. till exempel till exempel till exempel  
 mejeriprodukter mejeriprodukter mejeriprodukter
 
 Om man inte kan vara *ut* på dagen, eller har möjlighet att resa till ett soligt land, kan man köpa en *ljusterapilampa*. Det är en **speciell** lampa som **liknar** solens ljus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDkxMTc3MSwtMTk2NTM4NjQ3OSwtMz
-M3NDQ5OTIsLTE5MTUzMTI4MjQsMTIyMTA4NzMxNCwxODUxMDc3
-MzAwLC02MjYwMTM0NDAsLTIxMjQxNzAxNTksLTEyMjEwMTgyND
-AsLTU5MTk0NjA2NV19
+eyJoaXN0b3J5IjpbLTE2NTM2NzE3MjUsLTE5NjUzODY0NzksLT
+MzNzQ0OTkyLC0xOTE1MzEyODI0LDEyMjEwODczMTQsMTg1MTA3
+NzMwMCwtNjI2MDEzNDQwLC0yMTI0MTcwMTU5LC0xMjIxMDE4Mj
+QwLC01OTE5NDYwNjVdfQ==
 -->
