@@ -52,12 +52,13 @@ Det finns också speciella ljusrum på flera sjukhus och på gym. I en del städ
 
 Träning är också viktigt för hälsan. Det känns kanske jobbigt innan man går till *gymmet* men man blir ofta mycket piggare när man är klar.
 
-Du har säkert fler tips på hur man kan klara av den långa Vintern i Sverige.
+Du har **säkert** fler tips på hur man kan klara av den långa Vintern i Sverige.
 
+säkert säkert säkert
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk4MzQxNyw1ODkwNTUwNjMsLTE5Nj
-UzODY0NzksLTMzNzQ0OTkyLC0xOTE1MzEyODI0LDEyMjEwODcz
-MTQsMTg1MTA3NzMwMCwtNjI2MDEzNDQwLC0yMTI0MTcwMTU5LC
-0xMjIxMDE4MjQwLC01OTE5NDYwNjVdfQ==
+eyJoaXN0b3J5IjpbLTc3OTA4NzY3MiwtMTc5OTgzNDE3LDU4OT
+A1NTA2MywtMTk2NTM4NjQ3OSwtMzM3NDQ5OTIsLTE5MTUzMTI4
+MjQsMTIyMTA4NzMxNCwxODUxMDc3MzAwLC02MjYwMTM0NDAsLT
+IxMjQxNzAxNTksLTEyMjEwMTgyNDAsLTU5MTk0NjA2NV19
 -->
