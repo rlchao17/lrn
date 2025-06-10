@@ -18,11 +18,13 @@ bildas bildas bildas
 
 når når når  
 nå når nådde nått  
+> Vi når staden om två timmar.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjYxMzM2OCwtMzM3NDQ5OTIsLTE5MT
-UzMTI4MjQsMTIyMTA4NzMxNCwxODUxMDc3MzAwLC02MjYwMTM0
-NDAsLTIxMjQxNzAxNTksLTEyMjEwMTgyNDAsLTU5MTk0NjA2NV
-19
+eyJoaXN0b3J5IjpbLTEyNzc2NTc1NzYsLTMzNzQ0OTkyLC0xOT
+E1MzEyODI0LDEyMjEwODczMTQsMTg1MTA3NzMwMCwtNjI2MDEz
+NDQwLC0yMTI0MTcwMTU5LC0xMjIxMDE4MjQwLC01OTE5NDYwNj
+VdfQ==
 -->
