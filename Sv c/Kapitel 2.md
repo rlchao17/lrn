@@ -10,11 +10,11 @@ På vinter blir många människor trötta *eftersom* det är **mörkt** ute. Nä
 
 Många människor blir också **förkylda** på vintern. Man är mer **inomhus** och bakterierna **sprids** lättare. Dessutom får man ett sämre **immunförsvar** om är trött.
 
-Dagsljus är viktigt för att vi ska hålla oss friska och pigga. Om man inte får *tillräckligt* med ljus producerar kroppen mer av sömnhormonet melatonin. Man kan också få brist på D-vitamin. D-vitamin bildas när dolen når huden.
+Dagsljus är viktigt för att vi ska hålla oss friska och pigga. Om man inte får *tillräckligt* med ljus producerar kroppen mer av *sömnhormonet melatonin*. Man kan också **få brist** på D-vitamin. D-vitamin **bildas** när solen **når** huden.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MzM3MjQzLDEyMjEwODczMTQsMTg1MT
-A3NzMwMCwtNjI2MDEzNDQwLC0yMTI0MTcwMTU5LC0xMjIxMDE4
-MjQwLC01OTE5NDYwNjVdfQ==
+eyJoaXN0b3J5IjpbLTE5MTUzMTI4MjQsMTIyMTA4NzMxNCwxOD
+UxMDc3MzAwLC02MjYwMTM0NDAsLTIxMjQxNzAxNTksLTEyMjEw
+MTgyNDAsLTU5MTk0NjA2NV19
 -->
