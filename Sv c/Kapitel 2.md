@@ -22,11 +22,11 @@ når når når
 nå når nådde nått  
 > Vi når staden om två timmar.
 
-Läkare **rekommenderar** att man är *ute* 30 minuter om dagen när det är ljust. En promenad på lunchen är ett bra sätt för att hålla sig pigg och frisk. Det är också bra att äta extra mycket D-vitamin på vintern.
+Läkare **rekommenderar** att man är *ute* 30 minuter om dagen när det är ljust. En promenad på lunchen är ett bra sätt för att hålla sig pigg och frisk. Det är också bra att äta extra mycket D-vitamin på vintern. D-vitamin finns i t.ex. fet fisk som lax och mejeriproduter.
 
 trettio trettio trettio  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTc0NzIwNywtMzM3NDQ5OTIsLTE5MT
+eyJoaXN0b3J5IjpbMTYxMzE0Njk5NSwtMzM3NDQ5OTIsLTE5MT
 UzMTI4MjQsMTIyMTA4NzMxNCwxODUxMDc3MzAwLC02MjYwMTM0
 NDAsLTIxMjQxNzAxNTksLTEyMjEwMTgyNDAsLTU5MTk0NjA2NV
 19
