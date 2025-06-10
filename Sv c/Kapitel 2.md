@@ -50,12 +50,14 @@ väntade väntade väntade
 
 Det finns också speciella ljusrum på flera sjukhus och på gym. I en del städer finns det *ljuskaféer*. **Forskare** är **oense** om ljusterapi hjälper men många som har **provat** det ör nöjda.
 
-Träning är också viktigt för hälsan, 
+Träning är också viktigt för hälsan. Det känns kanske jobbigt innan man går till *gymmet* men man blir ofta mycket piggare när man är klar.
+
+Du har säke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMjUwOTI3LDU4OTA1NTA2MywtMTk2NT
-M4NjQ3OSwtMzM3NDQ5OTIsLTE5MTUzMTI4MjQsMTIyMTA4NzMx
-NCwxODUxMDc3MzAwLC02MjYwMTM0NDAsLTIxMjQxNzAxNTksLT
-EyMjEwMTgyNDAsLTU5MTk0NjA2NV19
+eyJoaXN0b3J5IjpbLTI2MjQxMTIzNiw1ODkwNTUwNjMsLTE5Nj
+UzODY0NzksLTMzNzQ0OTkyLC0xOTE1MzEyODI0LDEyMjEwODcz
+MTQsMTg1MTA3NzMwMCwtNjI2MDEzNDQwLC0yMTI0MTcwMTU5LC
+0xMjIxMDE4MjQwLC01OTE5NDYwNjVdfQ==
 -->
