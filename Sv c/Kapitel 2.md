@@ -22,11 +22,12 @@ når når når
 nå når nådde nått  
 > Vi når staden om två timmar.
 
-Läkare **rekommenderar** att man är ute tretio minuter om dagen när det är ljust.
+Läkare **rekommenderar** att man är *ute* 30 minuter om dagen när det är ljust. En promenad på lunchen är ett bra sätt för att hålla 
 
+trettio trettio trettio  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQxMDE4NjIsLTMzNzQ0OTkyLC0xOT
-E1MzEyODI0LDEyMjEwODczMTQsMTg1MTA3NzMwMCwtNjI2MDEz
-NDQwLC0yMTI0MTcwMTU5LC0xMjIxMDE4MjQwLC01OTE5NDYwNj
-VdfQ==
+eyJoaXN0b3J5IjpbODE2NTU3MTYyLC0zMzc0NDk5MiwtMTkxNT
+MxMjgyNCwxMjIxMDg3MzE0LDE4NTEwNzczMDAsLTYyNjAxMzQ0
+MCwtMjEyNDE3MDE1OSwtMTIyMTAxODI0MCwtNTkxOTQ2MDY1XX
+0=
 -->
