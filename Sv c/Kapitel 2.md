@@ -12,9 +12,13 @@ Många människor blir också **förkylda** på vintern. Man är mer **inomhus**
 
 Dagsljus är viktigt för att vi ska hålla oss friska och pigga. Om man inte får *tillräckligt* med ljus producerar kroppen mer av *sömnhormonet melatonin*. Man kan också **få brist** på D-vitamin. D-vitamin **bildas** när solen **når** huden.
 
+få brist få brist få brist  
+bildas bildas bildas  
+> Is bildas när det är kallt.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUzMTI4MjQsMTIyMTA4NzMxNCwxOD
-UxMDc3MzAwLC02MjYwMTM0NDAsLTIxMjQxNzAxNTksLTEyMjEw
-MTgyNDAsLTU5MTk0NjA2NV19
+eyJoaXN0b3J5IjpbLTMzNzQ0OTkyLC0xOTE1MzEyODI0LDEyMj
+EwODczMTQsMTg1MTA3NzMwMCwtNjI2MDEzNDQwLC0yMTI0MTcw
+MTU5LC0xMjIxMDE4MjQwLC01OTE5NDYwNjVdfQ==
 -->
