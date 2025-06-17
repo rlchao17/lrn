@@ -20,9 +20,11 @@ vad härligt
 
 Jag kan [**slå vad**](https://sv.wiktionary.org/wiki/sl%C3%A5_vad#Verb) om att hela ön står på bryggan ock **tar emot** oss.
 
+Prat! Där skiner solen.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzMjczMzcwLDEzNTU3NTg4NzQsNTY3Mj
-cxMTgsMTU0MDEwMzYxNCw0ODczNjEyODgsLTY2ODk3NjYxNCwx
-NTYyNjM1MDk4LC0xNzgwNTU2OTE3LDE5OTg3MDk0MDEsLTg4NT
-UxNjM3NF19
+eyJoaXN0b3J5IjpbLTc3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NT
+c1ODg3NCw1NjcyNzExOCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwt
+NjY4OTc2NjE0LDE1NjI2MzUwOTgsLTE3ODA1NTY5MTcsMTk5OD
+cwOTQwMSwtODg1NTE2Mzc0XX0=
 -->
