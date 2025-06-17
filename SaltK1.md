@@ -22,9 +22,14 @@ Jag kan [**slå vad**](https://sv.wiktionary.org/wiki/sl%C3%A5_vad#Verb) om att 
 
 Prat! Där skiner solen.
 
+har ni haft trevlig *i stan*
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NT
-c1ODg3NCw1NjcyNzExOCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwt
-NjY4OTc2NjE0LDE1NjI2MzUwOTgsLTE3ODA1NTY5MTcsMTk5OD
-cwOTQwMSwtODg1NTE2Mzc0XX0=
+eyJoaXN0b3J5IjpbLTEwMjE2NDcyNjgsLTc3MDgxMjUyNyw2NT
+MyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNTQwMTAzNjE0
+LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUwOTgsLTE3OD
+A1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2Mzc0XX0=
 -->
