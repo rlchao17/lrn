@@ -14,8 +14,13 @@ Jag tittar över nån dag.
 
 det tycker jag du ska **[låta bli](https://sv.wiktionary.org/wiki/l%C3%A5ta_bli)**.
 
+när vi kommer fram äter vi middag på tomten och sitter där i solen
+
+vad härligt
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDEwMzYxNCw0ODczNjEyODgsLTY2OD
-k3NjYxNCwxNTYyNjM1MDk4LC0xNzgwNTU2OTE3LDE5OTg3MDk0
-MDEsLTg4NTUxNjM3NF19
+eyJoaXN0b3J5IjpbNTY3MjcxMTgsMTU0MDEwMzYxNCw0ODczNj
+EyODgsLTY2ODk3NjYxNCwxNTYyNjM1MDk4LC0xNzgwNTU2OTE3
+LDE5OTg3MDk0MDEsLTg4NTUxNjM3NF19
 -->
