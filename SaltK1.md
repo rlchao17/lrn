@@ -142,13 +142,26 @@ hej på dig
 -   _"Hej på dig, det var länge sen!"_
 -   _"Hej på dig, hur mår du idag?"_
 
+vad är de för ena
 
+> Uttrycket **"vad är de för ena?"** är ett vardagligt och lite färgstarkt sätt att säga **"vilka är de där?"** eller **"vad är det för slags personer/saker?"**. Det används ofta när man är nyfiken, förvånad eller kanske lite skeptisk till någon eller något man ser.
+
+### 🔹 Exempel:
+
+-   _"Vad är de för ena som står där borta och skrattar?"_
+    
+-   _"Vad är det för ena konstiga ljud från grannarna?"_
+    
+
+Här betyder **"ena"** ungefär _"sorts"_, _"typ av"_ eller _"sådana där"_. Det är en gammal konstruktion som lever kvar i talspråk och dialekter, särskilt i uttryck som:
+
+-   _"Ni är ena riktiga tokstollar!"_ – alltså _"ni är verkligen tokiga!"_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc3MTQ0ODgsNDMxMjU3MzM1LDk3MD
-I5NjMxMCwtMTM1MjQwNDY2Miw0OTgyNzk0ODIsMTAwMjA5Nzky
-MiwtMTI2ODgzNDg0MCwtODg5NDY1NDA2LC0xNzEzNzU0MTMyLD
-g3Mzk3MjcyMywtMTkxNjQ5NTUxNSwtMTAyMTY0NzI2OCwtNzcw
-ODEyNTI3LDY1MzI3MzM3MCwxMzU1NzU4ODc0LDU2NzI3MTE4LD
-E1NDAxMDM2MTQsNDg3MzYxMjg4LC02Njg5NzY2MTQsMTU2MjYz
-NTA5OF19
+eyJoaXN0b3J5IjpbLTI1Mzk5ODg5MCwtMjEyNzcxNDQ4OCw0Mz
+EyNTczMzUsOTcwMjk2MzEwLC0xMzUyNDA0NjYyLDQ5ODI3OTQ4
+MiwxMDAyMDk3OTIyLC0xMjY4ODM0ODQwLC04ODk0NjU0MDYsLT
+E3MTM3NTQxMzIsODczOTcyNzIzLC0xOTE2NDk1NTE1LC0xMDIx
+NjQ3MjY4LC03NzA4MTI1MjcsNjUzMjczMzcwLDEzNTU3NTg4Nz
+QsNTY3MjcxMTgsMTU0MDEwMzYxNCw0ODczNjEyODgsLTY2ODk3
+NjYxNF19
 -->
