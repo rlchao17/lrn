@@ -148,8 +148,10 @@ vad är de för ena
 Här betyder **"ena"** ungefär _"sorts"_, _"typ av"_ eller _"sådana där"_. Det är en gammal konstruktion som lever kvar i talspråk och dialekter, särskilt i uttryck som:
 
 -   _"Ni är ena riktiga tokstollar!"_ – alltså _"ni är verkligen tokiga!"_
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzcwNDkyLC0yMTI3NzE0NDg4LDQzMT
+eyJoaXN0b3J5IjpbNDE3NTc4MzkyLC0yMTI3NzE0NDg4LDQzMT
 I1NzMzNSw5NzAyOTYzMTAsLTEzNTI0MDQ2NjIsNDk4Mjc5NDgy
 LDEwMDIwOTc5MjIsLTEyNjg4MzQ4NDAsLTg4OTQ2NTQwNiwtMT
 cxMzc1NDEzMiw4NzM5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2
