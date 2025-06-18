@@ -33,12 +33,10 @@ Ja, just ... [visst](#bekr%C3%A4ftelse-eller-medh%C3%A5ll)
 ### Bekräftelse eller medhåll
 > Som ett sätt att säga _"ja"_, _"absolut"_ eller _"självklart"_. – _"Vill du följa med?"_ – _"Visst!"_
 
-vad **[glor](#glo)** de på<br>
-tror de att vi är **[nån sorts](#n%C3%A5n-sorts)** cirkus
-
-### glo
+vad **glor** de på<br>
+tror de att vi är **nån sorts** cirkus
 > Ordet **"glor"** är presensformen av verbet **"glo"**, som betyder att **stirra intensivt eller länge på något eller någon**, ofta på ett lite oförskämt eller nyfiket sätt.
-### nån sorts
+> 
 > Uttrycket **"nån sorts"** är en vardaglig form av **"någon sorts"**, och används för att beskriva **en ospecificerad typ eller kategori av något** – ungefär som att säga _"en slags"_ eller _"en typ av"_.
 
 det är väl en **munter** syn
@@ -46,12 +44,11 @@ det är väl en **munter** syn
 -   _"Hon var på muntert humör hela dagen."_
 -   _"Det blev en munter stämning på festen."_
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzQxNjU1MSwtMTcxMzc1NDEzMiw4Nz
-M5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLTc3MDgx
-MjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNT
-QwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUw
-OTgsLTE3ODA1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2Mzc0XX
-0=
+eyJoaXN0b3J5IjpbNDA1NTg5MzM1LC0xNzEzNzU0MTMyLDg3Mz
+k3MjcyMywtMTkxNjQ5NTUxNSwtMTAyMTY0NzI2OCwtNzcwODEy
+NTI3LDY1MzI3MzM3MCwxMzU1NzU4ODc0LDU2NzI3MTE4LDE1ND
+AxMDM2MTQsNDg3MzYxMjg4LC02Njg5NzY2MTQsMTU2MjYzNTA5
+OCwtMTc4MDU1NjkxNywxOTk4NzA5NDAxLC04ODU1MTYzNzRdfQ
+==
 -->
