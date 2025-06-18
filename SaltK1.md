@@ -140,6 +140,7 @@ hej på dig
 -   _"Hej på dig, hur mår du idag?"_
 
 vad är de för ena, de där nya
+nu är ni bra nyfikna, va
 
 > Uttrycket **"vad är de för ena?"** är ett vardagligt och lite färgstarkt sätt att säga **"vilka är de där?"** eller **"vad är det för slags personer/saker?"**. Det används ofta när man är nyfiken, förvånad eller kanske lite skeptisk till någon eller något man ser.
 -   _"Vad är de för ena som står där borta och skrattar?"_
@@ -151,11 +152,11 @@ Här betyder **"ena"** ungefär _"sorts"_, _"typ av"_ eller _"sådana där"_. De
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgwODYxMywtMjEyNzcxNDQ4OCw0Mz
-EyNTczMzUsOTcwMjk2MzEwLC0xMzUyNDA0NjYyLDQ5ODI3OTQ4
-MiwxMDAyMDk3OTIyLC0xMjY4ODM0ODQwLC04ODk0NjU0MDYsLT
-E3MTM3NTQxMzIsODczOTcyNzIzLC0xOTE2NDk1NTE1LC0xMDIx
-NjQ3MjY4LC03NzA4MTI1MjcsNjUzMjczMzcwLDEzNTU3NTg4Nz
-QsNTY3MjcxMTgsMTU0MDEwMzYxNCw0ODczNjEyODgsLTY2ODk3
-NjYxNF19
+eyJoaXN0b3J5IjpbMTk4NzM4MDY5LC0yMTI3NzE0NDg4LDQzMT
+I1NzMzNSw5NzAyOTYzMTAsLTEzNTI0MDQ2NjIsNDk4Mjc5NDgy
+LDEwMDIwOTc5MjIsLTEyNjg4MzQ4NDAsLTg4OTQ2NTQwNiwtMT
+cxMzc1NDEzMiw4NzM5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2
+NDcyNjgsLTc3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NC
+w1NjcyNzExOCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2
+NjE0XX0=
 -->
