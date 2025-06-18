@@ -96,9 +96,25 @@ alldeles underbar
 -   **Förvåning eller känslouttryck**: _"Han blev alldeles röd i ansiktet!"_ _"Maten var alldeles fantastisk!"_
 
 struntprat!
->
+> **"Struntprat"** är ett vardagligt svenskt ord som betyder **nonsens**, **dumheter** eller **prat utan värde eller sanning**. Det används ofta för att avfärda något som oseriöst, överdrivet eller helt enkelt felaktigt.
+
+### 🔹 Exempel:
+
+-   _"Det där är bara struntprat – det stämmer inte alls!"_
+-   _"Sluta med allt struntprat och kom till saken."_
+
+### 🔹 Synonymer:
+
+Skitsnack, trams, svammel, goja, rappakalja, tjafs, gallimatias2.
+
+### 🔹 Uttryck:
+
+-   _"Prata i nattmössan"_ – att prata strunt.
+-   _"Det är bara nys"_ – det är inte sant, bara struntprat.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTk5MTY0NSwxMDAyMDk3OTIyLC0xMj
+eyJoaXN0b3J5IjpbLTYxMjQyMzE0NCwxMDAyMDk3OTIyLC0xMj
 Y4ODM0ODQwLC04ODk0NjU0MDYsLTE3MTM3NTQxMzIsODczOTcy
 NzIzLC0xOTE2NDk1NTE1LC0xMDIxNjQ3MjY4LC03NzA4MTI1Mj
 csNjUzMjczMzcwLDEzNTU3NTg4NzQsNTY3MjcxMTgsMTU0MDEw
