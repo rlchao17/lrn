@@ -34,14 +34,17 @@ Ja, just ... [visst](#bekr%C3%A4ftelse-eller-medh%C3%A5ll)
 > Som ett sätt att säga _"ja"_, _"absolut"_ eller _"självklart"_. – _"Vill du följa med?"_ – _"Visst!"_
 
 vad **[glor](#glo)** de på<br>
-tror de att vi är **nån** sorts cirkus
+tror de att vi är **[nån sorts](#n%C3%A5n-sorts)** cirkus
 
 ### glo
 > Ordet **"glor"** är presensformen av verbet **"glo"**, som betyder att **stirra intensivt eller länge på något eller någon**, ofta på ett lite oförskämt eller nyfiket sätt.
+### nån sorts
+Uttrycket **"nån sorts"** är en vardaglig form av **"någon sorts"**, och används för att beskriva **en ospecificerad typ eller kategori av något** – ungefär som att säga _"en slags"_ eller _"en typ av"_.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDMwNDE2MiwtMTcxMzc1NDEzMiw4Nz
+eyJoaXN0b3J5IjpbLTQ1ODUyMjA3MSwtMTcxMzc1NDEzMiw4Nz
 M5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLTc3MDgx
 MjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNT
 QwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUw
