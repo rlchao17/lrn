@@ -155,9 +155,11 @@ lite förfallet kanske
 
 på en spik vid dörren
 
+bäst att kavla upp ärmarna
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDk0NzkzNSwxOTg3MzgwNjksLTIxMj
+eyJoaXN0b3J5IjpbLTExNjI2Nzc2NiwxOTg3MzgwNjksLTIxMj
 c3MTQ0ODgsNDMxMjU3MzM1LDk3MDI5NjMxMCwtMTM1MjQwNDY2
 Miw0OTgyNzk0ODIsMTAwMjA5NzkyMiwtMTI2ODgzNDg0MCwtOD
 g5NDY1NDA2LC0xNzEzNzU0MTMyLDg3Mzk3MjcyMywtMTkxNjQ5
