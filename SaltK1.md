@@ -37,16 +37,16 @@ tror de att vi är **nån sorts** cirkus
 > 
 > Uttrycket **"nån sorts"** är en vardaglig form av **"någon sorts"**, och används för att beskriva **en ospecificerad typ eller kategori av något** – ungefär som att säga _"en slags"_ eller _"en typ av"_.
 
-det är väl en **munter** syn
+det är väl en **munter** *syn*
 > Ordet **"munter"** är ett adjektiv som beskriver någon som är **glad, livlig eller uppåt till sinnes** – ofta med en lättsam eller sprallig ton.
 -   _"Hon var på muntert humör hela dagen."_
 -   _"Det blev en munter stämning på festen."_
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTQ2NTQwNiwtMTcxMzc1NDEzMiw4Nz
-M5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLTc3MDgx
-MjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNT
-QwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUw
-OTgsLTE3ODA1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2Mzc0XX
-0=
+eyJoaXN0b3J5IjpbLTYzNTA0NjMzOCwtODg5NDY1NDA2LC0xNz
+EzNzU0MTMyLDg3Mzk3MjcyMywtMTkxNjQ5NTUxNSwtMTAyMTY0
+NzI2OCwtNzcwODEyNTI3LDY1MzI3MzM3MCwxMzU1NzU4ODc0LD
+U2NzI3MTE4LDE1NDAxMDM2MTQsNDg3MzYxMjg4LC02Njg5NzY2
+MTQsMTU2MjYzNTA5OCwtMTc4MDU1NjkxNywxOTk4NzA5NDAxLC
+04ODU1MTYzNzRdfQ==
 -->
