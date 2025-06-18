@@ -84,11 +84,23 @@ vart **drar** jag i väg med mina unga
 -   _"Dra åt skogen!"_ – ett milt svordomsuttryck.
 -   _"Dra benen efter sig"_ – att vara långsam eller lat.
 -   _"Dra sig för något"_ – att tveka eller känna motstånd inför något.
+
+alldeles underbar
+
+> Ordet **"alldeles"** är ett adverb som används för att förstärka något – det betyder ungefär **"helt", "fullständigt"** eller **"i mycket hög grad"** beroende på sammanhang.
+
+### 🔹 Vanliga användningar:
+
+-   **Förstärkning av adjektiv/adverb**: _"Det är alldeles tyst här inne."_ _"Hon var alldeles för trött för att gå ut."_
+-   **Tidsangivelse (snart)**: _"Jag kommer alldeles strax."_
+-   **Förvåning eller känslouttryck**: _"Han blev alldeles röd i ansiktet!"_ _"Maten var alldeles fantastisk!"_
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjA5NzkyMiwtMTI2ODgzNDg0MCwtOD
-g5NDY1NDA2LC0xNzEzNzU0MTMyLDg3Mzk3MjcyMywtMTkxNjQ5
-NTUxNSwtMTAyMTY0NzI2OCwtNzcwODEyNTI3LDY1MzI3MzM3MC
-wxMzU1NzU4ODc0LDU2NzI3MTE4LDE1NDAxMDM2MTQsNDg3MzYx
-Mjg4LC02Njg5NzY2MTQsMTU2MjYzNTA5OCwtMTc4MDU1NjkxNy
-wxOTk4NzA5NDAxLC04ODU1MTYzNzRdfQ==
+eyJoaXN0b3J5IjpbLTE3NTc4NDUxLDEwMDIwOTc5MjIsLTEyNj
+g4MzQ4NDAsLTg4OTQ2NTQwNiwtMTcxMzc1NDEzMiw4NzM5NzI3
+MjMsLTE5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLTc3MDgxMjUyNy
+w2NTMyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNTQwMTAz
+NjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUwOTgsLT
+E3ODA1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2Mzc0XX0=
 -->
