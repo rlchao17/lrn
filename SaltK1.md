@@ -95,7 +95,7 @@ alldeles underbar
 -   **Tidsangivelse (snart)**: _"Jag kommer alldeles strax."_
 -   **Förvåning eller känslouttryck**: _"Han blev alldeles röd i ansiktet!"_ _"Maten var alldeles fantastisk!"_
 
-struntprat!
+struntprat! det regnar inte alls in.
 > **"Struntprat"** är ett vardagligt svenskt ord som betyder **nonsens**, **dumheter** eller **prat utan värde eller sanning**. Det används ofta för att avfärda något som oseriöst, överdrivet eller helt enkelt felaktigt.
 
 ### 🔹 Exempel:
@@ -121,11 +121,11 @@ det är därför alla stirrar på oss
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzU2MDEzNSw0OTgyNzk0ODIsMTAwMj
-A5NzkyMiwtMTI2ODgzNDg0MCwtODg5NDY1NDA2LC0xNzEzNzU0
-MTMyLDg3Mzk3MjcyMywtMTkxNjQ5NTUxNSwtMTAyMTY0NzI2OC
-wtNzcwODEyNTI3LDY1MzI3MzM3MCwxMzU1NzU4ODc0LDU2NzI3
-MTE4LDE1NDAxMDM2MTQsNDg3MzYxMjg4LC02Njg5NzY2MTQsMT
-U2MjYzNTA5OCwtMTc4MDU1NjkxNywxOTk4NzA5NDAxLC04ODU1
-MTYzNzRdfQ==
+eyJoaXN0b3J5IjpbLTExMTM4NzEwODQsNDk4Mjc5NDgyLDEwMD
+IwOTc5MjIsLTEyNjg4MzQ4NDAsLTg4OTQ2NTQwNiwtMTcxMzc1
+NDEzMiw4NzM5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2NDcyNj
+gsLTc3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NCw1Njcy
+NzExOCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LD
+E1NjI2MzUwOTgsLTE3ODA1NTY5MTcsMTk5ODcwOTQwMSwtODg1
+NTE2Mzc0XX0=
 -->
