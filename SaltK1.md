@@ -28,9 +28,7 @@ har ni haft trevlig *i stan*
 
 Vi har inte fult väder, vi har bara olika sorters väder.
 
-Ja, just ... [visst](#bekr%C3%A4ftelse-eller-medh%C3%A5ll)
-
-### Bekräftelse eller medhåll
+Ja, just ... **visst**
 > Som ett sätt att säga _"ja"_, _"absolut"_ eller _"självklart"_. – _"Vill du följa med?"_ – _"Visst!"_
 
 vad **glor** de på<br>
@@ -45,10 +43,10 @@ det är väl en **munter** syn
 -   _"Det blev en munter stämning på festen."_
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1NTg5MzM1LC0xNzEzNzU0MTMyLDg3Mz
-k3MjcyMywtMTkxNjQ5NTUxNSwtMTAyMTY0NzI2OCwtNzcwODEy
-NTI3LDY1MzI3MzM3MCwxMzU1NzU4ODc0LDU2NzI3MTE4LDE1ND
-AxMDM2MTQsNDg3MzYxMjg4LC02Njg5NzY2MTQsMTU2MjYzNTA5
-OCwtMTc4MDU1NjkxNywxOTk4NzA5NDAxLC04ODU1MTYzNzRdfQ
-==
+eyJoaXN0b3J5IjpbLTg4OTQ2NTQwNiwtMTcxMzc1NDEzMiw4Nz
+M5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLTc3MDgx
+MjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNT
+QwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUw
+OTgsLTE3ODA1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2Mzc0XX
+0=
 -->
