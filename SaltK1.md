@@ -136,32 +136,24 @@ hej Sonja
 hej på dig
 
 > **"Hej på dig"** är en varm och vänlig hälsning på svenska – ungefär som att säga _"Hello to you!"_ eller _"Hi there!"_ på engelska. Det är lite mer personligt än bara "hej", eftersom det riktar sig direkt till någon.
-
-### 🔹 Exempel:
-
 -   _"Hej på dig, det var länge sen!"_
 -   _"Hej på dig, hur mår du idag?"_
 
 vad är de för ena
 
 > Uttrycket **"vad är de för ena?"** är ett vardagligt och lite färgstarkt sätt att säga **"vilka är de där?"** eller **"vad är det för slags personer/saker?"**. Det används ofta när man är nyfiken, förvånad eller kanske lite skeptisk till någon eller något man ser.
-
-### 🔹 Exempel:
-
 -   _"Vad är de för ena som står där borta och skrattar?"_
-    
 -   _"Vad är det för ena konstiga ljud från grannarna?"_
-    
 
 Här betyder **"ena"** ungefär _"sorts"_, _"typ av"_ eller _"sådana där"_. Det är en gammal konstruktion som lever kvar i talspråk och dialekter, särskilt i uttryck som:
 
 -   _"Ni är ena riktiga tokstollar!"_ – alltså _"ni är verkligen tokiga!"_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Mzk5ODg5MCwtMjEyNzcxNDQ4OCw0Mz
-EyNTczMzUsOTcwMjk2MzEwLC0xMzUyNDA0NjYyLDQ5ODI3OTQ4
-MiwxMDAyMDk3OTIyLC0xMjY4ODM0ODQwLC04ODk0NjU0MDYsLT
-E3MTM3NTQxMzIsODczOTcyNzIzLC0xOTE2NDk1NTE1LC0xMDIx
-NjQ3MjY4LC03NzA4MTI1MjcsNjUzMjczMzcwLDEzNTU3NTg4Nz
-QsNTY3MjcxMTgsMTU0MDEwMzYxNCw0ODczNjEyODgsLTY2ODk3
-NjYxNF19
+eyJoaXN0b3J5IjpbMTY0NzcwNDkyLC0yMTI3NzE0NDg4LDQzMT
+I1NzMzNSw5NzAyOTYzMTAsLTEzNTI0MDQ2NjIsNDk4Mjc5NDgy
+LDEwMDIwOTc5MjIsLTEyNjg4MzQ4NDAsLTg4OTQ2NTQwNiwtMT
+cxMzc1NDEzMiw4NzM5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2
+NDcyNjgsLTc3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NC
+w1NjcyNzExOCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2
+NjE0XX0=
 -->
