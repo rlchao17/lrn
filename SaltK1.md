@@ -95,12 +95,13 @@ alldeles underbar
 -   **Tidsangivelse (snart)**: _"Jag kommer alldeles strax."_
 -   **Förvåning eller känslouttryck**: _"Han blev alldeles röd i ansiktet!"_ _"Maten var alldeles fantastisk!"_
 
-
+struntprat!
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc4NDUxLDEwMDIwOTc5MjIsLTEyNj
-g4MzQ4NDAsLTg4OTQ2NTQwNiwtMTcxMzc1NDEzMiw4NzM5NzI3
-MjMsLTE5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLTc3MDgxMjUyNy
-w2NTMyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNTQwMTAz
-NjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUwOTgsLT
-E3ODA1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2Mzc0XX0=
+eyJoaXN0b3J5IjpbLTYxOTk5MTY0NSwxMDAyMDk3OTIyLC0xMj
+Y4ODM0ODQwLC04ODk0NjU0MDYsLTE3MTM3NTQxMzIsODczOTcy
+NzIzLC0xOTE2NDk1NTE1LC0xMDIxNjQ3MjY4LC03NzA4MTI1Mj
+csNjUzMjczMzcwLDEzNTU3NTg4NzQsNTY3MjcxMTgsMTU0MDEw
+MzYxNCw0ODczNjEyODgsLTY2ODk3NjYxNCwxNTYyNjM1MDk4LC
+0xNzgwNTU2OTE3LDE5OTg3MDk0MDEsLTg4NTUxNjM3NF19
 -->
