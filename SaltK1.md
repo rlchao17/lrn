@@ -121,14 +121,18 @@ det är därför alla stirrar på oss
 att agenten inte nämnde det
 
 tack ska du ha
+> Compared to other phrases:
+
+-   **"Tack så mycket"** – more neutral and common for thanking someone for a gift or favor.
+-   **"Tack ska du ha"** – often used when thanking someone for **doing** something, like helping or showing up.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxODU0NjgsLTEzNTI0MDQ2NjIsNDk4Mj
-c5NDgyLDEwMDIwOTc5MjIsLTEyNjg4MzQ4NDAsLTg4OTQ2NTQw
-NiwtMTcxMzc1NDEzMiw4NzM5NzI3MjMsLTE5MTY0OTU1MTUsLT
-EwMjE2NDcyNjgsLTc3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NTc1
-ODg3NCw1NjcyNzExOCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwtNj
-Y4OTc2NjE0LDE1NjI2MzUwOTgsLTE3ODA1NTY5MTcsMTk5ODcw
-OTQwMV19
+eyJoaXN0b3J5IjpbOTcwMjk2MzEwLC0xMzUyNDA0NjYyLDQ5OD
+I3OTQ4MiwxMDAyMDk3OTIyLC0xMjY4ODM0ODQwLC04ODk0NjU0
+MDYsLTE3MTM3NTQxMzIsODczOTcyNzIzLC0xOTE2NDk1NTE1LC
+0xMDIxNjQ3MjY4LC03NzA4MTI1MjcsNjUzMjczMzcwLDEzNTU3
+NTg4NzQsNTY3MjcxMTgsMTU0MDEwMzYxNCw0ODczNjEyODgsLT
+Y2ODk3NjYxNCwxNTYyNjM1MDk4LC0xNzgwNTU2OTE3LDE5OTg3
+MDk0MDFdfQ==
 -->
