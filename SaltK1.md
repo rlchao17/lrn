@@ -42,8 +42,36 @@ det är väl en **munter** *syn*
 -   _"Hon var på muntert humör hela dagen."_
 -   _"Det blev en munter stämning på festen."_
 
+> Ordet **"syn"** är ett riktigt mångfacetterat substantiv i svenskan, med flera betydelser beroende på sammanhang:
+
+### 🔹 1. **Synförmåga**
+
+Förmågan att se med ögonen. – _"Hon har dålig syn och behöver glasögon."_
+
+### 🔹 2. **Det man ser**
+
+En anblick eller vy. – _"Det var en vacker syn från fjället."_
+
+### 🔹 3. **Uppfattning eller åsikt**
+
+En persons sätt att se på något – alltså en mental syn. – _"Min syn på saken är att vi borde vänta."_
+
+### 🔹 4. **Vision eller drömbild**
+
+Något man ser i sitt inre, i dröm eller fantasi. – _"Han hade en syn om framtiden."_
+
+### 🔹 5. **Besiktning eller granskning**
+
+Används ibland i juridiska eller tekniska sammanhang. – _"Fastigheten ska genomgå en syn innan försäljning."_
+
+Det finns också många uttryck, som:
+-   _"Få syn på något"_ – upptäcka det med ögonen.
+-   _"En syn för gudar"_ – något otroligt vackert.
+-   _"För syns skull"_ – bara för att det ska se bra ut, inte för att det spelar roll.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTA0NjMzOCwtODg5NDY1NDA2LC0xNz
+eyJoaXN0b3J5IjpbMjA5NzIxMTA3OCwtODg5NDY1NDA2LC0xNz
 EzNzU0MTMyLDg3Mzk3MjcyMywtMTkxNjQ5NTUxNSwtMTAyMTY0
 NzI2OCwtNzcwODEyNTI3LDY1MzI3MzM3MCwxMzU1NzU4ODc0LD
 U2NzI3MTE4LDE1NDAxMDM2MTQsNDg3MzYxMjg4LC02Njg5NzY2
