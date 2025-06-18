@@ -157,9 +157,18 @@ på en spik vid dörren
 
 bäst att kavla upp ärmarna
 
+Uttrycket **"kavla upp"** betyder bokstavligen att **vika eller rulla upp något**, oftast **ärmarna på en skjorta**. Men det används också bildligt i svenskan för att uttrycka att man **ska ta itu med något, börja jobba hårt eller förbereda sig för en utmaning**.
+
+### 🔹 Bokstavlig betydelse:
+
+-   _"Han kavlade upp ärmarna innan han började diska."_
+
+### 🔹 Bildlig betydelse (idiomatiskt):
+
+-   _"Nu får vi kavla upp ärmarna och sätta igång!"_ → Här betyder det: _Nu är det dags att jobba på allvar._
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI2Nzc2NiwxOTg3MzgwNjksLTIxMj
+eyJoaXN0b3J5IjpbMTA4MTQ2ODY3NCwxOTg3MzgwNjksLTIxMj
 c3MTQ0ODgsNDMxMjU3MzM1LDk3MDI5NjMxMCwtMTM1MjQwNDY2
 Miw0OTgyNzk0ODIsMTAwMjA5NzkyMiwtMTI2ODgzNDg0MCwtOD
 g5NDY1NDA2LC0xNzEzNzU0MTMyLDg3Mzk3MjcyMywtMTkxNjQ5
