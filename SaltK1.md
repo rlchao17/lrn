@@ -31,14 +31,14 @@ Vi har inte fult väder, vi har bara olika sorters väder.
 Ja, just ... [visst](#bekr%C3%A4ftelse-eller-medh%C3%A5ll)
 
 ### Bekräftelse eller medhåll
-Som ett sätt att säga _"ja"_, _"absolut"_ eller _"självklart"_. – _"Vill du följa med?"_ – _"Visst!"_
+> Som ett sätt att säga _"ja"_, _"absolut"_ eller _"självklart"_. – _"Vill du följa med?"_ – _"Visst!"_
 
 vad glor de på
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY2MDY0ODQsODczOTcyNzIzLC0xOT
-E2NDk1NTE1LC0xMDIxNjQ3MjY4LC03NzA4MTI1MjcsNjUzMjcz
-MzcwLDEzNTU3NTg4NzQsNTY3MjcxMTgsMTU0MDEwMzYxNCw0OD
-czNjEyODgsLTY2ODk3NjYxNCwxNTYyNjM1MDk4LC0xNzgwNTU2
-OTE3LDE5OTg3MDk0MDEsLTg4NTUxNjM3NF19
+eyJoaXN0b3J5IjpbMjIwOTQ5Nzc0LDg3Mzk3MjcyMywtMTkxNj
+Q5NTUxNSwtMTAyMTY0NzI2OCwtNzcwODEyNTI3LDY1MzI3MzM3
+MCwxMzU1NzU4ODc0LDU2NzI3MTE4LDE1NDAxMDM2MTQsNDg3Mz
+YxMjg4LC02Njg5NzY2MTQsMTU2MjYzNTA5OCwtMTc4MDU1Njkx
+NywxOTk4NzA5NDAxLC04ODU1MTYzNzRdfQ==
 -->
