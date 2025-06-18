@@ -26,10 +26,10 @@ har ni haft trevlig *i stan*
 
 **synd** vi har fult väder
 
-Vi har inte fult vä
+Vi har inte fult väder, vi har bara olika sorters väder.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjQ2ODQ5NywtMTAyMTY0NzI2OCwtNz
+eyJoaXN0b3J5IjpbLTE2MzA3NTA3NSwtMTAyMTY0NzI2OCwtNz
 cwODEyNTI3LDY1MzI3MzM3MCwxMzU1NzU4ODc0LDU2NzI3MTE4
 LDE1NDAxMDM2MTQsNDg3MzYxMjg4LC02Njg5NzY2MTQsMTU2Mj
 YzNTA5OCwtMTc4MDU1NjkxNywxOTk4NzA5NDAxLC04ODU1MTYz
