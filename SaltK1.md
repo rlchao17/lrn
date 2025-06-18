@@ -36,9 +36,11 @@ Ja, just ... [visst](#bekr%C3%A4ftelse-eller-medh%C3%A5ll)
 vad **[glor](#glo)** de på
 
 ### glo
-Ordet **"glor"** är presensformen av verbet **"glo"**, som betyder att **stirra intensivt eller länge på något eller någon**, ofta på ett lite oförskämt eller nyfiket sätt.
+> Ordet **"glor"** är presensformen av verbet **"glo"**, som betyder att **stirra intensivt eller länge på något eller någon**, ofta på ett lite oförskämt eller nyfiket sätt.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzY1Njk3MSw4NzM5NzI3MjMsLTE5MT
+eyJoaXN0b3J5IjpbLTc1OTkyNDUzOSw4NzM5NzI3MjMsLTE5MT
 Y0OTU1MTUsLTEwMjE2NDcyNjgsLTc3MDgxMjUyNyw2NTMyNzMz
 NzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNTQwMTAzNjE0LDQ4Nz
 M2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUwOTgsLTE3ODA1NTY5
