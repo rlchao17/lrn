@@ -28,11 +28,15 @@ har ni haft trevlig *i stan*
 
 Vi har inte fult väder, vi har bara olika sorters väder.
 
-Ja, just 
+Ja, just ... visst
+
+### 🔹 Bekräftelse eller medhåll
+
+Som ett sätt att säga _"ja"_, _"absolut"_ eller _"självklart"_. – _"Vill du följa med?"_ – _"Visst!"_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjc2NTk4NCwtMTAyMTY0NzI2OCwtNz
-cwODEyNTI3LDY1MzI3MzM3MCwxMzU1NzU4ODc0LDU2NzI3MTE4
-LDE1NDAxMDM2MTQsNDg3MzYxMjg4LC02Njg5NzY2MTQsMTU2Mj
-YzNTA5OCwtMTc4MDU1NjkxNywxOTk4NzA5NDAxLC04ODU1MTYz
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTE5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLT
+c3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzEx
+OCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1Nj
+I2MzUwOTgsLTE3ODA1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2
+Mzc0XX0=
 -->
