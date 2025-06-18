@@ -43,16 +43,15 @@ tror de att vi är **[nån sorts](#n%C3%A5n-sorts)** cirkus
 
 det är väl en **munter** syn
 > Ordet **"munter"** är ett adjektiv som beskriver någon som är **glad, livlig eller uppåt till sinnes** – ofta med en lättsam eller sprallig ton.
-
-### 🔹 Exempel:
-
 -   _"Hon var på muntert humör hela dagen."_
 -   _"Det blev en munter stämning på festen."_
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNzcxMjQwLC0xNzEzNzU0MTMyLDg3Mz
-k3MjcyMywtMTkxNjQ5NTUxNSwtMTAyMTY0NzI2OCwtNzcwODEy
-NTI3LDY1MzI3MzM3MCwxMzU1NzU4ODc0LDU2NzI3MTE4LDE1ND
-AxMDM2MTQsNDg3MzYxMjg4LC02Njg5NzY2MTQsMTU2MjYzNTA5
-OCwtMTc4MDU1NjkxNywxOTk4NzA5NDAxLC04ODU1MTYzNzRdfQ
-==
+eyJoaXN0b3J5IjpbMjA2NzQxNjU1MSwtMTcxMzc1NDEzMiw4Nz
+M5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLTc3MDgx
+MjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNT
+QwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUw
+OTgsLTE3ODA1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2Mzc0XX
+0=
 -->
