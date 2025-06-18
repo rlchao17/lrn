@@ -70,12 +70,25 @@ Det finns också många uttryck, som:
 -   _"För syns skull"_ – bara för att det ska se bra ut, inte för att det spelar roll.
 
 vart **drar** jag i väg med mina unga
+> Ordet **"drar"** är presensformen av verbet **"dra"**, och det är ett riktigt mångsidigt verb i svenskan! Beroende på sammanhang kan det betyda allt från att **förflytta något** till att **resa iväg** eller till och med att **förbruka något**.
 
+### 🔹 Några vanliga betydelser:
+
+-   **Förflytta något**: _"Han drar stolen närmare bordet."_
+-   **Åka iväg / sticka** (vardagligt): _"Vi drar till stranden!"_
+-   **Förbruka**: _"Bilen drar mycket bensin."_
+-   **Locka till sig**: _"Festivalen drar mycket folk."_
+-   **Starta något**: _"De drar igång projektet på måndag."_
+
+### 🔹 Vanliga uttryck:
+-   _"Dra åt skogen!"_ – ett milt svordomsuttryck.
+-   _"Dra benen efter sig"_ – att vara långsam eller lat.
+-   _"Dra sig för något"_ – att tveka eller känna motstånd inför något.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg4MzQ4NDAsLTg4OTQ2NTQwNiwtMT
-cxMzc1NDEzMiw4NzM5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2
-NDcyNjgsLTc3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NC
-w1NjcyNzExOCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2
-NjE0LDE1NjI2MzUwOTgsLTE3ODA1NTY5MTcsMTk5ODcwOTQwMS
-wtODg1NTE2Mzc0XX0=
+eyJoaXN0b3J5IjpbMTAwMjA5NzkyMiwtMTI2ODgzNDg0MCwtOD
+g5NDY1NDA2LC0xNzEzNzU0MTMyLDg3Mzk3MjcyMywtMTkxNjQ5
+NTUxNSwtMTAyMTY0NzI2OCwtNzcwODEyNTI3LDY1MzI3MzM3MC
+wxMzU1NzU4ODc0LDU2NzI3MTE4LDE1NDAxMDM2MTQsNDg3MzYx
+Mjg4LC02Njg5NzY2MTQsMTU2MjYzNTA5OCwtMTc4MDU1NjkxNy
+wxOTk4NzA5NDAxLC04ODU1MTYzNzRdfQ==
 -->
