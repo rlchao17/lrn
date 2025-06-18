@@ -34,10 +34,9 @@ Ja, just ... [visst](#bekr%C3%A4ftelse-eller-medh%C3%A5ll)
 
 Som ett sätt att säga _"ja"_, _"absolut"_ eller _"självklart"_. – _"Vill du följa med?"_ – _"Visst!"_
 
-This is a <span title="Hovered text appears here">hoverable text</span>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyOTIyNDQ1LC0xOTE2NDk1NTE1LC0xMD
+eyJoaXN0b3J5IjpbODczOTcyNzIzLC0xOTE2NDk1NTE1LC0xMD
 IxNjQ3MjY4LC03NzA4MTI1MjcsNjUzMjczMzcwLDEzNTU3NTg4
 NzQsNTY3MjcxMTgsMTU0MDEwMzYxNCw0ODczNjEyODgsLTY2OD
 k3NjYxNCwxNTYyNjM1MDk4LC0xNzgwNTU2OTE3LDE5OTg3MDk0
