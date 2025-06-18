@@ -39,12 +39,14 @@ tror de att vi är **[nån sorts](#n%C3%A5n-sorts)** cirkus
 ### glo
 > Ordet **"glor"** är presensformen av verbet **"glo"**, som betyder att **stirra intensivt eller länge på något eller någon**, ofta på ett lite oförskämt eller nyfiket sätt.
 ### nån sorts
-Uttrycket **"nån sorts"** är en vardaglig form av **"någon sorts"**, och används för att beskriva **en ospecificerad typ eller kategori av något** – ungefär som att säga _"en slags"_ eller _"en typ av"_.
+> Uttrycket **"nån sorts"** är en vardaglig form av **"någon sorts"**, och används för att beskriva **en ospecificerad typ eller kategori av något** – ungefär som att säga _"en slags"_ eller _"en typ av"_.
+
+det är väl en munter syn
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODUyMjA3MSwtMTcxMzc1NDEzMiw4Nz
+eyJoaXN0b3J5IjpbMjExMzg3MTQxMiwtMTcxMzc1NDEzMiw4Nz
 M5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLTc3MDgx
 MjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNT
 QwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUw
