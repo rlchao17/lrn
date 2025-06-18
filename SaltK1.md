@@ -33,17 +33,18 @@ Ja, just ... [visst](#bekr%C3%A4ftelse-eller-medh%C3%A5ll)
 ### Bekräftelse eller medhåll
 > Som ett sätt att säga _"ja"_, _"absolut"_ eller _"självklart"_. – _"Vill du följa med?"_ – _"Visst!"_
 
-vad **[glor](#glo)** de på  
-tror de att vi är nån sorts cirkus
+vad **[glor](#glo)** de på<br>
+tror de att vi är **nån** sorts cirkus
 
 ### glo
 > Ordet **"glor"** är presensformen av verbet **"glo"**, som betyder att **stirra intensivt eller länge på något eller någon**, ofta på ett lite oförskämt eller nyfiket sätt.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM3NTQxMzIsODczOTcyNzIzLC0xOT
-E2NDk1NTE1LC0xMDIxNjQ3MjY4LC03NzA4MTI1MjcsNjUzMjcz
-MzcwLDEzNTU3NTg4NzQsNTY3MjcxMTgsMTU0MDEwMzYxNCw0OD
-czNjEyODgsLTY2ODk3NjYxNCwxNTYyNjM1MDk4LC0xNzgwNTU2
-OTE3LDE5OTg3MDk0MDEsLTg4NTUxNjM3NF19
+eyJoaXN0b3J5IjpbLTcxMDMwNDE2MiwtMTcxMzc1NDEzMiw4Nz
+M5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLTc3MDgx
+MjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNT
+QwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUw
+OTgsLTE3ODA1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2Mzc0XX
+0=
 -->
