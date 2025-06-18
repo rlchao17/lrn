@@ -121,6 +121,10 @@ det är därför alla stirrar på oss
 att agenten inte nämnde det
 
 tack ska du ha
+tack du
+hej då
+hej
+
 > Compared to other phrases:
 
 -   **"Tack så mycket"** – more neutral and common for thanking someone for a gift or favor.
@@ -128,11 +132,11 @@ tack ska du ha
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMjk2MzEwLC0xMzUyNDA0NjYyLDQ5OD
-I3OTQ4MiwxMDAyMDk3OTIyLC0xMjY4ODM0ODQwLC04ODk0NjU0
-MDYsLTE3MTM3NTQxMzIsODczOTcyNzIzLC0xOTE2NDk1NTE1LC
-0xMDIxNjQ3MjY4LC03NzA4MTI1MjcsNjUzMjczMzcwLDEzNTU3
-NTg4NzQsNTY3MjcxMTgsMTU0MDEwMzYxNCw0ODczNjEyODgsLT
-Y2ODk3NjYxNCwxNTYyNjM1MDk4LC0xNzgwNTU2OTE3LDE5OTg3
-MDk0MDFdfQ==
+eyJoaXN0b3J5IjpbLTEyNTIxMzg5NTEsOTcwMjk2MzEwLC0xMz
+UyNDA0NjYyLDQ5ODI3OTQ4MiwxMDAyMDk3OTIyLC0xMjY4ODM0
+ODQwLC04ODk0NjU0MDYsLTE3MTM3NTQxMzIsODczOTcyNzIzLC
+0xOTE2NDk1NTE1LC0xMDIxNjQ3MjY4LC03NzA4MTI1MjcsNjUz
+MjczMzcwLDEzNTU3NTg4NzQsNTY3MjcxMTgsMTU0MDEwMzYxNC
+w0ODczNjEyODgsLTY2ODk3NjYxNCwxNTYyNjM1MDk4LC0xNzgw
+NTU2OTE3XX0=
 -->
