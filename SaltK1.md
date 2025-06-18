@@ -132,13 +132,15 @@ hej
 -   **"Tack så mycket"** – more neutral and common for thanking someone for a gift or favor.
 -   **"Tack ska du ha"** – often used when thanking someone for **doing** something, like helping or showing up.
 
+hej Sonja
+hej på dig
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTU1OTgxNSw5NzAyOTYzMTAsLTEzNT
-I0MDQ2NjIsNDk4Mjc5NDgyLDEwMDIwOTc5MjIsLTEyNjg4MzQ4
-NDAsLTg4OTQ2NTQwNiwtMTcxMzc1NDEzMiw4NzM5NzI3MjMsLT
-E5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLTc3MDgxMjUyNyw2NTMy
-NzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNTQwMTAzNjE0LD
-Q4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUwOTgsLTE3ODA1
-NTY5MTddfQ==
+eyJoaXN0b3J5IjpbNDMxMjU3MzM1LDk3MDI5NjMxMCwtMTM1Mj
+QwNDY2Miw0OTgyNzk0ODIsMTAwMjA5NzkyMiwtMTI2ODgzNDg0
+MCwtODg5NDY1NDA2LC0xNzEzNzU0MTMyLDg3Mzk3MjcyMywtMT
+kxNjQ5NTUxNSwtMTAyMTY0NzI2OCwtNzcwODEyNTI3LDY1MzI3
+MzM3MCwxMzU1NzU4ODc0LDU2NzI3MTE4LDE1NDAxMDM2MTQsND
+g3MzYxMjg4LC02Njg5NzY2MTQsMTU2MjYzNTA5OCwtMTc4MDU1
+NjkxN119
 -->
