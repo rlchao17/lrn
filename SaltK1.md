@@ -24,12 +24,14 @@ Prat! Där skiner solen.
 
 har ni haft trevlig *i stan*
 
+**synd** vi har fult väder
 
-
+Vi har inte fult vä
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE2NDcyNjgsLTc3MDgxMjUyNyw2NT
-MyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzExOCwxNTQwMTAzNjE0
-LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1NjI2MzUwOTgsLTE3OD
-A1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2Mzc0XX0=
+eyJoaXN0b3J5IjpbLTk3MjQ2ODQ5NywtMTAyMTY0NzI2OCwtNz
+cwODEyNTI3LDY1MzI3MzM3MCwxMzU1NzU4ODc0LDU2NzI3MTE4
+LDE1NDAxMDM2MTQsNDg3MzYxMjg4LC02Njg5NzY2MTQsMTU2Mj
+YzNTA5OCwtMTc4MDU1NjkxNywxOTk4NzA5NDAxLC04ODU1MTYz
+NzRdfQ==
 -->
