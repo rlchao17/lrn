@@ -151,12 +151,15 @@ Här betyder **"ena"** ungefär _"sorts"_, _"typ av"_ eller _"sådana där"_. De
 -   _"Ni är ena riktiga tokstollar!"_ – alltså _"ni är verkligen tokiga!"_
 
 
+lite förfallet kanske
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzM4MDY5LC0yMTI3NzE0NDg4LDQzMT
-I1NzMzNSw5NzAyOTYzMTAsLTEzNTI0MDQ2NjIsNDk4Mjc5NDgy
-LDEwMDIwOTc5MjIsLTEyNjg4MzQ4NDAsLTg4OTQ2NTQwNiwtMT
-cxMzc1NDEzMiw4NzM5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2
-NDcyNjgsLTc3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NC
-w1NjcyNzExOCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2
-NjE0XX0=
+eyJoaXN0b3J5IjpbODYwNDA2MTMwLDE5ODczODA2OSwtMjEyNz
+cxNDQ4OCw0MzEyNTczMzUsOTcwMjk2MzEwLC0xMzUyNDA0NjYy
+LDQ5ODI3OTQ4MiwxMDAyMDk3OTIyLC0xMjY4ODM0ODQwLC04OD
+k0NjU0MDYsLTE3MTM3NTQxMzIsODczOTcyNzIzLC0xOTE2NDk1
+NTE1LC0xMDIxNjQ3MjY4LC03NzA4MTI1MjcsNjUzMjczMzcwLD
+EzNTU3NTg4NzQsNTY3MjcxMTgsMTU0MDEwMzYxNCw0ODczNjEy
+ODhdfQ==
 -->
