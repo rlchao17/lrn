@@ -28,7 +28,7 @@ har ni haft trevlig *i stan*
 
 Vi har inte fult väder, vi har bara olika sorters väder.
 
-Ja, just ... [visst](#Bekr%C3%A4ftelse%20eller%20medh%C3%A5ll)
+Ja, just ... [visst](#bekr%C3%A4ftelse-eller-medh%C3%A5ll)
 
 ### Bekräftelse eller medhåll
 
@@ -52,9 +52,8 @@ d
 
 d
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTYxMTQ5MSwtMTkxNjQ5NTUxNSwtMT
+eyJoaXN0b3J5IjpbLTk5MzgzMTE5MSwtMTkxNjQ5NTUxNSwtMT
 AyMTY0NzI2OCwtNzcwODEyNTI3LDY1MzI3MzM3MCwxMzU1NzU4
 ODc0LDU2NzI3MTE4LDE1NDAxMDM2MTQsNDg3MzYxMjg4LC02Nj
 g5NzY2MTQsMTU2MjYzNTA5OCwtMTc4MDU1NjkxNywxOTk4NzA5
