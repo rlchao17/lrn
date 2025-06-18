@@ -33,10 +33,13 @@ Ja, just ... visst
 ### 🔹 Bekräftelse eller medhåll
 
 Som ett sätt att säga _"ja"_, _"absolut"_ eller _"självklart"_. – _"Vill du följa med?"_ – _"Visst!"_
+
+This is a <span title="Hovered text appears here">hoverable text</span>.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY0OTU1MTUsLTEwMjE2NDcyNjgsLT
-c3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NCw1NjcyNzEx
-OCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2NjE0LDE1Nj
-I2MzUwOTgsLTE3ODA1NTY5MTcsMTk5ODcwOTQwMSwtODg1NTE2
-Mzc0XX0=
+eyJoaXN0b3J5IjpbMzc2Mjg3NTE1LC0xOTE2NDk1NTE1LC0xMD
+IxNjQ3MjY4LC03NzA4MTI1MjcsNjUzMjczMzcwLDEzNTU3NTg4
+NzQsNTY3MjcxMTgsMTU0MDEwMzYxNCw0ODczNjEyODgsLTY2OD
+k3NjYxNCwxNTYyNjM1MDk4LC0xNzgwNTU2OTE3LDE5OTg3MDk0
+MDEsLTg4NTUxNjM3NF19
 -->
