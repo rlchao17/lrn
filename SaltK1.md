@@ -28,18 +28,18 @@ har ni haft trevlig *i stan*
 
 Vi har inte fult väder, vi har bara olika sorters väder.
 
-Ja, just ... [visst](#%F0%9F%94%B9%20Bekr%C3%A4ftelse%20eller%20medh%C3%A5ll)
+Ja, just ... [visst](#Bekr%C3%A4ftelse%20eller%20medh%C3%A5ll)
 
-### 🔹 Bekräftelse eller medhåll
+### Bekräftelse eller medhåll
 
 Som ett sätt att säga _"ja"_, _"absolut"_ eller _"självklart"_. – _"Vill du följa med?"_ – _"Visst!"_
 
 This is a <span title="Hovered text appears here">hoverable text</span>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTcxNzU0NDMsLTE5MTY0OTU1MTUsLT
-EwMjE2NDcyNjgsLTc3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NTc1
-ODg3NCw1NjcyNzExOCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwtNj
-Y4OTc2NjE0LDE1NjI2MzUwOTgsLTE3ODA1NTY5MTcsMTk5ODcw
-OTQwMSwtODg1NTE2Mzc0XX0=
+eyJoaXN0b3J5IjpbMjk4NjI4OTUzLC0xOTE2NDk1NTE1LC0xMD
+IxNjQ3MjY4LC03NzA4MTI1MjcsNjUzMjczMzcwLDEzNTU3NTg4
+NzQsNTY3MjcxMTgsMTU0MDEwMzYxNCw0ODczNjEyODgsLTY2OD
+k3NjYxNCwxNTYyNjM1MDk4LC0xNzgwNTU2OTE3LDE5OTg3MDk0
+MDEsLTg4NTUxNjM3NF19
 -->
