@@ -69,12 +69,13 @@ Det finns också många uttryck, som:
 -   _"En syn för gudar"_ – något otroligt vackert.
 -   _"För syns skull"_ – bara för att det ska se bra ut, inte för att det spelar roll.
 
+vart **drar** jag i väg med mina unga
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzIxMTA3OCwtODg5NDY1NDA2LC0xNz
-EzNzU0MTMyLDg3Mzk3MjcyMywtMTkxNjQ5NTUxNSwtMTAyMTY0
-NzI2OCwtNzcwODEyNTI3LDY1MzI3MzM3MCwxMzU1NzU4ODc0LD
-U2NzI3MTE4LDE1NDAxMDM2MTQsNDg3MzYxMjg4LC02Njg5NzY2
-MTQsMTU2MjYzNTA5OCwtMTc4MDU1NjkxNywxOTk4NzA5NDAxLC
-04ODU1MTYzNzRdfQ==
+eyJoaXN0b3J5IjpbLTEyNjg4MzQ4NDAsLTg4OTQ2NTQwNiwtMT
+cxMzc1NDEzMiw4NzM5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2
+NDcyNjgsLTc3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NC
+w1NjcyNzExOCwxNTQwMTAzNjE0LDQ4NzM2MTI4OCwtNjY4OTc2
+NjE0LDE1NjI2MzUwOTgsLTE3ODA1NTY5MTcsMTk5ODcwOTQwMS
+wtODg1NTE2Mzc0XX0=
 -->
