@@ -167,12 +167,14 @@ Uttrycket **"kavla upp"** betyder bokstavligen att **vika eller rulla upp något
 
 -   _"Nu får vi kavla upp ärmarna och sätta igång!"_ → Här betyder det: _Nu är det dags att jobba på allvar._
 
+men mamma hade ju inte sagt till 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTQ2ODY3NCwxOTg3MzgwNjksLTIxMj
-c3MTQ0ODgsNDMxMjU3MzM1LDk3MDI5NjMxMCwtMTM1MjQwNDY2
-Miw0OTgyNzk0ODIsMTAwMjA5NzkyMiwtMTI2ODgzNDg0MCwtOD
-g5NDY1NDA2LC0xNzEzNzU0MTMyLDg3Mzk3MjcyMywtMTkxNjQ5
-NTUxNSwtMTAyMTY0NzI2OCwtNzcwODEyNTI3LDY1MzI3MzM3MC
-wxMzU1NzU4ODc0LDU2NzI3MTE4LDE1NDAxMDM2MTQsNDg3MzYx
-Mjg4XX0=
+eyJoaXN0b3J5IjpbLTE1MzY4MDMwNiwxMDgxNDY4Njc0LDE5OD
+czODA2OSwtMjEyNzcxNDQ4OCw0MzEyNTczMzUsOTcwMjk2MzEw
+LC0xMzUyNDA0NjYyLDQ5ODI3OTQ4MiwxMDAyMDk3OTIyLC0xMj
+Y4ODM0ODQwLC04ODk0NjU0MDYsLTE3MTM3NTQxMzIsODczOTcy
+NzIzLC0xOTE2NDk1NTE1LC0xMDIxNjQ3MjY4LC03NzA4MTI1Mj
+csNjUzMjczMzcwLDEzNTU3NTg4NzQsNTY3MjcxMTgsMTU0MDEw
+MzYxNF19
 -->
