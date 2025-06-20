@@ -167,10 +167,17 @@ Uttrycket **"kavla upp"** betyder bokstavligen att **vika eller rulla upp något
 
 -   _"Nu får vi kavla upp ärmarna och sätta igång!"_ → Här betyder det: _Nu är det dags att jobba på allvar._
 
-men mamma hade ju inte sagt till 
+men mamma hade ju inte **sagt till** 
+
+### Vanliga betydelser:
+
+1.  **Tillrättavisa eller uppmana** – _"Jag var tvungen att säga till barnen att sluta bråka."_ → Här betyder det att man säger ifrån eller ger en tydlig uppmaning.
+2.  **Meddela eller informera** – _"Säg till när du är klar."_ → Alltså: _Låt mig veta._
+3.  **Ha inflytande eller rätt att bestämma** – _"De anställda hade inte mycket att säga till om."_ → Här betyder det att man inte hade något att säga till om = ingen makt eller påverkan.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY4MDMwNiwxMDgxNDY4Njc0LDE5OD
+eyJoaXN0b3J5IjpbMTc4OTAyOTQ2MiwxMDgxNDY4Njc0LDE5OD
 czODA2OSwtMjEyNzcxNDQ4OCw0MzEyNTczMzUsOTcwMjk2MzEw
 LC0xMzUyNDA0NjYyLDQ5ODI3OTQ4MiwxMDAyMDk3OTIyLC0xMj
 Y4ODM0ODQwLC04ODk0NjU0MDYsLTE3MTM3NTQxMzIsODczOTcy
