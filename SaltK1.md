@@ -121,10 +121,12 @@ det är därför alla stirrar på oss
 att agenten inte nämnde det
 
 var så god
-> tack<br> 
+> tack
 > tack ska du ha
+
 tack du
-hej då
+> hej då
+
 hej
 
 > Compared to other phrases:
@@ -177,11 +179,11 @@ men mamma hade ju inte **sagt till**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI1NDA2NDAsMTc4OTAyOTQ2MiwxMD
-gxNDY4Njc0LDE5ODczODA2OSwtMjEyNzcxNDQ4OCw0MzEyNTcz
-MzUsOTcwMjk2MzEwLC0xMzUyNDA0NjYyLDQ5ODI3OTQ4MiwxMD
-AyMDk3OTIyLC0xMjY4ODM0ODQwLC04ODk0NjU0MDYsLTE3MTM3
-NTQxMzIsODczOTcyNzIzLC0xOTE2NDk1NTE1LC0xMDIxNjQ3Mj
-Y4LC03NzA4MTI1MjcsNjUzMjczMzcwLDEzNTU3NTg4NzQsNTY3
-MjcxMThdfQ==
+eyJoaXN0b3J5IjpbMTMzNTIzNjQwOCwxNzg5MDI5NDYyLDEwOD
+E0Njg2NzQsMTk4NzM4MDY5LC0yMTI3NzE0NDg4LDQzMTI1NzMz
+NSw5NzAyOTYzMTAsLTEzNTI0MDQ2NjIsNDk4Mjc5NDgyLDEwMD
+IwOTc5MjIsLTEyNjg4MzQ4NDAsLTg4OTQ2NTQwNiwtMTcxMzc1
+NDEzMiw4NzM5NzI3MjMsLTE5MTY0OTU1MTUsLTEwMjE2NDcyNj
+gsLTc3MDgxMjUyNyw2NTMyNzMzNzAsMTM1NTc1ODg3NCw1Njcy
+NzExOF19
 -->
