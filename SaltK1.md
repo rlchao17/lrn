@@ -121,8 +121,8 @@ det är därför alla stirrar på oss
 att agenten inte nämnde det
 
 var så god
-tack
-tack ska du ha
+> tack<br> 
+> tack ska du ha
 tack du
 hej då
 hej
@@ -177,11 +177,11 @@ men mamma hade ju inte **sagt till**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTAyOTQ2MiwxMDgxNDY4Njc0LDE5OD
-czODA2OSwtMjEyNzcxNDQ4OCw0MzEyNTczMzUsOTcwMjk2MzEw
-LC0xMzUyNDA0NjYyLDQ5ODI3OTQ4MiwxMDAyMDk3OTIyLC0xMj
-Y4ODM0ODQwLC04ODk0NjU0MDYsLTE3MTM3NTQxMzIsODczOTcy
-NzIzLC0xOTE2NDk1NTE1LC0xMDIxNjQ3MjY4LC03NzA4MTI1Mj
-csNjUzMjczMzcwLDEzNTU3NTg4NzQsNTY3MjcxMTgsMTU0MDEw
-MzYxNF19
+eyJoaXN0b3J5IjpbLTE0ODI1NDA2NDAsMTc4OTAyOTQ2MiwxMD
+gxNDY4Njc0LDE5ODczODA2OSwtMjEyNzcxNDQ4OCw0MzEyNTcz
+MzUsOTcwMjk2MzEwLC0xMzUyNDA0NjYyLDQ5ODI3OTQ4MiwxMD
+AyMDk3OTIyLC0xMjY4ODM0ODQwLC04ODk0NjU0MDYsLTE3MTM3
+NTQxMzIsODczOTcyNzIzLC0xOTE2NDk1NTE1LC0xMDIxNjQ3Mj
+Y4LC03NzA4MTI1MjcsNjUzMjczMzcwLDEzNTU3NTg4NzQsNTY3
+MjcxMThdfQ==
 -->
