@@ -1,4 +1,4 @@
-Tjorven heter jag det. jag ska heta egentligen Maria. Men Mumma
+Tjorven heter jag det. jag ska heta egentligen Maria. Men Mumma säger att jag ser ut som Tjorven.
 ### såna där sommargäster
 
 då får du att göra
@@ -180,11 +180,11 @@ men mamma hade ju inte **sagt till**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTk4ODE3MywxMzc4Nzg0NTIzLDkyOT
-A2Njk4LDEzMzUyMzY0MDgsMTc4OTAyOTQ2MiwxMDgxNDY4Njc0
-LDE5ODczODA2OSwtMjEyNzcxNDQ4OCw0MzEyNTczMzUsOTcwMj
-k2MzEwLC0xMzUyNDA0NjYyLDQ5ODI3OTQ4MiwxMDAyMDk3OTIy
-LC0xMjY4ODM0ODQwLC04ODk0NjU0MDYsLTE3MTM3NTQxMzIsOD
-czOTcyNzIzLC0xOTE2NDk1NTE1LC0xMDIxNjQ3MjY4LC03NzA4
-MTI1MjddfQ==
+eyJoaXN0b3J5IjpbLTE5ODkzNDIwMTUsMTM3ODc4NDUyMyw5Mj
+kwNjY5OCwxMzM1MjM2NDA4LDE3ODkwMjk0NjIsMTA4MTQ2ODY3
+NCwxOTg3MzgwNjksLTIxMjc3MTQ0ODgsNDMxMjU3MzM1LDk3MD
+I5NjMxMCwtMTM1MjQwNDY2Miw0OTgyNzk0ODIsMTAwMjA5Nzky
+MiwtMTI2ODgzNDg0MCwtODg5NDY1NDA2LC0xNzEzNzU0MTMyLD
+g3Mzk3MjcyMywtMTkxNjQ5NTUxNSwtMTAyMTY0NzI2OCwtNzcw
+ODEyNTI3XX0=
 -->
