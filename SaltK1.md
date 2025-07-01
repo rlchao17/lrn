@@ -1,7 +1,7 @@
 Tjorven heter jag det. jag ska heta egentligen Maria. Men Mumma säger att jag ser ut som Tjorven.
 Vi bor här på Saltkråkan.
 Det är vår ö.
-
+Mitt i önligger den.
 ### såna där sommargäster
 
 då får du att göra
@@ -183,11 +183,11 @@ men mamma hade ju inte **sagt till**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTA0MTA2MiwtMTk4OTM0MjAxNSwxMz
-c4Nzg0NTIzLDkyOTA2Njk4LDEzMzUyMzY0MDgsMTc4OTAyOTQ2
-MiwxMDgxNDY4Njc0LDE5ODczODA2OSwtMjEyNzcxNDQ4OCw0Mz
-EyNTczMzUsOTcwMjk2MzEwLC0xMzUyNDA0NjYyLDQ5ODI3OTQ4
-MiwxMDAyMDk3OTIyLC0xMjY4ODM0ODQwLC04ODk0NjU0MDYsLT
-E3MTM3NTQxMzIsODczOTcyNzIzLC0xOTE2NDk1NTE1LC0xMDIx
-NjQ3MjY4XX0=
+eyJoaXN0b3J5IjpbLTE0NDEwMjAzMzAsLTE5ODkzNDIwMTUsMT
+M3ODc4NDUyMyw5MjkwNjY5OCwxMzM1MjM2NDA4LDE3ODkwMjk0
+NjIsMTA4MTQ2ODY3NCwxOTg3MzgwNjksLTIxMjc3MTQ0ODgsND
+MxMjU3MzM1LDk3MDI5NjMxMCwtMTM1MjQwNDY2Miw0OTgyNzk0
+ODIsMTAwMjA5NzkyMiwtMTI2ODgzNDg0MCwtODg5NDY1NDA2LC
+0xNzEzNzU0MTMyLDg3Mzk3MjcyMywtMTkxNjQ5NTUxNSwtMTAy
+MTY0NzI2OF19
 -->
