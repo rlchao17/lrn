@@ -1,5 +1,5 @@
 # Astrid Lindgren
-Astrid Lindgren är en populär
+Astrid Lindgren är en populär barnfärfattare som
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxMDc2MDQ4XX0=
+eyJoaXN0b3J5IjpbMTQxNDMxNDY0M119
 -->
