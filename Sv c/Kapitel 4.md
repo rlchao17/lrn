@@ -1,5 +1,5 @@
 # Astrid Lindgren
-Astrid Lindgren är en populär barnförfattare som har skrivit bökerna om Emil i Lönneberga och Pippi
+Astrid Lindgren är en populär barnförfattare som har skrivit böcker om Emil i Lönneberga och Pippi Långstrump.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDI0MjYzXX0=
+eyJoaXN0b3J5IjpbLTE4NDg2ODQwMl19
 -->
