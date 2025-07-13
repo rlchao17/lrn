@@ -4,6 +4,7 @@ Astrid Lindgren är en populär **barnboksförfattare** som har skrivit böcker 
 Astrid **föddes** 1907 i Vimmerby i Småland. Astrids föräldrar var bönder sa de bodde på en gård med hästar, kor och får. Där hade hon en lycklig barndom. Astrids föräldrar visade ofta att de älskade varandra och sina barn. De förstod också att barn behöver leka för att må bra. Gården var en perfekt lekplats för Astrid och hennes tre syskon. De **klättrade** i träd, hoppade i hö och badade i ån. De lekte alla dagar **utom** söndagar. Då tog de på sig sina finaste kläder och gick till kyrkan. kläderna var obekväma och **kliade**. l kyrkan var de **tvungna** att sitta stilla och lyssna på prästen. Söndagar var tråkiga, tyckte Astrid.
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDQ4MDc0NF19
+eyJoaXN0b3J5IjpbODkzNTMwMzBdfQ==
 -->
