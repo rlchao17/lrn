@@ -5,11 +5,13 @@ Astrid **föddes** 1907 i Vimmerby i Småland. Astrids föräldrar var bönder s
 
 Astrid älskade att lyssna på sagor och att läsa böcker. Det fanns inte många böcker i Astrids hem men hennes lärare lånade ut böcker till henne. I **lärarrummet** fanns ett bokskåp och Astrid **knackade** ofta på dörren för att låna en ny bok.
 
-När Astrid var arton år blev hon gravid. Hon var inte gift och hon ville inte ha någon relation med barnets pappa. På den tiden var det en skandal. Vimmerby var ett litet samhälle och folk skvallrade o
+När Astrid var arton år blev hon gravid. Hon var inte gift och hon ville inte ha någon relation med barnets pappa. På den tiden var det en **skandal**. Vimmerby var ett litet samhälle och folk **skvallrade** om henne. Astrid flyttade till Stockholm som var en stor stad. Där kunde hon vara anonym.
+
+I Stockholm fick Astrid jobb som 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMzY2OTgxLDEyNjk5Mzk3Myw4OTM1Mz
-AzMF19
+eyJoaXN0b3J5IjpbLTc5NTk3OTM0NywxMjY5OTM5NzMsODkzNT
+MwMzBdfQ==
 -->
