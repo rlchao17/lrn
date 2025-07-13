@@ -7,11 +7,13 @@ Astrid älskade att lyssna på sagor och att läsa böcker. Det fanns inte mång
 
 När Astrid var arton år blev hon gravid. Hon var inte gift och hon ville inte ha någon relation med barnets pappa. På den tiden var det en **skandal**. Vimmerby var ett litet samhälle och folk **skvallrade** om henne. Astrid flyttade till Stockholm som var en stor stad. Där kunde hon vara anonym.
 
-I Stockholm fick Astrid jobb som 
+Astrid **födde** en son som hon döpte till Lars. Hon kunde inte ta hand om barnet själv så Lars fick bo hos en fosterfamilj i D
+
+I Stockholm fick Astrid jobb som sekreterare. På jobbet träffade 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTk3OTM0NywxMjY5OTM5NzMsODkzNT
-MwMzBdfQ==
+eyJoaXN0b3J5IjpbNjY1MjY3NTM3LDEyNjk5Mzk3Myw4OTM1Mz
+AzMF19
 -->
